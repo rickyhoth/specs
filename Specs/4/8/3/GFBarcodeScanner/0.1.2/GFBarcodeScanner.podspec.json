@@ -1,0 +1,24 @@
+{
+  "name": "GFBarcodeScanner",
+  "version": "0.1.2",
+  "summary": "Barcode reader written in Swift 4",
+  "swift_version": "4.1",
+  "description": "Barcode reader written in Swift 4 with its view controller.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/GFBarcodeScanner",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "gualtierofrigerio": "gualtiero.frigerio@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/GFBarcodeScanner.git",
+    "tag": "0.1.2"
+  },
+  "social_media_url": "https://twitter.com/gualtiero80",
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "GFBarcodeScanner/Classes/**/*"
+}

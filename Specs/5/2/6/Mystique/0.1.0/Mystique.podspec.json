@@ -1,0 +1,26 @@
+{
+  "name": "Mystique",
+  "version": "0.1.0",
+  "license": "MIT",
+  "summary": "Helpers to create awsome animations.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Mystique",
+  "authors": {
+    "Alvin Zhu": "gbammc@gmail.com"
+  },
+  "social_media_url": "https://twitter.com/alvin_zhu",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Mystique.git",
+    "tag": "0.1.0"
+  },
+  "requires_arc": true,
+  "source_files": "Mystique/*{.h,.c,.m}",
+  "ios": {
+    "frameworks": [
+      "Foundation",
+      "UIKit"
+    ]
+  },
+  "platforms": {
+    "ios": "8.0"
+  }
+}

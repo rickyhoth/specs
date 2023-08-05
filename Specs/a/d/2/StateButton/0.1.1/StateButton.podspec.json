@@ -1,0 +1,23 @@
+{
+  "name": "StateButton",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "summary": "Button with different states",
+  "requires_arc": true,
+  "version": "0.1.1",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zyfu000": "fuzhiyang0123@gmail.com"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/StateButton",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/StateButton.git",
+    "tag": "0.1.1"
+  },
+  "frameworks": "UIKit",
+  "source_files": "StateButton/*.{swift}"
+}

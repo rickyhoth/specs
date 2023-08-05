@@ -1,0 +1,27 @@
+{
+  "name": "MXHUDManager",
+  "version": "0.1.0",
+  "summary": "A short description of MXHUDManager.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MXHUDManager",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yang0123shu": "yang0123shu@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MXHUDManager.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MXHUDManager/Classes/**/*",
+  "dependencies": {
+    "SVProgressHUD": [
+
+    ]
+  }
+}

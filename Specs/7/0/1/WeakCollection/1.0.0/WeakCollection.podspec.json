@@ -1,0 +1,24 @@
+{
+  "name": "WeakCollection",
+  "version": "1.0.0",
+  "summary": "Weak reference Array",
+  "description": "Swift Arrays Holding Elements With Weak References",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WeakCollection",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "gsabatie": "gsabatie@me.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WeakCollection.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "WeakCollection/Classes/**/*",
+  "swift_versions": "4.2",
+  "swift_version": "4.2"
+}

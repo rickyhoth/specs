@@ -1,0 +1,19 @@
+{
+  "name": "TLTransitions",
+  "version": "1.0.0",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "summary": "Fast implement transitions for view or viewController",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TLTransitions",
+  "license": "MIT",
+  "authors": {
+    "LoongerTao": "495285195@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TLTransitions.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "TLTransitions",
+  "requires_arc": true
+}

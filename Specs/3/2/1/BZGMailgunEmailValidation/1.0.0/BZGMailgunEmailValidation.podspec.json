@@ -1,0 +1,19 @@
+{
+  "name": "BZGMailgunEmailValidation",
+  "version": "1.0.0",
+  "license": "MIT",
+  "summary": "A simple wrapper for the Mailgun email validation API.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/BZGMailgunEmailValidation",
+  "authors": {
+    "Ben Guo": "benzguo@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/BZGMailgunEmailValidation.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": null
+  },
+  "source_files": "BZGMailgunEmailValidator.{h,m}",
+  "requires_arc": false
+}

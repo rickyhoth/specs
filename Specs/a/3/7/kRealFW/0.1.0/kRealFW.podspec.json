@@ -1,0 +1,22 @@
+{
+  "name": "kRealFW",
+  "version": "0.1.0",
+  "summary": "kRealFW is a framework for testing purpose.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/kRealFW.git",
+  "authors": {
+    "KOiSPRK": "koi@smartsoftasia.com"
+  },
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "source": {
+    "http": "https://bitbucket.devops.nonprod.empf.local/scm/react/kRealFW.zip"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "ios": {
+    "vendored_frameworks": "kRealFW.framework"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "ZXDemo",
+  "version": "0.0.1",
+  "summary": "这是我的框架",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZXDemo",
+  "license": "MIT",
+  "authors": {
+    "ZhangXu": "email@address.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZXDemo.git",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "ZXDemo",
+    "我的框架/*.swift"
+  ],
+  "requires_arc": true
+}

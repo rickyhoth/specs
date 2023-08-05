@@ -1,0 +1,22 @@
+{
+  "name": "ICObserver",
+  "version": "0.1.0",
+  "summary": "A Weak observer for Objective-C.",
+  "description": "A Weak observer for Objective-C, auto remove when observer released.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ICObserver",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "IvanChan": "aintivanc@icloud.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ICObserver.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source_files": "ICObserver/Classes/**/*"
+}

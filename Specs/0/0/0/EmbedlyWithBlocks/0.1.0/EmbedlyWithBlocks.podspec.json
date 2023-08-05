@@ -1,0 +1,20 @@
+{
+  "name": "EmbedlyWithBlocks",
+  "version": "0.1.0",
+  "summary": "Objective-C library for Embed.ly APIs",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/EmbedlyWithBlocks",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE.txt"
+  },
+  "authors": "Adam Smith",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/EmbedlyWithBlocks.git",
+    "tag": "0.1.0"
+  },
+  "source_files": [
+    "Classes",
+    "Classes/*.{h,m}"
+  ],
+  "requires_arc": false
+}

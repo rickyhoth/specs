@@ -1,0 +1,21 @@
+{
+  "name": "DYYFloatWindow",
+  "version": "1.0.0.1",
+  "summary": "DYYFloatWindow is a Float Window in iOS.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DYYFloatWindow",
+  "license": "Copyright (c) 2016年 Yangyang Du. All rights reserved.",
+  "authors": {
+    "Yangyang Du": "823734780@qq.com"
+  },
+  "platforms": {
+    "ios": null
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DYYFloatWindow.git",
+    "tag": "1.0.0.1"
+  },
+  "source_files": [
+    "DYYFloatWindow",
+    "DYYFloatWindow/**/*.{h,m}"
+  ]
+}

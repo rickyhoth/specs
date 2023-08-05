@@ -1,0 +1,26 @@
+{
+  "name": "RBNetwork",
+  "version": "0.1.3",
+  "summary": "an iOS networking framework based on AFNetworking",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/RBNetwork",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "baxiang": "baxiang1989@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/RBNetwork.git",
+    "tag": "0.1.3"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source_files": "RBNetwork/Classes/**/*",
+  "dependencies": {
+    "AFNetworking": [
+
+    ]
+  }
+}

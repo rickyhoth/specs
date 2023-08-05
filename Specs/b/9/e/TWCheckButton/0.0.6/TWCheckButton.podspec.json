@@ -1,0 +1,22 @@
+{
+  "name": "TWCheckButton",
+  "version": "0.0.6",
+  "summary": "check or radio group",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TWCheckButton",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "taewan": "taewan0530@daum.net"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TWCheckButton.git",
+    "tag": "0.0.6"
+  },
+  "source_files": "TWCheckButton.swift",
+  "requires_arc": true,
+  "platforms": {
+    "ios": "8.0"
+  }
+}

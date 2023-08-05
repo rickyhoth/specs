@@ -1,0 +1,25 @@
+{
+  "name": "PopOverMenu",
+  "version": "2.7.0",
+  "license": "MIT",
+  "swift_versions": "5.0",
+  "summary": "PopOverMenu is a PopOver style menu.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/PopOverMenu",
+  "social_media_url": "http://twitter.com/tichise",
+  "authors": "Takuya Ichise",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/PopOverMenu.git",
+    "tag": "2.7.0"
+  },
+  "platforms": {
+    "ios": "14.0"
+  },
+  "source_files": "Sources/*.swift",
+  "requires_arc": true,
+  "resource_bundles": {
+    "PopOverMenuStoryboards": [
+      "Storyboards/*.storyboard"
+    ]
+  },
+  "swift_version": "5.0"
+}

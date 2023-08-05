@@ -1,0 +1,22 @@
+{
+  "name": "YangFanTestHUb",
+  "version": "0.3.0",
+  "summary": "A short description of YangFanTestHUb.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/YangFanTestHUb",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "406742790@qq.com": "7478903+YangFanHome@user.noreply.gitee.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YangFanTestHUb.git",
+    "tag": "0.3.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "YangFanTestHUb/Classes/**/*"
+}

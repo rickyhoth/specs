@@ -1,0 +1,25 @@
+{
+  "name": "TNRubberBadgeButton",
+  "version": "1.0.1",
+  "summary": "QQ那样可以划走的消息提示符",
+  "description": "~~~~~~~~",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TNRubberBadgeButton",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Tony": "chococome@163.com"
+  },
+  "frameworks": "Foundation",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TNRubberBadgeButton.git",
+    "tag": "1.0.1"
+  },
+  "source_files": "SourceFiles",
+  "exclude_files": "Classes/Exclude",
+  "resources": "SourceFiles/Resources.bundle"
+}

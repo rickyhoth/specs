@@ -1,0 +1,23 @@
+{
+  "name": "SwiftyTable",
+  "version": "1.1",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "summary": "Pure-Swift library for statically typed table components.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwiftyTable",
+  "authors": {
+    "Yusaku Nishi": "jrsaruo@gmail.com"
+  },
+  "social_media_url": "http://twitter.com/jrsaruo",
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwiftyTable.git",
+    "tag": "v1.1"
+  },
+  "source_files": "SwiftyTable/**/*.swift",
+  "requires_arc": true
+}

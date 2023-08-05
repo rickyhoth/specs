@@ -1,0 +1,21 @@
+{
+  "name": "Majima",
+  "version": "0.1.0",
+  "license": {
+    "type": "MIT"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Majima",
+  "authors": {
+    "Soutaro Matsumoto": "matsumoto@soutaro.com"
+  },
+  "summary": "Three-way merge for array and dictionary, in Swift",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Majima.git",
+    "tag": "0.1.0"
+  },
+  "source_files": "Majima/*.swift",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true
+}

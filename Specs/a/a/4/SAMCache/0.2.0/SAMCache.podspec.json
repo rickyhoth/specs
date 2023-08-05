@@ -1,0 +1,21 @@
+{
+  "name": "SAMCache",
+  "version": "0.2.0",
+  "summary": "Simple in memory and on disk cache.",
+  "description": "Simple in memory and on disk cache for iOS and Mac OS X.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SAMCache",
+  "authors": {
+    "Sam Soffes": "sam@soff.es"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SSCache.git",
+    "tag": "v0.2.0"
+  },
+  "source_files": "SAMCache/*",
+  "frameworks": "Foundation",
+  "requires_arc": true,
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  }
+}

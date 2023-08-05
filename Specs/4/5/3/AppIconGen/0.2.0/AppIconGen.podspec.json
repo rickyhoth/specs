@@ -1,0 +1,22 @@
+{
+  "name": "AppIconGen",
+  "version": "0.2.0",
+  "summary": "A app icon generator for iOS applications",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AppIconGen",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": "noppefoxwolf",
+  "source": {
+    "http": "https://bitbucket.devops.nonprod.empf.local/scm/react/AppIconGen/releases/download/0.2.0/portable_appicongen.zip"
+  },
+  "preserve_paths": "*",
+  "exclude_files": "**/file.zip",
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}

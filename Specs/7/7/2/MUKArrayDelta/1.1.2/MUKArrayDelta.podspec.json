@@ -1,0 +1,21 @@
+{
+  "name": "MUKArrayDelta",
+  "version": "1.1.2",
+  "summary": "Spot differences between two arrays",
+  "description": "You feed two arrays and you will get inserted indexes, deleted indexes, changes and movements",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MUKArrayDelta",
+  "license": "MIT",
+  "authors": {
+    "Marco Muccinelli": "muccymac@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MUKArrayDelta.git",
+    "tag": "1.1.2"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "*.{h,m}",
+  "compiler_flags": "-Wdocumentation"
+}

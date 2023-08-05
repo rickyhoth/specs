@@ -1,0 +1,26 @@
+{
+  "name": "SunUIImageBrowsed",
+  "version": "0.1.0",
+  "summary": "A short description of SunUIImageBrowsed.",
+  "description": "Zoom in and out, you can save images to albums.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SunUIImageBrowse",
+  "license": {
+    "type": "MIT",
+    "file": "FILE_LICENSE"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "authors": {
+    "孙亚锋": "781080582@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SunUIImageBrowse.git",
+    "tag": "0.1.0"
+  },
+  "source_files": [
+    "SunUIImageBrowse",
+    "SYFUIImageBrowseEvents/**/*.{h,m}"
+  ],
+  "requires_arc": true
+}

@@ -1,0 +1,23 @@
+{
+  "name": "CKWaveCollectionViewTransition",
+  "version": "1.1.0",
+  "summary": "Wave like transition between two or more collection view.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CKWaveCollectionViewTransition",
+  "license": {
+    "type": "MIT"
+  },
+  "authors": {
+    "Cezary Kopacz": "salvation.sv@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CKWaveCollectionViewTransition.git",
+    "tag": "1.1.0"
+  },
+  "source_files": [
+    "Classes",
+    "Classes/**/*.{swift}"
+  ],
+  "platforms": {
+    "ios": "8.0"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "ZLXWiFiStrengthView",
+  "version": "1.0.0",
+  "summary": "ZLXWiFiStrength",
+  "description": "ZLXWiFiStrengthView",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZLXWiFiStrengthView",
+  "license": "MIT",
+  "authors": {
+    "郑来贤": "saberge@163.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZLXWiFiStrengthView.git",
+    "tag": "1.0.0"
+  },
+  "source_files": [
+    "WiFiLevelView",
+    "WiFiLevelView/**/*.{h,m}"
+  ]
+}

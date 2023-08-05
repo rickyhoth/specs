@@ -1,0 +1,22 @@
+{
+  "name": "HIAlert",
+  "version": "0.1.1",
+  "summary": "A short description of HIAlert.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HIAlert",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "hellohufan": "hellohufan@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HIAlert.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HIAlert/Classes/**/*"
+}

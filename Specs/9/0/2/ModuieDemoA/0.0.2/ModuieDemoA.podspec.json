@@ -1,0 +1,22 @@
+{
+  "name": "ModuieDemoA",
+  "version": "0.0.2",
+  "summary": "A short description of ModuieDemoA.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ModuieDemoA",
+  "license": "MIT",
+  "authors": {
+    "zhaopu": "406865706@qq.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ModuieDemoA.git",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "ModuieDemoA",
+    "ModuieDemoA/ModuieDemoA/ModuieA/*"
+  ],
+  "frameworks": "UIKit"
+}

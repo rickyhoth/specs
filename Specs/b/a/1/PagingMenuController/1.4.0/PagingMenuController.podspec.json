@@ -1,0 +1,19 @@
+{
+  "name": "PagingMenuController",
+  "version": "1.4.0",
+  "summary": "A paging view with customizable menu",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/PagingMenuController",
+  "license": "MIT",
+  "authors": {
+    "kitasuke": "yusuke2759@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/PagingMenuController.git",
+    "tag": "1.4.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*"
+}

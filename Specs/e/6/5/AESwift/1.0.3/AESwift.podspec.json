@@ -1,0 +1,23 @@
+{
+  "name": "AESwift",
+  "version": "1.0.3",
+  "summary": "Data and NSData Extension made for AES encryption/decryption only with Swift.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AESwift",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "redxoul": "soldolly@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AESwift.git",
+    "tag": "1.0.3"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "swift_versions": "5.0",
+  "source_files": "Sources/AESwift/**/*",
+  "swift_version": "5.0"
+}

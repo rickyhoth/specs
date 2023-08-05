@@ -1,0 +1,33 @@
+{
+  "name": "MRJDatePicker",
+  "version": "0.1.0",
+  "summary": "TIME STICK PICKVER",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MRJDatePickerr",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "mrjlovetian@gmail.com": "MRJ"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MRJDatePicker.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MRJDatePicker/Classes/**/*",
+  "dependencies": {
+    "MRJTool": [
+
+    ],
+    "UIViewMRJFrame": [
+
+    ],
+    "MRJUIColorAdditions": [
+
+    ]
+  }
+}

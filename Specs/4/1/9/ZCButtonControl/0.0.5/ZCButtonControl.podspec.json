@@ -1,0 +1,30 @@
+{
+  "name": "ZCButtonControl",
+  "version": "0.0.5",
+  "summary": "ZCButtonControl",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZCButtonControl",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhangchao": "942777491@qq.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZCButtonControl.git",
+    "tag": "0.0.5"
+  },
+  "source_files": [
+    "Classes",
+    "ZCButtonControl/ZCControl/**/*.{h,m}"
+  ],
+  "requires_arc": true,
+  "dependencies": {
+    "Masonry": [
+      "~> 1.0.0"
+    ]
+  }
+}

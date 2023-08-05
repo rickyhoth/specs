@@ -1,0 +1,23 @@
+{
+  "name": "AXStylishNavigationBar",
+  "version": "1.0.0-alpha.0",
+  "summary": "AXStylishNavigationBar is a category can let you dynamically change the default style of UINavigationBar.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AXStylishNavigationBar",
+  "license": "MIT",
+  "authors": {
+    "Alchemistxxd": "the_shadow_xxd@hotmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AXStylishNavigationBar.git",
+    "tag": "v1.0.0-alpha.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "AXStylishNavigationBar/*",
+  "frameworks": [
+    "Foundation",
+    "UIKit"
+  ]
+}

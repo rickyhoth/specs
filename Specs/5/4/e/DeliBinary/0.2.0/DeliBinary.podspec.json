@@ -1,0 +1,25 @@
+{
+  "name": "DeliBinary",
+  "version": "0.2.0",
+  "summary": "Simple and easy DI Container",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Deli",
+  "authors": {
+    "Jungwon An": "kawoou@kawoou.kr"
+  },
+  "social_media_url": "http://fb.com/kawoou",
+  "source": {
+    "http": "https://bitbucket.devops.nonprod.empf.local/scm/react/Deli/releases/download/v0.2.0/portable_deli.zip"
+  },
+  "preserve_paths": "*",
+  "exclude_files": "**/file.zip",
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}

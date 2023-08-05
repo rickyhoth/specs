@@ -1,0 +1,23 @@
+{
+  "name": "UIBot",
+  "version": "0.1.4",
+  "summary": "A Bot way to create UI Test in Swift.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/UIBot",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "TucoBZ": "tucobz@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/UIBot.git",
+    "tag": "0.1.4"
+  },
+  "swift_version": "4.0",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "Source/UIBot/*.swift",
+  "frameworks": "XCTest"
+}

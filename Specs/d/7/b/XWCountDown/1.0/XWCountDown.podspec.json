@@ -1,0 +1,20 @@
+{
+  "name": "XWCountDown",
+  "version": "1.0",
+  "license": "MIT",
+  "summary": "This is a count down framework for iOS ！",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/XWCountDownDemo",
+  "authors": {
+    "Wade Xie": "821385843@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/XWCountDownDemo.git",
+    "tag": "1.0"
+  },
+  "platforms": {
+    "ios": null
+  },
+  "source_files": "*",
+  "frameworks": "UIKit",
+  "requires_arc": true
+}

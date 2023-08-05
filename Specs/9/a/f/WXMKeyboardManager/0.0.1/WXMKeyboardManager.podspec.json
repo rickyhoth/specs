@@ -1,0 +1,19 @@
+{
+  "name": "WXMKeyboardManager",
+  "version": "0.0.1",
+  "license": "MIT",
+  "summary": "键盘自动收起",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WXMKeyboardManager",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WXMKeyboardManager.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "WXMKeyboardManager/Classes/**/*",
+  "requires_arc": true,
+  "platforms": {
+    "ios": "9.0"
+  },
+  "authors": {
+    "wq": "347511109@qq.com"
+  }
+}

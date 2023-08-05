@@ -1,0 +1,22 @@
+{
+  "name": "CCActivityIndicatorView",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "version": "1.4.0",
+  "license": {
+    "type": "MIT"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CCActivityIndicatorView",
+  "authors": {
+    "Cokile": "kelvintgx@gmail.com"
+  },
+  "summary": "A simple replacement for UIActivityIndicatorView.",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CCActivityIndicatorView.git",
+    "tag": "v1.4.0"
+  },
+  "source_files": "CCActivityIndicatorView/*",
+  "requires_arc": true,
+  "deprecated_in_favor_of": "CCActivityHUD"
+}

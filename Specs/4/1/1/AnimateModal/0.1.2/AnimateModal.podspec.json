@@ -1,0 +1,27 @@
+{
+  "name": "AnimateModal",
+  "version": "0.1.2",
+  "summary": "AnimateModal create animation modal easily!",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AnimateModal",
+  "license": "MIT",
+  "authors": {
+    "takujifunao": "takuji.funao@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AnimateModal.git",
+    "tag": "0.1.2"
+  },
+  "social_media_url": "https://twitter.com/cat__tac",
+  "source_files": [
+    "Pod/Classes/AnimateModal.h",
+    "Pod/Classes/AnimateModal.m"
+  ],
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ],
+  "requires_arc": false,
+  "platforms": {
+    "ios": "7.0"
+  }
+}

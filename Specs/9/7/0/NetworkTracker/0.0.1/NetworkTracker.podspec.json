@@ -1,0 +1,23 @@
+{
+  "name": "NetworkTracker",
+  "version": "0.0.1",
+  "summary": "NetworkTracker",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/NetworkTracker",
+  "license": "MIT",
+  "authors": {
+    "xzj": "xzj3024@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/NetworkTracker.git",
+    "tag": "0.0.1"
+  },
+  "frameworks": [
+    "Foundation",
+    "UIKit"
+  ],
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source_files": "NetworkTracker/NetworkTracker/**/*.{h,m,png}",
+  "requires_arc": true
+}

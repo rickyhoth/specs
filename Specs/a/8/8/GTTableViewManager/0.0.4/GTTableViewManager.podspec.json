@@ -1,0 +1,25 @@
+{
+  "name": "GTTableViewManager",
+  "version": "0.0.4",
+  "summary": "GTTableViewManager",
+  "description": "GTTableViewManager 简单易用的tableviewManager",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/GTTableViewManager",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "huzhaoke": "zhizaozhe@126.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/GTTableViewManager.git",
+    "tag": "0.0.4"
+  },
+  "source_files": "GTTableViewManager/**/*",
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}

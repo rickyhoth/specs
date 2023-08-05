@@ -1,0 +1,22 @@
+{
+  "name": "Home",
+  "version": "0.1.0",
+  "summary": "this is Home test.",
+  "description": "*this is Home test project.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MyApp",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "18280261829": "469588587@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MyApp.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Home/Classes/**/*"
+}

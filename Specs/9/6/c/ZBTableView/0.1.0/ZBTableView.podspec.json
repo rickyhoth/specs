@@ -1,0 +1,22 @@
+{
+  "name": "ZBTableView",
+  "version": "0.1.0",
+  "summary": "Simple tableView that can pull down or pull up refresh.",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zemyblue": "zemyblue@gmail.com"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZBTableView",
+  "platforms": {
+    "ios": "6.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZBTableView.git",
+    "tag": "0.1.0"
+  },
+  "requires_arc": true,
+  "source_files": "ZBTableView"
+}

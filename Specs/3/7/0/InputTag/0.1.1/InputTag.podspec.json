@@ -1,0 +1,22 @@
+{
+  "name": "InputTag",
+  "version": "0.1.1",
+  "summary": "html input tag",
+  "description": "quick html input tag",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/InputTag",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "pikachu987": "pikachu987@naver.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/InputTag.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "InputTag/Classes/**/*"
+}

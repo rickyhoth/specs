@@ -1,0 +1,21 @@
+{
+  "name": "ObjectMapper",
+  "version": "0.17",
+  "license": "MIT",
+  "summary": "JSON Object mapping written in Swift",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ObjectMapper",
+  "authors": {
+    "Tristan Himmelman": "tristanhimmelman@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ObjectMapper.git",
+    "tag": "0.17"
+  },
+  "platforms": {
+    "watchos": "2.0",
+    "ios": "8.0",
+    "osx": "10.9"
+  },
+  "requires_arc": "true",
+  "source_files": "ObjectMapper/**/*.swift"
+}

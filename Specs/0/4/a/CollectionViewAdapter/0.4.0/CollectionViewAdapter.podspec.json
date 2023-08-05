@@ -1,0 +1,22 @@
+{
+  "name": "CollectionViewAdapter",
+  "version": "0.4.0",
+  "summary": "A Swift based collection view binder for iOS 8 and up. Look like AdapterDelegates for RecyclerView on Android",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CollectionViewAdapter",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "DzmitryiKaraliou": "karaliou.dzmitryi@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CollectionViewAdapter.git",
+    "tag": "0.4.0"
+  },
+  "source_files": "CollectionViewAdapter/**/*.{h,swift}",
+  "frameworks": "UIKit"
+}

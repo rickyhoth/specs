@@ -1,0 +1,19 @@
+{
+  "name": "CustomPersonalView",
+  "version": "0.0.1",
+  "summary": "一个用于测试的demo",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CustomPersonalView.git",
+  "license": "MIT",
+  "authors": {
+    "ronie": "86437560@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CustomPersonalView.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "test/*",
+  "requires_arc": true,
+  "platforms": {
+    "ios": "9.0"
+  }
+}

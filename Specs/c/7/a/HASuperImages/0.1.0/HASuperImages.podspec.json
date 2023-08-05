@@ -1,0 +1,23 @@
+{
+  "name": "HASuperImages",
+  "version": "0.1.0",
+  "summary": "A convenience Cocoapod that extends the UIImageView Swift class.",
+  "description": "\"HASuperImages is a CocoaPod that extends the UIImageView Swift class with a convenience method to round a square image view with a border of custom width and color. Enjoy it!.\"",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HASuperImages",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "hagar_aly": "hagra.aly@softxpert.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HASuperImages.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HASuperImages/Classes/*.swift",
+  "frameworks": "UIKit"
+}

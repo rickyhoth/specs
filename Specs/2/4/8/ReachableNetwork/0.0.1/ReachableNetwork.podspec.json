@@ -1,0 +1,19 @@
+{
+  "name": "ReachableNetwork",
+  "version": "0.0.1",
+  "summary": "ReachableNetworkView framework to showing lost connection for user",
+  "description": "Framework which help monitor reachable and show reachable view for user",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ReachableNetwork",
+  "license": "MIT",
+  "authors": {
+    "Dmitriy": "dzhimasan@gmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ReachableNetwork.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "ReachableNetwork/**/*"
+}

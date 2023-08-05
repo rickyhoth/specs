@@ -1,0 +1,24 @@
+{
+  "name": "VideoDecoder",
+  "version": "1.0.2",
+  "summary": "A short description of VideoDecoder.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/VideoDecoder",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "songbihai": "songbihai6@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/VideoDecoder.git",
+    "tag": "1.0.2"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "swift_versions": "5.0",
+  "source_files": "VideoDecoder/Classes/**/*",
+  "swift_version": "5.0"
+}

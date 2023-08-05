@@ -1,0 +1,22 @@
+{
+  "name": "SWSlideController",
+  "version": "0.0.1",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SWSlideController",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "summary": "主流侧滑库",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Zhoushaowen": "348345883@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SWSlideController.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "SWSlideController/SWSlideController/*.{h,m}",
+  "requires_arc": true
+}

@@ -1,0 +1,22 @@
+{
+  "name": "SwiftLuhn",
+  "version": "0.2.2",
+  "summary": "SwiftLuhn is a port of the Luhn algorithm, used for validating debit/credit card details.",
+  "description": "This is a port of the Luhn Algorithm, generally used for validating debit/credit card details, to Swift.\n\nObjective-C port can be found at [https://bitbucket.devops.nonprod.empf.local/scm/react/ObjectiveLuhn](https://bitbucket.devops.nonprod.empf.local/scm/react/ObjectiveLuhn).",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwiftLuhn",
+  "license": "MIT",
+  "authors": {
+    "Max Kramer": "max@maxkramer.co"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwiftLuhn.git",
+    "tag": "0.2.2"
+  },
+  "social_media_url": "https://twitter.com/uint_max",
+  "swift_version": "4.0",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "SwiftLuhn/Classes/**/*"
+}

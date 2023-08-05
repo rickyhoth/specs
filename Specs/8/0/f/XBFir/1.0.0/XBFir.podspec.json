@@ -1,0 +1,22 @@
+{
+  "name": "XBFir",
+  "version": "1.0.0",
+  "summary": "Fir测试版本提示更新",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/XBFir",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Sky": "327847390@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/XBFir.git",
+    "tag": "1.0.0"
+  },
+  "swift_version": "4.2",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "XBFir/Classes/**/*"
+}

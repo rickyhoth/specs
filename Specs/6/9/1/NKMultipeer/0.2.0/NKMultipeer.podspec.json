@@ -1,0 +1,27 @@
+{
+  "name": "NKMultipeer",
+  "version": "0.2.0",
+  "summary": "Testable p2p abstraction using the adapter pattern. Comes with MultipeerConnectivity support.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/NKMultipeer",
+  "license": "MIT",
+  "authors": {
+    "Nathan Kot": "nk@nathankot.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/NKMultipeer.git",
+    "tag": "0.2.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "NKMultipeer/**/*",
+  "resource_bundles": {
+  },
+  "frameworks": "MultipeerConnectivity",
+  "dependencies": {
+    "RxSwift": [
+      "~> 1.8"
+    ]
+  }
+}

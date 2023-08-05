@@ -1,0 +1,27 @@
+{
+  "name": "Bongloy",
+  "version": "0.2.0",
+  "summary": "iOS library for Bongloy Payment Gateway API.",
+  "description": "Bongloy is the easiest way to accept payments online.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/bongloy-ios",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "khomsovon": "sovon.khom68@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/bongloy-ios.git",
+    "tag": "0.2.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "Bongloy/Classes/**/*",
+  "dependencies": {
+    "Stripe": [
+      ">= 16.0.0"
+    ]
+  }
+}

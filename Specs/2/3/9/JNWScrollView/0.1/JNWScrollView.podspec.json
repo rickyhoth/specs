@@ -1,0 +1,23 @@
+{
+  "name": "JNWScrollView",
+  "version": "0.1",
+  "summary": "A subclass of NSScroll/ClipView with better animations",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JNWScrollView",
+  "license": "MIT",
+  "authors": {
+    "Jonathan Willing": "hi@jwilling.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JNWScrollView.git",
+    "tag": "0.1"
+  },
+  "platforms": {
+    "osx": "10.8"
+  },
+  "requires_arc": true,
+  "source_files": "*.{h,m}",
+  "frameworks": [
+    "Cocoa",
+    "QuartzCore"
+  ]
+}

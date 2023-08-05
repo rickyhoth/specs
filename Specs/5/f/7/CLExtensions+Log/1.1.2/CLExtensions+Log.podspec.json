@@ -1,0 +1,32 @@
+{
+  "name": "CLExtensions+Log",
+  "version": "1.1.2",
+  "summary": "Log of CLExtensions.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CLExtensions",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "cainluo": "350116542@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CLExtensions.git",
+    "tag": "1.1.2"
+  },
+  "documentation_url": "https://bitbucket.devops.nonprod.empf.local/scm/react/CLExtensions",
+  "source_files": "CLExtensions+Log/*.swift",
+  "platforms": {
+    "ios": "10.0"
+  },
+  "swift_versions": [
+    "5.0",
+    "5.1"
+  ],
+  "dependencies": {
+    "XCGLogger": [
+
+    ]
+  },
+  "swift_version": "5.1"
+}

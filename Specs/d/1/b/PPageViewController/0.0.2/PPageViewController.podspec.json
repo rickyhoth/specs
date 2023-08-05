@@ -1,0 +1,19 @@
+{
+  "name": "PPageViewController",
+  "version": "0.0.2",
+  "summary": "PPageViewController copy code from https://bitbucket.devops.nonprod.empf.local/scm/react/XLPageViewController",
+  "description": "源码来自 https://bitbucket.devops.nonprod.empf.local/scm/react/XLPageViewController，仅制作pod供自己使用",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/PPageViewController",
+  "license": "MIT",
+  "authors": {
+    "pengkang": "103951209@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/PPageViewController.git",
+    "tag": "0.0.2"
+  },
+  "source_files": "PPageViewController/*.{h,m}"
+}

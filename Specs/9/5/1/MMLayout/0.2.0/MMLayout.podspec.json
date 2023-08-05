@@ -1,0 +1,22 @@
+{
+  "name": "MMLayout",
+  "version": "0.2.0",
+  "license": {
+    "type": "BSD"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MMLayout",
+  "authors": {
+    "annidy": "annidy@gmail.com"
+  },
+  "summary": "Simple frame layout for iOS.",
+  "description": "Better frame layout than use setFrame.",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MMLayout.git",
+    "tag": "v0.2.0"
+  },
+  "source_files": "*.{h,m}",
+  "requires_arc": true,
+  "platforms": {
+    "ios": "6.0"
+  }
+}

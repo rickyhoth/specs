@@ -1,0 +1,21 @@
+{
+  "name": "ObjectiveSwiftDebug",
+  "version": "1.0.1",
+  "summary": "ObjectiveSwiftDebug 123456789.",
+  "description": "ObjectiveSwiftDebug is test objective c integration.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ObjectiveSwiftDebug",
+  "license": "MIT",
+  "authors": {
+    "Vasyl": "vasya6868@gmail.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ObjectiveSwiftDebug.git",
+    "tag": "1.0.1"
+  },
+  "source_files": "ObjectiveSwiftDebug/**/*.{h,m,swift}",
+  "swift_versions": "5.4",
+  "swift_version": "5.4"
+}

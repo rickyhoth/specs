@@ -1,0 +1,19 @@
+{
+  "name": "Nilus",
+  "version": "1.0.0",
+  "summary": "A category on NSArray and NSMutableArray for handling nil objects.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Nilus",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Masashi Beheim": "github@beheim.eu"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Nilus.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "Classes",
+  "requires_arc": true
+}

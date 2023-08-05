@@ -1,0 +1,20 @@
+{
+  "name": "LXLExtension",
+  "version": "0.0.1",
+  "license": "MIT",
+  "summary": "swift中最nx的Extension.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LXLExtension",
+  "authors": {
+    "liuxiaolu": "1185327278@qq.com"
+  },
+  "social_media_url": "https://bitbucket.devops.nonprod.empf.local/scm/react/LYPlayer",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LXLExtension.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "LYExtensionExample/LYExtension/*.swift",
+  "requires_arc": true
+}

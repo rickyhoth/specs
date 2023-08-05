@@ -1,0 +1,29 @@
+{
+  "name": "SASBanner",
+  "version": "1.1.4",
+  "summary": "SASBanner - framework to create instant bannerView.",
+  "description": "'Simple basic Horizontal Scrollable Banner View For Apps Development'",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SASBanner",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "AnupSukumaran": "anup.sukumaran9@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SASBanner.git",
+    "tag": "1.1.4"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "Source/**/*.swift",
+  "swift_versions": "5.0",
+  "resources": [
+    "Source/ScrollViewBlock.xib",
+    "Source/Slide.xib",
+    "Source/WebSubView.xib"
+  ],
+  "swift_version": "5.0"
+}

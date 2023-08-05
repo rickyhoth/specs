@@ -1,0 +1,25 @@
+{
+  "name": "KDCycleBannerView",
+  "version": "1.1.1",
+  "license": "MIT",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/KDCycleBannerView",
+  "authors": {
+    "Kingiol": "kingxiaokang@gmail.com"
+  },
+  "summary": "A Cycle Or Loop ScrollView For Banner",
+  "platforms": {
+    "ios": "6.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/KDCycleBannerView.git",
+    "tag": "1.1.1"
+  },
+  "source_files": "KDCycleBannerView/*{h,m}",
+  "requires_arc": true,
+  "public_header_files": "KDCycleBannerView/*.h",
+  "dependencies": {
+    "SDWebImage": [
+
+    ]
+  }
+}

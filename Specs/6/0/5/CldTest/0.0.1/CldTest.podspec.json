@@ -1,0 +1,21 @@
+{
+  "name": "CldTest",
+  "version": "0.0.1",
+  "summary": "Test.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Test",
+  "license": "MIT",
+  "authors": {
+    "huangzh": "hz824581849@qq.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Test.git",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "Source",
+    "Source/**/*.{h,m}"
+  ]
+}

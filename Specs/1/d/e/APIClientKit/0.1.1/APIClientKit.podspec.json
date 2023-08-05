@@ -1,0 +1,32 @@
+{
+  "name": "APIClientKit",
+  "version": "0.1.1",
+  "summary": "Simple iOS API Client with Alamofire",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/APIClientKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "John": "johnwongapi@gmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/APIClientKit.git",
+    "tag": "0.1.1"
+  },
+  "source_files": [
+    "Source/*.{h,m,swift}",
+    "Source/**/*.{h,m,swift}",
+    "Source/**/**/*.{h,m,swift}",
+    "Source/**/**/**/*.{h,m,swift}"
+  ],
+  "dependencies": {
+    "Alamofire": [
+      "~> 4.5"
+    ]
+  },
+  "pushed_with_swift_version": "4.0"
+}

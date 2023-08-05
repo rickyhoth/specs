@@ -1,0 +1,27 @@
+{
+  "name": "MKTrackerPlusSDK",
+  "version": "0.1.0",
+  "summary": "A short description of MKTrackerPlusSDK.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/iOS-SDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "aadyx2007@163.com": "aadyx2007@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/iOS-SDK.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "12.0"
+  },
+  "source_files": "MKTrackerPlusSDK/Classes/**/*",
+  "dependencies": {
+    "MKBLEBaseModule": [
+
+    ]
+  }
+}

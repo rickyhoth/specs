@@ -1,0 +1,27 @@
+{
+  "name": "CPYModuleManager",
+  "version": "0.0.2",
+  "summary": "A short description of CPYModuleManager.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CPYModuleManager",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "cuipengyu": "cuipeny@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CPYModuleManager.git",
+    "tag": "0.0.2"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "CPYModuleManager/Classes/**/*",
+  "frameworks": [
+    "UIKit",
+    "Foundation",
+    "UserNotifications"
+  ]
+}

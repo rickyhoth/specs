@@ -1,0 +1,22 @@
+{
+  "name": "JKKVOHelper",
+  "version": "0.1.27",
+  "summary": "this is a tool to help developer to easily use KVO.",
+  "description": "this is a tool to help developer to easily use KVO,it will update with the need",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JKKVOHelper",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xindizhiyin2014": "929097264@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JKKVOHelper.git",
+    "tag": "0.1.27"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "JKKVOHelper/Classes/**/*"
+}

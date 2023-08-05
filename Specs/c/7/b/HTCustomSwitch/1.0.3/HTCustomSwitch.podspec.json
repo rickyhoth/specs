@@ -1,0 +1,19 @@
+{
+  "name": "HTCustomSwitch",
+  "version": "1.0.3",
+  "summary": "Custom UISwitch",
+  "description": "Simple framework to custom UISwitch",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HTCustomSwitch.git",
+  "license": "MIT",
+  "authors": {
+    "HungTran": "hung.tgh95@gmail.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HTCustomSwitch.git",
+    "tag": "1.0.3"
+  },
+  "source_files": "HTCustomSwitch/**/*"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Blindside",
+  "version": "1.0.0",
+  "summary": "Blindside provides dependency injection capabilities for Objective-C on iOS and OS X",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/blindside",
+  "license": "MIT",
+  "authors": {
+    "JB Steadman": "jb@pivotallabs.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/blindside.git",
+    "tag": "v1.0.0"
+  },
+  "requires_arc": true,
+  "platforms": {
+    "ios": "5.0",
+    "osx": "10.7"
+  },
+  "source_files": "{Source,Headers}/**/*.{h,m}"
+}

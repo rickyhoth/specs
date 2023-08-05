@@ -1,0 +1,23 @@
+{
+  "name": "RFCircleView",
+  "version": "0.1.0",
+  "summary": "Universal Circle View for iOS, written in Swift & Autolayout",
+  "description": "Universal Circle View for iOS, written in Swift 3.0 & Autolayout. Uses Core Graphics Drawing and provides flexible appearance settings",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/RFCircleView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "filiroman": "filiroman.tsu@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/RFCircleView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "RFCircleView/Classes/**/*",
+  "pushed_with_swift_version": "3.0"
+}

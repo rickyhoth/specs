@@ -1,0 +1,20 @@
+{
+  "name": "WS-Connector",
+  "version": "1.0.1",
+  "summary": "A simple gestor request to Web Services",
+  "description": "TODO: A simple gestor request to Web Services.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/GestorWS",
+  "license": "MIT",
+  "authors": {
+    "Jose Luis": "luisperezreyes87@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/GestorWS.git",
+    "tag": "1.0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "WS-Connector/Classes/**/*",
+  "pushed_with_swift_version": "3.0"
+}

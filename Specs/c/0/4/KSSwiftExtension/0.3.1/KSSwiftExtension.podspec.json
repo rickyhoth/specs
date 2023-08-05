@@ -1,0 +1,20 @@
+{
+  "name": "KSSwiftExtension",
+  "version": "0.3.1",
+  "summary": "UIKit 's Extension",
+  "description": " KSSwiftExtension is a Extension of UIKit",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/KSSwiftExtension",
+  "license": "MIT",
+  "authors": {
+    "kingslay": "kingslay@icloud.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/KSSwiftExtension.git",
+    "tag": "0.3.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Source/**/*.{h,m,swift}",
+  "requires_arc": true
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Dipang90View",
+  "version": "0.1.0",
+  "summary": "Uiview test demo",
+  "description": "This view changes its label name properly gradually makes your app look fantastic!",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Dipang90View",
+  "license": {
+    "type": "MIT",
+    "file": "/Volumes/Work/Erdos Technologies/DemoProjects/Dipang90View/LICENSE"
+  },
+  "authors": {
+    "Dipang Sheth": "shethdipang@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Dipang90View.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "Dipang90View/NoDataView.swift"
+}

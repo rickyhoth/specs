@@ -1,0 +1,25 @@
+{
+  "name": "UIColor+Mix",
+  "version": "1.0.0",
+  "summary": "Allows calculation of colors partway in between other colors.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/uicolor-mix",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Josh Justice": "josh@need-bee.com"
+  },
+  "platforms": {
+    "ios": "6.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/uicolor-mix.git",
+    "tag": "1.0.0"
+  },
+  "source_files": [
+    "src",
+    "src/**/*.{h,m}"
+  ],
+  "requires_arc": false
+}

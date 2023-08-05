@@ -1,0 +1,27 @@
+{
+  "name": "RuntimeHelpers",
+  "version": "0.0.5",
+  "summary": "RuntimeHelpers.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/RuntimeHelpers",
+  "license": "MIT",
+  "authors": {
+    "Fernando Mazzon": "fer662@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/RuntimeHelpers.git",
+    "tag": "0.0.5"
+  },
+  "platforms": {
+    "ios": null
+  },
+  "source_files": [
+    "Classes",
+    "Classes/**/*.{h,m}"
+  ],
+  "public_header_files": "Classes/**/*.h",
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ],
+  "requires_arc": true
+}

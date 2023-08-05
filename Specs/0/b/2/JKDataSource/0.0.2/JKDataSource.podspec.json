@@ -1,0 +1,19 @@
+{
+  "name": "JKDataSource",
+  "version": "0.0.2",
+  "platforms": {
+    "ios": "5.0"
+  },
+  "summary": "Helper class to make managing TableView Delegate/Datasource easier.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JKDataSource",
+  "license": "MIT",
+  "authors": {
+    "Joseph Ridenour": "joe@joesapps.net"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JKDataSource.git",
+    "tag": "0.0.2"
+  },
+  "source_files": "JKDataSource/**/*.{h,m}",
+  "requires_arc": true
+}

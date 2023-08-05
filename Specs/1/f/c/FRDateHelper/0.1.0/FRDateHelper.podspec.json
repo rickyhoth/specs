@@ -1,0 +1,19 @@
+{
+  "name": "FRDateHelper",
+  "version": "0.1.0",
+  "summary": "A date helper library with common functions",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/FRDateHelper",
+  "license": "MIT",
+  "authors": {
+    "Fabiano Roberto": "dj.fabianoroberto@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/FRDateHelper.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FRDateHelper/Classes/**/*"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "CKCollectionViewDataSourceChangesetBuilder",
+  "version": "0.9.2",
+  "summary": "DSL changeset builder for ComponentKit.",
+  "description": "Provides a builder pattern DSL for creating CKTransactionalComponentDataSourceChangeset instances",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CKCollectionViewDataSourceChangesetBuilder",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Jonathan Crooke": "jon.crooke@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CKCollectionViewDataSourceChangesetBuilder.git",
+    "tag": "v0.9.2"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source_files": "CKCollectionViewDataSourceChangesetBuilder/**/*.{h,mm}",
+  "frameworks": "UIKit",
+  "dependencies": {
+    "ComponentKit": [
+      ">= 0.13"
+    ]
+  }
+}

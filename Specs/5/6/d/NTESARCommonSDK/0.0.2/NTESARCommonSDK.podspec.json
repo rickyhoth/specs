@@ -1,0 +1,24 @@
+{
+  "name": "NTESARCommonSDK",
+  "version": "0.0.2",
+  "summary": "NTESARCommonSDK.",
+  "description": "A short description of NTESLiveDetect.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/NTESARCommonSDK",
+  "authors": {
+    "luolihao123456": "luolihao123456@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/NTESARCommonSDK.git",
+    "tag": "0.0.2"
+  },
+  "vendored_frameworks": [
+    "Classes/MNN.framework",
+    "Classes/opencv2.framework"
+  ],
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}

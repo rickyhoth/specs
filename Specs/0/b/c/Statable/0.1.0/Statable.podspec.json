@@ -1,0 +1,23 @@
+{
+  "name": "Statable",
+  "version": "0.1.0",
+  "summary": "This is set of protocols for implement statable entity.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Statable",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Denis Koryttsev": "koden.u8800@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Statable.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "Source/*",
+  "frameworks": "UIKit",
+  "pushed_with_swift_version": "3.0"
+}

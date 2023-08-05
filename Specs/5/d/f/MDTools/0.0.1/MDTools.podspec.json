@@ -1,0 +1,22 @@
+{
+  "name": "MDTools",
+  "version": "0.0.1",
+  "summary": "Tools for Objcetive-C.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LTools",
+  "license": "MIT",
+  "authors": {
+    "Larkin": "yangchenlarkin@gmail.com"
+  },
+  "platforms": {
+    "ios": null
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LTools.git",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "LTools",
+    "LTools/**/*.{h,m}"
+  ],
+  "frameworks": "Foundation"
+}

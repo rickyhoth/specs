@@ -1,0 +1,22 @@
+{
+  "name": "HYHSuspensionList",
+  "version": "0.1.0",
+  "summary": "A simple and easy-to-use supension list",
+  "description": "Supension list, like DOUYIN video detail page",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HYHSuspensionList",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "1335430614@qq.com": "1335430614@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HYHSuspensionList.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HYHSuspensionList/Classes/**/*"
+}

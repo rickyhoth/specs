@@ -1,0 +1,20 @@
+{
+  "name": "SwiftyWebSocket",
+  "version": "1.0",
+  "license": "MIT",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwiftyWebSocket",
+  "authors": {
+    "Tigran Mirijanyan": "mirijanyant@gmail.com"
+  },
+  "summary": "WebSocket framework for Swift",
+  "source_files": "SwiftyWebSocket",
+  "swift_versions": "5.0",
+  "platforms": {
+    "ios": "13.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwiftyWebSocket",
+    "tag": "1.1"
+  },
+  "swift_version": "5.0"
+}

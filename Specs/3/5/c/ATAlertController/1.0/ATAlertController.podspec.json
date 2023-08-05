@@ -1,0 +1,18 @@
+{
+  "name": "ATAlertController",
+  "version": "1.0",
+  "summary": "UIAlertController for swift.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ATAlertController",
+  "license": "MIT",
+  "authors": "Arasuvel",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "swift_version": "4.2",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ATAlertController.git",
+    "tag": "1.0"
+  },
+  "source_files": "ATAlertController/ATAlertController.swift",
+  "requires_arc": true
+}

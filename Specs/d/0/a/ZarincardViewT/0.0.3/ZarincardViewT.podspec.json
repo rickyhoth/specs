@@ -1,0 +1,22 @@
+{
+  "name": "ZarincardViewT",
+  "version": "0.0.3",
+  "summary": "summary bla bla bla bla bla bla bla bla bla",
+  "description": "this is description test and bla bla bla bla bla bla :)",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZarincardViewT",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Farshid roohi": "farshid.roohi.a@gmail.com"
+  },
+  "platforms": {
+    "ios": "11.3"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZarincardViewT.git",
+    "tag": "0.0.3"
+  },
+  "source_files": "ZarincardViewT"
+}

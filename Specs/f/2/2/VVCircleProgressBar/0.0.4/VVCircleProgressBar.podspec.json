@@ -1,0 +1,29 @@
+{
+  "name": "VVCircleProgressBar",
+  "version": "0.0.4",
+  "summary": "A custom circle progress bar with pulse animation.",
+  "description": "VVCircleProgressBar is a pulse animating custom progress bar.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/VVCircleProgressBar",
+  "screenshots": [
+    "https://bitbucket.devops.nonprod.empf.local/scm/react/VVCircleProgressBar/raw/master/Preview/VVCircleProgressBar1.png",
+    "https://bitbucket.devops.nonprod.empf.local/scm/react/VVCircleProgressBar/raw/master/Preview/VVCircleProgressBar2.png"
+  ],
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Vinoth Vino": "vinothvino42@gmail.com"
+  },
+  "social_media_url": "http://twitter.com/vinothvino42",
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/VVCircleProgressBar.git",
+    "tag": "v0.0.4"
+  },
+  "source_files": "VVCircleProgressBar/VVCircleProgressBar.swift",
+  "frameworks": "UIKit",
+  "pushed_with_swift_version": "4.2"
+}

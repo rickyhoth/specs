@@ -1,0 +1,22 @@
+{
+  "name": "XinFengOpenSDK",
+  "version": "0.1.0",
+  "summary": "A short description of XinFengOpenSDK.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/XinFengOpenSDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhouweihui": "zhouweihui@payeasenet.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/XinFengOpenSDK.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "XinFengOpenSDK/Classes/**/*"
+}

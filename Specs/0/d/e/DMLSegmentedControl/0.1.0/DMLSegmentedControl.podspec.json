@@ -1,0 +1,19 @@
+{
+  "name": "DMLSegmentedControl",
+  "version": "0.1.0",
+  "summary": "A segmented style stepper control.",
+  "description": "DMLSegmentedControl is a segmented style stepper control that mix segmented control and stepper control's characteristic.'",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DMLSegmentedControl",
+  "license": "MIT",
+  "authors": {
+    "Meiliang Dong": "dongmeilianghy@sina.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DMLSegmentedControl.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DMLSegmentedControl/Classes/**/*"
+}

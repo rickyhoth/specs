@@ -1,0 +1,22 @@
+{
+  "name": "PratikPods13",
+  "version": "0.1.2",
+  "summary": "Creating first Pods",
+  "description": "Create First Pods for Testing Purpose Only",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/PratikPods13.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "hbsameer": "pratik.panchal@indianic.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/PratikPods13.git",
+    "tag": "0.1.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PratikPods13/Classes/**/*"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Strong_Strings",
+  "version": "0.1.0",
+  "summary": "Powerfull framework, which helps you to work with strings. 100% test coverage",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Strong-Strings",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "hadevs": "hhadevs@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Strong-Strings.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Strong_Strings/Classes/**/*",
+  "frameworks": "UIKit"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "XREasyRefreshControl",
+  "version": "1.0.1",
+  "license": "MIT",
+  "summary": "A powerful and lightweight pull-down refresh and pull-up load control.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/XREasyRefreshControl",
+  "authors": {
+    "hanzhuzi": "1754410821@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/XREasyRefreshControl.git",
+    "tag": "1.0.1"
+  },
+  "requires_arc": true,
+  "platforms": {
+    "ios": "8.0"
+  },
+  "ios": {
+    "frameworks": [
+      "UIKit",
+      "Foundation"
+    ]
+  },
+  "module_name": "XREasyRefresh",
+  "swift_version": "3.2",
+  "source_files": "Source/**/*.swift"
+}

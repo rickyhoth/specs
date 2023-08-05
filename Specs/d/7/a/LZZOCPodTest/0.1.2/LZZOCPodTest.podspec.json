@@ -1,0 +1,19 @@
+{
+  "name": "LZZOCPodTest",
+  "version": "0.1.2",
+  "summary": "这是一个测试库",
+  "description": "这是一个测试库的简绍",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LZZOCPodTest",
+  "license": "MIT",
+  "authors": {
+    "myLoveCodes": "1877122118@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LZZOCPodTest.git",
+    "tag": "0.1.2"
+  },
+  "source_files": "**/*"
+}

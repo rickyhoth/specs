@@ -1,0 +1,28 @@
+{
+  "name": "AndroidDialogAlert",
+  "version": "0.2.0",
+  "summary": "This library provides a very simple to use alert very similar to the Android Dialog Alert. Very easy to use and very easy to customize.",
+  "description": "This library was created to be the simpleme meant for ease of implementation. Although some customization is provided.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AndroidDialogAlert",
+  "screenshots": [
+    "https://bitbucket.devops.nonprod.empf.local/scm/react/androidAlert_message.gif",
+    "https://bitbucket.devops.nonprod.empf.local/scm/react/androidAlert_message_textfield_cancel.gif",
+    "https://bitbucket.devops.nonprod.empf.local/scm/react/androidAlert_simple.gif"
+  ],
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "davamale": "david.martinez@unseen.is"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AndroidDialogAlert.git",
+    "tag": "0.2.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "Pod/Classes/**/*",
+  "pushed_with_swift_version": "3.0"
+}

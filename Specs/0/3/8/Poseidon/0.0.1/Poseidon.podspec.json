@@ -1,0 +1,19 @@
+{
+  "name": "Poseidon",
+  "version": "0.0.1",
+  "license": "MIT",
+  "summary": "A navigation framework on Swift.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Poseidon/",
+  "authors": {
+    "Alex Motarykin": "orwester@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Poseidon.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "src/*.swift",
+  "pushed_with_swift_version": "3.0"
+}

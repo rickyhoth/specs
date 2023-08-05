@@ -1,0 +1,27 @@
+{
+  "name": "CommonKeyboard",
+  "version": "1.0.0",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE.md"
+  },
+  "summary": "An elegant Keyboard library for iOS.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CommonKeyboard",
+  "authors": {
+    "Kaweerut Kanthawong": "kaweerutkanthawong@yahoo.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CommonKeyboard.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "Sources/*.swift",
+  "pod_target_xcconfig": {
+    "SWIFT_VERSION": "4.2"
+  },
+  "swift_versions": "4.2",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "requires_arc": true,
+  "swift_version": "4.2"
+}

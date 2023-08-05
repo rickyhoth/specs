@@ -1,0 +1,24 @@
+{
+  "name": "Tagable",
+  "version": "1.0.0",
+  "summary": "Save the variable in Tag.",
+  "description": "Save the variable in Tag. Quick!!",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Tagable",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "outofcoding": "outofcoding@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Tagable.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "swift_versions": "4.0",
+  "source_files": "Tagable/Classes/**/*",
+  "swift_version": "4.0"
+}

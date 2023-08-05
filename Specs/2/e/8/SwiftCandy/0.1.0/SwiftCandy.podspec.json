@@ -1,0 +1,22 @@
+{
+  "name": "SwiftCandy",
+  "version": "0.1.0",
+  "summary": "Swift 2 Sweet.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwiftCandy",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Joe Ferrucci": "ahoy@joeferrucci.info"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwiftCandy.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SwiftCandy/Classes/**/*"
+}

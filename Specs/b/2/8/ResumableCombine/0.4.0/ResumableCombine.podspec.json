@@ -1,0 +1,22 @@
+{
+  "name": "ResumableCombine",
+  "version": "0.4.0",
+  "summary": "A short description of ResumableCombine.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ResumableCombine",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Hai\\ Feng\\ Kao": "haifeng@cocoaspice.in"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ResumableCombine.git",
+    "tag": "0.4.0"
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "source_files": "ResumableCombine/Classes/**/*"
+}

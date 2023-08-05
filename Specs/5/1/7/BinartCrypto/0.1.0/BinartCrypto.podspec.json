@@ -1,0 +1,23 @@
+{
+  "name": "BinartCrypto",
+  "version": "0.1.0",
+  "summary": "Crypto on iOS.",
+  "description": "Crypto on iOS, em, for warning removing.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/BinartCrypto-iOS",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "fallending": "fengzilijie@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/BinartCrypto-iOS.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "BinartCrypto/Classes/**/*",
+  "public_header_files": "BinartCrypto/Classes/**/*.h"
+}

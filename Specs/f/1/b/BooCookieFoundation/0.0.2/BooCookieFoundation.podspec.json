@@ -1,0 +1,24 @@
+{
+  "name": "BooCookieFoundation",
+  "version": "0.0.2",
+  "summary": "Get cookie",
+  "description": "Get cookie from safari by SafariViewController and UIPlaseboard",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/BooCookieFoundation",
+  "license": "MIT",
+  "authors": {
+    "": ""
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/BooCookieFoundation.git",
+    "tag": "0.0.2"
+  },
+  "source_files": [
+    "BooCookieFoundation",
+    "BooCookieFoundation/**/*.{h,m}"
+  ],
+  "exclude_files": "Classes/Exclude",
+  "requires_arc": true
+}

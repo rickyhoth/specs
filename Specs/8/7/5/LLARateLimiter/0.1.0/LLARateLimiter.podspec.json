@@ -1,0 +1,22 @@
+{
+  "name": "LLARateLimiter",
+  "version": "0.1.0",
+  "authors": {
+    "Lukas Lipka": "lukaslipka@gmail.com"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LLARateLimiter",
+  "summary": "A rate limiter with a delightful API.",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LLARateLimiter.git",
+    "tag": "0.1.0"
+  },
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "platforms": {
+    "ios": null
+  },
+  "requires_arc": true,
+  "source_files": "LLARateLimiter"
+}

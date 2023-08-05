@@ -1,0 +1,21 @@
+{
+  "name": "MVVPieChart",
+  "version": "0.1.0",
+  "summary": "A simple pie chart library for use in iOS.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MVVPieChart",
+  "license": {
+    "type": "MIT License",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Martyn de Vries": "vriesdemartyn@gmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MVVPieChart.git",
+    "tag": "0.1.0"
+  },
+  "source_files": "Pod/Classes/**/*"
+}

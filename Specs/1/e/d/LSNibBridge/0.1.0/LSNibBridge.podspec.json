@@ -1,0 +1,22 @@
+{
+  "name": "LSNibBridge",
+  "version": "0.1.0",
+  "summary": "A short description of LSNibBridge.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LSNibBridge",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "liusui": "952923202@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LSNibBridge.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LSNibBridge/Classes/**/*"
+}

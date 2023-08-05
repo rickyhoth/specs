@@ -1,0 +1,22 @@
+{
+  "name": "TOReachability",
+  "version": "1.0.1",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "summary": "A lightweight, unit-tested class to detect network changes on iOS",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TOReachability",
+  "authors": "Tim Oliver",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TOReachability.git",
+    "tag": "1.0.1"
+  },
+  "source_files": "TOReachability/**/*.{h,m}",
+  "requires_arc": true,
+  "platforms": {
+    "ios": "11.0",
+    "osx": "10.13",
+    "tvos": "11.0"
+  }
+}

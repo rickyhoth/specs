@@ -1,0 +1,19 @@
+{
+  "name": "VICKit",
+  "version": "0.1.1",
+  "summary": "VICKit.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/VICKit",
+  "license": "MIT",
+  "authors": {
+    "sswimp": "754612130@qq.com"
+  },
+  "platforms": {
+    "ios": null
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/VICKit.git",
+    "tag": "0.1.1"
+  },
+  "source_files": "VICKit/**/*.{h,m}",
+  "requires_arc": true
+}

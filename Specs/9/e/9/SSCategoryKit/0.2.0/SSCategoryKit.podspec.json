@@ -1,0 +1,22 @@
+{
+  "name": "SSCategoryKit",
+  "version": "0.2.0",
+  "summary": "SSCategoryKit - 常用分类",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SSCategoryKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhangss": "ty_zhangshuai@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SSCategoryKit",
+    "tag": "0.2.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "SSCategoryKit/Classes/**/*"
+}

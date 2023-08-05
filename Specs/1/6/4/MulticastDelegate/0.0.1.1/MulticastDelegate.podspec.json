@@ -1,0 +1,19 @@
+{
+  "name": "MulticastDelegate",
+  "version": "0.0.1.1",
+  "summary": "MulticastDelegate extracted from XMPPFramework.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/XMPPFramework/tree/master/Utilities",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Sergey Zenchenko": "sergeizenchenko@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MulticastDelegate.git",
+    "tag": "0.0.1.1"
+  },
+  "source_files": "*.{h,m}",
+  "requires_arc": true
+}

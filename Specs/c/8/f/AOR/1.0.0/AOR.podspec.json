@@ -1,0 +1,19 @@
+{
+  "name": "AOR",
+  "version": "1.0.0",
+  "summary": "Wrapper of NSAttributedString and Text Kit. written in Swift.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AOR",
+  "license": "MIT",
+  "authors": {
+    "Airin": "xl1138@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AOR.git",
+    "tag": "1.0.0"
+  },
+  "requires_arc": true,
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Sources/*.swift"
+}

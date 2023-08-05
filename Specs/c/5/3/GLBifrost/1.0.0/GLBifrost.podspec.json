@@ -1,0 +1,22 @@
+{
+  "name": "GLBifrost",
+  "version": "1.0.0",
+  "summary": "just is GLBifrost",
+  "description": "version 0.1.2\n  can show current Env at main Window",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/GLBifrost",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "GL9700": "liandyii@msn.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/GLBifrost.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "GLBifrost/Classes/**/*"
+}

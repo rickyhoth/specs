@@ -1,0 +1,22 @@
+{
+  "name": "SZCircleView",
+  "version": "0.0.12",
+  "summary": "circle scrollview",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SZCircleViewDemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "陈圣治": "csz2136@163.com"
+  },
+  "platforms": {
+    "ios": "6.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SZCircleViewDemo.git",
+    "tag": "0.0.12"
+  },
+  "source_files": "SZCircleView/*.{h,m}",
+  "requires_arc": true
+}

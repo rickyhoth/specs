@@ -1,0 +1,24 @@
+{
+  "name": "KCExplodeTabBar",
+  "version": "0.1.1",
+  "summary": "An explode circular design for UITabBar.",
+  "description": "KCExplodeTabBar could be a really nice alternative for the standard UITabBar if you found that too boring.\nInstead of static squares, tabs are now circular with expand/collapse animations.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/KCExplodeTabBar",
+  "license": "MIT",
+  "authors": "Kevin Yufei Chen",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/KCExplodeTabBar.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "KCExplodeTabBar": [
+      "Pod/Assets/*.png"
+    ]
+  },
+  "public_header_files": "Pod/Classes/**/*.h"
+}

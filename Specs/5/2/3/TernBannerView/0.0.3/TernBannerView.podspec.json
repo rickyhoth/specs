@@ -1,0 +1,19 @@
+{
+  "name": "TernBannerView",
+  "version": "0.0.3",
+  "summary": "A clean and simple banner for iPhone and iPad",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TernBannerView",
+  "authors": {
+    "TernTuring": "ternturing@aol.com"
+  },
+  "license": "MIT",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "requires_arc": true,
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TernBannerView.git",
+    "tag": "0.0.3"
+  },
+  "source_files": "TernBannerView/*.{h,m}"
+}

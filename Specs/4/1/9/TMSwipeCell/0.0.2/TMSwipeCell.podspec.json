@@ -1,0 +1,19 @@
+{
+  "name": "TMSwipeCell",
+  "version": "0.0.2",
+  "summary": "A WeChat-like sliding frame",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TMSwipeCell",
+  "license": "MIT",
+  "authors": {
+    "cocomanbar": "125322078@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TMSwipeCell.git",
+    "tag": "0.0.2"
+  },
+  "source_files": "TMSwipeCell/SwipeCell/*",
+  "requires_arc": true
+}

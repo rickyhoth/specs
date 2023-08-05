@@ -1,0 +1,22 @@
+{
+  "name": "AHSwipeViewControllerContainer",
+  "version": "0.1.6",
+  "summary": "A Snapchat-like ViewController Container AHSwipeViewControllerContainer.",
+  "description": "A Snapchat-like ViewController Container AHSwipeViewControllerContainer with interactive animation",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AHSwipeViewControllerContainer",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "AlexHmelevskiAG": "alexei.hmelevski@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AHSwipeViewControllerContainer.git",
+    "tag": "0.1.6"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "AHSwipeViewControllerContainer/Classes/**/*"
+}

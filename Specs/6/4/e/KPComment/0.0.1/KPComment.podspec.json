@@ -1,0 +1,19 @@
+{
+  "name": "KPComment",
+  "version": "0.0.1",
+  "summary": "simple view for comment.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/KPComment",
+  "license": "MIT",
+  "authors": {
+    "kunpeng": "1169405067@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/KPComment.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "*.*",
+  "requires_arc": true
+}

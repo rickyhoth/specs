@@ -1,0 +1,16 @@
+{
+  "name": "LCYCoreDataHelper",
+  "version": "5.0",
+  "license": "MIT",
+  "summary": "A pure light weight core data framework written in Swift",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LCYCoreDataHelper",
+  "authors": "Leacode",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LCYCoreDataHelper.git",
+    "tag": "5.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LCYCoreDataHelper/LCYCoreDataHelper/*.{h,swift}"
+}

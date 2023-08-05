@@ -1,0 +1,23 @@
+{
+  "name": "ACErrorMapper",
+  "version": "1.0.0",
+  "summary": "Error mapper",
+  "description": "Error Mapper.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ACErrorMapper",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Amornthep": "illusion.zen@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ACErrorMapper.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "ACErrorMapper/Classes/**/*",
+  "swift_version": "4.2"
+}

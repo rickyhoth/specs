@@ -1,0 +1,22 @@
+{
+  "name": "YFLaunchedTaskManager",
+  "version": "0.2.0",
+  "summary": "app 启动任务管理",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/YFLaunchedTaskManager",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yFeii": ""
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YFLaunchedTaskManager.git",
+    "tag": "0.2.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YFLaunchedTaskManager/Classes/**/*"
+}

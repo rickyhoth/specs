@@ -1,0 +1,23 @@
+{
+  "name": "SwiftyMessenger",
+  "version": "0.2",
+  "summary": "Swift toolkit for passing messages between iOS apps and extensions.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwiftyMessenger",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Abdullah Selek": "abdullahselek@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwiftyMessenger.git",
+    "tag": "0.2"
+  },
+  "platforms": {
+    "ios": "9.0",
+    "watchos": "2.0"
+  },
+  "source_files": "Source/*.swift",
+  "requires_arc": true
+}

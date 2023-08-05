@@ -1,0 +1,24 @@
+{
+  "name": "UIKit-category",
+  "version": "0.0.1",
+  "summary": "ios category",
+  "description": "ios category of UIKit",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/UIKit-category.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Lance": "xuguang.luo@moyougames.com"
+  },
+  "platforms": {
+    "ios": null
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/UIKit-category.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "UIKit-category/UIKit",
+  "public_header_files": "UIKit-category/UIKit/UI_Categories.h",
+  "requires_arc": true
+}

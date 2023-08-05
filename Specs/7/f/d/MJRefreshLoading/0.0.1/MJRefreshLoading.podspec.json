@@ -1,0 +1,24 @@
+{
+  "name": "MJRefreshLoading",
+  "version": "0.0.1",
+  "summary": "基于MJRefresh的自定义刷新动画",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MJRefresh-Loading",
+  "authors": {
+    "heyfox": "zhangzhaopds@foxmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MJRefresh-Loading.git",
+    "tag": "0.0.1"
+  },
+  "requires_arc": true,
+  "source_files": "MJRefreshLoadingDemo/MJRefreshLoadingDemo/MJRefreshLoading/*",
+  "dependencies": {
+    "MJRefresh": [
+
+    ]
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "license": "MIT"
+}

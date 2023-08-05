@@ -1,0 +1,24 @@
+{
+  "name": "SwiftRangeSlider",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "summary": "A Swift implementation of a custom UIControl for selecting a range of values on a slider bar.",
+  "requires_arc": true,
+  "version": "0.7.1",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Brian Corbin": "brian.william.corbin@gmail.com"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwiftRangeSlider",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwiftRangeSlider.git",
+    "tag": "0.7.1"
+  },
+  "frameworks": "UIKit",
+  "source_files": "SwiftRangeSlider/**/*.{swift}",
+  "pushed_with_swift_version": "3.0"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "GKNavigationBar",
+  "version": "1.1.6",
+  "summary": "自定义导航栏--导航栏联动",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/GKNavigationBar",
+  "license": "MIT",
+  "authors": {
+    "高坤": "1094887059@qq.com"
+  },
+  "social_media_url": "https://github.com/QuintGao",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/GKNavigationBar.git",
+    "tag": "1.1.6"
+  },
+  "source_files": "GKNavigationBar/**/*.{h,m}",
+  "public_header_files": "GKNavigationBar/**/*.h",
+  "resources": "GKNavigationBar/GKNavigationBar.bundle"
+}

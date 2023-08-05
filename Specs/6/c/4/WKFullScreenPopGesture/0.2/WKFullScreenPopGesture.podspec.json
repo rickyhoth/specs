@@ -1,0 +1,19 @@
+{
+  "name": "WKFullScreenPopGesture",
+  "version": "0.2",
+  "summary": "A PopGesture with Swift",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WKFullScreenPopGesture",
+  "license": "MIT",
+  "authors": {
+    "weaken": "845188093@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WKFullScreenPopGesture.git",
+    "tag": "0.2"
+  },
+  "source_files": "WKNavigationControllerPopGesture/*.swift",
+  "requires_arc": true,
+  "platforms": {
+    "ios": "8.0"
+  }
+}

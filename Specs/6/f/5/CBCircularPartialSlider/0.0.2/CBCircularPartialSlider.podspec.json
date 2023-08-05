@@ -1,0 +1,22 @@
+{
+  "name": "CBCircularPartialSlider",
+  "version": "0.0.2",
+  "summary": "A short description of CBCircularPartialSlider.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CBCircularPartialSlider",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Claudio Barbera": "barbera.claudio@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CBCircularPartialSlider.git",
+    "tag": "0.0.2"
+  },
+  "platforms": {
+    "ios": "14.0"
+  },
+  "source_files": "CBCircularPartialSlider/Classes/**/*"
+}

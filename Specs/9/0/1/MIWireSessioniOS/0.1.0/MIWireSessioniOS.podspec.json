@@ -1,0 +1,25 @@
+{
+  "name": "MIWireSessioniOS",
+  "version": "0.1.0",
+  "summary": "iOS SDK of wire session connect iOS devices and mac device",
+  "description": "iOS SDK of wire session connect iOS devices and mac device",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MIWireSession",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "BenArvin": "benarvin93@outlook.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MIWireSession.git",
+    "tag": "iOS-0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": [
+    "iOS/Source/Classes/**/*",
+    "Cross/Classes/**/*"
+  ]
+}

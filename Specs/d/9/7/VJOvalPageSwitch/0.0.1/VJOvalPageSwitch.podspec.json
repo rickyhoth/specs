@@ -1,0 +1,19 @@
+{
+  "name": "VJOvalPageSwitch",
+  "version": "0.0.1",
+  "license": "MIT",
+  "summary": "An customizable page control on iOS.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/VJOvalPageSwitch",
+  "authors": {
+    "Vincent7": "and7@live.cn"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/VJOvalPageSwitch.git",
+    "tag": "0.0.1"
+  },
+  "requires_arc": true,
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "VJOvalPageSwitch/VJPageControl/*.{h,m}"
+}

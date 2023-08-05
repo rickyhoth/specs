@@ -1,0 +1,27 @@
+{
+  "name": "niceColor",
+  "version": "0.1.0",
+  "summary": "A collection of custom color templates.",
+  "description": "TODO: A collection of custom color templates for your projects.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CustomColors",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "KensenT": "kensen.tjoa@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CustomColors.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "niceColor/Classes/**/*",
+  "frameworks": [
+    "UIKit",
+    "MapKit"
+  ],
+  "swift_version": "4.2"
+}

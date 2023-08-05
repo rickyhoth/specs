@@ -1,0 +1,26 @@
+{
+  "name": "SPLMessageLogger",
+  "version": "0.3.0",
+  "summary": "Intercept and log objc messages.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SPLMessageLogger",
+  "license": "MIT",
+  "authors": {
+    "Oliver Letterer": "oliver.letterer@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SPLMessageLogger.git",
+    "tag": "0.3.0"
+  },
+  "social_media_url": "https://twitter.com/oletterer",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "frameworks": "Foundation",
+  "source_files": "SPLMessageLogger/*.{h,m}",
+  "dependencies": {
+    "imp_implementationForwardingToSelector": [
+      "~> 0.4"
+    ]
+  }
+}

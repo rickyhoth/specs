@@ -1,0 +1,24 @@
+{
+  "name": "MytestMathLib",
+  "version": "0.1.2",
+  "summary": "math functionalities",
+  "description": "This is simple library of basic Mathematical functions",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MytestMathLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Harshith-CB": "harshithaneygar@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MytestMathLib.git",
+    "tag": "0.1.2"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "swift_versions": "5.0",
+  "source_files": "Classes/**/*",
+  "swift_version": "5.0"
+}

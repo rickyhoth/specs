@@ -1,0 +1,21 @@
+{
+  "name": "NewWindowAndRootVC",
+  "version": "1.0",
+  "summary": "open a new window with rootViewController",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/NewWindowAndRootVC",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "shizhi": "562792170@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/NewWindowAndRootVC.git",
+    "tag": "1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "NewWindowAndRootVC"
+}

@@ -1,0 +1,30 @@
+{
+  "name": "NavigationKit",
+  "version": "0.1.0",
+  "summary": "Turn-by-Turn driving directions using Google or Apple Directions API",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/NavigationKit",
+  "license": "GPL",
+  "authors": {
+    "Axel Moller": "axelmoller5@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/NavigationKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes",
+  "resource_bundles": {
+    "NavigationKit": [
+      "Pod/Assets/*.png"
+    ]
+  },
+  "frameworks": "MapKit",
+  "dependencies": {
+    "Google-Maps-iOS-SDK": [
+
+    ]
+  }
+}

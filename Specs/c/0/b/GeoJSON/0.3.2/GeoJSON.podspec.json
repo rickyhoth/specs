@@ -1,0 +1,20 @@
+{
+  "name": "GeoJSON",
+  "version": "0.3.2",
+  "summary": "A GeoJSON model for Swift.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/GeoJSON.swift",
+  "license": "MIT",
+  "authors": {
+    "Harlan Haskins": "harlan@harlanhaskins.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/GeoJSON.swift.git",
+    "tag": "0.3.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "pushed_with_swift_version": "3.0"
+}

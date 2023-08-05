@@ -1,0 +1,22 @@
+{
+  "name": "STPlaceholder",
+  "version": "1.0.1",
+  "summary": "LightWeight placeholder for UITableView & UICollectionView",
+  "description": "LightWeight And  placeholder for UITableView & UICollectionView",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/STPlaceholder",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "czqasngit": "czqasn_6@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/STPlaceholder.git",
+    "tag": "1.0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "STPlaceholder/Classes/**/*"
+}

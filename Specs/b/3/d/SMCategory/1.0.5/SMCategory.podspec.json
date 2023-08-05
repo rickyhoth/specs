@@ -1,0 +1,23 @@
+{
+  "name": "SMCategory",
+  "version": "1.0.5",
+  "summary": "A SMCategory used on iOS.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SMCategory",
+  "license": "MIT",
+  "authors": {
+    "忆思梦": "465386131@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SMCategory.git",
+    "tag": "1.0.5"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "SMCategory/**/*.*",
+  "frameworks": [
+    "Foundation",
+    "UIKit"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "MultiParty",
+  "version": "0.1.2",
+  "summary": "Putting some fun into MultipeerConnectivity",
+  "description": "                       A wrapper for Apple's MultipeerConnectivity framework that\n                       makes it easier to handle common uses, such as peer-to-peer\n                       chat. See https://bitbucket.devops.nonprod.empf.local/scm/react/JSMultiParty for more.\n",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JSMultiParty",
+  "license": "MIT",
+  "authors": {
+    "Jordan Sitkin": "jordan@fiftyfootfoghorn.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JSMultiParty.git",
+    "tag": "0.1.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "MultiParty": [
+      "Pod/Assets/*.png"
+    ]
+  },
+  "frameworks": "MultipeerConnectivity"
+}

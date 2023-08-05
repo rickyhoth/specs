@@ -1,0 +1,22 @@
+{
+  "name": "WQDigitalRollingView",
+  "version": "0.0.2",
+  "summary": "数字翻滚",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WQDigitalRollingView",
+  "license": "MIT",
+  "authors": {
+    "王强": "1570375769@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WQDigitalRollingView.git",
+    "tag": "0.0.2"
+  },
+  "ios": {
+    "frameworks": "UIKit"
+  },
+  "source_files": "WQDigitalRollingView/*.{h,m}"
+}

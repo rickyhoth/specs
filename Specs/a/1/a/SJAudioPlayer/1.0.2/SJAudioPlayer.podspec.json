@@ -1,0 +1,28 @@
+{
+  "name": "SJAudioPlayer",
+  "version": "1.0.2",
+  "summary": "iOS MP3 Audio Player using AVAudioEngine.",
+  "description": "https://bitbucket.devops.nonprod.empf.local/scm/react/README.md",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SJAudioPlayer",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "changsanjiang": "changsanjiang@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SJAudioPlayer.git",
+    "tag": "1.0.2"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "SJAudioPlayer/*.{h,m}",
+  "subspecs": [
+    {
+      "name": "Core",
+      "source_files": "SJAudioPlayer/Core/**/*.{h,m}"
+    }
+  ]
+}

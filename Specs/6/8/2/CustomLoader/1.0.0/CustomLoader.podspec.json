@@ -1,0 +1,31 @@
+{
+  "name": "CustomLoader",
+  "version": "1.0.0",
+  "summary": "Custom loader system for iOS",
+  "description": "Custom loader system for iOS that provide default loaders\nand a way to display a custom loader",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CustomLoader",
+  "screenshots": [
+    "https://bitbucket.devops.nonprod.empf.local/scm/react/Capture1.png",
+    "https://bitbucket.devops.nonprod.empf.local/scm/react/Capture2.png",
+    "https://bitbucket.devops.nonprod.empf.local/scm/react/Capture3.png"
+  ],
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "MUISEROUX Fritzgerald": "f.muiseroux@gmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CustomLoader.git",
+    "tag": "1.0.0"
+  },
+  "source_files": [
+    "Source/",
+    "Source/**/*.{h,m}"
+  ],
+  "pushed_with_swift_version": "3.0"
+}

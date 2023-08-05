@@ -1,0 +1,21 @@
+{
+  "name": "kactus",
+  "version": "1.0.5",
+  "authors": {
+    "Andreatta Massimiliano": "massimiliano.andreatta@gmail.com"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/kactus",
+  "summary": "A framework for iOS",
+  "license": {
+    "type": "MIT"
+  },
+  "requires_arc": true,
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/kactus.git",
+    "tag": "1.0.5"
+  },
+  "source_files": "kactus/*.{h,m}",
+  "platforms": {
+    "ios": "7.0"
+  }
+}

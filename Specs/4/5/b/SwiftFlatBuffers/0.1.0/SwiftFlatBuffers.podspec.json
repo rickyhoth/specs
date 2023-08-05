@@ -1,0 +1,23 @@
+{
+  "name": "SwiftFlatBuffers",
+  "version": "0.1.0",
+  "summary": "SwiftFlatBuffers",
+  "description": "FlatBuffers implementations of Swift 3.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/flatbuffers",
+  "license": {
+    "type": "MIT",
+    "file": "../LICENSE.txt"
+  },
+  "authors": {
+    "TonyStark106": "lvconan@foxmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwiftFlatBuffers.git",
+    "commit": "0de15d0ffa74032d371539a46805531addd607a1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "swift/SwiftFlatBuffers/src/*",
+  "pushed_with_swift_version": "3.0"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "SwiftTrace",
+  "version": "5.1.1",
+  "summary": "Log Swift or Objective-C method invocations",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwiftTrace",
+  "social_media_url": "https://twitter.com/Injection4Xcode",
+  "documentation_url": "https://bitbucket.devops.nonprod.empf.local/scm/react/README.md",
+  "license": {
+    "type": "MIT"
+  },
+  "authors": {
+    "johnno1962": "swifttrace@johnholdsworth.com"
+  },
+  "platforms": {
+    "osx": "10.9",
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwiftTrace.git",
+    "tag": "5.1.1"
+  },
+  "source_files": "SwiftTrace/*.{swift,h,mm,s}",
+  "swift_versions": "5.0",
+  "swift_version": "5.0"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "MetrixSdk",
+  "version": "1.0.1",
+  "summary": "MetrixSdk is for tracking your app.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MetrixSDK-iOS",
+  "authors": {
+    "": ""
+  },
+  "license": "MIT",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "http": "https://bitbucket.devops.nonprod.empf.local/scm/react/MetrixSdk.framework.native.zip"
+  },
+  "ios": {
+    "vendored_frameworks": "MetrixSdk.framework"
+  }
+}

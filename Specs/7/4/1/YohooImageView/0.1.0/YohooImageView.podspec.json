@@ -1,0 +1,30 @@
+{
+  "name": "YohooImageView",
+  "version": "0.1.0",
+  "summary": "YohooImageView.",
+  "description": "YohooImageView for nonthing",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/YohooImageView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "fyfdayan": "bird@corplus.net"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YohooImageView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YohooImageView/Classes/**/*",
+  "dependencies": {
+    "SDWebImage": [
+
+    ],
+    "Masonry": [
+
+    ]
+  }
+}

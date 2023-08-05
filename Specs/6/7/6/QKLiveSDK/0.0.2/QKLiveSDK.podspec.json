@@ -1,0 +1,22 @@
+{
+  "name": "QKLiveSDK",
+  "version": "0.0.2",
+  "summary": "a test TimeTool.",
+  "description": "趣看直播sdk",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/QKLive",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "quklive": "yangpeng@quklive.com"
+  },
+  "platforms": {
+    "ios": null
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/QKLive.git",
+    "tag": "0.0.2"
+  },
+  "source_files": "QKLiveSDK/Classes/**/*"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "PopupDialog",
+  "version": "0.5.1",
+  "summary": "A simple custom popup dialog view controller",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/PopupDialog",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Martin Wildfeuer": "mwfire@mwfire.de"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/PopupDialog.git",
+    "tag": "0.5.1"
+  },
+  "social_media_url": "https://twitter.com/orderella",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PopupDialog/Classes/**/*",
+  "pushed_with_swift_version": "3.0"
+}

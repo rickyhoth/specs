@@ -1,0 +1,30 @@
+{
+  "name": "ShargooPodspec",
+  "version": "1.0",
+  "license": "MIT",
+  "summary": "学谷智能SDK",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ShargooSDKPods",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ShargooSDKPods.git",
+    "tag": "1.0"
+  },
+  "ios": {
+    "vendored_frameworks": "Shargoo.framework"
+  },
+  "resource_bundles": {
+    "ShargooSDKPods": [
+      "ShargooBundle.bundle"
+    ]
+  },
+  "requires_arc": true,
+  "platforms": {
+    "ios": "10.0"
+  },
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ],
+  "authors": {
+    "Twinkleo": "1050832257@qq.com"
+  }
+}

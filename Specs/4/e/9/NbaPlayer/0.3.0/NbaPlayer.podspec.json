@@ -1,0 +1,25 @@
+{
+  "name": "NbaPlayer",
+  "version": "0.3.0",
+  "summary": "This is my second Pod on Github.",
+  "authors": {
+    "Mihajlo Jezdic": "mihajlo.jezdic@gmail.com"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/NbaPlayer",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "NbaPlayer/**/*.{h,m}",
+  "frameworks": [
+    "Foundation",
+    "UIKit"
+  ],
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/NbaPlayer.git",
+    "tag": "0.3.0"
+  }
+}

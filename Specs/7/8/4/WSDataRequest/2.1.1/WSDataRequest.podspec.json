@@ -1,0 +1,27 @@
+{
+  "name": "WSDataRequest",
+  "version": "2.1.1",
+  "summary": "A http request tool encapsulated with AFNetWorking.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WSDataRequest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "王顺": "360752546@qq.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WSDataRequest.git",
+    "tag": "2.1.1"
+  },
+  "source_files": "WSDataRequest/*.{h,m}",
+  "frameworks": "Foundation",
+  "dependencies": {
+    "AFNetworking": [
+
+    ]
+  }
+}

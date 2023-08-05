@@ -1,0 +1,27 @@
+{
+  "name": "CHDropDownTextField",
+  "version": "1.0.0",
+  "summary": "A custom text field with drop-down support.",
+  "description": "                   A custom text field with drop-down support. Mainly useful for auto-complete suggestions.\n",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CHDropDownTextField",
+  "screenshots": "https://bitbucket.devops.nonprod.empf.local/scm/react/CHDropDownTextField/raw/master/Misc/animation01.gif",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Rogelio Gudino": "cananito@gmail.com",
+    "Matthew Morey": "me@matthewmorey.com",
+    "Osama Ashawa": "osama@oashawa.com"
+  },
+  "social_media_url": "https://twitter.com/cananito",
+  "platforms": {
+    "ios": null
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CHDropDownTextField.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "CHDropDownTextField/*.{h,m}",
+  "requires_arc": true
+}

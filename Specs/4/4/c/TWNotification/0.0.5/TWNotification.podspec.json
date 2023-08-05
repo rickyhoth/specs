@@ -1,0 +1,22 @@
+{
+  "name": "TWNotification",
+  "version": "0.0.5",
+  "summary": "ios style notification",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TWNotification",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "taewan": "taewan0530@daum.net"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TWNotification.git",
+    "tag": "0.0.5"
+  },
+  "source_files": "TWNotification/**/*.{swift,xib}",
+  "requires_arc": true,
+  "platforms": {
+    "ios": "8.0"
+  }
+}

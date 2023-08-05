@@ -1,0 +1,22 @@
+{
+  "name": "LewinVCRouter",
+  "version": "0.1.0",
+  "summary": "A short description of LewinVCRouter.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LewinVCRouter",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Lewin": "junxianalan@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LewinVCRouter.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LewinVCRouter/Classes/**/*"
+}

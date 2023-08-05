@@ -1,0 +1,22 @@
+{
+  "name": "FTCLibTool",
+  "version": "0.1.0",
+  "summary": "简单的一些工具方法",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/FTCLibTool",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "fangtingchao": "ftc0423@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/FTCLibTool.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FTCLibTool/Classes/**/*"
+}

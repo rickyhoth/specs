@@ -1,0 +1,23 @@
+{
+  "name": "LineCalendar",
+  "version": "1.0.1",
+  "summary": "A calendar that supports connectivity.",
+  "description": "A calendar that supports connectivity, easy to use!",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LineCalendar",
+  "license": "MIT",
+  "authors": {
+    "zhouyuan": "361102107@qq.com"
+  },
+  "platforms": {
+    "ios": null
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LineCalendar.git",
+    "tag": "1.0.1"
+  },
+  "source_files": [
+    "LineCalendar",
+    "LineCalendar.{h,m}"
+  ],
+  "exclude_files": "Classes/Exclude"
+}

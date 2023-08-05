@@ -1,0 +1,20 @@
+{
+  "name": "KMCache",
+  "version": "0.1.4",
+  "summary": "A high performance cache with key-value memory storage.",
+  "description": "A high performance cache with key-value memory storage. User can use KMCache to cache any objects they want. Two types for releasing caches, by time and by size.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/KMCache",
+  "license": "MIT",
+  "authors": {
+    "Mioke": "565408238@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/KMCache.git",
+    "tag": "0.1.4"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "KMCache/*"
+}

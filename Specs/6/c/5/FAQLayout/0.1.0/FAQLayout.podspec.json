@@ -1,0 +1,22 @@
+{
+  "name": "FAQLayout",
+  "version": "0.1.0",
+  "summary": "Returns FAQ in organised format",
+  "description": "Returns FAQ in organised format",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/FAQLayout",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Priya1404": "priya.srivastava@arvindinternet.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/FAQLayout.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FAQLayout/**/*.swift"
+}

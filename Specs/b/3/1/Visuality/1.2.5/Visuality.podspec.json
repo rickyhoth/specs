@@ -1,0 +1,25 @@
+{
+  "name": "Visuality",
+  "version": "1.2.5",
+  "summary": "Library for iOS that simplifies work with views in Swift.",
+  "description": "Visuality is a library for iOS which includes set of classes and extensions that simplify work views in Swift.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Visuality",
+  "screenshots": "https://bitbucket.devops.nonprod.empf.local/scm/react/Visuality/raw/master/Logo/logo-1024-300.png",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": "Igor Matyushkin",
+  "social_media_url": "https://twitter.com/igormatyushkin1",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Visuality.git",
+    "tag": "1.2.5"
+  },
+  "source_files": [
+    "Source",
+    "Source/**/*"
+  ]
+}

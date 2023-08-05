@@ -1,0 +1,25 @@
+{
+  "name": "KSDK2",
+  "version": "1.9.8",
+  "summary": "A short summary of KingsoftOfficeSDK.",
+  "description": "A short description of KingsoftOfficeSDK.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/KingsoftOfficeSDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wps_ios": "wps_ios@wps.cn"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/KingsoftOfficeSDK.git",
+    "tag": "1.9.8"
+  },
+  "source_files": "KingsoftOfficeSDK/*.{h,a}",
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}

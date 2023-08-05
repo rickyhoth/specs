@@ -1,0 +1,39 @@
+{
+  "name": "RXConfigManager",
+  "version": "0.3",
+  "license": "MIT",
+  "summary": "RXConfigManager is a config manager",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/RXConfigManager",
+  "authors": {
+    "Rush.D.Xzj": "xzjxylophoe@gmail.com"
+  },
+  "social_media_url": "http://weibo.com/xzjxylophone",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/RXConfigManager.git",
+    "tag": "v0.3"
+  },
+  "description": "RXConfigManager is a config manager.",
+  "source_files": "RXConfigManager/*.{h,m}",
+  "frameworks": [
+    "Foundation",
+    "UIKit"
+  ],
+  "requires_arc": true,
+  "platforms": {
+    "ios": "6.0"
+  },
+  "dependencies": {
+    "RXTableViewItem": [
+
+    ],
+    "RXPushTokenManager": [
+
+    ],
+    "RXCategory": [
+
+    ],
+    "RXInfoHelper": [
+
+    ]
+  }
+}

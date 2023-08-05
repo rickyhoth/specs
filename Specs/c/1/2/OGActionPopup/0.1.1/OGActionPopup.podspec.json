@@ -1,0 +1,23 @@
+{
+  "name": "OGActionPopup",
+  "version": "0.1.1",
+  "summary": "Tumblr-like fullscreen replacement for selecting an action (like e.g., UIActionSheet)",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/OGActionPopup",
+  "license": {
+    "type": "MIT"
+  },
+  "authors": {
+    "Jesper": "jesper@orangegroove.net"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/OGActionPopup.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source_files": "OGActionPopup",
+  "private_header_files": "OGActionPopup/OGActionPopupButton.h",
+  "frameworks": "QuartzCore",
+  "requires_arc": true
+}

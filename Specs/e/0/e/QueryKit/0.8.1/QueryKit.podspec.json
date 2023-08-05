@@ -1,0 +1,20 @@
+{
+  "name": "QueryKit",
+  "version": "0.8.1",
+  "summary": "A simple CoreData query language for Swift.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/QueryKit",
+  "license": {
+    "type": "BSD",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Kyle Fuller": "inbox@kylefuller.co.uk"
+  },
+  "social_media_url": "http://twitter.com/kylefuller",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/QueryKit.git",
+    "tag": "0.8.1"
+  },
+  "source_files": "QueryKit/*.{h,swift}",
+  "requires_arc": true
+}

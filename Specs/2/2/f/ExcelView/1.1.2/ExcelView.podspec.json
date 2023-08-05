@@ -1,0 +1,24 @@
+{
+  "name": "ExcelView",
+  "version": "1.1.2",
+  "summary": "ExcelView",
+  "description": "ExcelView",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ExcelView.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "TangGeV587": "349082502@qq.com"
+  },
+  "social_media_url": "https://bitbucket.devops.nonprod.empf.local/scm/react/ExcelView.git",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ExcelView.git",
+    "tag": "1.1.2"
+  },
+  "source_files": "ExcelViewDemo/ExcelViewDemo/ExcelView/**/*.{h,m}",
+  "requires_arc": true
+}

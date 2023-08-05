@@ -1,0 +1,27 @@
+{
+  "name": "ORSwiftUtils",
+  "version": "0.1.1",
+  "summary": "Library with helpful utils for Swift",
+  "description": "Swift extensions and utils that allow you to have clean code.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ORSwiftUtils",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Oskar Rosołowski": "oskar.rosolowski@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ORSwiftUtils.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "swift_versions": [
+    "5.0"
+  ],
+  "source_files": "ORSwiftUtils/Classes/*.swift",
+  "frameworks": "UIKit",
+  "swift_version": "5.0"
+}

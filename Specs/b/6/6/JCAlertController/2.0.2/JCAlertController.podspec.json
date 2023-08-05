@@ -1,0 +1,20 @@
+{
+  "name": "JCAlertController",
+  "version": "2.0.2",
+  "summary": "A replacement of UIAlertController",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JCAlertView",
+  "license": "MIT",
+  "authors": {
+    "HJaycee": "huangxisu@gmail.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JCAlertView.git",
+    "tag": "2.0.2"
+  },
+  "source_files": "JCAlertController/JCAlertController/**/*.{h,m}",
+  "frameworks": "Accelerate",
+  "requires_arc": true
+}

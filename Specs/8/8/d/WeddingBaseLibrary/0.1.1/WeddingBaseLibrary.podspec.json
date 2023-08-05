@@ -1,0 +1,32 @@
+{
+  "name": "WeddingBaseLibrary",
+  "version": "0.1.1",
+  "summary": "PowerCC WeddingBaseLibrary.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WeddingBaseLibrary",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zoucheng@live.cn": "zoucheng@baihe.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WeddingBaseLibrary.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source_files": "WeddingBaseLibrary/Classes/**/*",
+  "swift_versions": "5.0",
+  "dependencies": {
+    "Alamofire": [
+
+    ],
+    "Aspects": [
+
+    ]
+  },
+  "swift_version": "5.0"
+}

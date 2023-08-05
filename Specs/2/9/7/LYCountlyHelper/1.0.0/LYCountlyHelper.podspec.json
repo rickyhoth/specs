@@ -1,0 +1,39 @@
+{
+  "name": "LYCountlyHelper",
+  "version": "1.0.0",
+  "summary": "Easy usage of Countly.",
+  "description": "Easy usage of Countly.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LYCountlyHelper",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Kevin Chen": "hulala1210@gmail.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LYCountlyHelper.git",
+    "tag": "1.0.0"
+  },
+  "source_files": [
+    "Classes",
+    "Classes/**/*.{h,m}",
+    "Classes/*.{h,m}"
+  ],
+  "exclude_files": "Classes/Exclude",
+  "frameworks": [
+    "Foundation",
+    "UIKit"
+  ],
+  "dependencies": {
+    "Countly": [
+      "~> 19.08"
+    ],
+    "YYKit": [
+
+    ]
+  }
+}

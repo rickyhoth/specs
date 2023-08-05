@@ -1,0 +1,24 @@
+{
+  "name": "IIAsyncViewController",
+  "platforms": {
+    "ios": 7.0
+  },
+  "version": "1.0.1",
+  "summary": "A UIViewController subclass specifically geared toward async data fetching.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/IIAsyncViewController",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "social_media_url": "https://twitter.com/inferis",
+  "authors": {
+    "Tom Adriaenssen": "http://inferis.org/"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/IIAsyncViewController.git",
+    "tag": "1.0.1"
+  },
+  "source_files": "IIAsyncViewController/**/*.{h,m}",
+  "private_header_files": "IIAsyncViewController/Private/*.h",
+  "requires_arc": true
+}

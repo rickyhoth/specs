@@ -1,0 +1,23 @@
+{
+  "name": "iOSClientPlayer",
+  "version": "3.0.500",
+  "summary": "RedBeeMedia iOS SDK Player Module",
+  "homepage": "https://github.com/EricssonBroadcastServices",
+  "license": {
+    "type": "Apache",
+    "file": "https://bitbucket.devops.nonprod.empf.local/scm/react/iOSClientPlayer/blob/master/LICENSE"
+  },
+  "authors": {
+    "EMP": "jenkinsredbee@gmail.com"
+  },
+  "documentation_url": "https://bitbucket.devops.nonprod.empf.local/scm/react/iOSClientPlayer/tree/master/Documentation",
+  "platforms": {
+    "ios": "9.0",
+    "tvos": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/iOSClientPlayer.git",
+    "tag": "v3.0.500"
+  },
+  "source_files": "Sources/iOSClientPlayer/**/*.swift"
+}

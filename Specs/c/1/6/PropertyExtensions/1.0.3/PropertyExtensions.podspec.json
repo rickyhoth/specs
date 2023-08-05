@@ -1,0 +1,27 @@
+{
+  "name": "PropertyExtensions",
+  "version": "1.0.3",
+  "summary": "Add Stored Properties In Swift Class Extensions",
+  "description": "PropertyExtensions allows you to dynamically add properties to your class extensions.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/PropertyExtensions",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Brad Hilton": "brad@skyvive.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/PropertyExtensions.git",
+    "tag": "1.0.3"
+  },
+  "platforms": {
+    "ios": "8.0",
+    "osx": "10.9"
+  },
+  "source_files": [
+    "PropertyExtensions",
+    "PropertyExtensions/**/*.{swift,h,m}"
+  ],
+  "requires_arc": true
+}

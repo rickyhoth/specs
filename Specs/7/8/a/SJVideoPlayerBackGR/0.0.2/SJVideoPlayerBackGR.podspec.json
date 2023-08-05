@@ -1,0 +1,24 @@
+{
+  "name": "SJVideoPlayerBackGR",
+  "version": "0.0.2",
+  "summary": "Custom return gestures for video players.",
+  "description": "https://bitbucket.devops.nonprod.empf.local/scm/react/README.md",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SJVideoPlayerBackGR",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE.md"
+  },
+  "authors": {
+    "SanJiang": "changsanjiang@gmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SJVideoPlayerBackGR.git",
+    "tag": "v0.0.2"
+  },
+  "source_files": "SJVideoPlayerBackGR/*.{h,m}",
+  "requires_arc": true,
+  "deprecated": true
+}

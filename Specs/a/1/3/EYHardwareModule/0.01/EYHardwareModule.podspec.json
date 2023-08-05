@@ -1,0 +1,23 @@
+{
+  "name": "EYHardwareModule",
+  "version": "0.01",
+  "summary": "good good sdk",
+  "description": "yf的framework",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/EYHardwareModule.podspec",
+  "license": "MIT",
+  "authors": {
+    "yf": ""
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YFSDK.git",
+    "tag": "0.01"
+  },
+  "dependencies": {
+    "SnapKit": [
+
+    ]
+  }
+}

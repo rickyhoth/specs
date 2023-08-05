@@ -1,0 +1,32 @@
+{
+  "name": "MapKitSearchView",
+  "version": "1.0.1",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "summary": "An implementation of Apples Map search view.",
+  "description": "Standalone view controller for searching and finding places.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/mapkit-search-view",
+  "authors": {
+    "Philip Bui": "philip.bui.developer@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/mapkit-search-view.git",
+    "tag": "1.0.1"
+  },
+  "documentation_url": "https://bitbucket.devops.nonprod.empf.local/scm/react/mapkit-search-view",
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source_files": [
+    "Sources/*/*",
+    "Sources/*.swift"
+  ],
+  "screenshots": [
+    "https://bitbucket.devops.nonprod.empf.local/scm/react/MapKit.png",
+    "https://bitbucket.devops.nonprod.empf.local/scm/react/MapKit_Completions.png",
+    "https://bitbucket.devops.nonprod.empf.local/scm/react/MapKit_MapItems.png"
+  ],
+  "swift_version": "4.2"
+}

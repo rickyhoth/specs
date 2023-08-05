@@ -1,0 +1,29 @@
+{
+  "name": "FlieBoard",
+  "version": "1.1.5",
+  "summary": "an Animate on iOS.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/FlieBoard",
+  "license": {
+    "type": "MIT",
+    "file": "FILE_LICENSE"
+  },
+  "authors": {
+    "赵阳": "mailyzhao@163.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/FlieBoard.git",
+    "tag": "1.1.5"
+  },
+  "source_files": [
+    "ZYFlipViewController",
+    "ZYFlipViewController/*.{h,m}"
+  ],
+  "frameworks": [
+    "UIKit",
+    "AudioToolbox"
+  ],
+  "requires_arc": true
+}

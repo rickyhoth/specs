@@ -1,0 +1,22 @@
+{
+  "name": "PLLComponent",
+  "version": "0.2.1",
+  "summary": "PLLComponent.",
+  "description": "this is a good component.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/PLLComponent",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yuanxinliang": "306619887@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/PLLComponent.git",
+    "tag": "0.2.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PLLComponent/Classes/**/*"
+}

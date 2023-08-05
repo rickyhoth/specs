@@ -1,0 +1,19 @@
+{
+  "name": "CEPopupPickerView",
+  "version": "0.1",
+  "license": "MIT",
+  "summary": "A UIPickerView that pops up, just like the Facebook app.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CEPopupPickerView",
+  "authors": {
+    "Chris Eidhof": "chris@eidhof.nl"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CEPopupPickerView.git",
+    "tag": "v0.1"
+  },
+  "platforms": {
+    "ios": null
+  },
+  "requires_arc": true,
+  "source_files": "CEPopupPickerView/CEPopupPickerView.{h,m}"
+}

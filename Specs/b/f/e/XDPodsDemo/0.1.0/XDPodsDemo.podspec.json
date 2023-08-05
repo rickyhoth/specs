@@ -1,0 +1,22 @@
+{
+  "name": "XDPodsDemo",
+  "version": "0.1.0",
+  "summary": "XDPodsDemo.",
+  "description": "test XDPodsDemo syj",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/XDPodsDemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "sunyujuan": "sunyujuan@hys-inc.cn"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/XDPodsDemo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "XDPodsDemo/XDPodsDemo/Classes/**/*"
+}

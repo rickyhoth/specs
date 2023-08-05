@@ -1,0 +1,21 @@
+{
+  "name": "AutoView",
+  "version": "0.0.4",
+  "summary": "AutoView",
+  "description": "AutoView is iOS.  add doc",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AutoView",
+  "license": "MIT",
+  "authors": {
+    "ylang": "yangjw.kai7@gmail.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AutoView.git",
+    "tag": "0.0.4"
+  },
+  "source_files": "AutoView/*",
+  "frameworks": "UIKit",
+  "requires_arc": true
+}

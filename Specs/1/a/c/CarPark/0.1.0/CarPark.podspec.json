@@ -1,0 +1,25 @@
+{
+  "name": "CarPark",
+  "version": "0.1.0",
+  "summary": "Checking Available Cark Parking At Singapore",
+  "description": "Checking Available Cark Parking At Singapore. Install",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CarPark",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "herlanggawibi": "wibiherlangga01@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CarPark.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "swift_versions": "4.0",
+  "source_files": "CarPark/Classes/**/*",
+  "frameworks": "UIKit",
+  "swift_version": "4.0"
+}

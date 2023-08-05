@@ -1,0 +1,25 @@
+{
+  "name": "YCCache",
+  "version": "0.0.2",
+  "summary": "A cache library for iOS.",
+  "authors": {
+    "Yuchuan": "418214922@qq.com"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/YCCache",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YCCache.git",
+    "tag": "0.0.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": [
+    "YCCache",
+    "YCCache/**/*.{h,m}"
+  ]
+}

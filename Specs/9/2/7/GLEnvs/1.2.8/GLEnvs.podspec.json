@@ -1,0 +1,22 @@
+{
+  "name": "GLEnvs",
+  "version": "1.2.8",
+  "summary": "GLEnvs By liguoliang",
+  "description": "GLEnvs can change app host environment , very easy !!!\nby liguoliang 36617161@qq.com",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/GLEnvs",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "liguoliang": "36617161@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/GLEnvs.git",
+    "tag": "1.2.8"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "GLEnvs/Classes/**/*"
+}

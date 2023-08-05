@@ -1,0 +1,21 @@
+{
+  "name": "NXOAuth2Client",
+  "version": "1.1.0",
+  "license": "BSD",
+  "summary": "Client library for OAuth2 (currently built against draft 10 of the OAuth2 spec).",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/OAuth2Client",
+  "authors": {
+    "nxtbgthng": "team@nxtbgthng.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/OAuth2Client.git",
+    "tag": "v1.1.0"
+  },
+  "source_files": [
+    "NXOAuth2Account+Private.h",
+    "Sources/",
+    "Sources/OAuth2Client/"
+  ],
+  "frameworks": "Security",
+  "requires_arc": true
+}

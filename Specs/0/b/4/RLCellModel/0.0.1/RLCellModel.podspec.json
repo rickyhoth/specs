@@ -1,0 +1,17 @@
+{
+  "name": "RLCellModel",
+  "version": "0.0.1",
+  "license": "MIT",
+  "summary": "An elegant way to create a TableView",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/RLCellModel",
+  "authors": "liang37038",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/RLCellModel.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "RLCellModelProject/RLCellModel/*",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true
+}

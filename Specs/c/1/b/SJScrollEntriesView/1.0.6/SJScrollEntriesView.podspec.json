@@ -1,0 +1,29 @@
+{
+  "name": "SJScrollEntriesView",
+  "version": "1.0.6",
+  "summary": "scrollEntriesView.",
+  "description": "https://bitbucket.devops.nonprod.empf.local/scm/react/SJScrollEntriesView/blob/master/README.md",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SJScrollEntriesView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE.md"
+  },
+  "authors": {
+    "SanJiang": "changsanjiang@gmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SJScrollEntriesView.git",
+    "tag": "v1.0.6"
+  },
+  "source_files": "SJScrollEntriesView/*.{h,m}",
+  "frameworks": "UIKit",
+  "requires_arc": true,
+  "dependencies": {
+    "Masonry": [
+
+    ]
+  }
+}

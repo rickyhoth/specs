@@ -1,0 +1,29 @@
+{
+  "name": "NQLibrary",
+  "version": "0.1.1",
+  "summary": "This is collection my libraries.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/NQLibrary",
+  "license": "MIT",
+  "authors": {
+    "Quan Nguyen Van": "quannv.tm@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/NQLibrary.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "NQLibrary": [
+      "Pod/Assets/*.png"
+    ]
+  },
+  "dependencies": {
+    "AFNetworking": [
+
+    ]
+  }
+}

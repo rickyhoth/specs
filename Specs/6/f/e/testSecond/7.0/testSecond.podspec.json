@@ -1,0 +1,19 @@
+{
+  "name": "testSecond",
+  "version": "7.0",
+  "summary": "test",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/testSecond",
+  "license": "MIT",
+  "authors": {
+    "yy": "yycodet@aliyun.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/testSecond.git",
+    "tag": "7.0"
+  },
+  "source_files": "testSecond/**/*.swift",
+  "requires_arc": true
+}

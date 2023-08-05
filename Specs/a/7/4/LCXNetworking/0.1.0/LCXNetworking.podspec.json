@@ -1,0 +1,23 @@
+{
+  "name": "LCXNetworking",
+  "version": "0.1.0",
+  "summary": "demo of LCXNetworking.",
+  "description": "TODO:  long description.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LCXNetworking",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xcodemanlcx": "leichunxiang58@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LCXNetworking.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LCXNetworking/Classes/**/*",
+  "deprecated": true
+}

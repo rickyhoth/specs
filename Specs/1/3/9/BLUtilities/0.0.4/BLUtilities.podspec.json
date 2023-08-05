@@ -1,0 +1,21 @@
+{
+  "name": "BLUtilities",
+  "version": "0.0.4",
+  "summary": "BLUtilities",
+  "description": "A Framework with my utilities",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/blutilities",
+  "license": "MIT",
+  "authors": {
+    "blackleg": "blackleg@openaliasbox.org"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/blutilities.git",
+    "tag": "0.0.4"
+  },
+  "source_files": "BLUtilities/BLUtilities/*.{h,m}",
+  "exclude_files": "Classes/Exclude",
+  "requires_arc": true
+}

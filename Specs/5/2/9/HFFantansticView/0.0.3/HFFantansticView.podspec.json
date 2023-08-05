@@ -1,0 +1,23 @@
+{
+  "name": "HFFantansticView",
+  "version": "0.0.3",
+  "summary": "A background view that keeps changing its colors.",
+  "description": "This library changes the background color of your view in a circular fashion",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HFFantansticView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Hassaan Fayyaz": "hassaanfayyaz@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HFFantansticView.git",
+    "tag": "0.0.3"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source_files": "FantasticView.swift",
+  "requires_arc": true
+}

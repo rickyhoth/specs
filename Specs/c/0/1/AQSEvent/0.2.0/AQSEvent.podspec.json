@@ -1,0 +1,19 @@
+{
+  "name": "AQSEvent",
+  "version": "0.2.0",
+  "summary": "[iOS] A helper for Measurement Events",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AQSEvent",
+  "license": "MIT",
+  "authors": {
+    "kaiinui": "lied.der.optik@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AQSEvent.git",
+    "tag": "v0.2.0"
+  },
+  "source_files": "AQSEvent/Classes/**/*.{h,m}",
+  "requires_arc": true,
+  "platforms": {
+    "ios": "7.0"
+  }
+}

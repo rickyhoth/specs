@@ -1,0 +1,22 @@
+{
+  "name": "LNBRippleEffect",
+  "version": "0.1.0",
+  "summary": "Create a Tinder-like button with ripple animation.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LNBRippleEffect",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Bharath Lalgudi Natarajan": "iosdevbharath@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LNBRippleEffect.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source_files": "*.{h,m}",
+  "requires_arc": true
+}

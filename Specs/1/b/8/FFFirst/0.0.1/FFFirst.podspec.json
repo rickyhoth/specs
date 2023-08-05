@@ -1,0 +1,22 @@
+{
+  "name": "FFFirst",
+  "version": "0.0.1",
+  "summary": "Just a demo",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/FFFirst",
+  "license": "MIT",
+  "authors": {
+    "刘凡": "liufan321@gmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/FFFirst.git",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "FFFirst",
+    "FFFirst/框架程序/*.{h,m}"
+  ],
+  "requires_arc": true
+}

@@ -1,0 +1,23 @@
+{
+  "name": "HHEAColourfulProgressView",
+  "version": "0.0.3",
+  "summary": "a progressView in masonry.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HHEAColourfulProgressView",
+  "license": "MIT",
+  "authors": {
+    "HH-Medic": "HHMedic@HH-Medic.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HHEAColourfulProgressView.git",
+    "tag": "0.0.3"
+  },
+  "source_files": "EAColourfulProgressView/*.{h,m}",
+  "dependencies": {
+    "Masonry": [
+
+    ]
+  }
+}

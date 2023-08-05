@@ -1,0 +1,23 @@
+{
+  "name": "TestRepoPJ",
+  "version": "0.1.0",
+  "summary": "TestRepo is a test repo",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TestRopo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "PeterJ": "pj@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TestRopo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TestRepo/Classes/**/*",
+  "deprecated": true
+}

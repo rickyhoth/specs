@@ -1,0 +1,19 @@
+{
+  "name": "ZXZTools",
+  "version": "0.0.1",
+  "summary": "ZXZTools.",
+  "description": "up_tech@sina.com 实验ZXZTools",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/XZTools",
+  "license": "MIT",
+  "authors": {
+    "up_tech": "up_tech@sina.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/XZTools.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "XZTools/**/*.{h,m}"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "DSON",
+  "version": "1.0.1",
+  "summary": "Damouse's GSON for Swift: type-based value conversion",
+  "description": "Damouse's GSON for Swift: type-based value conversion.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DSON",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Mickey Barboi": "mickey.barboi@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DSON.git",
+    "tag": "1.0.1"
+  },
+  "platforms": {
+    "ios": "8.0",
+    "osx": "10.9"
+  },
+  "source_files": [
+    "DSON",
+    "DSON/**/*.{swift,h,m}"
+  ],
+  "requires_arc": true
+}

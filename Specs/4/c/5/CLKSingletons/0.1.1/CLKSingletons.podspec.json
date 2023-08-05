@@ -1,0 +1,19 @@
+{
+  "name": "CLKSingletons",
+  "version": "0.1.1",
+  "summary": "CLKSingletons provides an elegant macro for declaring singletons in your iOS app.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CLKSingletons",
+  "license": "MIT",
+  "authors": {
+    "tsheaff": "tyler@clinkle.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CLKSingletons.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes"
+}

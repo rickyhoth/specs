@@ -1,0 +1,25 @@
+{
+  "name": "MRKViper",
+  "version": "1.0.1",
+  "summary": "MRKTrace library for VIPER development",
+  "description": "With this library you will be able to create a VIPER arquitecture with ease",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MRKViper",
+  "license": "MIT",
+  "authors": {
+    "MRKTrace": "mrktrace@gmail.com"
+  },
+  "social_media_url": "http://twitter.com/OfficiaMRKTrace",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MRKViper.git",
+    "tag": "1.0.1"
+  },
+  "subspecs": [
+    {
+      "name": "viper",
+      "source_files": "mrkViper/src/**/*.swift"
+    }
+  ]
+}

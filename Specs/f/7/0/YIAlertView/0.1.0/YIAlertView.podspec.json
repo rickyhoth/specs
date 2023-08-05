@@ -1,0 +1,22 @@
+{
+  "name": "YIAlertView",
+  "version": "0.1.0",
+  "summary": "A short description of YIAlertView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/YIAlertView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yiios": "limo@yiios.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YIAlertView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "YIAlertView/Classes/**/*"
+}

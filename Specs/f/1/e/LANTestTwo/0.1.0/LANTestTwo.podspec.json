@@ -1,0 +1,22 @@
+{
+  "name": "LANTestTwo",
+  "version": "0.1.0",
+  "summary": "HelloWorld",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LANTestTwo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "dafeilan@163.com": "lanpengfei"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LANTestTwo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LANTestTwo/Classes/**/*"
+}

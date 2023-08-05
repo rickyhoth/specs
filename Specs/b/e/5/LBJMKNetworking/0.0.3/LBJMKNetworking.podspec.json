@@ -1,0 +1,19 @@
+{
+  "name": "LBJMKNetworking",
+  "version": "0.0.3",
+  "summary": "about MKNetworking",
+  "description": "heiheihiehi",
+  "platforms": {
+    "ios": null
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LBJMKNetworking",
+  "license": "MIT",
+  "authors": {
+    "xiaoiu": "xiaoniu@xlingmao.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LBJMKNetworking.git",
+    "commit": "474a125c69f9eaeef7c5022ea21a96d6253632f5"
+  },
+  "source_files": "LBJMKNetworking/LBJMKNetworking/Classes/**/*.{h,m}"
+}

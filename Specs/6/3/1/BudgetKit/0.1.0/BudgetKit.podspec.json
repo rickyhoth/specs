@@ -1,0 +1,23 @@
+{
+  "name": "BudgetKit",
+  "version": "0.1.0",
+  "summary": "A Wrapper for the YNAB API.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/BudgetKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Stuart Daubenmire": "dauby88@icloud.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/BudgetKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source_files": "BudgetKit/Classes/**/*",
+  "frameworks": "SafariServices"
+}

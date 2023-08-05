@@ -1,0 +1,24 @@
+{
+  "name": "SBLineView",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "version": "0.1.1",
+  "summary": "A minimalist, designable line chart view in Swift",
+  "requires_arc": true,
+  "description": "Creates customizable interactive line charts using the common datasource and delegate protocol pattern.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SBLineView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": "Stefan",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SBLineView.git",
+    "tag": "0.1.1"
+  },
+  "social_media_url": "https://twitter.com/BrittonStefan",
+  "frameworks": "UIKit",
+  "source_files": "SBLineView/**/*.{swift}",
+  "pushed_with_swift_version": "3.0"
+}

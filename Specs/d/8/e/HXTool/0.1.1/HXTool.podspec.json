@@ -1,0 +1,23 @@
+{
+  "name": "HXTool",
+  "version": "0.1.1",
+  "summary": "OC工具合集",
+  "description": "简化OC工具合集",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HXTool",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Insofan": "insofan3156@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HXTool.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HXTool/Classes/**/*",
+  "frameworks": "UIKit"
+}

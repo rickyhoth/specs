@@ -1,0 +1,23 @@
+{
+  "name": "DistActionSheet",
+  "version": "1.0.4",
+  "summary": "Like WeChat ActionSheet",
+  "authors": {
+    "Damrin": "75081647@qq.com"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DistActionSheet",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DistActionSheet.git",
+    "tag": "1.0.4"
+  },
+  "license": "MIT",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": [
+    "DistActionSheet",
+    "DistActionSheet/**/*.{h,m}"
+  ],
+  "frameworks": "UIKit"
+}

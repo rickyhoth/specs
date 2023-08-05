@@ -1,0 +1,21 @@
+{
+  "name": "BDGCategories",
+  "version": "0.0.9",
+  "summary": "Incredibly useful categories for any xCode project",
+  "license": "MIT",
+  "description": "Really useful categories to use in every xCode project on UIView, UIImage, NSDate, NSDateFormatter, etc",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/BDGCategories",
+  "authors": {
+    "Bob de Graaf": "graafict@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/BDGCategories.git",
+    "tag": "0.0.9"
+  },
+  "source_files": "*.{h,m}",
+  "frameworks": "Accelerate",
+  "platforms": {
+    "ios": null
+  },
+  "requires_arc": "true"
+}

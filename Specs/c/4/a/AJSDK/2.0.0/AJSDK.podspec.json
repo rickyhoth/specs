@@ -1,0 +1,24 @@
+{
+  "name": "AJSDK",
+  "version": "2.0.0",
+  "summary": "My first sdk of AJSDK.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AJSDK",
+  "license": "MIT",
+  "authors": {
+    "liubingye": "liubingye@eakay.cn"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AJSDK.git",
+    "tag": "2.0.0"
+  },
+  "source_files": [
+    "AJSDK",
+    "MySDK/**/*.{h,m}"
+  ],
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}

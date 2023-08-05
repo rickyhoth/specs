@@ -1,0 +1,24 @@
+{
+  "name": "AcknowledgementsPlist",
+  "version": "0.0.2",
+  "summary": "AcknowledgementsPlist manages the licenses of libraries that depend on your iOS app.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AcknowledgementsPlist",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Takuma Horiuchi": "horitaku46@gmail.com"
+  },
+  "source": {
+    "http": "https://bitbucket.devops.nonprod.empf.local/scm/react/AcknowledgementsPlist.zip"
+  },
+  "preserve_paths": "*",
+  "exclude_files": "**/file.zip",
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}

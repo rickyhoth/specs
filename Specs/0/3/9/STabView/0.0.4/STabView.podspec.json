@@ -1,0 +1,22 @@
+{
+  "name": "STabView",
+  "version": "0.0.4",
+  "summary": "选项卡.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/STabView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "cs": "angelcs1990@sohu.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/STabView.git",
+    "tag": "0.0.4"
+  },
+  "source_files": "STabView/**/*.{h,m}",
+  "requires_arc": true
+}

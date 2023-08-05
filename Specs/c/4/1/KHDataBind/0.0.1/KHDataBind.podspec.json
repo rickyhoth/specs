@@ -1,0 +1,28 @@
+{
+  "name": "KHDataBind",
+  "version": "0.0.1",
+  "summary": "using KVO to binding a data model with view",
+  "description": "to make table view auto sync from a array",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/KHDataBind",
+  "license": {
+    "type": "MIT"
+  },
+  "authors": {
+    "GevinChen": "lowgoo@gmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/KHDataBind.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "KHDataBind/*",
+  "ios": {
+    "frameworks": [
+      "Foundation",
+      "UIKit"
+    ]
+  },
+  "requires_arc": true
+}

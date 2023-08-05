@@ -1,0 +1,29 @@
+{
+  "name": "DeformationButton",
+  "version": "1.1",
+  "summary": "Share loading button",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DeformationButton",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "LuciusLu": "luckysixdays@gmail.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DeformationButton.git",
+    "tag": "v1.1"
+  },
+  "source_files": [
+    "Source/MMMaterialDesignSpinner-master/*.{h,m}",
+    "Source/*.{h,m}"
+  ],
+  "requires_arc": true,
+  "frameworks": [
+    "Foundation",
+    "UIKit"
+  ]
+}

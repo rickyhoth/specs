@@ -1,0 +1,23 @@
+{
+  "name": "PSAlignmentLayout",
+  "version": "1.0.0",
+  "summary": "A subclass of UICollectionViewFlowLayout that layout UICollectionViewCell as float layout.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/PSAlignmentLayout",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "swx": "swxpat@qq.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/PSAlignmentLayout.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "PSAlignmentLayout/*.{h,m}",
+  "frameworks": "UIKit",
+  "requires_arc": true
+}

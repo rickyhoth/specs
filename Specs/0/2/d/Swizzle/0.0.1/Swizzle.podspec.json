@@ -1,0 +1,19 @@
+{
+  "name": "Swizzle",
+  "version": "0.0.1",
+  "license": {
+    "type": "MIT"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Swizzle",
+  "authors": {
+    "Yasuhiro Inami": "inamiy@gmail.com"
+  },
+  "summary": "Method-Swizzling for Swift.",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Swizzle.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "Swizzle/*.{h,swift}",
+  "frameworks": "Swift",
+  "requires_arc": true
+}

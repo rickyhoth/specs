@@ -1,0 +1,24 @@
+{
+  "name": "CBPhotoPicker",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "summary": "CBPhotoPicker is a customizable photo picker view controller for iOS -- Swift",
+  "requires_arc": true,
+  "version": "0.1.25",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Benjamin Hendricks": "hendricksbenjamin@gmail.com"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CBPhotoPicker",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CBPhotoPicker.git",
+    "tag": "0.1.25"
+  },
+  "frameworks": "UIKit",
+  "source_files": "CBPhotoPicker/**/*.{swift}",
+  "resources": "CBPhotoPicker/**/*.{png,jpeg,jpg,storyboard,xib}"
+}

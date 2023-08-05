@@ -1,0 +1,20 @@
+{
+  "name": "Rome",
+  "version": "0.19.0.55",
+  "summary": "A cache tool for Carthage",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Rome",
+  "source": {
+    "http": "https://bitbucket.devops.nonprod.empf.local/scm/react/Rome/releases/download/v0.19.0.55/rome.zip"
+  },
+  "preserve_paths": "*",
+  "authors": "Tommaso Piazza",
+  "license": {
+    "type": "MIT"
+  },
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "name": "ODX.Serialization",
+  "version": "1.5.0",
+  "summary": "Utility classes for serialization Objective-C objects.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ODX.Serialization",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE.txt"
+  },
+  "authors": {
+    "Alexey Nazaroff": "alexx.nazaroff@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ODX.Serialization.git",
+    "tag": "1.5.0"
+  },
+  "platforms": {
+    "ios": "5.0",
+    "osx": "10.6",
+    "watchos": "1.0"
+  },
+  "source_files": "src/**/*",
+  "requires_arc": true,
+  "dependencies": {
+    "ODX.Core": [
+      "~> 1.5"
+    ],
+    "ODObjCRuntime": [
+      "~> 1.1"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "OCAvoidNilCategory",
+  "version": "0.0.1",
+  "summary": "OCAvoidNilCategory nil.",
+  "description": "provide  categories for iOS developer.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/OCExictNilCategory",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lianxiang1": "237807878@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/OCExictNilCategory.git",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "OCAvoidNilCate",
+    " OCAvoidNilCategory/OCAvoidNilCate/**/*.{h,m}"
+  ],
+  "exclude_files": "OCAvoidNilCate/Exclude",
+  "requires_arc": true
+}

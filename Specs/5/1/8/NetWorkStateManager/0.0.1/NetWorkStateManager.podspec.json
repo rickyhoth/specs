@@ -1,0 +1,22 @@
+{
+  "name": "NetWorkStateManager",
+  "version": "0.0.1",
+  "summary": "Network state handle for iOS.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/NetWorkStateManager",
+  "license": "BSD",
+  "authors": {
+    "FlameGrace": "flamegrace@hotmail.com"
+  },
+  "platforms": {
+    "ios": "5.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/NetWorkStateManager.git",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "NetWorkStateManager",
+    "NetWorkStateManager/**/*.{h,m}"
+  ],
+  "public_header_files": "NetWorkStateManager/**/*.h"
+}

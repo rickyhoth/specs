@@ -1,0 +1,22 @@
+{
+  "name": "XMRacMVVM",
+  "version": "0.1.0",
+  "summary": "XMRacMVVM.",
+  "description": "RAC的简单应用MVVM",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/XMRacMVVM.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhangxiaomeng1": "921996026@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/XMRacMVVM.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "XMRacMVVM/Classes/**/*"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "FTAdBaseAdapter",
+  "version": "1.0.0.3",
+  "summary": "Base a Adapter",
+  "description": "It is a FTAdBaseAdapter used on iOS, which implement by Objective-C.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/monetize-sdk-ios",
+  "license": {
+    "type": "MIT"
+  },
+  "authors": {
+    "liushuai-fotoable": "liushuai@fotoable.com"
+  },
+  "source": {
+    "http": "https://bitbucket.devops.nonprod.empf.local/scm/react/FTAdBaseAdapter-1.0.0.3.zip"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "requires_arc": true,
+  "vendored_frameworks": "*.framework"
+}

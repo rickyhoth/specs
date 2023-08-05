@@ -1,0 +1,18 @@
+{
+  "name": "MarkupKit",
+  "version": "2.4.1",
+  "summary": "Declarative UI for iOS applications",
+  "description": "MarkupKit is a framework for simplifying development of native iOS applications. It allows\ndevelopers to construct user interfaces declaratively using a human-readable markup language,\nrather than programmatically in code or interactively using a visual modeling tool such as\nInterface Builder.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MarkupKit",
+  "license": "Apache License, Version 2.0",
+  "authors": "Greg Brown",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MarkupKit.git",
+    "tag": "2.4.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "MarkupKit/*.{h,m}"
+}

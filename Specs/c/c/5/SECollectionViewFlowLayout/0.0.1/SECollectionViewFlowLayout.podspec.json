@@ -1,0 +1,19 @@
+{
+  "name": "SECollectionViewFlowLayout",
+  "version": "0.0.1",
+  "authors": {
+    "Chris Wendel": "chriwend@umich.edu"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SECollectionViewFlowLayout",
+  "summary": "A flow layout for UICollectionView that implements swiping-to-select gestures",
+  "license": "MIT",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SECollectionViewFlowLayout.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "SECollectionViewFlowLayout/PodFiles/SECollectionViewFlowLayout.{h,m}",
+  "platforms": {
+    "ios": "6.0"
+  },
+  "requires_arc": true
+}

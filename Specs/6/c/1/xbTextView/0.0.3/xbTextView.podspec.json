@@ -1,0 +1,25 @@
+{
+  "name": "xbTextView",
+  "swift_versions": "5.0",
+  "version": "0.0.3",
+  "summary": "xbTextView.",
+  "description": "一个带placeholder的textView，很好用！",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/xbTextView",
+  "license": "MIT",
+  "authors": {
+    "FXiaobin": "527256662@qq.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/xbTextView.git",
+    "tag": "0.0.3"
+  },
+  "source_files": [
+    "xbTextView",
+    "xbTextView/*.{swift}"
+  ],
+  "exclude_files": "xbTextView/Exclude",
+  "swift_version": "5.0"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "CodeButton",
+  "version": "0.0.1",
+  "license": "MIT",
+  "summary": "Verification code countdown",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CodeButton",
+  "authors": {
+    "": "dantesx2012@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CodeButton",
+    "tag": "0.0.1"
+  },
+  "requires_arc": true,
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source_files": "CodeButton/*.{h,m}"
+}

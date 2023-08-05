@@ -1,0 +1,19 @@
+{
+  "name": "Respinner",
+  "version": "0.0.1",
+  "license": "MIT",
+  "summary": "Simple, customizable spinning refresh control written in Swift.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Respinner",
+  "authors": {
+    "Konstantin Kabanov": "konstantin@rktstudio.ru"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Respinner.git",
+    "tag": "0.0.1"
+  },
+  "requires_arc": true,
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Respinner.swift"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Jukebox",
+  "version": "0.1.3",
+  "summary": "Jukebox is an iOS audio player written in Swift.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Jukebox",
+  "license": "MIT",
+  "authors": {
+    "Teodor Patras": "me@teodorpatras.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Jukebox.git",
+    "tag": "0.1.3"
+  },
+  "social_media_url": "https://twitter.com/teodorpatras",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "Source/*.swift",
+  "frameworks": [
+    "Foundation",
+    "AVFoundation",
+    "MediaPlayer"
+  ]
+}

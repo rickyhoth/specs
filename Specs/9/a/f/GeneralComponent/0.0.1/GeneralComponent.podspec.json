@@ -1,0 +1,24 @@
+{
+  "name": "GeneralComponent",
+  "version": "0.0.1",
+  "license": "MIT",
+  "summary": "An Animate Water view on iOS.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/GeneralComponent",
+  "authors": {
+    "YunlongJia": "mhxyzzs@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/GeneralComponent.git",
+    "tag": "0.0.1"
+  },
+  "requires_arc": true,
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Demo/HttpClient/*.{h,m}",
+  "dependencies": {
+    "AFNetworking": [
+
+    ]
+  }
+}

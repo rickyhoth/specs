@@ -1,0 +1,31 @@
+{
+  "name": "MiGuHT",
+  "version": "0.1.7",
+  "summary": "传神&咪咕灵犀口译项目",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MiGuHT",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "jackie": "jackie.jiang@transn.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MiGuHT",
+    "tag": "0.1.7"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "vendored_frameworks": "MiGuHT.framework",
+  "resources": "MiGuHT.bundle",
+  "dependencies": {
+    "TransnSDK": [
+
+    ],
+    "Masonry": [
+
+    ]
+  }
+}

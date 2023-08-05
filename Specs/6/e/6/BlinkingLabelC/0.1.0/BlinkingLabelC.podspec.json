@@ -1,0 +1,22 @@
+{
+  "name": "BlinkingLabelC",
+  "version": "0.1.0",
+  "summary": "demo using BlinkingLabelC.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/BlinkingLabelC",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yasodha": "yasodha.r@inxsasia.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/BlinkingLabelC.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "BlinkingLabelC/Classes/**/*"
+}

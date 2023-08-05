@@ -1,0 +1,21 @@
+{
+  "name": "firstLib",
+  "version": "0.1.2",
+  "summary": "just to start a lib.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/firstLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "noangel": "1432694660@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/firstLib.git",
+    "tag": "0.1.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "firstLib/Classes/**/*"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "UIBinder",
+  "version": "0.1.4",
+  "summary": "UIBinder is library that can help in binding object to view dynamically.",
+  "description": "UIBinder is library that can help in binding object to view dynamically.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/UIBinder",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "MohamedMatloub": "mohamed.a.matloub@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/UIBinder.git",
+    "tag": "0.1.4"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "UIBinder/Classes/**/*",
+  "dependencies": {
+    "AlamofireImage": [
+      "~> 3.1"
+    ]
+  },
+  "pushed_with_swift_version": "3.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "PrettySegue",
+  "version": "0.1",
+  "summary": "Pretty Storyboard segues with closures.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/PrettySegue",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Stan H": "shomishinec@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/PrettySegue.git",
+    "tag": "0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Source/*.swift",
+  "frameworks": "UIKit",
+  "pushed_with_swift_version": "3.0"
+}

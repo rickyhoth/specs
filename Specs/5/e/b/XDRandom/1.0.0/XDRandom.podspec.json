@@ -1,0 +1,24 @@
+{
+  "name": "XDRandom",
+  "version": "1.0.0",
+  "summary": "随机分整",
+  "description": "把一个整数随机分为 n 份",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/XDRandom",
+  "license": "MIT",
+  "authors": {
+    "xiexingda": "779656694@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/XDRandom.git",
+    "tag": "1.0.0"
+  },
+  "source_files": [
+    "XDRandom",
+    "XDRandom/XDRandom/*.{h,m}"
+  ],
+  "exclude_files": "XDRandom/Exclude",
+  "requires_arc": true
+}

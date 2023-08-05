@@ -1,0 +1,22 @@
+{
+  "name": "GDCategory",
+  "version": "0.1.1",
+  "summary": "some category for guangdian",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/GDCategory",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "binbins": "gddabinbin@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/GDCategory.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "GDCategory/Classes/**/*"
+}

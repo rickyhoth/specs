@@ -1,0 +1,26 @@
+{
+  "name": "WeSdkMediation_Maio",
+  "version": "1.4.6.3",
+  "summary": "Maio Adapters for mediating through WeSdk.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WeSdkiOSPub",
+  "license": {
+    "type": "MIT"
+  },
+  "authors": "WeSdk",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WeSdkiOSPub.git",
+    "tag": "maio-1.4.6.3"
+  },
+  "vendored_frameworks": "WeSdkMediation_Maio/1.4.6.3/WeMobMediation_Maio.framework",
+  "dependencies": {
+    "MaioSDK": [
+      "~> 1.4.6"
+    ],
+    "WeSdk": [
+
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "IGYouTubeExtractor",
+  "version": "0.4.0",
+  "summary": "IGYouTubeExtractor provides an easy way to obtain MP4 URLs and metadata for your iOS apps by providing a YouTube video identifier.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/IGYouTubeExtractor",
+  "authors": {
+    "Francis Chong": "francis@ignition.hk",
+    "Rune Madsen": "runemadsen@mac.com"
+  },
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/IGYouTubeExtractor.git",
+    "tag": "0.4.0"
+  },
+  "platforms": {
+    "osx": "10.9"
+  },
+  "source_files": "IGYouTubeExtractor",
+  "frameworks": "AVFoundation",
+  "requires_arc": true
+}

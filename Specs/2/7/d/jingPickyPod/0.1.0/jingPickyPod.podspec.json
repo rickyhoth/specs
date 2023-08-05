@@ -1,0 +1,23 @@
+{
+  "name": "jingPickyPod",
+  "version": "0.1.0",
+  "summary": "Follow Supapons tutorial of creating jingPickyPod.",
+  "description": "Follow Supapons tutorial of creating jingPickyPod.Follow Supapons tutorial of creating jingPickyPod.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/jingPickyPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "InfinityCode777": "jing@figur8.me"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/jingPickyPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "11.1"
+  },
+  "source_files": "jingPickyPod/Classes/**/*",
+  "pushed_with_swift_version": "4.0 -"
+}

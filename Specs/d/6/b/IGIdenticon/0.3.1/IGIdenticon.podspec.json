@@ -1,0 +1,25 @@
+{
+  "name": "IGIdenticon",
+  "version": "0.3.1",
+  "summary": "Objective-C identicon generator",
+  "description": "This library is a port of [identicon](https://bitbucket.devops.nonprod.empf.local/scm/react/identicon) library that generates identicon.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/IGIdenticon",
+  "screenshots": "https://raw.github.com/seaburg/IGIdenticon/master/Screenshot/screenshot.png",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Evgeniy Yurtaev": "evgeniyyurt@gmail.com"
+  },
+  "platforms": {
+    "ios": "4.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/IGIdenticon.git",
+    "tag": "0.3.1"
+  },
+  "source_files": "IGIdenticon/*.{h,m}",
+  "frameworks": "CoreGraphics",
+  "requires_arc": true
+}

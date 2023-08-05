@@ -1,0 +1,20 @@
+{
+  "name": "RBTitleView",
+  "version": "1.0.1",
+  "summary": "可滑动的titleView",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "RBTitleView/*.{h,m}",
+  "frameworks": "UIKit",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/RBTitleDemo",
+  "license": "MIT",
+  "authors": {
+    "Riber": "314420972@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/RBTitleDemo.git",
+    "tag": "1.0.1"
+  },
+  "description": "可滑动的titleView 支持右边有无分割线"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "CubigoInject",
+  "version": "1.2.1",
+  "summary": "A fork of Inject with Cocoapods support",
+  "description": "A fork of Inject with Cocoapods support",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Inject",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "": ""
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Inject.git",
+    "tag": "1.2.1"
+  },
+  "source_files": [
+    "Sources/Inject",
+    "Sources/Inject/**/"
+  ],
+  "exclude_files": ""
+}

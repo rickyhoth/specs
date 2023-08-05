@@ -1,0 +1,26 @@
+{
+  "name": "CCStat",
+  "version": "1.2.1",
+  "summary": "CCStat [personal]",
+  "description": "CCStat [personal]",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CCStat",
+  "license": "MIT",
+  "authors": {
+    "cc": "ccworld1000@gmail.com"
+  },
+  "social_media_url": "https://github.com/ccworld1000",
+  "platforms": {
+    "ios": "7"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CCStat.git",
+    "tag": "1.2.1"
+  },
+  "source_files": "CCStat/*.{h,m}",
+  "requires_arc": true,
+  "dependencies": {
+    "BaiduMobStat": [
+      "~> 4.4.0"
+    ]
+  }
+}

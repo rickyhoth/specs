@@ -1,0 +1,26 @@
+{
+  "name": "LNImageCicleScrollView",
+  "version": "0.1.0",
+  "summary": "a simple component to surport images circle scroll.",
+  "description": "a simple component to surport images circle scroll, I hope it will help you.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Lenny": "jianxiong20090919@126.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LNCustomView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LNImageCicleScrollView/Classes/**/*",
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ]
+}

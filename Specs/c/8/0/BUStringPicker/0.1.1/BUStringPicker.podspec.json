@@ -1,0 +1,23 @@
+{
+  "name": "BUStringPicker",
+  "version": "0.1.1",
+  "summary": "Accesible String Picker",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/BUStringPicker",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "burakustn": "burak.ustun@yga.org.tr"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/BUStringPicker.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "swift_version": "4",
+  "source_files": "BUStringPicker/Classes/*.swift"
+}

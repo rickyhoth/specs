@@ -1,0 +1,23 @@
+{
+  "name": "PopOverDialog",
+  "version": "1.0.1",
+  "license": "MIT",
+  "summary": "PopOverDialog is a PopOver style dialog view.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/PopOverDialog",
+  "social_media_url": "http://twitter.com/tichise",
+  "authors": "Takuya Ichise",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/PopOverDialog.git",
+    "tag": "1.0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Sources/*.swift",
+  "requires_arc": true,
+  "resource_bundles": {
+    "PopOverDialogStoryboards": [
+      "Storyboards/*.storyboard"
+    ]
+  }
+}

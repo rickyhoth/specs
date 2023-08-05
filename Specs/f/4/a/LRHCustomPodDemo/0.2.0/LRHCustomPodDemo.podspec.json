@@ -1,0 +1,39 @@
+{
+  "name": "LRHCustomPodDemo",
+  "version": "0.2.0",
+  "summary": "Test LRHCustomPodDemo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LRHCustomPodDemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "LRH-iOS": "xiandan@2dfire.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LRHCustomPodDemo.git",
+    "tag": "0.2.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "dependencies": {
+    "AFNetworking": [
+
+    ],
+    "YYText": [
+
+    ]
+  },
+  "subspecs": [
+    {
+      "name": "Folder",
+      "source_files": "LRHCustomPodDemo/Classes/Folder/**/*"
+    },
+    {
+      "name": "TestFol",
+      "source_files": "LRHCustomPodDemo/Classes/TestFol/**/*"
+    }
+  ]
+}

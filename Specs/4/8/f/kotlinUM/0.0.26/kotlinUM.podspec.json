@@ -1,0 +1,22 @@
+{
+  "name": "kotlinUM",
+  "version": "0.0.26",
+  "summary": "Ill be your wingman anytime.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/",
+  "authors": {
+    "mdrew": "mitch.drew@moovel.com"
+  },
+  "license": {
+    "type": "Apache-2.0",
+    "file": "LICENSE"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "http": "https://bitbucket.devops.nonprod.empf.local/scm/react/kotlinUM-host/blob/0.0.26/kotlinUM.zip?raw=true"
+  },
+  "ios": {
+    "vendored_frameworks": "kotlinUM.framework"
+  }
+}

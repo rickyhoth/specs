@@ -1,0 +1,24 @@
+{
+  "name": "SRLoadMoreOnScrollTableView",
+  "version": "0.0.5",
+  "license": "MIT",
+  "summary": "Simple way to add infinite scrolling lists in Swift",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SRLoadMoreOnScrollTableView",
+  "authors": {
+    "Rob": "robbeyroad@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SRLoadMoreOnScrollTableView.git",
+    "tag": "0.0.5"
+  },
+  "documentation_url": "https://bitbucket.devops.nonprod.empf.local/scm/react/SRLoadMoreOnScrollTableView",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "swift_versions": [
+    "5.0",
+    "5.0"
+  ],
+  "source_files": "Source/**/*.swift",
+  "swift_version": "5.0"
+}

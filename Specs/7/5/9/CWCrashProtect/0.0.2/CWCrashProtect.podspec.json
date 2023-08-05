@@ -1,0 +1,19 @@
+{
+  "name": "CWCrashProtect",
+  "version": "0.0.2",
+  "summary": "CWCrashProtect 线上崩溃保护库",
+  "description": "avoid common OC crash",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CrashProtect.git",
+  "license": "MIT",
+  "authors": {
+    "ChengwenY": "yuanchegnwen@gmail.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CrashProtect.git",
+    "tag": "0.0.2"
+  },
+  "source_files": "CWCrashProtect/**/*.{h,m}"
+}

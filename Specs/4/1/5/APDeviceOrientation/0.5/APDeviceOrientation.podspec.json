@@ -1,0 +1,24 @@
+{
+  "name": "APDeviceOrientation",
+  "version": "0.5",
+  "summary": "Detect device orientation",
+  "description": "This library helps you detect the device orientation using motion even if the rotation is locked.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/APDeviceOrientation",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "amir pirzad": "pirzad7@gmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "swift_versions": "5.0",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/APDeviceOrientation.git",
+    "tag": "0.5"
+  },
+  "source_files": "APDeviceOrientation/*.{h,m,swift}",
+  "swift_version": "5.0"
+}

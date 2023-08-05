@@ -1,0 +1,22 @@
+{
+  "name": "ADGradientView",
+  "version": "0.0.2",
+  "summary": "A short description of ADGradientView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ADGradientView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "André Felipe Destro": "afdestro@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ADGradientView.git",
+    "tag": "0.0.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ADGradientView/Classes/**/*"
+}

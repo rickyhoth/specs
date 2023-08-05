@@ -1,0 +1,31 @@
+{
+  "name": "RumbleStrip",
+  "version": "0.1.1",
+  "summary": "A simple feedback library for iOS apps.",
+  "description": "                       # RumbleStrip\n\n                       A simple feedback library for iOS apps.\n",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/RumbleStrip",
+  "license": "MIT",
+  "authors": {
+    "David Rothera": "david.rothera@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/RumbleStrip.git",
+    "tag": "0.1.1"
+  },
+  "social_media_url": "https://twitter.com/davidrothera",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "RumbleStrip": [
+      "Pod/Assets/*.png"
+    ]
+  },
+  "frameworks": [
+    "UIKit",
+    "AudioToolbox",
+    "MessageUI"
+  ]
+}

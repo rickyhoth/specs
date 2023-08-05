@@ -1,0 +1,33 @@
+{
+  "name": "LEAlertController",
+  "version": "0.1.6",
+  "summary": "UIAlertController for both iOS 7 and 8",
+  "description": "LEAlertController is a UIAlertController extension for iOS 7 support",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LEAlertController",
+  "screenshots": [
+    "https://bitbucket.devops.nonprod.empf.local/scm/react/LEAlertController/raw/master/Screenshots/alert.png",
+    "https://bitbucket.devops.nonprod.empf.local/scm/react/LEAlertController/raw/master/Screenshots/actionsheet.png"
+  ],
+  "license": "MIT",
+  "authors": {
+    "Lasha Efremidze": "efremidzel@hotmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LEAlertController.git",
+    "tag": "0.1.6"
+  },
+  "social_media_url": "http://linkedin.com/in/efremidze",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "LEAlertController/LEAlertController.{h,m}",
+  "dependencies": {
+    "UIAlertView+Blocks": [
+      "~> 0.8"
+    ],
+    "UIActionSheet+Blocks": [
+      "~> 0.8"
+    ]
+  }
+}

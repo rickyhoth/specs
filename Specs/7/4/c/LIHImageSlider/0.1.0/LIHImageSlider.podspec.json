@@ -1,0 +1,25 @@
+{
+  "name": "LIHImageSlider",
+  "version": "0.1.0",
+  "summary": "An automatic image slider",
+  "description": "LIHImageSlider is an automatic image slider written in Swift",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LIHImageSlider",
+  "license": "MIT",
+  "authors": {
+    "Lasith Hettiarachchi": "lasithih@yahoo.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LIHImageSlider.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "LIHImageSlider": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}

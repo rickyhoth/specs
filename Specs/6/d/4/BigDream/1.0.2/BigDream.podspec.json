@@ -1,0 +1,23 @@
+{
+  "name": "BigDream",
+  "version": "1.0.2",
+  "summary": "简介 BigDream.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/BigDream.git",
+  "license": "MIT",
+  "authors": {
+    "fanrenFRank": "1778907544@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/BigDream.git",
+    "tag": "1.0.2"
+  },
+  "requires_arc": true,
+  "vendored_frameworks": "BigDreamSdk.framework",
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ]
+}

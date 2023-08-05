@@ -1,0 +1,24 @@
+{
+  "name": "EasySwiftUIKit",
+  "version": "0.1.13",
+  "summary": "A short description of EasySwiftUIKit.",
+  "description": "'A short description of EasySwiftUIKit.'",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/EasySwiftUIKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Rz Rasel": "rashedgit@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/EasySwiftUIKit.git",
+    "tag": "0.1.13"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source_files": "Source/**/*.swift",
+  "swift_versions": "5.0",
+  "swift_version": "5.0"
+}

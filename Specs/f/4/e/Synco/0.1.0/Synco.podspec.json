@@ -1,0 +1,18 @@
+{
+  "name": "Synco",
+  "version": "0.1.0",
+  "license": "MIT",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/",
+  "summary": "Simple @syncronized for Swift.",
+  "authors": {
+    "yukiasai": "yukiasai@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Synco.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Classes/*.swift"
+}

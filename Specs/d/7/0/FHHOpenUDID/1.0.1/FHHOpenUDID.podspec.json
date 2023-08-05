@@ -1,0 +1,24 @@
+{
+  "name": "FHHOpenUDID",
+  "version": "1.0.1",
+  "summary": "FHHOpenUDID",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/OpenUDID",
+  "license": "MIT",
+  "authors": {
+    "002and001": "xxewz1@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/OpenUDID.git",
+    "tag": "1.0.1"
+  },
+  "module_name": "OpenUDID",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "frameworks": [
+    "Foundation",
+    "UIKit"
+  ],
+  "source_files": "*.{h,m}",
+  "requires_arc": false
+}

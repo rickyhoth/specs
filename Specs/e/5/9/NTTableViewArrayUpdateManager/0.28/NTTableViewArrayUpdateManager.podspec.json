@@ -1,0 +1,21 @@
+{
+  "name": "NTTableViewArrayUpdateManager",
+  "version": "0.28",
+  "summary": "Automates animated inserts, updates and deletes of a UITableView",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/NTTableViewArrayUpdateManager",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE.txt"
+  },
+  "authors": {
+    "Ethan Nagel": "eanagel@gmail.com"
+  },
+  "platforms": {
+    "ios": null
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/NTTableViewArrayUpdateManager.git",
+    "tag": "v0.28"
+  },
+  "source_files": "pod/*.{h,m}"
+}

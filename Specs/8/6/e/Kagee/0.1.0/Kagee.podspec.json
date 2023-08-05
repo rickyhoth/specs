@@ -1,0 +1,18 @@
+{
+  "name": "Kagee",
+  "version": "0.1.0",
+  "license": "MIT",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/",
+  "summary": "HTTP mocking library written in Swift.",
+  "authors": {
+    "yukiasai": "yukiasai@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Kagee.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Kagee/*.swift"
+}

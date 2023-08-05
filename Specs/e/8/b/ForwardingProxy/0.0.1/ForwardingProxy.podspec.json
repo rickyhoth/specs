@@ -1,0 +1,23 @@
+{
+  "name": "ForwardingProxy",
+  "version": "0.0.1",
+  "summary": "Split your app delegate into separate services!",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ForwardingProxy",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Geor Kasapidi": "geor.kasapidi@icloud.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ForwardingProxy.git",
+    "tag": "v0.0.1"
+  },
+  "source_files": "Source",
+  "frameworks": "Foundation",
+  "requires_arc": true
+}

@@ -1,0 +1,24 @@
+{
+  "name": "AFBlockAttributedLabel",
+  "version": "0.1",
+  "summary": "Extends TTTAttributedLabel: block callback and lightweight HTML parser",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AFBlockAttributedLabel",
+  "authors": {
+    "Daniel Kuhnke": "d.kuhnke@appfarms.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AFBlockAttributedLabel.git",
+    "tag": "0.1"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "*.{h,m}",
+  "license": "MIT",
+  "dependencies": {
+    "TTTAttributedLabel": [
+      "~>1.13.2"
+    ]
+  }
+}

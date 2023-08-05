@@ -1,0 +1,20 @@
+{
+  "name": "DCSlideOutViewController",
+  "version": "0.0.1",
+  "summary": "Does the slide view thing as seen in Path app.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DCSlideOutViewController",
+  "license": "Apache License, Version 2.0",
+  "authors": {
+    "Dalton Cherry": "daltoniam@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DCSlideOutViewController.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "5.0"
+  },
+  "source_files": "*.{h,m}",
+  "frameworks": "QuartzCore",
+  "requires_arc": true
+}

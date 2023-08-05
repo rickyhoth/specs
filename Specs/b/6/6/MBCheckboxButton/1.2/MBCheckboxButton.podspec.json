@@ -1,0 +1,22 @@
+{
+  "name": "MBCheckboxButton",
+  "version": "1.2",
+  "summary": "MBCheckboxButton help you create Checkbox button without single line of code. It also help you group the Checkbox buttons. It gives animation effect and customization.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/RadioCheckboxButton",
+  "license": "MIT",
+  "authors": {
+    "Swifty-iOS": "manishej004@gmail.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/RadioCheckboxButton.git",
+    "tag": "1.2"
+  },
+  "source_files": [
+    "Source/BaseButton/*.*",
+    "Source/CheckboxButton/*.*"
+  ],
+  "pushed_with_swift_version": "4.0"
+}

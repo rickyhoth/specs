@@ -1,0 +1,22 @@
+{
+  "name": "ZMMacros",
+  "version": "0.1.0",
+  "summary": "iOS 通用宏",
+  "description": "iOS 通用宏.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZMMacros",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhouming": "mmix1009@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZMMacros.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "ZMMacros/Classes/**/*"
+}

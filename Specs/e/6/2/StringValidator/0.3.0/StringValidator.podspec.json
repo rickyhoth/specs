@@ -1,0 +1,21 @@
+{
+  "name": "StringValidator",
+  "version": "0.3.0",
+  "summary": "String validator",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/StringValidator",
+  "license": "MIT",
+  "authors": {
+    "Takahiro Ooishi": "taka0125@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/StringValidator.git",
+    "tag": "0.3.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "pod_target_xcconfig": {
+    "SWIFT_VERSION": "4.0"
+  },
+  "source_files": "Sources/**/*.swift"
+}

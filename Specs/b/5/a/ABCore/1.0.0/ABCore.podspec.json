@@ -1,0 +1,28 @@
+{
+  "name": "ABCore",
+  "version": "1.0.0",
+  "summary": "Starting point for rest of frameworks",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ABCore",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Andrey Bobr": "a.bobr@itransition.com"
+  },
+  "source": {
+    "http": "https://bitbucket.devops.nonprod.empf.local/scm/react/ABCore.zip"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "ios": {
+    "vendored_frameworks": "ABCore/PSACommon.framework"
+  },
+  "pod_target_xcconfig": {
+    "EXCLUDED_ARCHS[sdk=iphonesimulator*]": "arm64"
+  },
+  "user_target_xcconfig": {
+    "EXCLUDED_ARCHS[sdk=iphonesimulator*]": "arm64"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "KDDeviceFingerPrintTest",
+  "version": "0.0.1",
+  "summary": "KDDeviceFingerPrintTest test",
+  "description": "获取用户信息、设备信息等，test。这只是一次测试，练习项目pod化。",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/KDDeviceFingerPrintTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "qinghong": "tongyiwang@163.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/KDDeviceFingerPrintTest.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "KDDeviceFingerPrintTest/KDDeviceFingerPrintTest/KDDeviceFingerPrintTest/*.{h,m}",
+  "requires_arc": true
+}

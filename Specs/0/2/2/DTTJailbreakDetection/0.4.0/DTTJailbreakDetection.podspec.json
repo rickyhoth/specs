@@ -1,0 +1,22 @@
+{
+  "name": "DTTJailbreakDetection",
+  "version": "0.4.0",
+  "summary": "iOS device jailbreak detection library",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DTTJailbreakDetection",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Doan Truong Thi": "me@thi.codes"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DTTJailbreakDetection.git",
+    "tag": "0.4.0"
+  },
+  "platforms": {
+    "ios": "5.0"
+  },
+  "requires_arc": true,
+  "source_files": "Classes/*.{h,m}"
+}

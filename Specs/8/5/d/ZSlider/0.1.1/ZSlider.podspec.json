@@ -1,0 +1,24 @@
+{
+  "name": "ZSlider",
+  "version": "0.1.1",
+  "summary": "A slider with labels.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZSlider",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "vjkumar-lg": "vijayakumar.lg@zohocorp.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZSlider.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "12"
+  },
+  "source_files": "Classes/**/*.swift",
+  "swift_versions": "5.0",
+  "swift_version": "5.0"
+}

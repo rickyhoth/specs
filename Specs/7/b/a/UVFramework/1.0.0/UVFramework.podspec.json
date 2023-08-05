@@ -1,0 +1,19 @@
+{
+  "name": "UVFramework",
+  "version": "1.0.0",
+  "summary": "A url session framework",
+  "description": "This is a simple exmaple of framework.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/UVFramework",
+  "license": "MIT",
+  "authors": {
+    "Umesh": "umeshiscreative@gmail.com"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/UVFramework.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "UVFramework/**/*.{h,m,swift}"
+}

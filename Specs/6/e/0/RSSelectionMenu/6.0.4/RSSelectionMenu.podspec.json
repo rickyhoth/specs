@@ -1,0 +1,30 @@
+{
+  "name": "RSSelectionMenu",
+  "version": "6.0.4",
+  "summary": "An elegant selection list or dropdown menu for iOS with single or multiple selections.",
+  "description": "RSSelectionMenu provides easy to use features to show drop-down or selection list with the single or multiple selections.\nRSSelectionMenu can work with custom cells as well.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/RSSelectionMenu",
+  "screenshots": [
+    "https://bitbucket.devops.nonprod.empf.local/scm/react/multi1.gif",
+    "https://bitbucket.devops.nonprod.empf.local/scm/react/custom.gif"
+  ],
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Rushi Sangani": "rushisangani@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/RSSelectionMenu.git",
+    "tag": "6.0.4"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "RSSelectionMenu/**/*.swift",
+  "requires_arc": true,
+  "pod_target_xcconfig": {
+    "SWIFT_VERSION": "5.0"
+  }
+}

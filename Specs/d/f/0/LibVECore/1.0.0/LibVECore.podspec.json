@@ -1,0 +1,20 @@
+{
+  "name": "LibVECore",
+  "version": "1.0.0",
+  "summary": "A short description of LibVECore.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LibVECore",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "license": "MIT",
+  "authors": {
+    "iOS VESDK Team": ""
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LibVECore.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "*",
+  "vendored_frameworks": "**/LibVECore.framework",
+  "requires_arc": true
+}

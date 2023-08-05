@@ -1,0 +1,23 @@
+{
+  "name": "PremiumInsurance",
+  "version": "1.0.0",
+  "summary": "A simple framework to demonstrate pod distribution",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/premiuminsurancepod",
+  "authors": {
+    "AppStack21": "appstack21@gmail.com"
+  },
+  "license": {
+    "type": "MIT",
+    "text": "MIT License"
+  },
+  "platforms": {
+    "ios": "15.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/premiuminsurancepod.git",
+    "tag": "1.0.0"
+  },
+  "ios": {
+    "vendored_frameworks": "PremiumInsurance.xcframework"
+  }
+}

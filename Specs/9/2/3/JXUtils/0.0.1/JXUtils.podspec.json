@@ -1,0 +1,26 @@
+{
+  "name": "JXUtils",
+  "version": "0.0.1",
+  "summary": "iOS Utils Framework.",
+  "description": "iOS Utils Framework.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JXUtils",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "tospery": "tospery@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JXUtils.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "JXUtils/Classes/*.{h,m}",
+  "frameworks": [
+    "Foundation",
+    "UIKit"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Sourcery-AutoJSONSerializable",
+  "version": "0.2.1",
+  "license": "MIT",
+  "summary": "…",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Sourcery-AutoJSONSerializable",
+  "authors": {
+    "Sébastien Duperron": "@liquidseb"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Sourcery-AutoJSONSerializable.git",
+    "tag": "0.2.1"
+  },
+  "description": "……",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "preserve_paths": "Templates"
+}

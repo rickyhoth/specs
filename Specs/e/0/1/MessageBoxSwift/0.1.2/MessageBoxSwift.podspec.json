@@ -1,0 +1,28 @@
+{
+  "name": "MessageBoxSwift",
+  "version": "0.1.2",
+  "summary": "awasome MessageBoxSwift.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MessageBoxSwift",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "jprothwell@gmail.com": "jprothwell@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MessageBoxSwift.git",
+    "tag": "0.1.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MessageBoxSwift/Classes/**/*",
+  "swift_version": "3.0",
+  "dependencies": {
+    "TopViewControllerSwift": [
+
+    ]
+  }
+}

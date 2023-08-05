@@ -1,0 +1,24 @@
+{
+  "name": "UIPresentCoordinator",
+  "version": "0.1",
+  "summary": "UIPresentCoordinator",
+  "description": "This library manages items that are about to be presented in a queue and displays them on a first-in, first-out basis.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/UIPresentCoordinator",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Scalefocus": "y@minipro.co"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/UIPresentCoordinator.git",
+    "tag": "0.1"
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "swift_versions": "5.0",
+  "source_files": "Sources/**/*",
+  "swift_version": "5.0"
+}

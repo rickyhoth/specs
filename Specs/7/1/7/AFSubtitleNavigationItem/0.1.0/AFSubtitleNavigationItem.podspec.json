@@ -1,0 +1,23 @@
+{
+  "name": "AFSubtitleNavigationItem",
+  "version": "0.1.0",
+  "summary": "Create custom title and subtitle labels in your native navigation item.",
+  "description": "Extending the navtive navigationItem capabilities to instantly add custom title and subtitle labels.\nThe labels are fully customizable and works very well with the bar button items.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AFSubtitleNavigationItem",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Ahmed Fathi": "AhmedFathi680@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AFSubtitleNavigationItem.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "swift_version": "4.0",
+  "source_files": "AFSubtitleNavigationItem/Classes/**/*"
+}

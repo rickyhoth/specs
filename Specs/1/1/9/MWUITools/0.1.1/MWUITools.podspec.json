@@ -1,0 +1,22 @@
+{
+  "name": "MWUITools",
+  "version": "0.1.1",
+  "summary": "A series of customed UI View or controller",
+  "description": "A series of customed UI View or controller to use.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MWUITools",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "huangmingwei": "fishmwei@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MWUITools.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MWUITools/Classes/**/*"
+}

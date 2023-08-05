@@ -1,0 +1,17 @@
+{
+  "name": "ALTableView",
+  "version": "0.1.5",
+  "summary": "ALTableView Pod",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ALTableView",
+  "license": "MIT",
+  "authors": "Abimael Barea, Lorenzo Villarroel",
+  "swift_version": "4.0",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ALTableView.git",
+    "tag": "0.1.5"
+  },
+  "source_files": "ALTableViewSwift/ALTableView/ALTableView/ALTableViewClasses/**/*.{swift,h,m}"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "NMLocalize",
+  "version": "0.0.1",
+  "summary": "Shortcut for NSLocalizedString",
+  "description": "Easily translate your app with 'L' functions",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/NMLocalize",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Nicolas Mahé": "nicolas@mahe.me"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/NMLocalize.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "NMLocalize/Classes/**/*",
+  "pushed_with_swift_version": "3.0"
+}

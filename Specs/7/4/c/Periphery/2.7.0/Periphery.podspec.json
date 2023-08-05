@@ -1,0 +1,23 @@
+{
+  "name": "Periphery",
+  "version": "2.7.0",
+  "summary": "Eliminate Unused Swift Code.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/periphery",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE.md"
+  },
+  "authors": {
+    "Ian Leitch": "ian@leitch.io"
+  },
+  "source": {
+    "http": "https://bitbucket.devops.nonprod.empf.local/scm/react/periphery-v2.7.0.zip"
+  },
+  "preserve_paths": "*",
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}

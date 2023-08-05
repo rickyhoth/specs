@@ -1,0 +1,23 @@
+{
+  "name": "NDTestFrameWorkCalculate",
+  "version": "0.1.0",
+  "summary": "This is my first cocoapod. Wtz up man O_o",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/NDTestFrameWorkCalculate",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Nuwan Edirisinghe": "nuwan5454@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/NDTestFrameWorkCalculate.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "NDTestFrameWorkCalculate/Classes/**/*",
+  "pushed_with_swift_version": "3.0"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "TransitionMaker",
+  "version": "0.0.2",
+  "summary": "TransitionMaker",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TransitionMaker",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "YOURNAME": "Matan"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TransitionMaker.git"
+  },
+  "frameworks": "UIKit",
+  "source_files": [
+    "TransitionMaker*",
+    "Vendor/*",
+    "Resource/*",
+    "TransitionMaker/*"
+  ],
+  "requires_arc": true
+}

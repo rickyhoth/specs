@@ -1,0 +1,26 @@
+{
+  "name": "Unswash",
+  "version": "0.6.2",
+  "summary": "LightWeight client for Unsplash",
+  "description": "LightWeight client for Unsplash.com",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Unswash",
+  "authors": {
+    "Alexandre": "alexandr.barbier@gmail.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Unswash.git",
+    "tag": "0.6.2"
+  },
+  "source_files": [
+    "Unswash/**/*.swift",
+    "Unswash/**/*.h",
+    "Unswash/**/*.xib"
+  ]
+}

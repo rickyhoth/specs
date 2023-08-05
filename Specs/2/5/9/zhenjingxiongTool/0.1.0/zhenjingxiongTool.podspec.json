@@ -1,0 +1,22 @@
+{
+  "name": "zhenjingxiongTool",
+  "version": "0.1.0",
+  "summary": "zhenjingxiongTool.",
+  "description": "zhenjingxiongTool是基础组件库，包括分类和常用工具.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/zhenjingxiongTool",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "镇景雄": "1694615244@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/zhenjingxiongTool.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "zhenjingxiongTool/Classes/**/*"
+}

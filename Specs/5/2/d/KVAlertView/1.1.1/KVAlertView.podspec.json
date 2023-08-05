@@ -1,0 +1,23 @@
+{
+  "name": "KVAlertView",
+  "version": "1.1.1",
+  "license": "MIT",
+  "summary": "Custom Alert view for alert within the app.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/VKAlertView",
+  "social_media_url": "https://bitbucket.devops.nonprod.empf.local/scm/react/VKAlertView",
+  "authors": {
+    "Vikash Kumar": "vikash.ideveloper@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/VKAlertView.git",
+    "tag": "1.1.1"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "KVAlertView/AlertView/*.*",
+  "pod_target_xcconfig": {
+    "SWIFT_VERSION": "3"
+  },
+  "pushed_with_swift_version": "3.0"
+}

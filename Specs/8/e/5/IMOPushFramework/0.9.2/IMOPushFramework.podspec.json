@@ -1,0 +1,22 @@
+{
+  "name": "IMOPushFramework",
+  "version": "0.9.2",
+  "summary": "IMOPushFramework.",
+  "description": "IMOPushFramework 2019.03.07",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/IMOPushFramework",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "": ""
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/IMOPushFramework.git",
+    "tag": "0.9.2"
+  },
+  "source_files": "IMOPushFramework.framework/Headers/*.h"
+}

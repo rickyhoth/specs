@@ -1,0 +1,22 @@
+{
+  "name": "UIGlossyButton",
+  "version": "0.0.4",
+  "license": "MIT",
+  "summary": "Generate system like or other nice button without any image.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/UIGlossyButton",
+  "authors": {
+    "waterlou": "https://github.com/waterlou"
+  },
+  "platforms": {
+    "ios": null
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/UIGlossyButton.git",
+    "tag": "v0.0.4"
+  },
+  "source_files": [
+    "UIGlossyButton/UIGlossyButton.{h,m}",
+    "UIGlossyButton/UIView+LayerEffects.{h,m}"
+  ],
+  "requires_arc": false
+}

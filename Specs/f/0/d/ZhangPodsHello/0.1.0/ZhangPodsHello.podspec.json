@@ -1,0 +1,22 @@
+{
+  "name": "ZhangPodsHello",
+  "version": "0.1.0",
+  "summary": "简单测试一下pod",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZhangPodsHello.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "307872230@qq.com": "zhangzhong@xianlai-inc.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZhangPodsHello.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZhangPodsHello/Classes/**/*"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "PickerCountry",
+  "version": "0.1.1",
+  "summary": "Picker country code",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/PickerCountry",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Nazish Ali": "nazish.ali@quickli.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/PickerCountry.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PickerCountry/Classes/**/*"
+}

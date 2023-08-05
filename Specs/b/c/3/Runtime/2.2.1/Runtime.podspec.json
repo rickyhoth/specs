@@ -1,0 +1,19 @@
+{
+  "name": "Runtime",
+  "version": "2.2.1",
+  "summary": "Runtime",
+  "description": "Runtime abilities for native swift objects.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Runtime",
+  "license": "MIT",
+  "authors": {
+    "Wesley Wickwire": "wickwirew@gmail.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Runtime.git",
+    "tag": "2.2.1"
+  },
+  "source_files": "Sources/**/*.{swift,h}"
+}

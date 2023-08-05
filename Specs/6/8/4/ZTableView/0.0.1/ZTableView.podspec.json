@@ -1,0 +1,21 @@
+{
+  "name": "ZTableView",
+  "version": "0.0.1",
+  "summary": "lazy ZTableView",
+  "description": "lazy lazy ZTableView",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZTableView",
+  "license": "MIT",
+  "authors": {
+    "ZeroOneMore": "1049235238@qq.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZTableView.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "ZTableView/*",
+  "exclude_files": "Classes/Exclude",
+  "pushed_with_swift_version": "3.0"
+}

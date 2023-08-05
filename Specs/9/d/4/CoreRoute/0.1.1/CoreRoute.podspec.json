@@ -1,0 +1,20 @@
+{
+  "name": "CoreRoute",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "version": "0.1.1",
+  "license": "MIT",
+  "summary": "A Swift routing framework",
+  "authors": "Aron Balog",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CoreRoute",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CoreRoute.git",
+    "tag": "0.1.1"
+  },
+  "source_files": "CoreRoute/**/*.{swift}",
+  "requires_arc": true,
+  "xcconfig": {
+    "SWIFT_VERSION": "4.0"
+  }
+}

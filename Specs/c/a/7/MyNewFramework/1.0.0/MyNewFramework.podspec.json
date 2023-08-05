@@ -1,0 +1,19 @@
+{
+  "name": "MyNewFramework",
+  "version": "1.0.0",
+  "summary": "This is a summary of MyNewFramework.",
+  "description": "And this is a detailed description of what my framework does",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MyNewFramework",
+  "license": "MIT",
+  "authors": {
+    "Stuti": "shak.stuti@gmail.com"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MyNewFramework.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "MyNewFramework/**/*"
+}

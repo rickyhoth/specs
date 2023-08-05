@@ -1,0 +1,23 @@
+{
+  "name": "GCCarousel",
+  "version": "0.0.2",
+  "summary": "images scroll",
+  "description": "images scroll , lalala",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/GCCarousel.git",
+  "license": "MIT",
+  "authors": {
+    "sunflower": "2563928639@qq.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/GCCarousel.git",
+    "tag": "0.0.2"
+  },
+  "source_files": "GCCarousel/GCCarousel/GCCarousel/*.{h,m}",
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ]
+}

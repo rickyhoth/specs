@@ -1,0 +1,28 @@
+{
+  "name": "STMTestFramework",
+  "version": "1.2.0",
+  "summary": "It is a test framework.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/STMTestFramework",
+  "license": "Apache License, Version 2.0",
+  "authors": {
+    "depthlove": "suntongmian@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/STMTestFramework.git",
+    "tag": "v1.2.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ],
+  "subspecs": [
+    {
+      "name": "iphoneos",
+      "vendored_frameworks": "Pod/Library/STMTestFramework.framework"
+    }
+  ]
+}

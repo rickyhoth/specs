@@ -1,0 +1,22 @@
+{
+  "name": "WSSVideoCompression",
+  "version": "0.0.2",
+  "summary": "Video Compression.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WSSVideoCompression",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wangsi": "17601013687@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WSSVideoCompression.git",
+    "tag": "0.0.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "WSSVideoCompression/Classes/**/*"
+}

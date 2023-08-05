@@ -1,0 +1,36 @@
+{
+  "name": "TGVA",
+  "version": "0.2.7",
+  "summary": "big pod",
+  "description": "TODO: Add long description of the pod here. pod pod",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TGVA",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhkbgt": "kkbbggtt@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TGVA.git",
+    "tag": "0.2.7"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "resource_bundles": {
+    "TGVA": [
+      "TGVA/Assets/*"
+    ]
+  },
+  "resources": "TGVA/Resource/*",
+  "vendored_frameworks": "TGVA.framework",
+  "dependencies": {
+    "TAPI": [
+
+    ],
+    "IJKMediaFramework": [
+
+    ]
+  }
+}

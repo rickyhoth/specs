@@ -1,0 +1,23 @@
+{
+  "name": "TCustomizedTransition",
+  "version": "0.1.2",
+  "summary": "TCustomizedTransition for vc transition",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TCustomizedTransition",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "tangpeng": "tangpeng@yy.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TCustomizedTransition.git",
+    "tag": "0.1.2"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "TCustomizedTransition/Classes/**/*",
+  "frameworks": "UIKit"
+}

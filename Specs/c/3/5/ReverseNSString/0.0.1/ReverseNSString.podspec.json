@@ -1,0 +1,19 @@
+{
+  "name": "ReverseNSString",
+  "version": "0.0.1",
+  "summary": "Reverse a NSString.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ReverseNSString",
+  "license": "MIT",
+  "authors": {
+    "VincentSit": "x@xuexuefeng.com"
+  },
+  "platforms": {
+    "ios": null
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ReverseNSString.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "ReverseNSString/NSString+Reverse.{h,m}",
+  "requires_arc": true
+}

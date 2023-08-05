@@ -1,0 +1,17 @@
+{
+  "name": "YKImageCropper",
+  "version": "0.0.4",
+  "license": "MIT",
+  "summary": "A Simple image cropper.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/YKImageCropper",
+  "authors": "yuyak",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YKImageCropper.git",
+    "tag": "0.0.4"
+  },
+  "source_files": "YKImageCropper/*.{h,m}",
+  "requires_arc": true,
+  "platforms": {
+    "ios": "6.0"
+  }
+}

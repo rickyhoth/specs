@@ -1,0 +1,25 @@
+{
+  "name": "MGRefresh",
+  "version": "0.0.6",
+  "summary": "MGRefresh",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MGRefresh",
+  "license": "MIT",
+  "authors": {
+    "zhaoming": "823080538@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MGRefresh.git",
+    "tag": "0.0.6"
+  },
+  "source_files": "MGRefresh/*",
+  "resources": "MGRefresh/MGRefresh/MGRefreshBundle.bundle",
+  "requires_arc": true,
+  "dependencies": {
+    "MJRefresh": [
+
+    ]
+  }
+}

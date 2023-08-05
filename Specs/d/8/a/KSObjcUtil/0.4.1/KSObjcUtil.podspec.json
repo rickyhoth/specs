@@ -1,0 +1,19 @@
+{
+  "name": "KSObjcUtil",
+  "version": "0.4.1",
+  "summary": "OC助手",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ObjcUtil",
+  "license": "MIT",
+  "authors": {
+    "kong": "m18301125620@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ObjcUtil.git",
+    "tag": "0.4.1"
+  },
+  "source_files": "KSObjcUtil/*.{h,m}",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "frameworks": "UIKit"
+}

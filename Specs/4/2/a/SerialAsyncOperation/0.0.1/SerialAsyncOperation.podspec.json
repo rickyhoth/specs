@@ -1,0 +1,23 @@
+{
+  "name": "SerialAsyncOperation",
+  "version": "0.0.1",
+  "summary": "Use NSOperation to implement ***serial asynchronous*** task.",
+  "description": "Use NSOperation to implement ***serial asynchronous*** task..\nFor example, serial download task using NSURLSessionDownloadTask.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SerialAsyncOperation",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE.md"
+  },
+  "authors": {
+    "Chris Hu": "icetime017@gmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SerialAsyncOperation.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "Sources/SerialAsyncOperationQueue.h",
+  "requires_arc": true
+}

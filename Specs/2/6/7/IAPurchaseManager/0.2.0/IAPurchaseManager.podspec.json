@@ -1,0 +1,21 @@
+{
+  "name": "IAPurchaseManager",
+  "version": "0.2.0",
+  "summary": "Swift In-App Purchase Manager for iOS",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/IAPurchaseManager",
+  "license": {
+    "type": "MIT"
+  },
+  "authors": {
+    "Vitaliya Solomina": "vitaliaa@gmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/IAPurchaseManager.git",
+    "tag": "0.2.0"
+  },
+  "source_files": "IAPManager.swift",
+  "swift_version": "4.2"
+}

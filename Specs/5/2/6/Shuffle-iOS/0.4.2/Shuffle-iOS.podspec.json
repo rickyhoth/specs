@@ -1,0 +1,25 @@
+{
+  "name": "Shuffle-iOS",
+  "version": "0.4.2",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "summary": "A multi-directional card swiping library inspired by Tinder",
+  "description": "A multi-directional card swiping library inspired by Tinder.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Shuffle",
+  "documentation_url": "https://bitbucket.devops.nonprod.empf.local/scm/react/README.md",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Mac Gallagher": "jmgallagher36@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Shuffle.git",
+    "tag": "v0.4.2"
+  },
+  "swift_versions": "5.0",
+  "source_files": "Sources/Shuffle/Classes/**/*.{h,swift}",
+  "swift_version": "5.0"
+}

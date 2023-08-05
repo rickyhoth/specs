@@ -1,0 +1,16 @@
+{
+  "name": "SwiftReorder",
+  "version": "2.0.1",
+  "license": "MIT",
+  "summary": "Easy drag-and-drop reordering for UITableViews",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwiftReorder",
+  "authors": "Adam Shin",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwiftReorder.git",
+    "tag": "2.0.1"
+  },
+  "source_files": "Source/*"
+}

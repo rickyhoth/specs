@@ -1,0 +1,22 @@
+{
+  "name": "NETURLSchemeHandler",
+  "version": "0.1.0",
+  "summary": "A WKURLSchemeHandler implementation for WKWebView",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/NETURLSchemeHandler",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "leavesster": "11785335+leavesster@users.noreply.github.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/NETURLSchemeHandler.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source_files": "NETURLSchemeHandler/Classes/**/*"
+}

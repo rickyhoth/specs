@@ -1,0 +1,22 @@
+{
+  "name": "SSStudySpec",
+  "version": "1.0.1",
+  "summary": "SSStudySpec",
+  "description": "this is a ssstudyspec demo.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SSStudySpec",
+  "license": "MIT (SSStudySpec)",
+  "authors": {
+    "silas": "silas.song@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SSStudySpec.git",
+    "tag": "1.0.1"
+  },
+  "source_files": [
+    "Classes",
+    "Classes/*.{h,m}"
+  ]
+}

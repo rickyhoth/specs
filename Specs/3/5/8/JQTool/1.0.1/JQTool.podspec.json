@@ -1,0 +1,21 @@
+{
+  "name": "JQTool",
+  "version": "1.0.1",
+  "summary": "JQTool测试",
+  "description": "JQTool测试...",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/PodTest",
+  "license": "MIT",
+  "authors": {
+    "cjg": "674149625@qq.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/PodTest.git",
+    "tag": "1.0.1"
+  },
+  "source_files": "PodTest/JQTool/*.{h,m}",
+  "frameworks": "Foundation",
+  "requires_arc": true
+}

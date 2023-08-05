@@ -1,0 +1,21 @@
+{
+  "name": "CDZQRScanningViewController",
+  "version": "1.0.1",
+  "summary": "Easy QR code scanning on iOS 7.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CDZQRScanningViewController",
+  "license": "MIT",
+  "authors": {
+    "Chris Dzombak": "chris@chrisdzombak.net"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CDZQRScanningViewController.git",
+    "tag": "v1.0.1"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source_files": "*.{h,m}",
+  "public_header_files": "CDZQRScanningViewController.h",
+  "frameworks": "AVFoundation",
+  "requires_arc": true
+}

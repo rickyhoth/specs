@@ -1,0 +1,17 @@
+{
+  "name": "TouchJSON",
+  "version": "1.0",
+  "license": "Simplified BSD License",
+  "summary": "TouchJSON is an Objective-C based parser and generator for JSON encoded data.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TouchJSON",
+  "authors": {
+    "Jonathan Wight": "schwa@touchcode.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TouchJSON.git",
+    "tag": "1.0"
+  },
+  "source_files": "Source/**/*.{h,m}",
+  "frameworks": "Foundation",
+  "requires_arc": true
+}

@@ -1,0 +1,43 @@
+{
+  "name": "ToolsCode",
+  "version": "0.0.4",
+  "license": "MIT",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ToolsCode",
+  "authors": {
+    "zklcode": "372909335@qq.com"
+  },
+  "summary": "ToolsCode summary",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ToolsCode.git",
+    "tag": "0.0.4"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": [
+    "Classes/**/*.{h,m,swift}",
+    "Classes/Net/**/*.{h,m,swift}"
+  ],
+  "swift_versions": "4.2",
+  "dependencies": {
+    "Alamofire": [
+
+    ],
+    "ObjectMapper": [
+
+    ],
+    "MJRefresh": [
+
+    ],
+    "IQKeyboardManagerSwift": [
+
+    ],
+    "MBProgressHUD": [
+
+    ],
+    "Reachability": [
+
+    ]
+  },
+  "swift_version": "4.2"
+}

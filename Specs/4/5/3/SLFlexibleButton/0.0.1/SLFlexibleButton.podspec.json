@@ -1,0 +1,24 @@
+{
+  "name": "SLFlexibleButton",
+  "version": "0.0.1",
+  "license": "MIT",
+  "summary": "A button library which able to draw it self with bezel defined by relative location.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SLFlexibleButton",
+  "authors": {
+    "Shuo Li": "shuoli84@gmail.com"
+  },
+  "platforms": {
+    "ios": null
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SLFlexibleButton.git",
+    "tag": "v0.0.1lw"
+  },
+  "source_files": "FlexibleButton/SLFlexibleButton.{h,m}",
+  "dependencies": {
+    "UIGlossyButton": [
+
+    ]
+  },
+  "requires_arc": false
+}

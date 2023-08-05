@@ -1,0 +1,22 @@
+{
+  "name": "tylAlert",
+  "version": "0.0.2",
+  "license": "MIT",
+  "summary": "A Text in iOS.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/tylAlert",
+  "authors": {
+    "tyl": "1094221200@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/tylAlert.git",
+    "tag": "v0.0.2"
+  },
+  "requires_arc": true,
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": [
+    "tylAlert/TYLAlertView",
+    "*.{h,m}"
+  ]
+}

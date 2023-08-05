@@ -1,0 +1,23 @@
+{
+  "name": "EVWDropDownNotification",
+  "version": "0.1.0",
+  "summary": "A simple but yet powerfull DropDown Notification for iOS",
+  "description": "A simple but yet powerfull DropDown Notification View for iOS written in Swift. The notification is fully configurable through exposed properties (e.g. Button Alignment, Text Color, Button Radius etc) and offers 3 delegate methods for events",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/EVWDropDownNotification",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "CRE8IT GmbH": "mobile@cre8it.ch"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/EVWDropDownNotification.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "EVWDropDownNotification/Classes/**/*",
+  "frameworks": "UIKit"
+}

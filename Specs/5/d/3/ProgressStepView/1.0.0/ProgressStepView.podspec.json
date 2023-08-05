@@ -1,0 +1,33 @@
+{
+  "name": "ProgressStepView",
+  "version": "1.0.0",
+  "summary": "A library for progress view with steps, labels and animations.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ProgressStepView",
+  "requires_arc": true,
+  "license": "MIT",
+  "authors": {
+    "Gustavo Storck": "gustavo.storck1@gmail.com"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ProgressStepView.git",
+    "tag": "1.0.0"
+  },
+  "source_files": [
+    "ProgressStepView",
+    "ProgressStepView/**/*.{swift}"
+  ],
+  "resource_bundles": {
+    "ProgressStepView": [
+      "ProgressStepView/**/*.{xcassets}"
+    ]
+  },
+  "swift_versions": [
+    "4.2",
+    "5",
+    "5"
+  ],
+  "swift_version": "5"
+}

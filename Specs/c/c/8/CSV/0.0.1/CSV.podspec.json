@@ -1,0 +1,19 @@
+{
+  "name": "CSV",
+  "version": "0.0.1",
+  "license": "MIT",
+  "platforms": {
+    "ios": "5.0"
+  },
+  "summary": "Format data to the comma-separated values format.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CSV",
+  "authors": {
+    "Ryan Davies": "ryan@ryandavies.net"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CSV.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "CSV/*.{h,m}",
+  "requires_arc": true
+}

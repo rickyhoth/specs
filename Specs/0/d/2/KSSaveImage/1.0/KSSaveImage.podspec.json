@@ -1,0 +1,23 @@
+{
+  "name": "KSSaveImage",
+  "version": "1.0",
+  "summary": "Save for cache images KSSaveImage.",
+  "description": "TODO: Add long description of the pod here. LONG LONG description",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/KSSaveImage",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "kontarcher": "kasim.sagir@hotmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/KSSaveImage.git",
+    "tag": "1.0"
+  },
+  "swift_version": "3.2",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "KSSaveImage/Classes/**/*"
+}

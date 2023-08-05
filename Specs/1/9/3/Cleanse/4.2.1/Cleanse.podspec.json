@@ -1,0 +1,17 @@
+{
+  "name": "Cleanse",
+  "version": "4.2.1",
+  "license": "Apache License, Version 2.0",
+  "summary": "Lightweight Swift Dependency Injection Framework",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Cleanse",
+  "authors": "Square",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Cleanse.git",
+    "tag": "4.2.1"
+  },
+  "source_files": "Cleanse/*.swift",
+  "platforms": {
+    "ios": "8.3"
+  },
+  "swift_version": "4.2"
+}

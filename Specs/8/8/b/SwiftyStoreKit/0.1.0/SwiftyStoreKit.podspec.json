@@ -1,0 +1,22 @@
+{
+  "name": "SwiftyStoreKit",
+  "version": "0.1.0",
+  "summary": "Lightweight In App Purchases Swift framework for iOS 8.0+",
+  "license": "MIT",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwiftyStoreKit",
+  "authors": {
+    "Andrea Bizzotto": "bizz84@gmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwiftyStoreKit.git",
+    "tag": "0.1.0"
+  },
+  "source_files": "SwiftyStoreKit/*.{swift}",
+  "screenshots": [
+
+  ],
+  "requires_arc": true
+}

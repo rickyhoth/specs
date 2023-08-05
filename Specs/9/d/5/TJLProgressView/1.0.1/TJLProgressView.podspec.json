@@ -1,0 +1,20 @@
+{
+  "name": "TJLProgressView",
+  "version": "1.0.1",
+  "license": "MIT",
+  "summary": "A sublcass of UIProgressView that takes an NSProgress and updates automatically.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TJLProgressView",
+  "authors": {
+    "Terry Lewis II": "terry@ploverproductions.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TJLProgressView.git",
+    "tag": "v1.0.1"
+  },
+  "source_files": "TJLProgressView/Source/*.{h,m}",
+  "requires_arc": true,
+  "platforms": {
+    "ios": "7.0"
+  },
+  "social_media_url": "https://twitter.com/tlewisii"
+}

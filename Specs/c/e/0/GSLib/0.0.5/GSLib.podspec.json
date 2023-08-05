@@ -1,0 +1,31 @@
+{
+  "name": "GSLib",
+  "version": "0.0.5",
+  "summary": "A short description of GSLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/GSLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xiamoweinuan": "gaoshuangone@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/GSLib.git",
+    "tag": "0.0.5"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "GSLib/Classes/**/*",
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ],
+  "dependencies": {
+    "Masonry": [
+
+    ]
+  }
+}

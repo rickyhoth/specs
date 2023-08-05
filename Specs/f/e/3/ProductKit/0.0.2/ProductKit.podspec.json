@@ -1,0 +1,27 @@
+{
+  "name": "ProductKit",
+  "version": "0.0.2",
+  "summary": "ProductKit.",
+  "description": "https://bitbucket.devops.nonprod.empf.local/scm/react/ProductKit.git",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ProductKit.git",
+  "license": "MIT",
+  "authors": {
+    "zbwbb": "zhoubinxinna@sina.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ProductKit.git",
+    "tag": "0.0.2"
+  },
+  "source_files": "ProductKit/ProductKit/ProductTool.{h,m}",
+  "public_header_files": "ProductKit/ProductKit/ProductTool.h",
+  "subspecs": [
+    {
+      "name": "Reachability",
+      "source_files": "ProductKit/ProductKit/Reachability/NewProductTool.{h,m}",
+      "public_header_files": "ProductKit/ProductKit/Reachability/NewProductTool.h"
+    }
+  ]
+}

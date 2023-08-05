@@ -1,0 +1,25 @@
+{
+  "name": "TinyGraphQL",
+  "version": "0.0.3",
+  "summary": "A lightweight and easy-to-use GraphQL client for Swift",
+  "swift_versions": "5.2",
+  "description": "A lightweight and easy-to-use GraphQL client for Swift\n- with 💘 from @GetStream",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TinyGraphQL",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "cardoso": "matheus@getstream.io"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TinyGraphQL.git",
+    "tag": "0.0.3"
+  },
+  "social_media_url": "https://twitter.com/getstream_io",
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source_files": "Sources/TinyGraphQL/**/*",
+  "swift_version": "5.2"
+}

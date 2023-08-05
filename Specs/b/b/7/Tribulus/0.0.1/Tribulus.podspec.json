@@ -1,0 +1,23 @@
+{
+  "name": "Tribulus",
+  "version": "0.0.1",
+  "summary": "Convenient attributed strings adjustment in Swift.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Tribulus",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Dmitry Frishbuter": "dmitry.frishbuter@rosberry.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Tribulus.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Sources/**/*",
+  "pushed_with_swift_version": "3.0"
+}

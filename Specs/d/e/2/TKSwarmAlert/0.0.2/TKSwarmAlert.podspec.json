@@ -1,0 +1,24 @@
+{
+  "name": "TKSwarmAlert",
+  "version": "0.0.2",
+  "summary": "Animated Alert Library like \"Swarm\" app.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TKSwarmAlert",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Takuya.Okamoto": "blackn.red42@gmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TKSwarmAlert.git",
+    "tag": "0.0.2"
+  },
+  "source_files": [
+    "Classes",
+    "TKSwarmAlert/Classes/**/*.{swift}"
+  ]
+}

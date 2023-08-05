@@ -1,0 +1,24 @@
+{
+  "name": "VMaxAdSdks",
+  "version": "0.0.2",
+  "summary": "Static Library for VMaxAdSdks.",
+  "description": "Static Library for VMaxAdSdks. Its build in Objective C",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/VMaxAdSdks",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Siddhant Nigam": "siddhant.n@vserv.com"
+  },
+  "source": {
+    "http": "https://bitbucket.devops.nonprod.empf.local/scm/react/VMaxAdSdks/archive/0.0.2.zip"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": [
+    "VMaxAdSdks-0.0.2/VMaxAdSDK/lib/*",
+    "VMaxAdSdks-0.0.2/VMaxAdSDK/include/*"
+  ]
+}

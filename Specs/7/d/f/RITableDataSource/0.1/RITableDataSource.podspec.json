@@ -1,0 +1,20 @@
+{
+  "name": "RITableDataSource",
+  "version": "0.1",
+  "summary": "UITableView data source based on NSFetchedResultsController.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/RITableDataSource",
+  "authors": {
+    "Ali Gadzhiev": ""
+  },
+  "license": "MIT",
+  "platforms": {
+    "ios": "5.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/RITableDataSource.git",
+    "tag": "0.1"
+  },
+  "source_files": "RITableDataSource/*.{h,m}",
+  "frameworks": "CoreData",
+  "requires_arc": true
+}

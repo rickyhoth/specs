@@ -1,0 +1,26 @@
+{
+  "name": "FAMapView",
+  "version": "0.1.0",
+  "summary": "init FAMapView.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/FAMapView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "fadizant": "fadizant@yahoo.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/FAMapView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "FAMapView/Classes/**/*",
+  "resource_bundles": {
+    "FAMapView": [
+      "FAMapView/Classes/*.xib"
+    ]
+  }
+}

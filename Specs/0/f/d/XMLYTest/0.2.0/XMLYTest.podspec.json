@@ -1,0 +1,22 @@
+{
+  "name": "XMLYTest",
+  "version": "0.2.0",
+  "summary": "A short description of XMTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/XMTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "oauth2": "peng.yang@ximalaya.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/XMTest.git",
+    "tag": "0.2.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "XMTest/Classes/**/*"
+}

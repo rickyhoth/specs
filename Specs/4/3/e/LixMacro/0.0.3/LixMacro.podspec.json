@@ -1,0 +1,28 @@
+{
+  "name": "LixMacro",
+  "version": "0.0.3",
+  "summary": "Objective-C常用宏",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LixMacro",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Lix": "xiao.liunit@gmail.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LixMacro.git",
+    "tag": "0.0.3"
+  },
+  "source_files": [
+    "Lix_Macro",
+    "Lix_Macro/**/*.{h,m}"
+  ],
+  "frameworks": [
+    "Foundation",
+    "UIKit"
+  ]
+}

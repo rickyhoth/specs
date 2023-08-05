@@ -1,0 +1,31 @@
+{
+  "name": "RxToucan",
+  "version": "0.1.0",
+  "summary": "Toucan wrapper with RxSwift.",
+  "description": "Toucan wrapper with RxSwift.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/RxToucan",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "🦊Tomoya Hirano": "noppelabs@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/RxToucan.git",
+    "tag": "0.1.0"
+  },
+  "social_media_url": "https://twitter.com/noppefoxwolf",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "RxToucan/Classes/**/*",
+  "dependencies": {
+    "Toucan": [
+
+    ],
+    "RxSwift": [
+
+    ]
+  }
+}

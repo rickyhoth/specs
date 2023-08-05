@@ -1,0 +1,22 @@
+{
+  "name": "ZXCalendar",
+  "version": "1.0.0",
+  "platforms": {
+    "ios": "5.0"
+  },
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE.md"
+  },
+  "summary": "支持农历的日历 ,simple canledar support lunar , and customizable",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZXCalendar",
+  "authors": {
+    "bumaociyuan": "http://bumaociyuan.github.io/"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZXCalendar.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "Class/*{h,m}",
+  "requires_arc": true
+}

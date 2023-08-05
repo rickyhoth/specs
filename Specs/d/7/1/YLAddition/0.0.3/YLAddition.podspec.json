@@ -1,0 +1,28 @@
+{
+  "name": "YLAddition",
+  "version": "0.0.3",
+  "summary": "A short description of YLAddition.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/YLAddition",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "LYongLiang": "liangyl0515@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YLAddition.git",
+    "tag": "0.0.3"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "static_framework": true,
+  "source_files": "YLAddition/Classes/**/*",
+  "public_header_files": "Pod/Classes/YLAdditionHeader.h",
+  "frameworks": [
+    "UIKit",
+    "AVFoundation"
+  ]
+}

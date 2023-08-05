@@ -1,0 +1,23 @@
+{
+  "name": "AGAsyncTestHelper",
+  "version": "0.2.2",
+  "summary": "Macro for writing XCTest tests with asynchronous operations.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AGAsyncTestHelper",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Håvard Fossli": "hfossli@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AGAsyncTestHelper.git",
+    "tag": "0.2.2"
+  },
+  "source_files": "Source/*.{h,m}",
+  "frameworks": [
+    "Foundation",
+    "XCTest"
+  ],
+  "requires_arc": true
+}

@@ -1,0 +1,19 @@
+{
+  "name": "nuevo",
+  "version": "1.0.1",
+  "summary": "nuevo",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/nuevo",
+  "license": "MIT",
+  "authors": "Lex",
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/nuevo.git",
+    "tag": "1.0.1"
+  },
+  "source_files": [
+    "nuevo",
+    "nuevo/**/*.{h,m,swift}"
+  ]
+}

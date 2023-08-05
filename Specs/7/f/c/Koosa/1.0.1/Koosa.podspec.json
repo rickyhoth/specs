@@ -1,0 +1,24 @@
+{
+  "name": "Koosa",
+  "version": "1.0.1",
+  "summary": "Attributed Role-based Access Control For Swift",
+  "description": "A simple Attributed Role-based Access Control For Swift",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Koosa",
+  "license": "MIT",
+  "authors": {
+    "mabdellateef": "mmabdelateef@gmail.com"
+  },
+  "social_media_url": "https://twitter.com/mmabdellateef",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Koosa.git",
+    "tag": "1.0.1"
+  },
+  "source_files": [
+    "Koosa",
+    "Koosa/**/*.{h,m,swift}"
+  ],
+  "swift_version": "4.1"
+}

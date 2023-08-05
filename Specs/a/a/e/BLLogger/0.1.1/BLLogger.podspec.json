@@ -1,0 +1,21 @@
+{
+  "name": "BLLogger",
+  "version": "0.1.1",
+  "summary": "A Swift dLog implementation.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/BLLogger",
+  "license": "MIT",
+  "authors": {
+    "Bell App Lab": "apps@bellapplab.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/BLLogger.git",
+    "tag": "0.1.1"
+  },
+  "social_media_url": "https://twitter.com/BellAppLab",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "frameworks": "Foundation"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "YYComponent",
+  "version": "0.1.0",
+  "summary": "YYComponent.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/YYComponent.git",
+  "license": "MIT",
+  "authors": {
+    "yuanxinliang": "306619887@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YYComponent.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YYComponent/Classes/**/*"
+}

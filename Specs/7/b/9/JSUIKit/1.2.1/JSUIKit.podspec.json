@@ -1,0 +1,21 @@
+{
+  "name": "JSUIKit",
+  "version": "1.2.1",
+  "summary": "JSUIKit: 常用控件的工厂类",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JSUIKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "spirit-jsb": "spirit1437419996@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JSUIKit.git",
+    "tag": "1.2.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "JSUIKit/Classes/**/*.{h,m}"
+}

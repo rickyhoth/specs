@@ -1,0 +1,22 @@
+{
+  "name": "NetworkRepository",
+  "version": "1.0.7",
+  "summary": "The wrapper on the top of URLSession",
+  "description": "This includes Network repository for iOS Platform. As name implies, it uses URLSession in iOS swift",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/reactnetworkrepository",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "developer@celusion.com": "developer@celusion.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/reactnetworkrepository.git",
+    "tag": "1.0.7"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "Sources/NetworkRepository/**/*"
+}

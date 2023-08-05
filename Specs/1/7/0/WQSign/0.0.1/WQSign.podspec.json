@@ -1,0 +1,23 @@
+{
+  "name": "WQSign",
+  "version": "0.0.1",
+  "summary": "Use to Sign",
+  "description": "Cwenqing-https://bitbucket.devops.nonprod.empf.local/scm/react/WQSign.git",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WQSign.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Cwenqing": "312577281@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WQSign.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "Sign/Sign/Sign/*.{h,m}",
+  "requires_arc": true
+}

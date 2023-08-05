@@ -1,0 +1,29 @@
+{
+  "name": "BitautoTech",
+  "version": "0.0.2",
+  "summary": "A Tool Kit of BitautoTech.",
+  "description": "BitautoTech is a iOS develop Tool kit.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/BitautoTech",
+  "license": "MIT",
+  "authors": {
+    "huipeng": "penghui_only@163.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/BitautoTech.git",
+    "tag": "0.0.2"
+  },
+  "source_files": "BitautoTech/BitautoTech/**/*.{h,m}",
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ],
+  "requires_arc": true,
+  "dependencies": {
+    "MJRefresh": [
+      "~> 3.1.15"
+    ]
+  }
+}

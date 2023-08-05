@@ -1,0 +1,22 @@
+{
+  "name": "VPAttributedFormat",
+  "version": "1.2.3",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/VPAttributedFormat",
+  "authors": {
+    "Visput": "uladzimir.papko@gmail.com"
+  },
+  "summary": "VPAttributedFormat project represents methods for building attributed string based on attributed format and arguments",
+  "platforms": {
+    "ios": "6.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/VPAttributedFormat.git",
+    "tag": "v1.2.3"
+  },
+  "source_files": "VPAttributedFormat/**/*.{h,m}",
+  "requires_arc": true
+}

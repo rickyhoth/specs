@@ -1,0 +1,24 @@
+{
+  "name": "APIAdapter",
+  "version": "0.1.0",
+  "summary": "An APIAdapter.",
+  "description": "Long description for an APIAdapter.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/APIAdapter",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Adam Leitgeb": "leitgeb.a@icloud.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/APIAdapter.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "swift_version": "4.2",
+  "source_files": "Sources/**/*",
+  "frameworks": "Foundation"
+}

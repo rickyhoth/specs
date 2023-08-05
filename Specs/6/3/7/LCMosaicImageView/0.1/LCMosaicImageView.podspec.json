@@ -1,0 +1,24 @@
+{
+  "name": "LCMosaicImageView",
+  "version": "0.1",
+  "license": "MIT",
+  "summary": "Sources of LCMosaicImageView and Demo app to show mosaic UIImageView.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LCMosaicImageView",
+  "authors": {
+    "Lazy Clutch": "lr_5146@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LCMosaicImageView.git",
+    "tag": "0.1"
+  },
+  "platforms": {
+    "ios": "6.0"
+  },
+  "source_files": "LCMosaicImageView/LCMosaicImageView.{h,m}",
+  "frameworks": [
+    "UIKit",
+    "CoreGraphics",
+    "Foundation"
+  ],
+  "requires_arc": true
+}

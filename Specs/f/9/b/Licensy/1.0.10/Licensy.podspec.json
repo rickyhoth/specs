@@ -1,0 +1,29 @@
+{
+  "name": "Licensy",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "summary": "Licensy lets an user to list all 3rd Party Libraries which use in his project.",
+  "requires_arc": true,
+  "version": "1.0.10",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "David Jimenez Guinaldo": "djimenezgu@gmail.com",
+    "Guillermo Garcia Rebolo": "guillermogarcia_18@hotmail.com"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Licensy",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Licensy.git",
+    "tag": "1.0.10"
+  },
+  "frameworks": "UIKit",
+  "source_files": "Licensy/Licensy/**/*.{swift}",
+  "resource_bundles": {
+    "Licensy": [
+      "Licensy/Licensy/**/*.{storyboard,xib,png,strings,txt}"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Measure",
+  "version": "0.7.0",
+  "summary": "Performance measurement tool",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Measure",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "muukii": "muukii.app@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Measure.git",
+    "tag": "0.7.0"
+  },
+  "social_media_url": "https://twitter.com/muukii0803",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Measure/**/*.swift"
+}

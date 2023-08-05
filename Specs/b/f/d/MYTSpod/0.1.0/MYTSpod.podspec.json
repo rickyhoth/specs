@@ -1,0 +1,24 @@
+{
+  "name": "MYTSpod",
+  "version": "0.1.0",
+  "summary": "Myfirst pod app",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MYTSpod",
+  "authors": {
+    "tinku07": "tinku.codebuzzer@gmail.com"
+  },
+  "license": {
+    "type": "TOPSECRET",
+    "file": "MYTSpod/LICENSE"
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MYTSpod.git",
+    "tag": "0.1.0"
+  },
+  "source_files": "MYTSpod/**/*.swift",
+  "requires_arc": true,
+  "swift_versions": "4.2",
+  "swift_version": "4.2"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "XNetWork",
+  "version": "0.2.0",
+  "summary": "A short description of XNetWork.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/XNetWork",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "972510000": "972510000@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/XNetWork.git",
+    "tag": "0.2.0"
+  },
+  "platforms": {
+    "ios": "12.0"
+  },
+  "source_files": "XNetWork/Classes/*"
+}

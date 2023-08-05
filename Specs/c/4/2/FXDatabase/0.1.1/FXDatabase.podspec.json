@@ -1,0 +1,29 @@
+{
+  "name": "FXDatabase",
+  "version": "0.1.1",
+  "summary": "对FMDB的封装",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/FXDatabase",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wupengfei": "1569485690@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/FXDatabase.git",
+    "tag": "0.1.1"
+  },
+  "source_files": [
+    "Sources",
+    "Sources/**/*.{h,m}"
+  ],
+  "platforms": {
+    "ios": null
+  },
+  "dependencies": {
+    "FMDB": [
+
+    ]
+  }
+}

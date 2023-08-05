@@ -1,0 +1,22 @@
+{
+  "name": "MyPodiOS",
+  "version": "0.1.0",
+  "summary": "This is for learning.",
+  "description": "This is for learning purpose.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MyPodiOS",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "tushar-systango": "tushar@systango.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MyPodiOS.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MyPodiOS/Classes/**/*"
+}

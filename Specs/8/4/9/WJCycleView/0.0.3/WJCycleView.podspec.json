@@ -1,0 +1,21 @@
+{
+  "name": "WJCycleView",
+  "version": "0.0.3",
+  "summary": "An infinite automatic scroll loop effect for ios.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WJCycleView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Wangjing": "827476559@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WJCycleView.git",
+    "tag": "v0.0.3"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "WJCycleView/*.{h,m}"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "JWUIFactory",
+  "version": "1.0.1",
+  "summary": "一款UI封装组件、链式调用",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JWUIFactory",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "jarvis🚴": "objectclass@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JWUIFactory.git",
+    "tag": "1.0.1"
+  },
+  "source_files": [
+    "UIFactory",
+    "JWUIFactory/UIFactory/*.{h,m}"
+  ],
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true
+}

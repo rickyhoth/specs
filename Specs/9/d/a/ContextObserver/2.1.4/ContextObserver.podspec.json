@@ -1,0 +1,24 @@
+{
+  "name": "ContextObserver",
+  "version": "2.1.4",
+  "summary": "A small library to manage CoreData notifications in order to update the user interface",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ContextObserver",
+  "license": "MIT",
+  "authors": {
+    "Kai Straßmann": "derkai@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ContextObserver.git",
+    "tag": "2.1.4"
+  },
+  "platforms": {
+    "ios": "8.0",
+    "osx": "10.9"
+  },
+  "requires_arc": true,
+  "source_files": "Classes/*.swift",
+  "frameworks": [
+    "Foundation",
+    "CoreData"
+  ]
+}

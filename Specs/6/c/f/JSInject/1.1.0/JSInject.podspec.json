@@ -1,0 +1,25 @@
+{
+  "name": "JSInject",
+  "version": "1.1.0",
+  "summary": "Swift DI(Dependency Injection) using @propertyWrapper",
+  "description": "Swift DI(Dependency Injection) using @propertyWrapper",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JSInject",
+  "screenshots": "",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "JSilver": "wlsdms0122@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JSInject.git",
+    "tag": "1.1.0"
+  },
+  "swift_versions": "5",
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "JSInject/Source/*.swift",
+  "swift_version": "5"
+}

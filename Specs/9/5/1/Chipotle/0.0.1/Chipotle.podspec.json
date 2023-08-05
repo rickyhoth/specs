@@ -1,0 +1,24 @@
+{
+  "name": "Chipotle",
+  "version": "0.0.1",
+  "summary": "Super simple benchmarking tool with mucho picante!",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Chipotle",
+  "license": "MIT",
+  "authors": {
+    "Marcus Kida": "marcus@kida.io"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Chipotle.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes",
+  "resource_bundles": {
+    "Chipotle": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}

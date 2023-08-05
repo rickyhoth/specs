@@ -1,0 +1,27 @@
+{
+  "name": "SWBaseRequest",
+  "version": "1.0.0",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SWBaseRequest",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "summary": "基于YTKNetwork的网络封装",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Zhoushaowen": "348345883@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SWBaseRequestDemo.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "SWBaseRequestDemo/SWBaseRequest/*.{h,m}",
+  "requires_arc": true,
+  "dependencies": {
+    "YTKNetwork": [
+
+    ]
+  }
+}

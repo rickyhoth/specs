@@ -1,0 +1,24 @@
+{
+  "name": "ScratchImage",
+  "version": "0.2.1",
+  "summary": "Scratchable UIImageView",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ScratchImage",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "DongHee Kang": "kanglpmg@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ScratchImage.git",
+    "tag": "0.2.1"
+  },
+  "documentation_url": "https://bitbucket.devops.nonprod.empf.local/scm/react/ScratchImage/blob/master/README.md",
+  "ios": {
+    "source_files": "Sources/*.swift"
+  },
+  "platforms": {
+    "ios": "8.0"
+  }
+}

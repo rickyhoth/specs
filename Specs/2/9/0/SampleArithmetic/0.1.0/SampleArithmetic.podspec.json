@@ -1,0 +1,23 @@
+{
+  "name": "SampleArithmetic",
+  "version": "0.1.0",
+  "summary": "Sample Arithmetic.",
+  "description": "Basic arithmetic operations",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SampleArithmetic",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "SudaniNancy": "nancy@logisticinfotech.co.in"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SampleArithmetic.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "swift_versions": "4.0",
+  "source_files": "SampleArithmetic/Classes/**/*"
+}

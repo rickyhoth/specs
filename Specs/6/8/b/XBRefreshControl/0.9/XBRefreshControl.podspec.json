@@ -1,0 +1,19 @@
+{
+  "name": "XBRefreshControl",
+  "version": "0.9",
+  "authors": {
+    "xiabob": "xiabob@yeah.net"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/XBRefreshControl",
+  "summary": "A pull down RefreshControl by swift.",
+  "license": "MIT",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/XBRefreshControl.git",
+    "tag": "0.9"
+  },
+  "source_files": "XBRefreshControl/*.swift",
+  "requires_arc": true,
+  "platforms": {
+    "ios": "8.0"
+  }
+}

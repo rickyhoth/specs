@@ -1,0 +1,23 @@
+{
+  "name": "TTT",
+  "version": "0.0.2",
+  "summary": "Pod Test",
+  "description": "Pod Test",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TTT",
+  "license": "MIT",
+  "authors": {
+    "Ron": "zhaomingdi007@gamil.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TTT.git",
+    "tag": "0.0.2"
+  },
+  "source_files": [
+    "TTT/**/*.{h,m,mm,c}",
+    "WWW/**/*.{h,m,mm,c}"
+  ],
+  "requires_arc": true
+}

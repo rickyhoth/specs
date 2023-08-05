@@ -1,0 +1,25 @@
+{
+  "name": "CascadeiOSSDK",
+  "version": "1.0.4.2",
+  "summary": "CascadeiOSSDK",
+  "description": "PCI SDK xcFramework",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/PCI-SDK-iOS",
+  "documentation_url": "https://bitbucket.devops.nonprod.empf.local/scm/react/PCI-SDK-iOS",
+  "license": {
+    "type": "MIT"
+  },
+  "authors": {
+    "Cascade Financial Technology": "qa@cascadefintech.com"
+  },
+  "source": {
+    "http": "https://bitbucket.devops.nonprod.empf.local/scm/react/CascadeiOSSDK-v1.0.4.zip"
+  },
+  "swift_versions": "5.3",
+  "platforms": {
+    "ios": "15.4"
+  },
+  "ios": {
+    "vendored_frameworks": "CascadeiOSSDK.xcframework"
+  },
+  "swift_version": "5.3"
+}

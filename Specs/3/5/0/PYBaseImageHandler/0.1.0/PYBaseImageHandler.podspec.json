@@ -1,0 +1,22 @@
+{
+  "name": "PYBaseImageHandler",
+  "version": "0.1.0",
+  "summary": "image的编辑工具。提供了流加载图片、图片填充色修改",
+  "description": "image的编辑工具。提供了流加载图片、图片填充色修改",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/PYBaseImageHandler",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "LiPengYue": "pengyue.li@yi23.net"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/PYBaseImageHandler.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PYBaseImageHandler/Classes/**/*"
+}

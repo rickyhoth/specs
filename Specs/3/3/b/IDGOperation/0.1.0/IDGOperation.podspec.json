@@ -1,0 +1,21 @@
+{
+  "name": "IDGOperation",
+  "version": "0.1.0",
+  "summary": "Async Extension for NSOperation.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/IDGOperation",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "mojtabacazi": "mojtabacazi@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/IDGOperation.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "IDGOperation/Classes/**/*"
+}

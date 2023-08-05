@@ -1,0 +1,21 @@
+{
+  "name": "FakeFrameworkSdk",
+  "version": "0.1.2",
+  "summary": "This is a fake iOS framework just for some tests and experiments",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/FakeFramework",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Daniil Alferov": "daniil.alferov@gmail.com"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/FakeFramework.git",
+    "tag": "0.1.2"
+  },
+  "vendored_frameworks": "FakeFrameworkSdk.xcframework"
+}

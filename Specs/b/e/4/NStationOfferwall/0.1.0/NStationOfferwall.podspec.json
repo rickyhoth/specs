@@ -1,0 +1,21 @@
+{
+  "name": "NStationOfferwall",
+  "version": "0.1.0",
+  "summary": "A short description of NStationOfferwall.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/NStationOfferwall",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "kkeman": "kkeman11@gmail.com"
+  },
+  "source": {
+    "http": "https://bitbucket.devops.nonprod.empf.local/scm/react/NStationOfferwall1.0.1.xcframework.zip"
+  },
+  "vendored_frameworks": "NStationOfferwall.xcframework",
+  "platforms": {
+    "ios": "10.0"
+  }
+}

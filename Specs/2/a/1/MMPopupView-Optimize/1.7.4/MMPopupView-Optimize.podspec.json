@@ -1,0 +1,29 @@
+{
+  "name": "MMPopupView-Optimize",
+  "version": "1.7.4",
+  "summary": "Copyright © 2015 LJC | Modify by Yan on 2017/11/20",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MMPopupView/tree/optimized",
+  "license": {
+    "type": "MIT License",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yanff": "yanff.us@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MMPopupView.git",
+    "branch": "optimized",
+    "tag": "1.7.4"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source_files": "Classes/*.{h,m}",
+  "requires_arc": true,
+  "dependencies": {
+    "Masonry": [
+
+    ]
+  },
+  "deprecated": true
+}

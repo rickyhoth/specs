@@ -1,0 +1,22 @@
+{
+  "name": "BSCategories",
+  "version": "0.0.4",
+  "summary": "Some useful Objective-C categories!",
+  "description": "Some useful Objective-C categories!!",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/BSCategories",
+  "license": "MIT",
+  "authors": {
+    "blurryssky": "blurryssky@icloud.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/BSCategories.git",
+    "tag": "0.0.4"
+  },
+  "source_files": [
+    "BSCategories",
+    "BSCategoriesSample/BSCategories/*"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "FlexibleAlignButton",
+  "version": "0.1.0",
+  "summary": "Flexible align button",
+  "description": "TODO: Flexible align button.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/FlexibleAlignButton.git",
+  "license": "MIT",
+  "authors": {
+    "baixiangyu": "bxyfighting@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/FlexibleAlignButton.git",
+    "tag": "0.1.0"
+  },
+  "source_files": "FlexibleAlignButton/Classes/**/*.{h,m}",
+  "public_header_files": "FlexibleAlignButton/Classes/**/*.{h}",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ]
+}

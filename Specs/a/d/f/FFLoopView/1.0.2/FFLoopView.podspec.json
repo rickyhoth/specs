@@ -1,0 +1,27 @@
+{
+  "name": "FFLoopView",
+  "version": "1.0.2",
+  "summary": "Simple images loop view in Swift with custom paging view",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/FFLoopView",
+  "license": "MIT",
+  "authors": {
+    "Fan Liu": "liufan321@gmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/FFLoopView.git",
+    "tag": "1.0.2"
+  },
+  "source_files": [
+    "FFLoopView",
+    "FFLoopView/Source/*.swift"
+  ],
+  "requires_arc": true,
+  "dependencies": {
+    "SDWebImage": [
+
+    ]
+  }
+}

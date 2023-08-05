@@ -1,0 +1,27 @@
+{
+  "name": "Format",
+  "version": "0.3.0",
+  "summary": "A Swift formatter kit.",
+  "description": "A Swift formatting framework. Simple formatting syntax for decimal numbers, currency, mass, addresses, ordinal numbers and hexadecimal colors.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Format",
+  "license": "MIT",
+  "authors": {
+    "Roy Marmelstein": "marmelroy@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Format.git",
+    "tag": "0.3.0"
+  },
+  "social_media_url": "http://twitter.com/marmelroy",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "Format",
+  "frameworks": [
+    "MapKit",
+    "AddressBook",
+    "CoreLocation",
+    "Contacts"
+  ]
+}

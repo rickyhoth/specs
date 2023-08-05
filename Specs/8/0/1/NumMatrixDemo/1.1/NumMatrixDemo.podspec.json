@@ -1,0 +1,25 @@
+{
+  "name": "NumMatrixDemo",
+  "version": "1.1",
+  "summary": "caculate sudoku results",
+  "description": "caculate sudoku results.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/NumMatrixDemo",
+  "license": "MIT",
+  "authors": {
+    "ckm": "kaiminchen@126.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/NumMatrixDemo.git",
+    "tag": "1.1"
+  },
+  "source_files": [
+    "Classes",
+    "NumMatrixDemo/**/*.{h,m}"
+  ],
+  "exclude_files": "Classes/Exclude",
+  "frameworks": "Foundation",
+  "requires_arc": true
+}

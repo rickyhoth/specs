@@ -1,0 +1,28 @@
+{
+  "name": "BronExtensions",
+  "version": "0.0.1",
+  "summary": "BronExtensions",
+  "swift_version": "4.0",
+  "description": "BronExtensions is good",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/BronExtensions.git",
+  "license": {
+    "type": "Apache",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "hbj520": "hbjmailformac@163.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/BronExtensions.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "Sources/*.swift",
+  "frameworks": [
+    "Foundation",
+    "UIKit"
+  ],
+  "requires_arc": true
+}

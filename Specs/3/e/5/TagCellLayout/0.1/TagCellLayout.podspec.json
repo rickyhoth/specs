@@ -1,0 +1,19 @@
+{
+  "name": "TagCellLayout",
+  "version": "0.1",
+  "summary": "Tag layout for UICollectoionView supporting 3 types of alignments - Left || Centre || Right",
+  "authors": {
+    "Ritesh Gupta": "rg.riteshh@gmail.com"
+  },
+  "license": "MIT",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TagCellLayout",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TagCellLayout.git",
+    "tag": "0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Source/*.{swift}",
+  "requires_arc": true
+}

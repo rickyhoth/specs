@@ -1,0 +1,20 @@
+{
+  "name": "JJCPayCodeTextField",
+  "version": "0.1.0",
+  "license": "MIT",
+  "summary": "A Library for iOS to use border of pay code.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JJCPayCodeTextField",
+  "authors": {
+    "苜蓿鬼仙": "302926124@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JJCPayCodeTextField.git",
+    "tag": "0.1.0"
+  },
+  "source_files": "JJCPayCodeTextFieldDemo/JJCPayCodeTextField/*.{h,m}",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "frameworks": "UIKit",
+  "requires_arc": true
+}

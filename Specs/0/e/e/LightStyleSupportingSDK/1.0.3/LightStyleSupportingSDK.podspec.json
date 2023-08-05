@@ -1,0 +1,19 @@
+{
+  "name": "LightStyleSupportingSDK",
+  "version": "1.0.3",
+  "summary": "Light Style SupportingSDK SDK",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LightStyle",
+  "license": "Light Style",
+  "authors": "LightStyle",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "swift_version": "4.2",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LightStyleSupportingSDK.git",
+    "tag": "1.0.3"
+  },
+  "ios": {
+    "vendored_frameworks": "LightStyleSupportingSDK.framework"
+  }
+}

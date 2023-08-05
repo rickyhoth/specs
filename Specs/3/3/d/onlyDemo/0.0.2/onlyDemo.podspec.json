@@ -1,0 +1,22 @@
+{
+  "name": "onlyDemo",
+  "version": "0.0.2",
+  "summary": "a test demo",
+  "description": "my demo for component",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/onlyDemo.git",
+  "license": {
+    "type": "Apaches",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "gaozhihong": "18710296168@163.com"
+  },
+  "platforms": {
+    "ios": null
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/onlyDemo.git",
+    "tag": "0.0.2"
+  },
+  "source_files": "onlyDemo/001/*"
+}

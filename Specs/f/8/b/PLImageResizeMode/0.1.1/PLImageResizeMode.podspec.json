@@ -1,0 +1,22 @@
+{
+  "name": "PLImageResizeMode",
+  "version": "0.1.1",
+  "summary": "A short description of PLImageResizeMode.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/PLImageResizeMode",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "1248667206@qq.com": "penglei@theduapp.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/PLImageResizeMode.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PLImageResizeMode/Classes/**/*"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "ZBFancyCollectionView",
+  "version": "0.3.1",
+  "summary": "A delightful iOS ZBFancyCollectionView framework.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZBFancyCollectionView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "373379320@qq.com": "373379320@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZBFancyCollectionView.git",
+    "tag": "0.3.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZBFancyCollectionView/Classes/**/*",
+  "prefix_header_contents": "#import \"ZBFancyCollectionViewPrefixHeader.h\"",
+  "frameworks": [
+    "UIKit",
+    "CoreFoundation"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "TKCocoaModule",
+  "version": "0.1.1",
+  "summary": "A short description of TKCocoaModule.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TKCocoaModule",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhuamaodeyu": "playtomandjerry@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TKCocoaModule.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "osx": "10.12"
+  },
+  "source_files": "TKCocoaModule/Classes/**/*"
+}

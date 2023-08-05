@@ -1,0 +1,19 @@
+{
+  "name": "Fonty",
+  "version": "1.1.0",
+  "summary": "Web Font Tool",
+  "description": "Use Fonty to download, cache and register your font from web.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Fonty",
+  "license": "MIT",
+  "authors": {
+    "": "s2mh@qq.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Fonty.git",
+    "tag": "1.1.0"
+  },
+  "source_files": "Fonty/*.{h,m}"
+}

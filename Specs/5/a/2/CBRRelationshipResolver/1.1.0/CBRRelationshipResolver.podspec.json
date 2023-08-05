@@ -1,0 +1,26 @@
+{
+  "name": "CBRRelationshipResolver",
+  "version": "1.1.0",
+  "summary": "Automatically resolves CloudBridge relationship fetches.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CBRRelationshipResolver",
+  "license": "MIT",
+  "authors": {
+    "Oliver Letterer": "oliver.letterer@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CBRRelationshipResolver.git",
+    "tag": "1.1.0"
+  },
+  "social_media_url": "https://twitter.com/oletterer",
+  "platforms": {
+    "ios": "8.0",
+    "tvos": "9.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes",
+  "dependencies": {
+    "CloudBridge": [
+      "~> 1.0"
+    ]
+  }
+}

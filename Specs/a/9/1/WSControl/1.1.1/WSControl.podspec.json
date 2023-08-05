@@ -1,0 +1,19 @@
+{
+  "name": "WSControl",
+  "version": "1.1.1",
+  "summary": "Encapsulated UIButton/UIAlertView/UIActionSheet/UISegmentedControl with Block.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WSControl",
+  "license": "MIT",
+  "authors": {
+    "王顺": "360752546@qq.com"
+  },
+  "platforms": {
+    "ios": "5.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WSControl.git",
+    "tag": "1.1.1"
+  },
+  "source_files": "WSControl/*.{h,m}",
+  "frameworks": "UIKit"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "ScreenBrightness",
+  "version": "1.0.0",
+  "summary": "ScreenBrightness allows you to monitor brightness of your device screen without a hassle.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ScreenBrightness",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Michal Konturek": "michal.konturek@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ScreenBrightness.git",
+    "tag": "1.0.0"
+  },
+  "social_media_url": "https://twitter.com/michalkonturek",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ScreenBrightness/Classes/**/*"
+}

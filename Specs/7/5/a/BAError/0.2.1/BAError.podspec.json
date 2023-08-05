@@ -1,0 +1,23 @@
+{
+  "name": "BAError",
+  "version": "0.2.1",
+  "summary": "Helper category for NSError.",
+  "description": "Helper category for NSError, mark details of NSError more effective.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/BAError",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "benarvin": "benarvin93@outlook.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/BAError.git",
+    "tag": "0.2.1"
+  },
+  "platforms": {
+    "ios": "8.0",
+    "osx": "10.6"
+  },
+  "source_files": "BAError/Classes/**/*"
+}

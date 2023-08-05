@@ -1,0 +1,22 @@
+{
+  "name": "LWaabbccd",
+  "version": "0.5.0",
+  "summary": "LWaddabbccd for dameddd",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LWaabbccd.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "propertyChen": "chenjunda@talkmoney.cn"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LWaabbccd.git",
+    "tag": "0.5.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LWaabbccd/Classes/**/*"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "SliderViewController",
+  "version": "1.1.0",
+  "summary": "A new container controller to slide  ",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LeftRightSlider",
+  "license": {
+    "type": "MIT",
+    "file": "README.md"
+  },
+  "authors": {
+    "heroims": "heroims@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LeftRightSlider.git",
+    "tag": "1.1.0"
+  },
+  "platforms": {
+    "ios": "5.0"
+  },
+  "source_files": "LeftRightSlider/LeftRightSlider/SliderViewController/*.{h,m}",
+  "requires_arc": true
+}

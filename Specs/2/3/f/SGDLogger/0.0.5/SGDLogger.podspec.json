@@ -1,0 +1,22 @@
+{
+  "name": "SGDLogger",
+  "version": "0.0.5",
+  "summary": "Color test logger",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SGDLogger",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": "Sangen",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SGDLogger.git",
+    "tag": "v0.0.5"
+  },
+  "source_files": [
+    "Sources",
+    "Sources/**/*.{h,m}"
+  ]
+}

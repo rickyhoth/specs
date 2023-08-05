@@ -1,0 +1,21 @@
+{
+  "name": "GCMAggregatingTableViewDataSource",
+  "version": "0.1.6",
+  "summary": "A template project.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/GCMAggregatingTableViewDataSource",
+  "authors": {
+    "Tom Leach": "tom.leach@gamechanger.io"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/GCMAggregatingTableViewDataSource.git",
+    "tag": "0.1.6"
+  },
+  "source_files": "GCMAggregatingTableViewDataSource/GCMAggregatingTableViewDataSource/*.{h,m}",
+  "license": {
+    "type": "LICENSE"
+  },
+  "requires_arc": true,
+  "platforms": {
+    "ios": "6.0"
+  }
+}

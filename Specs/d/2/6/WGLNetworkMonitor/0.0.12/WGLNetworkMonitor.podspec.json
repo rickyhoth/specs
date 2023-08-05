@@ -1,0 +1,28 @@
+{
+  "name": "WGLNetworkMonitor",
+  "version": "0.0.12",
+  "summary": "This is a mobile network status monitor.",
+  "description": "\"This is a mobile network status monitor.\"",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WGLNetworkMonitor",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wuguanlong": "guanlongwu@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WGLNetworkMonitor.git",
+    "tag": "0.0.12"
+  },
+  "source_files": "WGLNetworkMonitor/**/*",
+  "public_header_files": "WGLNetworkMonitor/**/*.h",
+  "frameworks": [
+    "CoreFoundation",
+    "Foundation"
+  ],
+  "requires_arc": true
+}

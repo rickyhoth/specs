@@ -1,0 +1,27 @@
+{
+  "name": "MonCollectionTCell",
+  "version": "0.0.2",
+  "summary": "A Floww tableviewcell",
+  "description": "hahha",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MonCollectionTCell",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Pingzi": "bottle_cheung@aliyun.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MonCollectionTCell.git",
+    "tag": "0.0.2"
+  },
+  "source_files": "MonCollectionTCell/*",
+  "swift_version": "4.2",
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "TheFirstLib",
+  "version": "1.0.0",
+  "summary": "test add spec to cocoapods",
+  "description": "this is my first lib  A short description of TheFirstLib",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/",
+  "license": "MIT",
+  "authors": {
+    "seanzhu": "seanzhu@tencent.com"
+  },
+  "platforms": {
+    "ios": null
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TheFirstLib.git",
+    "tag": "1.0.0"
+  },
+  "source_files": [
+    "TheFirstLib",
+    "TheFirstLib/*.{h,m}"
+  ],
+  "exclude_files": "Classes/Exclude"
+}

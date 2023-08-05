@@ -1,0 +1,22 @@
+{
+  "name": "FTCalendar",
+  "version": "0.2",
+  "summary": "FTCalendar - Easy to use and customizable iOS Calendar",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/FTCalendar",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Mosab Babgi": "mbabgi@me.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/FTCalendar.git",
+    "tag": "0.2"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source_files": "Classes/*.{h,m}",
+  "requires_arc": true
+}

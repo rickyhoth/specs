@@ -1,0 +1,22 @@
+{
+  "name": "SwiftGraph",
+  "version": "1.0.3",
+  "license": "MIT",
+  "summary": "A Graph Data Structure in Pure Swift",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwiftGraph",
+  "social_media_url": "https://twitter.com/davekopec",
+  "authors": {
+    "David Kopec": "david@oaksnow.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwiftGraph.git",
+    "tag": "1.0.3"
+  },
+  "platforms": {
+    "ios": "8.0",
+    "osx": "10.9",
+    "tvos": "9.0"
+  },
+  "source_files": "Source/*.swift",
+  "requires_arc": true
+}

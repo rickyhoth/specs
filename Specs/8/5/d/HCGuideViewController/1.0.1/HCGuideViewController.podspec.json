@@ -1,0 +1,23 @@
+{
+  "name": "HCGuideViewController",
+  "version": "1.0.1",
+  "summary": "A simple guide view controller by Swift.",
+  "description": "A simple guide view controller by Swift. Implemente with collection view.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HCGuideViewController",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "RainbowMango": "qdurenhongcai@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HCGuideViewController.git",
+    "tag": "1.0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HCGuideViewController/*.{h,swift}",
+  "resources": "HCGuideViewController/HCGuideViewController.bundle"
+}

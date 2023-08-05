@@ -1,0 +1,22 @@
+{
+  "name": "HowToCreatePod",
+  "version": "0.0.3",
+  "summary": "A short description of HowToCreatePod.",
+  "description": "A short description of HowToCreatePod.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HowToCreatePod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "dzwing": "2456793882@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HowToCreatePod.git",
+    "tag": "0.0.3"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "HowToCreatePod/Classes/**/*"
+}

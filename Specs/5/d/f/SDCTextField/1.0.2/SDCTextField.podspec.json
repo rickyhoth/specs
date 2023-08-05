@@ -1,0 +1,22 @@
+{
+  "name": "SDCTextField",
+  "version": "1.0.2",
+  "summary": "A UITextField drop-in replacement with support for setting a maximum length.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SBTextField",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Scott Berrevoets": "s.berrevoets@me.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SDCTextField.git",
+    "tag": "v1.0.2"
+  },
+  "source_files": "SDCTextField/SDCTextField.*",
+  "platforms": {
+    "ios": "5.0"
+  },
+  "requires_arc": true
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Astral",
+  "module_name": "Astral",
+  "version": "0.7.5",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "summary": "An HTTP networking library that uses protocols and Futures",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Astral",
+  "authors": {
+    "Julio Alorro": "alorro3@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Astral.git",
+    "tag": "0.7.5"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "Sources/**/*.swift",
+  "requires_arc": true,
+  "frameworks": "Foundation",
+  "dependencies": {
+    "BrightFutures": [
+
+    ]
+  },
+  "pushed_with_swift_version": "3.0"
+}

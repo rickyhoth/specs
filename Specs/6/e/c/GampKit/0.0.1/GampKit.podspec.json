@@ -1,0 +1,27 @@
+{
+  "name": "GampKit",
+  "version": "0.0.1",
+  "summary": "Lorem Ipsum",
+  "description": "Lorem Description",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/GampKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "BrightDigit": "github@brightdigit.com"
+  },
+  "platforms": {
+    "ios": "8.0",
+    "osx": "10.9",
+    "watchos": "2.0",
+    "tvos": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/GampKit.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "Sources/**/*.swift",
+  "swift_versions": "5",
+  "swift_version": "5"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "CHXTabBarControllerTransitioning",
+  "version": "0.1",
+  "summary": "UITabBarController Transitioning animation!",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CHXTabBarControllerTransitioning",
+  "license": "MIT",
+  "authors": {
+    "Moch": "atcuan@gmail.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CHXTabBarControllerTransitioning.git",
+    "tag": "0.1"
+  },
+  "requires_arc": true,
+  "source_files": "CHXTabBarControllerTransitioning/Source/*.{h, m}",
+  "frameworks": [
+    "Foundation",
+    "UIKit"
+  ]
+}

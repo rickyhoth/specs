@@ -1,0 +1,19 @@
+{
+  "name": "NSDate-TKExtensions",
+  "version": "0.3",
+  "summary": "Set of usefull categories for NSDate.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/NSDate-TKExtensions",
+  "license": "Apache",
+  "authors": {
+    "Tomek Kuzma": "mapedd@sezamkowa.net"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/NSDate-TKExtensions.git",
+    "tag": "0.3"
+  },
+  "platforms": {
+    "ios": null
+  },
+  "source_files": "NSDate-TKExtensions.{h,m}",
+  "requires_arc": true
+}

@@ -1,0 +1,22 @@
+{
+  "name": "MapManagerLocation",
+  "version": "0.0.2",
+  "summary": "上报部检测平台IOS库",
+  "description": "上报部检测平台IOS库",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MapManager",
+  "license": "MIT",
+  "authors": {
+    "sz": "1269174773@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MapManager.git",
+    "tag": "0.0.2"
+  },
+  "source_files": "Headers/*.{h,m}",
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}

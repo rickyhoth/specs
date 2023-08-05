@@ -1,0 +1,30 @@
+{
+  "name": "ARNFetchedResultsCollectionView",
+  "version": "0.1.0",
+  "summary": "UICollectionView + NSFetchedResultsController",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ARNFetchedResultsCollectionView",
+  "license": "MIT",
+  "authors": {
+    "Airin": "xl1138@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ARNFetchedResultsCollectionView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes",
+  "resource_bundles": {
+    "ARNFetchedResultsCollectionView": [
+      "Pod/Assets/*.png"
+    ]
+  },
+  "frameworks": "CoreData",
+  "dependencies": {
+    "ARNFetchedResultsController": [
+
+    ]
+  }
+}

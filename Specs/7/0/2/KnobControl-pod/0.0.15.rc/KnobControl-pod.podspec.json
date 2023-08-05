@@ -1,0 +1,20 @@
+{
+  "name": "KnobControl-pod",
+  "version": "0.0.15.rc",
+  "summary": "Just a  knobControl",
+  "description": "Add a description here",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/KnobControl-pod",
+  "authors": {
+    "Manish Kumar": "manish.kumar@paypermint.in"
+  },
+  "license": "MIT",
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source": {
+    "http": "https://bitbucket.devops.nonprod.empf.local/scm/react/KnobControl.zip"
+  },
+  "ios": {
+    "vendored_frameworks": "KnobControlmnz.framework"
+  }
+}

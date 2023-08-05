@@ -1,0 +1,33 @@
+{
+  "name": "KIF",
+  "version": "2.0.0",
+  "summary": "Keep It Functional - iOS UI acceptance testing in an OCUnit harness.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/",
+  "license": "Apache 2.0",
+  "authors": [
+    "Eric Firestone",
+    "Jim Puls",
+    "Brian Nickel"
+  ],
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/KIF.git",
+    "tag": "v2.0.0"
+  },
+  "platforms": {
+    "ios": "4.3"
+  },
+  "source_files": [
+    "Classes",
+    "Additions"
+  ],
+  "public_header_files": [
+    "Classes/**/*.h",
+    "Additions/**/*-KIFAdditions.h"
+  ],
+  "frameworks": [
+    "SenTestingKit",
+    "CoreGraphics"
+  ],
+  "prefix_header_contents": "#import <CoreGraphics/CoreGraphics.h>",
+  "requires_arc": false
+}

@@ -1,0 +1,22 @@
+{
+  "name": "WPProject",
+  "version": "0.0.2",
+  "summary": "WPProject.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WPProject.git",
+  "license": {
+    "type": "MIT",
+    "file": "FILE_LICENSE"
+  },
+  "authors": {
+    "wupeng4321": "wupeng_4321@163.com"
+  },
+  "platforms": {
+    "ios": null
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WPProject.git",
+    "tag": "0.0.2"
+  },
+  "source_files": "WPProject/**/*.{h,m}",
+  "requires_arc": true
+}

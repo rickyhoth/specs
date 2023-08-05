@@ -1,0 +1,22 @@
+{
+  "name": "LLRoute",
+  "version": "1.0.0",
+  "summary": "use for Lilong LLRoute module.",
+  "description": "use for LLRoute module.\nIt’s awesome!!",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LLRoute",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Lilong": "diqidaimu@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LLRoute.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "LLRouteClass/**/*.{h,m}"
+}

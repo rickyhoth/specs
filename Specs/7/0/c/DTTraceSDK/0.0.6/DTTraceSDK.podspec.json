@@ -1,0 +1,24 @@
+{
+  "name": "DTTraceSDK",
+  "version": "0.0.6",
+  "summary": "test upload cocoaPods demo",
+  "description": "a simple trace project!",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DTTraceSDK",
+  "license": "{ :type => 'none'}",
+  "authors": {
+    "daye": "daye@dtstack.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DTTraceSDK.git",
+    "tag": "0.0.6"
+  },
+  "source_files": "DTTraceSDK/SensorsAnalyticsSDK/*.{h,m}",
+  "exclude_files": "Classes/Exclude",
+  "frameworks": [
+    "Foundation",
+    "UIKit"
+  ]
+}

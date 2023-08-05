@@ -1,0 +1,20 @@
+{
+  "name": "AlbumSDK",
+  "version": "0.0.1",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "summary": "一个很好用的相册选择控件",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AlbumSdkDemo",
+  "license": "MIT",
+  "authors": {
+    "emmet": "e163_emmet@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AlbumSdkDemo.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "**/*.{h,m,framework}",
+  "requires_arc": true,
+  "frameworks": "UIKit"
+}

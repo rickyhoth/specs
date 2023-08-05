@@ -1,0 +1,25 @@
+{
+  "name": "SYKit",
+  "platforms": {
+    "ios": "11.1",
+    "tvos": "11.1"
+  },
+  "version": "0.2.4",
+  "license": "Custom",
+  "summary": "UIKit and Foundation tools",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SYKit",
+  "authors": {
+    "Stan Chevallier": "contact@stanislaschevallier.fr"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SYKit.git",
+    "tag": "0.2.4"
+  },
+  "swift_versions": "5.5",
+  "source_files": "SYKit/**/*.{h,m,c,swift}",
+  "requires_arc": true,
+  "xcconfig": {
+    "CLANG_MODULES_AUTOLINK": "YES"
+  },
+  "swift_version": "5.5"
+}

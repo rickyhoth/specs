@@ -1,0 +1,25 @@
+{
+  "name": "THCategories",
+  "version": "0.5.5",
+  "summary": "A helpful collection of category methods.",
+  "description": "Some categories to extend base Cocoa/Cocoa Touch classes for additional functionality.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/THCategories",
+  "license": "MIT",
+  "authors": {
+    "Jared Sorge": "jared@jsorge.net"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/THCategories.git",
+    "tag": "0.5.5"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "THCategories": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}

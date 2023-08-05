@@ -1,0 +1,22 @@
+{
+  "name": "ZT-Vin",
+  "version": "0.1.1",
+  "summary": "快速扫描Vin",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZT-Vin",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ZhangTeng": "15711368179@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZT-Vin.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "ZT-Vin/Classes/**/*"
+}

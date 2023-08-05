@@ -1,0 +1,22 @@
+{
+  "name": "KTestpod",
+  "version": "0.0.2",
+  "summary": "library test of KTestPod.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TestPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Kirthi": "kiruthika@rootwork.co"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TestPod.git",
+    "tag": "0.0.2"
+  },
+  "source_files": "TestPod/Classes/*.{h,m}",
+  "platforms": {
+    "ios": null
+  },
+  "requires_arc": false
+}

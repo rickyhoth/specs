@@ -1,0 +1,24 @@
+{
+  "name": "YLProgressHUD",
+  "version": "0.0.2",
+  "summary": "macos开发，hud显示",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/YLProgressHUD.git",
+  "license": "MIT",
+  "authors": {
+    "魏宇龙": "weiyulong1987@163.com"
+  },
+  "platforms": {
+    "osx": "10.14"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YLProgressHUD.git",
+    "tag": "0.0.2"
+  },
+  "resources": "YLProgressHUD/YLProgressHUD/YLProgressHUD.bundle",
+  "source_files": [
+    "YLProgressHUD/YLProgressHUD/*.{h,m}",
+    "YLProgressHUD/YLProgressHUD/YLProgressHUD.bundle"
+  ],
+  "public_header_files": "YLProgressHUD/YLProgressHUD/YLProgressHUD.h",
+  "requires_arc": true
+}

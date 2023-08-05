@@ -1,0 +1,21 @@
+{
+  "name": "Unstringify",
+  "version": "0.3.2",
+  "summary": "Code generator for strong-typing localizable strings.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Unstringify",
+  "license": "MIT",
+  "authors": {
+    "metrolab": "hello@metropolis-lab.io"
+  },
+  "source": {
+    "http": "https://bitbucket.devops.nonprod.empf.local/scm/react/unstringify-0.3.2.zip"
+  },
+  "preserve_paths": "*",
+  "exclude_files": "**/file.zip",
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}

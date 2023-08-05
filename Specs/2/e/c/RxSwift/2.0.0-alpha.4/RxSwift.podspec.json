@@ -1,0 +1,23 @@
+{
+  "name": "RxSwift",
+  "version": "2.0.0-alpha.4",
+  "summary": "Microsoft Reactive Extensions (Rx) for Swift and iOS/OSX platform",
+  "description": "This is a Swift port of Reactive extensions.\n\n[https://bitbucket.devops.nonprod.empf.local/scm/react/OSX environment.\n\nProbably the best analogy for those who have never heard of Rx would be:\n\n\n```\ngit diff | grep bug | less          #  linux pipes - programs communicate by sending\n\t\t\t\t    #  sequences of bytes, words, lines, '\u0000' terminated strings...\n```\nwould become if written in RxSwift\n```\ngitDiff().grep(\"bug\").less          // sequences of swift objects\n```",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/RxSwift",
+  "license": "MIT",
+  "authors": {
+    "Krunoslav Zaher": "krunoslav.zaher@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/RxSwift.git",
+    "tag": "2.0.0-alpha.4"
+  },
+  "requires_arc": true,
+  "platforms": {
+    "ios": "8.0",
+    "osx": "10.9",
+    "watchos": "2.0",
+    "tvos": "9.0"
+  },
+  "source_files": "RxSwift/**/*.swift"
+}

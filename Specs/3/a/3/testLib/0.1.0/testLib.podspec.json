@@ -1,0 +1,23 @@
+{
+  "name": "testLib",
+  "version": "0.1.0",
+  "summary": "Michael's testLib.",
+  "description": "testLib belongs to Michael",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/testLib",
+  "license": "MIT",
+  "authors": {
+    "MichaelKing": "1533499953@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/testLib.git",
+    "tag": "0.1.0"
+  },
+  "source_files": [
+    "Classes",
+    "Classes/**/*.{h,m}"
+  ],
+  "exclude_files": "Classes/Exclude"
+}

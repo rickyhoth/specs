@@ -1,0 +1,24 @@
+{
+  "name": "XiphiasNet",
+  "version": "6.0.0",
+  "summary": "A simple network layer",
+  "description": "This CocoaPods library is a simple network layer.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/XiphiasNet",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "kamaal111": "kamaal.f1@gmail.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "swift_versions": "5.2",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/XiphiasNet.git",
+    "tag": "6.0.0"
+  },
+  "source_files": "Sources/XiphiasNet/**/*.{h,m,swift}",
+  "swift_version": "5.2"
+}

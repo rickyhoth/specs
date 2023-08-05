@@ -1,0 +1,25 @@
+{
+  "name": "PUCalendarKit",
+  "platforms": {
+    "ios": null
+  },
+  "version": "1.1.0",
+  "license": {
+    "type": "MIT"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/PUCalendarManager",
+  "authors": {
+    "Maurice Arikoglu": "development@mauricearikoglu.de"
+  },
+  "summary": "A set of classes used to parse and handle iCalendar (.ICS) files",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/PUCalendarManager.git",
+    "tag": "1.1.0"
+  },
+  "source_files": "PUCalendarKit/*.{h,m}",
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ],
+  "requires_arc": true
+}

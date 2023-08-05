@@ -1,0 +1,28 @@
+{
+  "name": "MJWebService",
+  "version": "0.1.0",
+  "summary": "Encapsulation For AFNetworking.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MJWebService",
+  "license": "MIT",
+  "authors": {
+    "Raymond": "Ray.musjoy@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MJWebService.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source_files": "MJWebService/Classes/**/*",
+  "resource_bundles": {
+    "MJWebService": [
+      "MJWebService/Assets/*.png"
+    ]
+  },
+  "dependencies": {
+    "AFNetworking/NSURLSession": [
+      "~> 3.1.0"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "NewPodTestAn",
+  "version": "0.0.1",
+  "summary": "A",
+  "description": "ABC",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/PodCalculate.git",
+  "license": "MIT",
+  "authors": {
+    "NguyeNgocAn": "an4217832831@gmail.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/PodCalculate.git"
+  },
+  "source_files": [
+    "RepeatPodTest",
+    "RepeatPodTest/**/*.{h,m}"
+  ],
+  "exclude_files": "Classes/Exclude"
+}

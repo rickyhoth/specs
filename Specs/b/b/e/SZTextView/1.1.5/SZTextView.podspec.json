@@ -1,0 +1,19 @@
+{
+  "name": "SZTextView",
+  "version": "1.1.5",
+  "summary": "A drop-in UITextView replacement which gives you a placeholder.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SZTextView",
+  "license": "MIT",
+  "authors": {
+    "glaszig": "glaszig@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SZTextView.git",
+    "tag": "1.1.5"
+  },
+  "platforms": {
+    "ios": "5.0"
+  },
+  "source_files": "Classes/SZTextView.{h,m}",
+  "requires_arc": true
+}

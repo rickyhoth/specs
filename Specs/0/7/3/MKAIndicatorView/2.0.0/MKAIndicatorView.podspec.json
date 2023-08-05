@@ -1,0 +1,27 @@
+{
+  "name": "MKAIndicatorView",
+  "version": "2.0.0",
+  "summary": "MKAIndicatorView is the simple and powerful indicator view.",
+  "description": "MKAIndicatorView makes you to create the powerful indicator view easily.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MKAIndicatorView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Hituzi Ando": "hhh.ando@gmail.com"
+  },
+  "platforms": {
+    "ios": "9.3"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MKAIndicatorView.git",
+    "tag": "2.0.0"
+  },
+  "source_files": "MKAIndicatorView/MKAIndicatorView/**/*.{h,m}",
+  "exclude_files": [
+    "MKAIndicatorView/build/*",
+    "MKAIndicatorView/Framework/*"
+  ],
+  "requires_arc": true
+}

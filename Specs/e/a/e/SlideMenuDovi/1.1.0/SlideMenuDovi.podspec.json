@@ -1,0 +1,19 @@
+{
+  "name": "SlideMenuDovi",
+  "version": "1.1.0",
+  "summary": "SlideMenuDovi will help you to create your own animation if needed",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SlideMenuDovi",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": "Edouard Roussillon",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SlideMenuDovi.git",
+    "tag": "v1.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SlideMenu/**/*.swift"
+}

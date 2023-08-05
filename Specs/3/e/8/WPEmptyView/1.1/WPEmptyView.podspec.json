@@ -1,0 +1,21 @@
+{
+  "name": "WPEmptyView",
+  "version": "1.1",
+  "summary": "为View添加空数据页面",
+  "description": "为UIView增加空状态页面",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/EmptyView",
+  "license": "MIT",
+  "authors": {
+    "WHeB": "1193325271@qq.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "swift_version": "4.0",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/EmptyView.git",
+    "tag": "1.1"
+  },
+  "source_files": "WPEmptyView/*.swift",
+  "frameworks": "UIKit"
+}

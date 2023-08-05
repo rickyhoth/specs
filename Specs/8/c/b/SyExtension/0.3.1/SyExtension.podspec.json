@@ -1,0 +1,22 @@
+{
+  "name": "SyExtension",
+  "version": "0.3.1",
+  "summary": "SyExtension.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SyExtension",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "SylvanasX": "yuanpeitao@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SyExtension.git",
+    "tag": "0.3.1"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source_files": "SyExtension/Classes/**/*"
+}

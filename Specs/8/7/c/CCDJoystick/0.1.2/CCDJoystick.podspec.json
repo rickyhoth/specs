@@ -1,0 +1,19 @@
+{
+  "name": "CCDJoystick",
+  "version": "0.1.2",
+  "summary": "Joystick for UIKit",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CCDJoystick",
+  "license": "MIT",
+  "authors": {
+    "Tsvetan Raikov": "tzraikov@abv.bg"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CCDJoystick.git",
+    "tag": "0.1.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*"
+}

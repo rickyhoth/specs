@@ -1,0 +1,28 @@
+{
+  "name": "HiliteUI",
+  "version": "0.1.21-alpha",
+  "summary": "HiliteSDK UI module.",
+  "description": "Provides UI classes for HiliteSDK",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HiliteUI",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Preston Pope": "prestonwpope@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HiliteUI.git",
+    "tag": "0.1.21-alpha"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "HiliteUI/Classes/**/*",
+  "dependencies": {
+    "HiliteCore": [
+      "~> 0.1.22-alpha"
+    ]
+  },
+  "pushed_with_swift_version": "3.0"
+}

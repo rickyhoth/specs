@@ -1,0 +1,22 @@
+{
+  "name": "PersistentObject",
+  "version": "0.2.0",
+  "summary": "Simplifies object persistence in Swift.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/PersistentObject",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Matt Comi": "mattcomi@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/PersistentObject.git",
+    "tag": "0.2.0"
+  },
+  "source_files": "PersistentObject/*.{swift}",
+  "requires_arc": true,
+  "platforms": {
+    "ios": "9.0"
+  }
+}

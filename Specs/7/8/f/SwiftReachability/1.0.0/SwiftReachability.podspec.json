@@ -1,0 +1,25 @@
+{
+  "name": "SwiftReachability",
+  "version": "1.0.0",
+  "summary": "SwiftReachability 是 Swift 检测网络变化的类",
+  "description": "SwiftReachability is the class about the testing network connection",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwiftReachability",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Anatole": "xiaotaozhou@icloud.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwiftReachability.git",
+    "tag": "v1.0.0"
+  },
+  "source_files": [
+    "Classes",
+    "SwiftReachability/**/*.swift"
+  ]
+}

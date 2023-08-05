@@ -1,0 +1,24 @@
+{
+  "name": "LeavesDiagram",
+  "version": "0.2",
+  "summary": "Custom pie chart diagram",
+  "swift_versions": "5.0",
+  "description": "Animated pie diagram component",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LeavesDiagram",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Danila Gusev": "josshad@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LeavesDiagram.git",
+    "tag": "0.2"
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "source_files": "Sources/**/*",
+  "swift_version": "5.0"
+}

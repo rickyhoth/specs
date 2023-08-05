@@ -1,0 +1,28 @@
+{
+  "name": "TDCategory",
+  "version": "0.2",
+  "summary": "Created by Thuy Dao.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TDCategory",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "thuydao": "daoduythuy@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TDCategory.git",
+    "branch": "master"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TDCategory/Classes/**/*",
+  "frameworks": "UIKit",
+  "dependencies": {
+    "UIAlertController+Blocks": [
+
+    ]
+  }
+}

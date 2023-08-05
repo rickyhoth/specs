@@ -1,0 +1,22 @@
+{
+  "name": "AZLibs",
+  "version": "0.0.2",
+  "summary": "AZLibs.",
+  "description": "https://bitbucket.devops.nonprod.empf.local/scm/react/AZLibs.git AZLibs",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AZLibs.git",
+  "license": "MIT,Version2.0",
+  "authors": {
+    "AZhen": "964190389@qq.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AZLibs.git",
+    "tag": "0.0.2"
+  },
+  "source_files": [
+    "Classes",
+    "Classes/**/*.{h,m}"
+  ]
+}

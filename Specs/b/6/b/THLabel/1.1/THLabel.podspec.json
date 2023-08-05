@@ -1,0 +1,20 @@
+{
+  "name": "THLabel",
+  "version": "1.1",
+  "summary": "THLabel is a subclass of UILabel, which additionally allows shadow blur, stroke text and fill gradient.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/THLabel",
+  "screenshots": "https://bitbucket.devops.nonprod.empf.local/scm/react/THLabel/blob/master/screenshot.png",
+  "license": "zlib",
+  "authors": {
+    "Tobias Hagemann": "tobias.hagemann@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/THLabel.git",
+    "tag": "1.1"
+  },
+  "platforms": {
+    "ios": "4.0"
+  },
+  "source_files": "THLabel",
+  "requires_arc": true
+}

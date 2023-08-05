@@ -1,0 +1,30 @@
+{
+  "name": "AFULoginSDK",
+  "version": "0.1.2",
+  "summary": "AFULoginSDK - обертка вокруг uLogin SDK для iOS. https://bitbucket.devops.nonprod.empf.local/scm/react/iOS",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AFULoginSDK",
+  "license": "MIT",
+  "authors": {
+    "Alexander Fedosov": "alexander.a.fedosov@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AFULoginSDK.git",
+    "tag": "0.1.2"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "AFULoginSDK": [
+      "Pod/Assets/**/*.storyboard"
+    ]
+  },
+  "public_header_files": "Pod/Classes/**/*.h",
+  "dependencies": {
+    "SVProgressHUD": [
+
+    ]
+  }
+}

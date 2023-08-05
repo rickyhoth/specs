@@ -1,0 +1,18 @@
+{
+  "name": "LBLelinkKit",
+  "version": "1.0.5",
+  "summary": "lebo ios framework LBLelinkKit",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LBLelinkKit",
+  "license": "MIT",
+  "authors": {
+    "lebo123": "cm@hpplay.cn"
+  },
+  "platforms": {
+    "ios": "5.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LBLelinkKit.git"
+  },
+  "source_files": "LBLelinkKit.framework/**/*",
+  "requires_arc": true
+}

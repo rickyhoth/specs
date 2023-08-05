@@ -1,0 +1,23 @@
+{
+  "name": "KGNColor",
+  "version": "0.1.4",
+  "authors": {
+    "David Keegan": "me@davidkeegan.com"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/KGNColor",
+  "summary": "KGNColor is a collection of helpful UIColor extensions.",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/KGNColor.git",
+    "tag": "v0.1.4"
+  },
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "frameworks": "UIKit",
+  "source_files": "Source/UIColor+Extension.swift"
+}

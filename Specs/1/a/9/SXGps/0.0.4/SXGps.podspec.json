@@ -1,0 +1,19 @@
+{
+  "name": "SXGps",
+  "version": "0.0.4",
+  "summary": "Easy use GPS get address",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SXGpsHelper",
+  "license": "MIT",
+  "authors": {
+    "xiaoR": "bieshixuan@163.com"
+  },
+  "platforms": {
+    "ios": "7.1"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SXGpsHelper.git",
+    "tag": "0.0.4"
+  },
+  "source_files": "SXGps/SXGps.{h,m}",
+  "requires_arc": true
+}

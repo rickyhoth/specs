@@ -1,0 +1,18 @@
+{
+  "name": "PreviewTransition",
+  "version": "4.0.0",
+  "summary": "Transition animation",
+  "license": "MIT",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/preview-transition",
+  "authors": {
+    "Juri Vasylenko": "juri.v@ramotion.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/preview-transition.git",
+    "tag": "4.0.0"
+  },
+  "source_files": "PreviewTransition/**/*.swift"
+}

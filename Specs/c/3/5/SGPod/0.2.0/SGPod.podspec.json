@@ -1,0 +1,26 @@
+{
+  "name": "SGPod",
+  "version": "0.2.0",
+  "summary": "It is a Testing version summary for app.",
+  "description": "TODO: SSPod description of the pod here and it is only for testing.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SGPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Surjeet Gangwar": "jeet24490@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SGPod.git",
+    "tag": "0.2.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SGPod/Classes/**/*",
+  "pod_target_xcconfig": {
+    "SWIFT_VERSION": "3.0"
+  },
+  "pushed_with_swift_version": "3.0"
+}

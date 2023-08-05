@@ -1,0 +1,23 @@
+{
+  "name": "FGDownloader",
+  "version": "2.0",
+  "summary": "FGDownloader is used for resume from break point downloading.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/FGDownloader",
+  "license": "MIT",
+  "authors": {
+    "CGPointZero": "newbox0512@yahoo.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/FGDownloader.git",
+    "tag": "2.0"
+  },
+  "frameworks": [
+    "Foundation",
+    "UIKit"
+  ],
+  "platforms": {
+    "ios": "6.0"
+  },
+  "source_files": "FGDownloader/*.{h,m}",
+  "requires_arc": true
+}

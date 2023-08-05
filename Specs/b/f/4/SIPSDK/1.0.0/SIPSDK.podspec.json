@@ -1,0 +1,24 @@
+{
+  "name": "SIPSDK",
+  "version": "1.0.0",
+  "summary": "A simple way to multiselect",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SIPSDK",
+  "license": "MIT",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "authors": {
+    "longitachi": "245977357@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SIPSDK.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "SIPSDK/**/*.{h,m}",
+  "requires_arc": true,
+  "frameworks": [
+    "UIKit",
+    "Photos",
+    "PhotosUI"
+  ]
+}

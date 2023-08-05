@@ -1,0 +1,19 @@
+{
+  "name": "MKCarouselView",
+  "version": "1.0.1",
+  "summary": "a carouselView like UITableView",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MKCarouselView",
+  "license": "MIT",
+  "authors": {
+    "xiushaomin": "xiushaomin@gmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MKCarouselView.git",
+    "tag": "1.0.1"
+  },
+  "source_files": "MKCarouselView/*.{h,m}",
+  "requires_arc": true
+}

@@ -1,0 +1,22 @@
+{
+  "name": "IAPController",
+  "version": "0.1.0",
+  "summary": "In App Purchase controller for Swift",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/IAPController.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE.md"
+  },
+  "authors": {
+    "Mattias Eriksson": "thematerik@gmail.com"
+  },
+  "platforms": {
+    "ios": 8.0
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/IAPController.git",
+    "tag": "0.1.0"
+  },
+  "source_files": "*.swift",
+  "frameworks": "StoreKit"
+}

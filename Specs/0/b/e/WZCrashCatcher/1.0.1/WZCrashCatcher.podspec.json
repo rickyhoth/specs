@@ -1,0 +1,22 @@
+{
+  "name": "WZCrashCatcher",
+  "version": "1.0.1",
+  "summary": "一个crash收集的小工具",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WZCrashCatcher",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "hwzss": "1833361588@qq.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WZCrashCatcher.git",
+    "tag": "1.0.1"
+  },
+  "source_files": "WZCrashCatcher/WZCarshCatcher/*.{h,m}",
+  "requires_arc": true
+}

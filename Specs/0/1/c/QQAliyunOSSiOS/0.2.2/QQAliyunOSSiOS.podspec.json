@@ -1,0 +1,30 @@
+{
+  "name": "QQAliyunOSSiOS",
+  "version": "0.2.2",
+  "summary": "A short description of QQAliyunOSSiOS.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/QQAliyunOSSiOS",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "QQ": "429172300@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/QQAliyunOSSiOS.git",
+    "tag": "0.2.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "QQAliyunOSSiOS/Classes/**/*",
+  "dependencies": {
+    "ReactiveObjC": [
+
+    ],
+    "AliyunOSSiOS": [
+
+    ]
+  }
+}

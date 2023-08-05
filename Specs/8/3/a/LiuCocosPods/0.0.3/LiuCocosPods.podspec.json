@@ -1,0 +1,22 @@
+{
+  "name": "LiuCocosPods",
+  "version": "0.0.3",
+  "summary": "增加FMDB",
+  "description": "Help developer to quickly intergrate variety of payment methods",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LiuCocosPods",
+  "license": "MIT",
+  "authors": {
+    "zhao.liu": "zhao.liu@zhaopin.com.cn"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LiuCocosPods.git",
+    "tag": "0.0.3"
+  },
+  "source_files": "CocosPods/LZlib/*.{h,m}",
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}

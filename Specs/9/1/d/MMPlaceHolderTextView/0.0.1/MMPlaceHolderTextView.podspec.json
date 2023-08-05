@@ -1,0 +1,26 @@
+{
+  "name": "MMPlaceHolderTextView",
+  "version": "0.0.1",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "summary": "MMPlaceHolderTextView",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MMPlaceHolderTextView",
+  "authors": {
+    "SunnyX": "1031787148@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MMPlaceHolderTextView.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "MMPlaceHolderTextView/*.{h,m}",
+  "frameworks": [
+    "Foundation",
+    "UIKit"
+  ],
+  "requires_arc": true
+}

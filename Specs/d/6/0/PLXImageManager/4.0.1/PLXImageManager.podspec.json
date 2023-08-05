@@ -1,0 +1,19 @@
+{
+  "name": "PLXImageManager",
+  "version": "4.0.1",
+  "summary": "Image manager/downloader for iOS",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/PLXImageManager",
+  "license": "BSD",
+  "authors": {
+    "Antoni Kedracki": "antoni.kedracki@polidea.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/PLXImageManager.git",
+    "tag": "4.0.1"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*"
+}

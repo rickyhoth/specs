@@ -1,0 +1,23 @@
+{
+  "name": "RouteComponentFactory",
+  "version": "1.0.0",
+  "summary": "By far the most fantastic view I have seen in my entire life. No joke.",
+  "description": "This fantastic view changes its color gradually makes your app look fantastic!",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/RouteComponentFactory",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yaoqi": "yq853355024@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/RouteComponentFactory.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "RouteComponentFactory/*.swift",
+  "pushed_with_swift_version": "3.0"
+}

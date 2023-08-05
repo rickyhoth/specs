@@ -1,0 +1,24 @@
+{
+  "name": "HMSegmentedControl@kennygunie",
+  "version": "1.4.2",
+  "summary": "fork of kennygunie",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HMSegmentedControl",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE.md"
+  },
+  "authors": {
+    "Hesham Abd-Elmegid": "hesham.abdelmegid@gmail.com",
+    "Kien NGUYEN": "kennygunie@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HMSegmentedControl.git",
+    "tag": "v1.4.2"
+  },
+  "platforms": {
+    "ios": "5.0"
+  },
+  "requires_arc": true,
+  "source_files": "HMSegmentedControl/*.{h,m}",
+  "frameworks": "QuartzCore"
+}

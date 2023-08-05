@@ -1,0 +1,22 @@
+{
+  "name": "ReqresFixed",
+  "version": "2.1.2",
+  "summary": "Simple network activity logger",
+  "description": "Logs every request app makes, works great with Alamofire.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Reqres",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Jose Antonio": "joseantonioeci@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Reqres.git",
+    "tag": "2.1.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Reqres/*.swift"
+}

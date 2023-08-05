@@ -1,0 +1,28 @@
+{
+  "name": "LGTest",
+  "version": "0.0.1",
+  "summary": "This is used to test.",
+  "description": "This is a project used to test",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LGTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "liugaung": "liuguang@dinglc.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LGTest.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "guide/*.{h,m}",
+  "exclude_files": "Classes/Exclude",
+  "frameworks": [
+    "Foundation",
+    "UIKit"
+  ],
+  "requires_arc": true
+}

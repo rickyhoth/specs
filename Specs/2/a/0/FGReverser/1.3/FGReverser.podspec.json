@@ -1,0 +1,25 @@
+{
+  "name": "FGReverser",
+  "version": "1.3",
+  "summary": "FGReverser is a Category of NSString used for mutual converting between simplified Chinese and Traditional Chinese.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/FGReverser",
+  "license": "MIT",
+  "authors": {
+    "CGPointZero": "newbox0512@yahoo.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/FGReverser.git",
+    "tag": "1.3"
+  },
+  "platforms": {
+    "ios": "6.0"
+  },
+  "source_files": "Reverser/*",
+  "resources": "Reverser/reverse",
+  "requires_arc": true,
+  "resource_bundles": {
+    "FGReverser": [
+      "Reverser/reverse"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "CrashHook",
+  "version": "1.1.0",
+  "summary": "A short description of CrashHook.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CrashHook",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wangjian": "2576175431@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CrashHook.git",
+    "tag": "1.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "CrashHook/Classes/*.{h,m}"
+}

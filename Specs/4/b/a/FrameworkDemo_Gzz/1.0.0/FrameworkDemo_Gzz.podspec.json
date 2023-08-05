@@ -1,0 +1,29 @@
+{
+  "name": "FrameworkDemo_Gzz",
+  "version": "1.0.0",
+  "summary": "测试 Framework",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/FrameworkDemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Jonzzs": "292710547@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/FrameworkDemo.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "swift_version": "4.0",
+  "ios": {
+    "vendored_frameworks": "Carthage/Build/iOS/*.framework"
+  },
+  "dependencies": {
+    "Alamofire": [
+
+    ]
+  }
+}

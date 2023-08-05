@@ -1,0 +1,23 @@
+{
+  "name": "RemotePubLib",
+  "version": "0.0.1",
+  "summary": "远程公共库",
+  "description": "远程公共库详情",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/RemotePubLib",
+  "license": "MIT",
+  "authors": {
+    "xiangping": "935329967@qq.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/RemotePubLib.git",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "Classes",
+    "Classes/**/*.{h,m,swift}"
+  ],
+  "exclude_files": "Classes/Exclude"
+}

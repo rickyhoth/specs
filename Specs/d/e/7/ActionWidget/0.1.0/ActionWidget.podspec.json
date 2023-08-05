@@ -1,0 +1,23 @@
+{
+  "name": "ActionWidget",
+  "version": "0.1.0",
+  "summary": "PlayGround Do.",
+  "description": "Action Widget for PlayGround Do",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ActionWidget",
+  "license": {
+    "type": "MIT",
+    "file": "FILE_LICENSE"
+  },
+  "authors": {
+    "Grupo Go Optimizations, SL": "globalapps@globalincubator.net"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ActionWidget.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "ActionWidget/*",
+  "pushed_with_swift_version": "3.0"
+}

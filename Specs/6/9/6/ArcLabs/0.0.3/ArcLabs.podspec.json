@@ -1,0 +1,25 @@
+{
+  "name": "ArcLabs",
+  "version": "0.0.3",
+  "summary": "ArcLabs is used for code reusable.",
+  "description": "ArcLabs is used for code reusable",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ArcLabs",
+  "license": {
+    "type": "MIT",
+    "file": "license"
+  },
+  "authors": {
+    "Ravikanth": "ravikanth.icfai@gmail.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ArcLabs.git",
+    "tag": "0.0.3"
+  },
+  "source_files": "ArcLabs/**/*.{h,m,swift}",
+  "exclude_files": "Classes/Exclude",
+  "frameworks": "UIKit",
+  "requires_arc": true
+}

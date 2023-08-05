@@ -1,0 +1,20 @@
+{
+  "name": "iosMacros",
+  "version": "1.0.0",
+  "summary": "This is a iosMacros",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/iosMacros/tree/master",
+  "license": "MIT",
+  "authors": {
+    "zyz": "18301166921m@sina.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/iosMacros.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "*",
+  "exclude_files": "UIKit",
+  "requires_arc": true
+}

@@ -1,0 +1,20 @@
+{
+  "name": "KIParallaxView",
+  "version": "0.0.2",
+  "summary": "KIParallaxView",
+  "description": "KIParallaxView.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/KIParallaxView",
+  "license": "MIT",
+  "authors": {
+    "SmartWalle": "smartwalle@gmail.com"
+  },
+  "platforms": {
+    "ios": "5.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/KIParallaxView.git",
+    "tag": "0.0.2"
+  },
+  "source_files": "KIParallaxView/KIParallaxView/*.{h,m}",
+  "requires_arc": true
+}

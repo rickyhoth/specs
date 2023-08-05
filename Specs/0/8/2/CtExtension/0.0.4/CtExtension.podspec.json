@@ -1,0 +1,24 @@
+{
+  "name": "CtExtension",
+  "version": "0.0.4",
+  "summary": "一些常用的Extension",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CtExtension",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "clint": "3243629382@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "swift_version": "4.1",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CtExtension.git",
+    "tag": "0.0.4"
+  },
+  "source_files": "CtExtension/CtExtension/*.{swift}",
+  "frameworks": "UIKit",
+  "requires_arc": true
+}

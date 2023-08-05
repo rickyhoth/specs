@@ -1,0 +1,22 @@
+{
+  "name": "CameraToolKit",
+  "version": "0.1.6",
+  "summary": "A short description of CameraToolKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CameraKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "cleexiang": "cleexiang@126.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CameraKit.git",
+    "tag": "0.1.6"
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "source_files": "CameraKit/Classes/**/*"
+}

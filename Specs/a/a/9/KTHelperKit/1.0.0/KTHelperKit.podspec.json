@@ -1,0 +1,24 @@
+{
+  "name": "KTHelperKit",
+  "version": "1.0.0",
+  "summary": "A fast integration helper of custom example",
+  "description": "A fast integration helper of custom example addtion with cocoapod support.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/KTHelperKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "King": "273462868@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/KTHelperKit.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "KTHelperKit/*.{h,m}",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "frameworks": "UIKit",
+  "requires_arc": true
+}

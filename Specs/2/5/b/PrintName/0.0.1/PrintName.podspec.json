@@ -1,0 +1,27 @@
+{
+  "name": "PrintName",
+  "version": "0.0.1",
+  "summary": "print our name hello world.",
+  "description": "打印自己的名字而已,打印自己的名字而已,打印自己的名字而已,打印自己的名字而已",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CreateMyPods.git",
+  "license": "MIT",
+  "authors": {
+    "梧桐": "vesager@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CreateMyPods.git",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "PrintName",
+    "PrintName/*.{h,m}"
+  ],
+  "frameworks": "Foundation",
+  "requires_arc": true,
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}

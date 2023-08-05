@@ -1,0 +1,23 @@
+{
+  "name": "DabuManualFrame",
+  "version": "0.1.0",
+  "summary": "UIView Extension Library",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DabuManualFrame",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "SeJun Lee": "dabu5135@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DabuManualFrame.git",
+    "tag": "0.1.0"
+  },
+  "source_files": "DabuManualFrame/*.swift",
+  "frameworks": "UIKit",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "pushed_with_swift_version": "3.0"
+}

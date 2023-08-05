@@ -1,0 +1,23 @@
+{
+  "name": "MFWebKit",
+  "version": "0.1.2",
+  "summary": "WebKit组件.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WebKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "mftechs": "1032351062@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WebKit.git",
+    "tag": "0.1.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MFWebKit/Classes/**/*",
+  "public_header_files": "MFWebKit/Classes/**/*.h"
+}

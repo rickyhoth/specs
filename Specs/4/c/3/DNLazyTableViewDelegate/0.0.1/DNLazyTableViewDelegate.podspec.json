@@ -1,0 +1,24 @@
+{
+  "name": "DNLazyTableViewDelegate",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "summary": "DNLazyTableViewDelegate prevent monkey tapping on cell.",
+  "requires_arc": true,
+  "version": "0.0.1",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Duy Nguyen": "duynb92@gmail.com"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DNLazyTableViewDelegate",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DNLazyTableViewDelegate.git",
+    "tag": "0.0.1"
+  },
+  "frameworks": "UIKit",
+  "source_files": "DNLazyTableViewDelegate/**/*.{swift}",
+  "pushed_with_swift_version": "echo \"4.0\" > .swift-version"
+}

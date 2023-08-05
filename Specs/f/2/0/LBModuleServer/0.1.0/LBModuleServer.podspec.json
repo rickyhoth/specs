@@ -1,0 +1,22 @@
+{
+  "name": "LBModuleServer",
+  "version": "0.1.0",
+  "summary": "LBModuleServer is a module framework.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LBModuleServer",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "authors": {
+    "libing0924": "libing@yzworld.cn"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LBModuleServer.git",
+    "tag": "0.1.0"
+  },
+  "source_files": "LBModuleServer/LBModuleServer/Module/*.{h,m}"
+}

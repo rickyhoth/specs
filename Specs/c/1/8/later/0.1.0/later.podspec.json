@@ -1,0 +1,18 @@
+{
+  "name": "later",
+  "version": "0.1.0",
+  "summary": "Just another Promise library for Swift.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/later",
+  "license": "MIT",
+  "authors": {
+    "Bruno Farache": "bruno.farache@liferay.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/later.git",
+    "tag": "0.1.0"
+  },
+  "source_files": "Source/**/*.swift"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "QSerializableObject",
+  "version": "0.1.0",
+  "summary": "Serializable object for swift",
+  "description": "TODO: Serializable object for swift.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/QSerializableObject",
+  "license": "MIT",
+  "authors": {
+    "Quan Nguyen Van": "quannv.tm@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/QSerializableObject.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "QSerializableObject/Classes/**/*"
+}

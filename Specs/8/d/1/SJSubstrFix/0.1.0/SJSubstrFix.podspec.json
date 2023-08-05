@@ -1,0 +1,22 @@
+{
+  "name": "SJSubstrFix",
+  "version": "0.1.0",
+  "summary": "A short description of SJSubstrFix.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SJSubstrFix",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "494948246@qq.com": "494948246@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SJSubstrFix.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "SJSubstrFix/Classes/*"
+}

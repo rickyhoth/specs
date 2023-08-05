@@ -1,0 +1,21 @@
+{
+  "name": "Asyncify",
+  "version": "0.0.5",
+  "summary": "Simplify Asynchronous Tasking",
+  "description": "Utilities which support the converging of asynchronous tasks",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Asyncify",
+  "license": "MIT",
+  "authors": {
+    "Jennifer Clark": "www.linkedin.com/in/jennifer-clark-0249863"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Asyncify.git",
+    "tag": "0.0.5"
+  },
+  "platforms": {
+    "ios": "9.3"
+  },
+  "requires_arc": true,
+  "source_files": "Asyncify/Classes",
+  "pushed_with_swift_version": "4.0"
+}

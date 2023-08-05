@@ -1,0 +1,28 @@
+{
+  "name": "BDSteppedSlider",
+  "version": "1.0",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "summary": "A classic-style slider, with value snap and haptic feedback.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/BDSteppedSlider",
+  "authors": "Benjamin Deckys",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/BDSteppedSlider.git",
+    "tag": "1.0"
+  },
+  "source_files": "BDSteppedSlider/**/*{.swift}",
+  "swift_versions": [
+    5.0
+  ],
+  "platforms": {
+    "ios": "10.0"
+  },
+  "resource_bundles": {
+    "BDSteppedSlider": [
+      "BDSteppedSlider/*.{xcassets}"
+    ]
+  },
+  "swift_version": "5.0"
+}

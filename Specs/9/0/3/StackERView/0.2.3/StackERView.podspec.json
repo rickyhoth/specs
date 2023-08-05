@@ -1,0 +1,24 @@
+{
+  "name": "StackERView",
+  "version": "0.2.3",
+  "summary": "StackERView",
+  "description": "easy stack layout",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/StackERView.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "eastroot1590@gmail.com": "eastroot1590@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/StackERView.git",
+    "tag": "0.2.3"
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "source_files": "StackERView/Classes/**/*",
+  "swift_versions": "5.0",
+  "swift_version": "5.0"
+}

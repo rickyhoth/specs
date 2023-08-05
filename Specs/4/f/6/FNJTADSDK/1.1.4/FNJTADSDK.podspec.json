@@ -1,0 +1,30 @@
+{
+  "name": "FNJTADSDK",
+  "version": "1.1.4",
+  "summary": "my FNJTADSDK.",
+  "description": "This is  FNJTADSDK",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/FNJTADSDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "HL": "342403887@qq.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/FNJTADSDK.git",
+    "tag": "1.1.4"
+  },
+  "source_files": [
+    "FNJTADSDK",
+    "FNJTADSDK/**/FNInitalizeBanner.h"
+  ],
+  "public_header_files": "FNJTADSDK/Class/useClass/*.h",
+  "frameworks": [
+    "UIkit",
+    "Foundation"
+  ]
+}

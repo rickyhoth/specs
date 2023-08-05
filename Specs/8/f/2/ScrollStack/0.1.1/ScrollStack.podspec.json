@@ -1,0 +1,23 @@
+{
+  "name": "ScrollStack",
+  "version": "0.1.1",
+  "summary": "A vertical & horizontal scrollable stack layout that supports weighted sizing of elements.",
+  "description": "ScrollStack is a vertical & horizontal scrollable stack layout that supports weighted sizing of elements.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ScrollStack",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "cmc5788": "cmc5788@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ScrollStack.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "swift_version": "4.2",
+  "source_files": "ScrollStack/Classes/**/*"
+}

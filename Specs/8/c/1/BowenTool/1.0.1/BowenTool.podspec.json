@@ -1,0 +1,22 @@
+{
+  "name": "BowenTool",
+  "version": "1.0.1",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "summary": "bowen some tools",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/BowenTool",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Bowen": "591741691@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/BowenTool.git",
+    "tag": "1.0.1"
+  },
+  "source_files": "BowenTool/**/{*.h,*.m}",
+  "requires_arc": true
+}

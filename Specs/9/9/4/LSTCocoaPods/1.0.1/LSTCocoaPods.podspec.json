@@ -1,0 +1,22 @@
+{
+  "name": "LSTCocoaPods",
+  "version": "1.0.1",
+  "summary": "Test lustCocoaPods",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TestCocoaPods",
+  "license": "MIT",
+  "authors": {
+    "Moshimol": "269797304@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TestCocoaPods.git",
+    "tag": "1.0.1"
+  },
+  "source_files": "LSTCocoaPods/*.{h,m}",
+  "requires_arc": true,
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}

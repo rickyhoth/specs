@@ -1,0 +1,21 @@
+{
+  "name": "SCResponderChainPasser",
+  "version": "1.0.0",
+  "summary": "SCResponderChainPasser uses response chain to achieve cross-layer value transmission",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SCResponderChainPasser.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Samueler": "chenty@mama.cn"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SCResponderChainPasser.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "SCResponderChainPasser/Classes/**/*"
+}

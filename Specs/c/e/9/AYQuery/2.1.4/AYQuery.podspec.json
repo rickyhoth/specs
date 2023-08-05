@@ -1,0 +1,27 @@
+{
+  "name": "AYQuery",
+  "version": "2.1.4",
+  "summary": "Library for collection query.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AYQuery",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Alan Yeh": "alan@yerl.cn"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AYQuery.git",
+    "tag": "2.1.4"
+  },
+  "platforms": {
+    "ios": "6.0"
+  },
+  "source_files": "AYQuery/Classes/**/*",
+  "public_header_files": "AYQuery/Classes/*.h",
+  "dependencies": {
+    "AYRuntime": [
+
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "TradPlusMaioAdapter",
+  "version": "8.5.0",
+  "summary": "TradPlus Maio Adapter",
+  "description": "Maio Adapter used for mediation with the TradPlusAd SDK",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/pod_tradplus_sdk_adapters",
+  "license": {
+    "type": "Commercial License",
+    "text": "Copyright 2022 Tradplus Corp. All rights reserved."
+  },
+  "authors": {
+    "tradplus": "service@tradplus.com"
+  },
+  "source": {
+    "http": "https://bitbucket.devops.nonprod.empf.local/scm/react/TradPlusMaioAdapter-8.5.0.zip",
+    "type": "zip"
+  },
+  "dependencies": {
+    "TradPlusAdSDK": [
+
+    ]
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "requires_arc": true,
+  "frameworks": [
+    "SystemConfiguration",
+    "CoreGraphics",
+    "Foundation",
+    "UIKit"
+  ],
+  "user_target_xcconfig": {
+    "OTHER_LDFLAGS": [
+      "-lObjC"
+    ]
+  },
+  "vendored_frameworks": "TradPlusMaioAdapter-8.5.0/MaioAdapter.framework"
+}

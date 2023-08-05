@@ -1,0 +1,59 @@
+{
+  "name": "LNPopupController",
+  "version": "2.10.13",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LNPopupController",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Leo Natan": "lnatan@wix.com"
+  },
+  "description": "LNPopupController is a framework for presenting view controllers as popups of other view controllers, much like the Apple Music and Podcasts apps.",
+  "summary": "Framework for presenting view controllers in a popup style",
+  "screenshots": [
+    "https://bitbucket.devops.nonprod.empf.local/scm/react/LNPopupController/raw/master/Supplements/bar_style.gif",
+    "https://bitbucket.devops.nonprod.empf.local/scm/react/LNPopupController/raw/master/Supplements/close_modern_popup.gif",
+    "https://bitbucket.devops.nonprod.empf.local/scm/react/LNPopupController/raw/master/Supplements/custom1.png",
+    "https://bitbucket.devops.nonprod.empf.local/scm/react/LNPopupController/raw/master/Supplements/custom_bar.png",
+    "https://bitbucket.devops.nonprod.empf.local/scm/react/LNPopupController/raw/master/Supplements/default_bar_accessibility_label.png",
+    "https://bitbucket.devops.nonprod.empf.local/scm/react/LNPopupController/raw/master/Supplements/hidesBottomBar_TabBar.gif",
+    "https://bitbucket.devops.nonprod.empf.local/scm/react/LNPopupController/raw/master/Supplements/hidesBottomBar_Toolbar.gif",
+    "https://bitbucket.devops.nonprod.empf.local/scm/react/LNPopupController/raw/master/Supplements/modern_bar_style.gif",
+    "https://bitbucket.devops.nonprod.empf.local/scm/react/LNPopupController/raw/master/Supplements/modern_custom.png",
+    "https://bitbucket.devops.nonprod.empf.local/scm/react/LNPopupController/raw/master/Supplements/modern_no_scroll.gif",
+    "https://bitbucket.devops.nonprod.empf.local/scm/react/LNPopupController/raw/master/Supplements/open_modern_popup.gif",
+    "https://bitbucket.devops.nonprod.empf.local/scm/react/LNPopupController/raw/master/Supplements/rtl_english.png",
+    "https://bitbucket.devops.nonprod.empf.local/scm/react/LNPopupController/raw/master/Supplements/rtl_hebrew.png",
+    "https://bitbucket.devops.nonprod.empf.local/scm/react/LNPopupController/raw/master/Supplements/scoll.gif",
+    "https://bitbucket.devops.nonprod.empf.local/scm/react/LNPopupController/raw/master/Supplements/statusbar_hidden.gif",
+    "https://bitbucket.devops.nonprod.empf.local/scm/react/LNPopupController/raw/master/Supplements/statusbar_style.gif",
+    "https://bitbucket.devops.nonprod.empf.local/scm/react/LNPopupController/raw/master/Supplements/taps.gif"
+  ],
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LNPopupController.git",
+    "tag": "2.10.13"
+  },
+  "source_files": [
+    "LNPopupController/LNPopupController/**/*.{h,m}",
+    "LNPopupController/LNPopupController.h"
+  ],
+  "public_header_files": [
+    "LNPopupController/LNPopupController/*.h",
+    "LNPopupController/LNPopupController.h"
+  ],
+  "private_header_files": "LNPopupController/LNPopupController/Private/*.h",
+  "frameworks": [
+    "Foundation",
+    "UIKit",
+    "QuartzCore"
+  ],
+  "pod_target_xcconfig": {
+    "CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF": "NO",
+    "CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS": "NO"
+  },
+  "requires_arc": true,
+  "platforms": {
+    "ios": "11.0"
+  }
+}

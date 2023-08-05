@@ -1,0 +1,22 @@
+{
+  "name": "YJLeaksFinder",
+  "version": "0.1.0",
+  "summary": "YJLeaksFinder",
+  "description": "内存泄漏监测工具",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/YJLeaksFinder",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "fyaojie": "562925462@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YJLeaksFinder.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "YJLeaksFinder/Classes/**/*"
+}

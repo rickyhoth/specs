@@ -1,0 +1,23 @@
+{
+  "name": "WHToast",
+  "version": "0.1.0",
+  "summary": "iOS Toast",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WHToast",
+  "license": "MIT",
+  "authors": {
+    "wuhao": "503007958@qq.com"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WHToast.git",
+    "tag": "0.1.0"
+  },
+  "source_files": [
+    "WHToast",
+    "WHToast/*.{h,m}"
+  ],
+  "frameworks": "UIKit",
+  "requires_arc": true
+}

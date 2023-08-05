@@ -1,0 +1,24 @@
+{
+  "name": "SKEditCell",
+  "version": "0.1.1",
+  "summary": "UITableVeiwCellEdit",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SKEditCell",
+  "license": "MIT",
+  "authors": {
+    "HiSongKang": "846593701@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SKEditCell.git",
+    "tag": "0.1.1"
+  },
+  "source_files": "SKEditCell/SKEditCell/*",
+  "requires_arc": true,
+  "dependencies": {
+    "Masonry": [
+
+    ]
+  }
+}

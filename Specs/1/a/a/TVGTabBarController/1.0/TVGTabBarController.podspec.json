@@ -1,0 +1,32 @@
+{
+  "name": "TVGTabBarController",
+  "version": "1.0",
+  "summary": "A TabBarController with a beautiful styles for selection",
+  "description": "The standard TabBarController is very limited in terms of styles and animations when you create a Tab.\nThis cocoapod allows you to create Tabs with beautiful style and customizable properties!",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TVGTabBarController",
+  "screenshots": [
+    "https://bitbucket.devops.nonprod.empf.local/scm/react/TVGTabBarController/blob/master/screenshots/1.png",
+    "https://bitbucket.devops.nonprod.empf.local/scm/react/TVGTabBarController/blob/master/screenshots/2.png",
+    "https://bitbucket.devops.nonprod.empf.local/scm/react/TVGTabBarController/blob/master/screenshots/3.png",
+    "https://bitbucket.devops.nonprod.empf.local/scm/react/TVGTabBarController/blob/master/screenshots/4.png",
+    "https://bitbucket.devops.nonprod.empf.local/scm/react/TVGTabBarController/blob/master/screenshots/5.png",
+    "https://bitbucket.devops.nonprod.empf.local/scm/react/TVGTabBarController/blob/master/screenshots/6.png",
+    "https://bitbucket.devops.nonprod.empf.local/scm/react/TVGTabBarController/blob/master/screenshots/7.png"
+  ],
+  "license": "MIT",
+  "authors": {
+    "Taleb Rafiepour": "taleb.r75@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TVGTabBarController.git",
+    "tag": "1.0"
+  },
+  "social_media_url": "https://twitter.com/brantigua",
+  "platforms": {
+    "ios": "13.0"
+  },
+  "swift_versions": "5.0",
+  "source_files": "TVGTabBarController/**",
+  "frameworks": "UIKit",
+  "swift_version": "5.0"
+}

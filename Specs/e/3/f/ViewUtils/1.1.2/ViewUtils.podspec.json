@@ -1,0 +1,17 @@
+{
+  "name": "ViewUtils",
+  "version": "1.1.2",
+  "license": "zlib",
+  "summary": "A collection of category methods that extend UIView with properties and functionality that you always wished were built-in to begin with.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ViewUtils",
+  "authors": "Nick Lockwood",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ViewUtils.git",
+    "tag": "1.1.2"
+  },
+  "source_files": "ViewUtils",
+  "platforms": {
+    "ios": "4.3"
+  },
+  "requires_arc": false
+}

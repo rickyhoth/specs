@@ -1,0 +1,27 @@
+{
+  "name": "YMJpush",
+  "version": "0.0.5",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "summary": "dot not use code to use Jpush",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/YMJpush",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xuyao": "2366272922@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YMJpush.git",
+    "tag": "0.0.5"
+  },
+  "source_files": "YMJPush/**/*.{h,m}",
+  "requires_arc": true,
+  "dependencies": {
+    "XAspect": [
+
+    ]
+  }
+}

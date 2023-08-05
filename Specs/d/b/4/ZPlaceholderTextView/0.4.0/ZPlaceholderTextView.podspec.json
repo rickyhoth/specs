@@ -1,0 +1,27 @@
+{
+  "name": "ZPlaceholderTextView",
+  "version": "0.4.0",
+  "summary": "A short description of ZPlaceholderTextView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZPlaceholderTextView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Zack Zheng": "zhengzuanzhe@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZPlaceholderTextView.git",
+    "tag": "0.4.0"
+  },
+  "swift_version": "4.2",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZPlaceholderTextView/Classes/**/*",
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ]
+}

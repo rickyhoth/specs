@@ -1,0 +1,25 @@
+{
+  "name": "RNKinSdk",
+  "version": "1.0.0",
+  "summary": "RNKinSdk",
+  "description": "RNKinSdk",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/RNKinLib",
+  "license": "MIT",
+  "authors": {
+    "Xing Yi": "xingyi0201@gmail.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/RNKinLib.git",
+    "tag": "master"
+  },
+  "source_files": "*.{h,m}",
+  "requires_arc": true,
+  "dependencies": {
+    "React": [
+
+    ]
+  }
+}

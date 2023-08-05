@@ -1,0 +1,30 @@
+{
+  "name": "SKCalendarView",
+  "version": "0.0.3",
+  "summary": "a custom calendarView",
+  "description": "a custom calendarView on iOS",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SKCalendarView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ShevaKuilin": "shevakuilin@gmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SKCalendarView.git",
+    "tag": "0.0.3"
+  },
+  "source_files": [
+    "SKCalendarView",
+    "SKCalendarView/SKCalendarView/**/*.{h,m}"
+  ],
+  "dependencies": {
+    "Masonry": [
+      "~> 1.0.1"
+    ]
+  }
+}

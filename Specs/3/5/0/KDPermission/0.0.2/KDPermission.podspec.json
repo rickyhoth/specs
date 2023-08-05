@@ -1,0 +1,20 @@
+{
+  "name": "KDPermission",
+  "version": "0.0.2",
+  "summary": "A sharedInstance helper get device auth",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/KDPermission",
+  "license": "MIT",
+  "authors": {
+    "mumu": "260898473@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/KDPermission.git",
+    "tag": "0.0.2"
+  },
+  "source_files": "KDPermission/*",
+  "exclude_files": "Classes/Exclude",
+  "resources": "KDPermission/KDPermission.bundle"
+}

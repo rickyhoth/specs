@@ -1,0 +1,16 @@
+{
+  "name": "ZTRESTConnection",
+  "version": "0.0.3",
+  "summary": "A lightweight block based REST library for OBJ-C.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZTRESTConnection",
+  "license": "MIT",
+  "authors": {
+    "Zachry Thayer": "zachthayer@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZTRESTConnection.git",
+    "tag": "0.0.3"
+  },
+  "source_files": "Classes",
+  "requires_arc": true
+}

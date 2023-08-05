@@ -1,0 +1,48 @@
+{
+  "name": "FitTime",
+  "version": "0.1.0",
+  "summary": "米动圈 Framework",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/FitTime",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Pircate": "gao497868860@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/FitTime.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "FitTime/Classes/**/*",
+  "swift_versions": "4.2",
+  "dependencies": {
+    "HMStreamingSDK": [
+      "0.2.0"
+    ],
+    "IGListKit": [
+      "~> 3.0"
+    ],
+    "SDWebImage": [
+
+    ],
+    "SDWebImage/GIF": [
+
+    ],
+    "AFNetworking": [
+
+    ],
+    "MJRefresh": [
+      "3.1.15"
+    ]
+  },
+  "pod_target_xcconfig": {
+    "VALID_ARCHS": "arm64 x86_64"
+  },
+  "ios": {
+    "frameworks": "NvStreamingSdkCore"
+  }
+}

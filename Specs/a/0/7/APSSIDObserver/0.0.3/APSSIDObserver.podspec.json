@@ -1,0 +1,23 @@
+{
+  "name": "APSSIDObserver",
+  "version": "0.0.3",
+  "summary": "iOS Wi-Fi network SSID observer",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SSIDObserver",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE.txt"
+  },
+  "authors": {
+    "Serg Krivoblotsky": "krivoblotsky@me.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SSIDObserver.git",
+    "tag": "0.0.3"
+  },
+  "source_files": "SSID/*.{h,m}",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "frameworks": "SystemConfiguration"
+}

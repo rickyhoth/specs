@@ -1,0 +1,23 @@
+{
+  "name": "PPLoadingIndicator",
+  "version": "0.0.2",
+  "swift_version": "4.2",
+  "summary": "Cool loading indicators",
+  "description": "Cool loading indicators to use",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/PPLoadingIndicator",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "iffytheperfect1983": "iffytheperfect@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/PPLoadingIndicator.git",
+    "tag": "0.0.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PPLoadingIndicator/Classes/**/*"
+}

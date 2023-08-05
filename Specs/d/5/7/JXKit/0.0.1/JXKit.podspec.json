@@ -1,0 +1,20 @@
+{
+  "name": "JXKit",
+  "version": "0.0.1",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "summary": "A collection of iOS components.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JXKit",
+  "license": "MIT",
+  "authors": {
+    "admxjx": "1103868202@qq.com"
+  },
+  "social_media_url": "https://bitbucket.devops.nonprod.empf.local/scm/react/JXKit",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JXKit.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "XJKit/*.{h,m}",
+  "requires_arc": true
+}

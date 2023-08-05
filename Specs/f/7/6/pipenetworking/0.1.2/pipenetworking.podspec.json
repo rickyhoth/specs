@@ -1,0 +1,28 @@
+{
+  "name": "pipenetworking",
+  "version": "0.1.2",
+  "summary": "PipeNetwork",
+  "description": "PipeNetwork.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/pipenetworking",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "jfpal": "https://bitbucket.devops.nonprod.empf.local/scm/react/pipenetworking.git"
+  },
+  "platforms": {
+    "ios": "6.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/pipenetworking.git",
+    "tag": "0.1.2"
+  },
+  "source_files": "Classes/*.{h,m}",
+  "requires_arc": true,
+  "dependencies": {
+    "AFNetworking": [
+      "~> 2.5.0"
+    ]
+  }
+}

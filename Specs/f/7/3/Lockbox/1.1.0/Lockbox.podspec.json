@@ -1,0 +1,15 @@
+{
+  "name": "Lockbox",
+  "version": "1.1.0",
+  "license": "MIT",
+  "summary": "Lockbox is an Objective-C utility class for storing data securely in the keychain. Use it to store small, sensitive bits of data securely.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Lockbox",
+  "authors": "Mark H. Granoff",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Lockbox.git",
+    "tag": "1.1.0"
+  },
+  "source_files": "Lockbox.{h,m}",
+  "frameworks": "Security",
+  "requires_arc": false
+}

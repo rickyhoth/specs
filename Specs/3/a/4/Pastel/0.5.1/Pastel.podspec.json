@@ -1,0 +1,23 @@
+{
+  "name": "Pastel",
+  "version": "0.5.1",
+  "summary": "Instagram like gradient background animation",
+  "swift_version": "4.2",
+  "description": "Instagram like infinity gradient background animation",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Pastel",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "cruz": "cruzdiary@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Pastel.git",
+    "tag": "0.5.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Pastel/Classes/**/*"
+}

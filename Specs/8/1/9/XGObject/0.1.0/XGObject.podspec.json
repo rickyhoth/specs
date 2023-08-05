@@ -1,0 +1,22 @@
+{
+  "name": "XGObject",
+  "version": "0.1.0",
+  "summary": "Just for test cocoapods",
+  "description": "TODO: This project is just used to test cocoapods. And may be there is some mistake.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/XGObject",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xionggai": "hustphysics@hotmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/XGObject.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "XGObject/Classes/**/*"
+}

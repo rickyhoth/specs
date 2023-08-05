@@ -1,0 +1,20 @@
+{
+  "name": "BDDROneFingerZoomGestureRecognizer",
+  "version": "1.0.2",
+  "summary": "UIGestureRecognizer subclass to enable one-finger-zoom gestures.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/BDDROneFingerZoomGestureRecognizer",
+  "screenshots": "https://bitbucket.devops.nonprod.empf.local/scm/react/BDDROneFingerZoomGestureRecognizer/raw/master/Example.gif",
+  "license": "MIT",
+  "authors": {
+    "Christopher - Marcel Böddecker": "bddckr@icloud.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/BDDROneFingerZoomGestureRecognizer.git",
+    "tag": "1.0.2"
+  },
+  "platforms": {
+    "ios": "5.0"
+  },
+  "source_files": "BDDROneFingerZoomGestureRecognizer",
+  "requires_arc": true
+}

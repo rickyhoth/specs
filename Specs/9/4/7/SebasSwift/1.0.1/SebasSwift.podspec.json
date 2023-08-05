@@ -1,0 +1,24 @@
+{
+  "name": "SebasSwift",
+  "version": "1.0.1",
+  "summary": "Utility Extensions written in Swift.",
+  "description": "SebasSwift is utility extensions written in Swift.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SebasSwift",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Hituzi Ando": "hhh.ando@gmail.com"
+  },
+  "platforms": {
+    "ios": "9.3"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SebasSwift.git",
+    "tag": "1.0.1"
+  },
+  "source_files": "SebasSwift/**/*.{swift,h}",
+  "requires_arc": true,
+  "swift_version": "4.2"
+}

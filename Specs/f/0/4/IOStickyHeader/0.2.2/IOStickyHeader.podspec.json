@@ -1,0 +1,20 @@
+{
+  "name": "IOStickyHeader",
+  "version": "0.2.2",
+  "summary": "Parallax and Sticky header done right using UICollectionViewLayout",
+  "description": "UICollectionView are flexible and you can use supplementary views to\nanything you wanted.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/IOStickyHeader.git",
+  "license": "MIT",
+  "authors": {
+    "Benjamin Prieur": "benjamin@prieur.org"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/IOStickyHeader.git",
+    "tag": "0.2.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*"
+}

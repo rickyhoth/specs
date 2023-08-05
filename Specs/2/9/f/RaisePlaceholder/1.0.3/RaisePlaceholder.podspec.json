@@ -1,0 +1,24 @@
+{
+  "name": "RaisePlaceholder",
+  "version": "1.0.3",
+  "summary": "UITextField Placeholder UI",
+  "description": "Enter a text in UITextField, it displays the placeholder as a UITextField subject.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/RaisePlaceholder",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Jiho Lee": "najanda89@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/RaisePlaceholder.git",
+    "tag": "1.0.3"
+  },
+  "social_media_url": "https://twitter.com/najanda89",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Sources/*.swift",
+  "pushed_with_swift_version": "3.0"
+}

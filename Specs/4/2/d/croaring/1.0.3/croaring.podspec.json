@@ -1,0 +1,26 @@
+{
+  "name": "croaring",
+  "version": "1.0.3",
+  "summary": "A better compressed bitset in Swift.",
+  "description": "A better compressed bitset in Swift.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwiftRoaring",
+  "license": "BSD",
+  "authors": {
+    "solos": "lxl1217@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwiftRoaring.git",
+    "branch": "master"
+  },
+  "source_files": [
+    "Sources/CRoaring/*.c",
+    "Sources/CRoaring/include/*.h"
+  ],
+  "exclude_files": "Classes/Exclude",
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}

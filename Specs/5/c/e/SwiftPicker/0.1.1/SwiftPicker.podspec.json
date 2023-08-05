@@ -1,0 +1,24 @@
+{
+  "name": "SwiftPicker",
+  "version": "0.1.1",
+  "summary": "Picker view with easily to use",
+  "description": "TODO: Add long description of the pod here.",
+  "swift_versions": "5.1",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwiftPicker",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "notovel2": "notovel2@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwiftPicker.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SwiftPicker/Classes/**/*",
+  "swift_version": "5.1"
+}

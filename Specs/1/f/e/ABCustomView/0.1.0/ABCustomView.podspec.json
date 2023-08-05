@@ -1,0 +1,23 @@
+{
+  "name": "ABCustomView",
+  "version": "0.1.0",
+  "summary": "Handy UIView subclasses",
+  "description": "Manual setup and update for UIViews",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ABCustomView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "alexburtnik": "alexburtnik@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ABCustomView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Source/*.swift",
+  "pushed_with_swift_version": "3.0"
+}

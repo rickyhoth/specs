@@ -1,0 +1,26 @@
+{
+  "name": "TBTResourcesPod",
+  "version": "0.2.1",
+  "summary": "TBT 资源私有库",
+  "description": "TBT 图片、文件私有库",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TBTResourcesPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "RainyofSun": "807602063@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TBTResourcesPod.git",
+    "tag": "0.2.1"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "resource_bundles": {
+    "TBTResourcesPod": [
+      "TBTResourcesPod/Assets/**/*"
+    ]
+  }
+}

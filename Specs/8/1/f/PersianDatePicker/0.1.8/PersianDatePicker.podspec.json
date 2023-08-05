@@ -1,0 +1,22 @@
+{
+  "name": "PersianDatePicker",
+  "version": "0.1.8",
+  "summary": "PersianDatePicker is a PickerView. by : farhad faramarzi",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/PersianDatePicker",
+  "authors": {
+    "Farhad Faramarzi": "farhad.public@gmail.com"
+  },
+  "license": {
+    "type": "GPL2",
+    "file": "LICENSE"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/PersianDatePicker.git",
+    "tag": "0.1.8"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "PersianDatePicker/*",
+  "pushed_with_swift_version": "3.0"
+}

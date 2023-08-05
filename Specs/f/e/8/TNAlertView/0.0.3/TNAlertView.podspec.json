@@ -1,0 +1,32 @@
+{
+  "name": "TNAlertView",
+  "version": "0.0.3",
+  "summary": "扩展性高、易用的弹窗",
+  "description": "扩展性高、易用的弹窗。",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TTKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "rollingstoneW": "190268198@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TNAlertView.git",
+    "tag": "0.0.3"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "dependencies": {
+    "Masonry": [
+
+    ]
+  },
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ],
+  "public_header_files": "TNAlertView/Classes/**/*.h",
+  "source_files": "TNAlertView/Classes/**/*"
+}

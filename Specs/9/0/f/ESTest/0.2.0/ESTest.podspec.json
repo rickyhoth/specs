@@ -1,0 +1,25 @@
+{
+  "name": "ESTest",
+  "version": "0.2.0",
+  "summary": "A statis library test",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ESTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "coker-xuzhang": "codeLockers@outlook.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ESStaticTest.git",
+    "tag": "0.2.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "swift_versions": "5.0",
+  "ios": {
+    "vendored_frameworks": "ESTest.framework"
+  },
+  "swift_version": "5.0"
+}

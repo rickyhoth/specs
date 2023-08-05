@@ -1,0 +1,21 @@
+{
+  "name": "RRFrame",
+  "version": "0.0.2",
+  "summary": "The final RR Framework",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/RRFrame",
+  "license": {
+    "type": "MIT",
+    "file": "license"
+  },
+  "authors": {
+    "Michalis Eleftheriou": "mixalis_91@hotmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "vendored_frameworks": "RRFrame.framework",
+  "source": {
+    "http": "https://bitbucket.devops.nonprod.empf.local/scm/react/RRFrame.zip"
+  },
+  "exclude_files": "Classes/Exclude"
+}

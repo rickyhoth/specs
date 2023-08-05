@@ -1,0 +1,22 @@
+{
+  "name": "RDHCollectionViewGridLayout",
+  "version": "1.1.0",
+  "license": "MIT",
+  "summary": "Grid layout for UICollectionView.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/RDHCollectionViewGridLayout",
+  "authors": "Rich Hodgkins",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/RDHCollectionViewGridLayout.git",
+    "tag": "1.1.0"
+  },
+  "frameworks": [
+    "UIKit",
+    "Foundation",
+    "CoreGraphics"
+  ],
+  "requires_arc": true,
+  "platforms": {
+    "ios": "6.0"
+  },
+  "source_files": "RDHCollectionViewGridLayout/"
+}

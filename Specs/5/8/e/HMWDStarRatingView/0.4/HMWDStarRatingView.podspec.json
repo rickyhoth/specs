@@ -1,0 +1,22 @@
+{
+  "name": "HMWDStarRatingView",
+  "version": "0.4",
+  "summary": "Simple star rating view for iOS written in Swift (Ported over from HCSStarRatingView)",
+  "description": "A UIControl subclass to easily provide users with a basic star-rating interface. It supports all device resolutions and requires no images do render the stars, thanks to PaintCode.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WDStarRatingView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Wu Di": "justwudi@gmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WDStarRatingView.git",
+    "tag": "0.4"
+  },
+  "source_files": "WDStarRatingView/WDStarRatingView*.swift"
+}

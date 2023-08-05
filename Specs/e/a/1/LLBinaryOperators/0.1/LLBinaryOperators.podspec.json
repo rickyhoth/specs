@@ -1,0 +1,19 @@
+{
+  "name": "LLBinaryOperators",
+  "version": "0.1",
+  "summary": "Binary Enumeration Operators, since NSArray only supports object equality.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LLBinaryOperators",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Lawrence Lomax": "lomax.lawrence@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LLBinaryOperators.git",
+    "tag": "0.1"
+  },
+  "source_files": "LLBinaryOperators/Classes/",
+  "requires_arc": true
+}

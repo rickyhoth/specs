@@ -1,0 +1,24 @@
+{
+  "name": "FrankBaseViewControllerKit",
+  "version": "0.1.0",
+  "summary": "Protocols for UIViewController",
+  "description": "VCPresentType, NavButtonConfigurable, VCEasyNavigatable, KeyboardAnimationObserverable",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/FrankBaseViewControllerKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "seongkyu-sim": "seongkyu.sim@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/FrankBaseViewControllerKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "FrankBaseViewControllerKit/Classes/**/*",
+  "pushed_with_swift_version": "3.1",
+  "deprecated": true
+}

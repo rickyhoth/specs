@@ -1,0 +1,22 @@
+{
+  "name": "SLNPopupMenu",
+  "version": "0.3",
+  "summary": "SLNPopupMenu is very simple menu",
+  "description": "SLNPopupMenu is the very simple and user friendly controller. Easily user can intergrate this",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/slnPopupmenu",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Puvanarajan": "puvanarajan@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/slnPopupmenu.git",
+    "tag": "0.3"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source_files": "SLNPopupMenu/SLNPopupMenu/SLNPopupMenu/*"
+}

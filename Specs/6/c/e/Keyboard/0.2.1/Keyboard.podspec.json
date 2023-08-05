@@ -1,0 +1,22 @@
+{
+  "name": "Keyboard",
+  "version": "0.2.1",
+  "summary": "Never implement UIKeyboardDidShowNotification ever again.",
+  "description": "Never implement UIKeyboardDidShowNotification ever again. Ever. Really.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Keyboard",
+  "license": "MIT",
+  "authors": {
+    "Bell App Lab": "apps@bellapplab.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Keyboard.git",
+    "tag": "0.2.1"
+  },
+  "social_media_url": "https://twitter.com/BellAppLab",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "frameworks": "UIKit"
+}

@@ -1,0 +1,30 @@
+{
+  "name": "MMRouter",
+  "summary": "A Router for iOS.",
+  "version": "0.0.2",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "MMMille": "xuemingluan@gmail.com"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MMRouter",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MMRouter.git",
+    "tag": "0.0.2"
+  },
+  "requires_arc": true,
+  "source_files": "MMRouter/*.{h,m}",
+  "libraries": [
+    "z",
+    "sqlite3"
+  ],
+  "frameworks": [
+    "UIKit",
+    "CoreFoundation"
+  ]
+}

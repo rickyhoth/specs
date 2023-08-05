@@ -1,0 +1,23 @@
+{
+  "name": "MLLayout",
+  "version": "0.4.3",
+  "summary": "Flexbox in Objective-C, using Facebook's css-layout.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MLLayout",
+  "license": {
+    "type": "MIT"
+  },
+  "authors": {
+    "molon": "dudl@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MLLayout.git",
+    "tag": "0.4.3"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "public_header_files": "Classes/**/*.h",
+  "source_files": "Classes/**/*.{h,m,c}",
+  "resources": "Classes/**/*.md",
+  "requires_arc": true
+}

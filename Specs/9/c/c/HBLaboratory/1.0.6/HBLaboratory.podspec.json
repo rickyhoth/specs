@@ -1,0 +1,24 @@
+{
+  "name": "HBLaboratory",
+  "version": "1.0.6",
+  "summary": "摇一摇唤起实验室，自定制各种app配置",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HBLaboratory",
+  "license": "MIT",
+  "authors": {
+    "huangbo": "huangbo@yy.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HBKit.git"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source_files": "HBLaboratory/**/*.{h,m,mm}",
+  "resources": "HBLaboratory/**/*.{bundle,xib,storyboard}",
+  "public_header_files": "HBLaboratory/**/*.h",
+  "dependencies": {
+    "HBTesterKit": [
+
+    ]
+  }
+}

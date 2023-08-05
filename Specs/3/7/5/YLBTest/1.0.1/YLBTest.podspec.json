@@ -1,0 +1,22 @@
+{
+  "name": "YLBTest",
+  "version": "1.0.1",
+  "summary": "永利宝工具类库",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/YLBTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xiangwei Yang": "canlanyangg@126.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YLBTest.git",
+    "tag": "1.0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YLBTest/Classes/**/*"
+}

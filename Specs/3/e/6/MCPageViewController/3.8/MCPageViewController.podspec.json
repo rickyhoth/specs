@@ -1,0 +1,23 @@
+{
+  "name": "MCPageViewController",
+  "version": "3.8",
+  "summary": "MCPageViewController for Swift.Public",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MCPageViewController",
+  "license": "MIT",
+  "authors": {
+    "MC": "562863544@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MCPageViewController.git",
+    "tag": "3.8"
+  },
+  "swift_version": "4.2",
+  "dependencies": {
+    "SnapKit": [
+
+    ]
+  }
+}

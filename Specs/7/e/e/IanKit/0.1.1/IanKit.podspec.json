@@ -1,0 +1,23 @@
+{
+  "name": "IanKit",
+  "version": "0.1.1",
+  "summary": "my personal kit",
+  "description": "TODO: 我就是我，是颜色不一样的烟火",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/IanKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ianshen@foxmail.com": "ianshen@foxmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/IanKit.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "swift_version": "4.0",
+  "source_files": "IanKit/Classes/**/*"
+}

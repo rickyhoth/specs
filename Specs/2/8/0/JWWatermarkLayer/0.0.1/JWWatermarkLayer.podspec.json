@@ -1,0 +1,22 @@
+{
+  "name": "JWWatermarkLayer",
+  "version": "0.0.1",
+  "summary": "create text watermark.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JWWatermarkLayer",
+  "license": "MIT",
+  "authors": {
+    "Joe": "sheninter@163.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JWWatermarkLayer.git",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "JWWatermarkLayer",
+    "JWWatermarkLayer/**/*.{h,m}"
+  ],
+  "exclude_files": "Classes/Exclude"
+}

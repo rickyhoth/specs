@@ -1,0 +1,20 @@
+{
+  "name": "cocoaGit",
+  "version": "3.0.0",
+  "license": "MIT",
+  "summary": "my first CocoaPods git",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/reactcocoaGit",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/reactcocoaGit.git",
+    "tag": "3.0.0"
+  },
+  "source_files": "cocoaGit/*.{h,m}",
+  "requires_arc": true,
+  "platforms": {
+    "ios": "7.0"
+  },
+  "authors": {
+    "miracle-jzc": "miracle.jzc@gmail.com"
+  },
+  "social_media_url": "https://bitbucket.devops.nonprod.empf.local/scm/reactcocoaGit"
+}

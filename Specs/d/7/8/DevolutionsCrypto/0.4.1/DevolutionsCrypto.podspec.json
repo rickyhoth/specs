@@ -1,0 +1,25 @@
+{
+  "name": "DevolutionsCrypto",
+  "version": "0.4.1",
+  "summary": "A CocoaPods library for Devolutions crypto",
+  "description": "This CocoaPods library is for the Swift binding of the Devolutions crypto lib",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DevolutionsCrypto",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Sebastien Aubin": "spicheaubin@devolutions.net"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "swift_versions": "4.2",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DevolutionsCrypto.git",
+    "tag": "0.4.1"
+  },
+  "source_files": "DevolutionsCrypto/**/*.{h,m,swift}",
+  "vendored_libraries": "DevolutionsCrypto/Rust/*.a",
+  "swift_version": "4.2"
+}

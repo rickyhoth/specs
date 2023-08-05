@@ -1,0 +1,23 @@
+{
+  "name": "GSMessages",
+  "version": "1.7.2",
+  "summary": "A simple style messages/notifications, in Swift.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/GSMessages",
+  "license": "MIT",
+  "authors": {
+    "Gesen": "i@gesen.me"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/GSMessages.git",
+    "tag": "1.7.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "GSMessages",
+  "swift_versions": [
+    "4.2",
+    "5.0"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "MPushSwift",
+  "version": "0.2.6",
+  "summary": "MPush iOS SDK.",
+  "description": "MPush iOS SDK to integrate the MPush service in your app.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MPush-Swift",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "LorenzOliveto": "lorenzo.oliveto@mumbleideas.it"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MPush-Swift.git",
+    "tag": "0.2.6"
+  },
+  "source_files": "MPush/*.{h,m,swift}",
+  "swift_version": "4.2",
+  "requires_arc": true,
+  "dependencies": {
+    "Alamofire": [
+      "~> 4.0"
+    ]
+  }
+}

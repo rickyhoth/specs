@@ -1,0 +1,23 @@
+{
+  "name": "PKit",
+  "version": "0.0.5",
+  "summary": "A short description of PKit.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/PKit",
+  "license": "MIT",
+  "authors": {
+    "Plumk": "plumk97@outlook.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/PKit.git",
+    "tag": "0.0.5"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "swift_versions": "5.0",
+  "source_files": [
+    "Classes",
+    "Sources/PKit/**/*.swift"
+  ],
+  "swift_version": "5.0"
+}

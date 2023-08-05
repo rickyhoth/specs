@@ -1,0 +1,22 @@
+{
+  "name": "MVMediaSlider",
+  "version": "0.0.5",
+  "summary": "Custom media slider inspired by the Overcast App",
+  "license": "MIT",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MVMediaSlider",
+  "authors": {
+    "Andrea Bizzotto": "bizz84@gmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MVMediaSlider.git",
+    "tag": "0.0.5"
+  },
+  "source_files": "MVMediaSlider/*.{swift,xib}",
+  "screenshots": [
+    "https://bitbucket.devops.nonprod.empf.local/scm/react/MVMediaSlider/raw/master/Screenshots/MediaPlayer.png"
+  ],
+  "requires_arc": true
+}

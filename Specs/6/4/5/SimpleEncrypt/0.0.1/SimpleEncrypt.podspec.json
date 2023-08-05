@@ -1,0 +1,33 @@
+{
+  "name": "SimpleEncrypt",
+  "version": "0.0.1",
+  "summary": "A short description of SimpleEncrypt.",
+  "description": "An easy method to encrypt.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SimpleEncrypt",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "EriceWang": "wangerdong@treefinance.com.cn"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SimpleEncrypt.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": [
+    "SimpleEncrypt/GTMBase64/*",
+    "SimpleEncrypt/RSA/*"
+  ],
+  "public_header_files": [
+    "Pod/GTMBase64/*.h",
+    "SimpleEncrypt/RSA/*.h"
+  ],
+  "frameworks": [
+    "UIKit",
+    "Security"
+  ]
+}

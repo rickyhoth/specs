@@ -1,0 +1,24 @@
+{
+  "name": "SQLiteSwift",
+  "version": "0.1.2",
+  "summary": "Simple sqlite library written in Swift.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SQLiteSwift",
+  "license": "MIT",
+  "authors": {
+    "ohde-sg": "ohde@socialgrid.co.jp"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SQLiteSwift.git",
+    "tag": "0.1.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "SQLiteSwift/*.swift",
+  "dependencies": {
+    "FMDB": [
+      "~> 2.6"
+    ]
+  }
+}

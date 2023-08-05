@@ -1,0 +1,22 @@
+{
+  "name": "iOSClientDownload",
+  "version": "3.0.100",
+  "summary": "RedBeeMedia iOS SDK Download Module",
+  "homepage": "https://github.com/EricssonBroadcastServices",
+  "license": {
+    "type": "Apache",
+    "file": "https://bitbucket.devops.nonprod.empf.local/scm/react/iOSClientDownload/blob/master/LICENSE"
+  },
+  "authors": {
+    "EMP": "jenkinsredbee@gmail.com"
+  },
+  "documentation_url": "https://bitbucket.devops.nonprod.empf.local/scm/react/iOSClientDownload/blob/master/README.md",
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/iOSClientDownload.git",
+    "tag": "v3.0.100"
+  },
+  "source_files": "Sources/iOSClientDownload/**/*.swift"
+}

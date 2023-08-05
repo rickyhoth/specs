@@ -1,0 +1,19 @@
+{
+  "name": "DDCycleScrollView",
+  "version": "2.0.0",
+  "summary": "简单易用的图片无限轮播器.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DDCycleScrollView.git",
+  "license": "MIT",
+  "authors": {
+    "Faithlight": "454277536@qq.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DDCycleScrollView.git",
+    "tag": "2.0.0"
+  },
+  "source_files": "DDCycleScrollView/DDCycleScrollView/**/*.{h,m}",
+  "requires_arc": true
+}

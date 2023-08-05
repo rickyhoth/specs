@@ -1,0 +1,21 @@
+{
+  "name": "Pool",
+  "version": "0.2",
+  "license": {
+    "type": "MIT"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Pool",
+  "authors": {
+    "Damien": "damien@delba.io"
+  },
+  "summary": "Seamless data sharing across nearby devices",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Pool.git",
+    "tag": "v0.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Source/**/*.{swift, h}",
+  "requires_arc": true
+}

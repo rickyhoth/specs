@@ -1,0 +1,23 @@
+{
+  "name": "TMScoreMall",
+  "version": "0.0.5",
+  "summary": "This is a summary",
+  "description": "This is a description",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TMScoreMall.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lizishiye": "1063357883@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TMScoreMall.git",
+    "tag": "0.0.5"
+  },
+  "source_files": "Test/**/*.{m,h}",
+  "exclude_files": "Classes/Exclude",
+  "platforms": {
+    "ios": null
+  }
+}

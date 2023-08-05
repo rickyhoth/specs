@@ -1,0 +1,24 @@
+{
+  "name": "libwallet",
+  "version": "0.0.16",
+  "summary": "Paystore Libwallet",
+  "description": "Biblioteca para integração com serviço Wallet da Paystore",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/libwallet.git",
+  "license": {
+    "type": "MIT",
+    "text": "The MIT License (MIT) \n Copyright (c)"
+  },
+  "authors": {
+    "manoel.neto": "manoel.neto@phoebus.com.br"
+  },
+  "ios": {
+    "vendored_frameworks": "Libwallet.framework"
+  },
+  "platforms": {
+    "ios": "12.1"
+  },
+  "source": {
+    "http": "https://bitbucket.devops.nonprod.empf.local/scm/react/libwallet/raw/master/libwallet.framework.zip"
+  },
+  "exclude_files": "Classes/Exclude"
+}

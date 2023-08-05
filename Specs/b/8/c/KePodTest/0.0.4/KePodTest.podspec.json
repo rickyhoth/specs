@@ -1,0 +1,24 @@
+{
+  "name": "KePodTest",
+  "version": "0.0.4",
+  "summary": "this is a description of PodTest.",
+  "description": "PodTest is my test, Studying make me happy",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/PodTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "kejianfang": "kejianfang@meituan.com"
+  },
+  "platforms": {
+    "ios": null
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/PodTest.git",
+    "tag": "0.0.4"
+  },
+  "source_files": "PodTest/**/*.{h,m}",
+  "resources": "PodTest/*.lproj",
+  "frameworks": "UIKit"
+}

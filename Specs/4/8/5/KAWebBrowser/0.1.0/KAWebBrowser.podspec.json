@@ -1,0 +1,27 @@
+{
+  "name": "KAWebBrowser",
+  "version": "0.1.0",
+  "summary": "WKWebView with a progressBar",
+  "description": "KAWebBrowser is a web browser module for your apps. Written in Swift.\nIt contains a WKWebView with a progressBar.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/KAWebBrowser",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhihuazhang": "zhangzhihua.dev@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/KAWebBrowser.git",
+    "tag": "0.1.0"
+  },
+  "social_media_url": "https://twitter.com/zhz821",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "KAWebBrowser/Classes/**/*",
+  "frameworks": [
+    "UIKit",
+    "WebKit"
+  ]
+}

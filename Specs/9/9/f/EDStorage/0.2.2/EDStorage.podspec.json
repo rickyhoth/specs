@@ -1,0 +1,19 @@
+{
+  "name": "EDStorage",
+  "version": "0.2.2",
+  "license": "Apache License, Version 2.0",
+  "summary": "An iOS library for fast, easy, and safe threaded disk I/O.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/storage",
+  "authors": {
+    "Andrew Sliwinski": "andrew@diy.org"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/storage.git",
+    "tag": "v0.2.2"
+  },
+  "platforms": {
+    "ios": null
+  },
+  "source_files": "EDStorage",
+  "requires_arc": true
+}

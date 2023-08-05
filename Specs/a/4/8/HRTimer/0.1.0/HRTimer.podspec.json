@@ -1,0 +1,22 @@
+{
+  "name": "HRTimer",
+  "version": "0.1.0",
+  "summary": "定时器封装",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HRTimer",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wowbby": "zhengzx@haierubic.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HRTimer.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HRTimer/Classes/**/*"
+}

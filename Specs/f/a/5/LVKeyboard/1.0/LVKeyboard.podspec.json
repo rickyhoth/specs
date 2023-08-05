@@ -1,0 +1,19 @@
+{
+  "name": "LVKeyboard",
+  "version": "1.0",
+  "summary": "The easiest way to use custom keyboard",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LVCustomKeyboard",
+  "license": "MIT",
+  "authors": {
+    "liuchunlao": "liuchunlao@qq.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LVCustomKeyboard.git",
+    "tag": "1.0"
+  },
+  "source_files": "LVCustomKeyboard/LVKeyboard/*.{h,m}",
+  "requires_arc": true
+}

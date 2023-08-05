@@ -1,0 +1,22 @@
+{
+  "name": "onekit",
+  "version": "1.0.0",
+  "summary": "A short description of onekit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/onekit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "onekit": "onekit@onekit.cn"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/onekit.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "onekit/Classes/**/*"
+}

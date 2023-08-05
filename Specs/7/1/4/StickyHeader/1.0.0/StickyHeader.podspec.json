@@ -1,0 +1,19 @@
+{
+  "name": "StickyHeader",
+  "version": "1.0.0",
+  "summary": "Library helping to add a sticky header to an UIScrollView.",
+  "description": "Library helping to add a sticky header to an UIScrollView.\nThe code is based on https://bitbucket.devops.nonprod.empf.local/scm/react/MXParallaxHeader.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/StickyHeader",
+  "license": "MIT",
+  "authors": {
+    "Yannick Heinrich": "yannick.heinrich@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/StickyHeader.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "StickyHeader",
+  "platforms": {
+    "ios": "8.0"
+  }
+}

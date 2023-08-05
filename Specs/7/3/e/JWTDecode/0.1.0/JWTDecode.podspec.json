@@ -1,0 +1,21 @@
+{
+  "name": "JWTDecode",
+  "version": "0.1.0",
+  "summary": "A JSON Web Token decoder for iOS",
+  "description": "                        A Simple JSON Web Token decoder for iOS.\n",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JWTDecode.iOS",
+  "license": "MIT",
+  "authors": {
+    "Hernan Zalazar": "hernan@auth0.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JWTDecode.iOS.git",
+    "tag": "0.1.0"
+  },
+  "social_media_url": "https://twitter.com/auth0",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes"
+}

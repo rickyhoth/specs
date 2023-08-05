@@ -1,0 +1,22 @@
+{
+  "name": "XCCategoryDate",
+  "version": "0.1.6",
+  "summary": "A short description of XCCategoryDate.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TTCategory",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "1336142652@qq.com": "chenxu@123456"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TTCategory.git",
+    "tag": "0.1.6"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "XCCategoryDate/Classes/**/*"
+}

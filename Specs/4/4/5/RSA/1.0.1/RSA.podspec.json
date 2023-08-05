@@ -1,0 +1,20 @@
+{
+  "name": "RSA",
+  "version": "1.0.1",
+  "summary": "rsa加密",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/RSAClass.git",
+  "license": "MIT",
+  "authors": {
+    "wangshuai": "1032188750@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/RSAClass.git",
+    "tag": "1.0.1"
+  },
+  "source_files": "RSA/*.{h,m}",
+  "requires_arc": true,
+  "platforms": {
+    "ios": "7.0"
+  },
+  "libraries": "z"
+}

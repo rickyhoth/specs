@@ -1,0 +1,24 @@
+{
+  "name": "Colorizer",
+  "version": "0.1",
+  "summary": "Swift tool to generate Apple's Color Palette file",
+  "description": "A Swift tool to generate Apple's Color Palette file (.clr file) from .txt file.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Colorizer",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Artur Jaworski": "kontakt@arturjaworski.pl"
+  },
+  "source": {
+    "http": "https://bitbucket.devops.nonprod.empf.local/scm/react/colorizer-0.1.zip"
+  },
+  "preserve_paths": "*",
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}

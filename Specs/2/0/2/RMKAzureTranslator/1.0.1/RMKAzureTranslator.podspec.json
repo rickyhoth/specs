@@ -1,0 +1,25 @@
+{
+  "name": "RMKAzureTranslator",
+  "version": "1.0.1",
+  "license": "MIT",
+  "summary": "A simple iOS utility to translate using Microsoft Azure",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/RMKAzureTranslator",
+  "authors": {
+    "Rekha Manju Kiran": "rekha@manjukiran.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/RMKAzureTranslator.git",
+    "tag": "v1.0.1"
+  },
+  "source_files": [
+    "RMKAzureTranslator",
+    "RMKAzureTranslator/XMLDictionary"
+  ],
+  "requires_arc": true,
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "SDataToolsLib",
+  "version": "0.0.7",
+  "summary": "common tools extension",
+  "description": "common tools extension.common tools extension.common tools extension.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SDataTools.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "sss": "sujianfu199@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SDataTools.git",
+    "tag": "0.0.7"
+  },
+  "platforms": {
+    "ios": "9.3"
+  },
+  "source_files": "Classes/**/*.{h,m}",
+  "deprecated": true
+}

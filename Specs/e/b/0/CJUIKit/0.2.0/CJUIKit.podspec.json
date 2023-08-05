@@ -1,0 +1,30 @@
+{
+  "name": "CJUIKit",
+  "version": "0.2.0",
+  "summary": "CJUIKit.",
+  "description": "for general cj",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CJUIKit",
+  "license": "MIT",
+  "authors": {
+    "fminor": "fminor.wang@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CJUIKit.git",
+    "tag": "0.2.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "CJUIKit": [
+      "Pod/Assets/**/*"
+    ]
+  },
+  "public_header_files": "Pod/Classes/**/*.h",
+  "frameworks": [
+    "Foundation",
+    "WebKit"
+  ]
+}

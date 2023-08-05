@@ -1,0 +1,26 @@
+{
+  "name": "TXMyKit",
+  "version": "0.0.1",
+  "summary": "The summary for TXMyKit.",
+  "description": "The description for TXMyKit.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TXPrj",
+  "license": "MIT",
+  "authors": {
+    "jay945": ""
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TXPrj.git",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "TXMyKit",
+    "TXMyKit/*.{h,m}"
+  ],
+  "exclude_files": "TXMyKit/Exclude",
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}

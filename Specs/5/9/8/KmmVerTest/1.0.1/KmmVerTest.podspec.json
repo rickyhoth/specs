@@ -1,0 +1,16 @@
+{
+  "name": "KmmVerTest",
+  "version": "1.0.1",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/KmmVerTest",
+  "source": {
+    "http": "https://bitbucket.devops.nonprod.empf.local/scm/react/KmmVerTest/releases/download/1.0.1/KmmVerTest.xcframework.zip"
+  },
+  "authors": "LASSIC",
+  "license": "MIT",
+  "summary": "Some description for the KmmVerTest Module",
+  "vendored_frameworks": "KmmVerTest.xcframework",
+  "libraries": "c++",
+  "platforms": {
+    "ios": "14.0"
+  }
+}

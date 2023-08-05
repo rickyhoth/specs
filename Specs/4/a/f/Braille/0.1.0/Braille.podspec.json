@@ -1,0 +1,19 @@
+{
+  "name": "Braille",
+  "version": "0.1.0",
+  "license": "MIT",
+  "platforms": {
+    "ios": "5.0"
+  },
+  "summary": "A collection of Objective-C classes and extensions used for finding and handling accessibility elements.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Braille",
+  "authors": {
+    "Ryan Davies": "ryan@ryandavies.net"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Braille.git",
+    "tag": "0.1.0"
+  },
+  "source_files": "Braille/*.{h,m}",
+  "requires_arc": true
+}

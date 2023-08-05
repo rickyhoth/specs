@@ -1,0 +1,21 @@
+{
+  "name": "KBDrawingView",
+  "version": "1.0.2",
+  "summary": "A Simple Drawing view in objC.",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/KBDrawingView",
+  "license": "MIT",
+  "authors": {
+    "Jayakrishnan M": "javajk2537@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/KBDrawingView.git",
+    "tag": "1.0.2"
+  },
+  "source_files": [
+    "KBDrawingView",
+    "KBDrawingView/*.{h,m}"
+  ]
+}

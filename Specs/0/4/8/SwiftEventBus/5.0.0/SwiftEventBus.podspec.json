@@ -1,0 +1,21 @@
+{
+  "name": "SwiftEventBus",
+  "version": "5.0.0",
+  "license": "MIT",
+  "summary": "Publish/subscribe event bus optimized for iOS",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwiftEventBus",
+  "social_media_url": "http://twitter.com/cesarmcferreira",
+  "authors": {
+    "César Ferreira": "cesar.manuel.ferreira@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwiftEventBus.git",
+    "tag": "5.0.0"
+  },
+  "platforms": {
+    "ios": "8.0",
+    "osx": "10.10"
+  },
+  "source_files": "SwiftEventBus/SwiftEventBus.swift",
+  "requires_arc": true
+}

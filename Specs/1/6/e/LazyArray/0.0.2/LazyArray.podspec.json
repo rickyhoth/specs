@@ -1,0 +1,21 @@
+{
+  "name": "LazyArray",
+  "version": "0.0.2",
+  "summary": "LazyArray",
+  "description": "O(1) array operations",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LazyArray",
+  "license": "MIT",
+  "authors": {
+    "Lucas Nelaupe": "lucas.nelaupe@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LazyArray.git",
+    "tag": "0.0.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "Sources/**.swift",
+  "pushed_with_swift_version": "3.0"
+}

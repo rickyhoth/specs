@@ -1,0 +1,22 @@
+{
+  "name": "XWCountDownButton_OC",
+  "version": "1.0.0",
+  "summary": "XWCountDownButton_OC.",
+  "description": "XWCountDownButton_OC是一个短信验证码倒计时的框架。",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/XWCountDownButtonDemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Wade": "821385843@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/XWCountDownButtonDemo.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "XWCountDownButtonDemo/XWCountDownButtonDemo/XWCountDownButton/*.{h,m}"
+}

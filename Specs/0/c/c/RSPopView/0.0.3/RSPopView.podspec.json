@@ -1,0 +1,20 @@
+{
+  "name": "RSPopView",
+  "version": "0.0.3",
+  "summary": "This is a customised popView",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/RSPopView",
+  "license": "MIT",
+  "authors": {
+    "hehai": "hehai_dev@icloud.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/RSPopView.git",
+    "tag": "0.0.3"
+  },
+  "source_files": "RSPopView/*.{h,m}",
+  "resources": "DemoForRSPopView/**/*.xcassets",
+  "requires_arc": true
+}

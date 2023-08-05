@@ -1,0 +1,22 @@
+{
+  "name": "TFBaseView",
+  "version": "1.0",
+  "summary": "A short description of TFBaseView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TFBaseView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "huangmoxianganquan": "zengtianfu@bcnetech.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TFBaseView.git",
+    "tag": "1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TFBaseView/Classes/**/*"
+}

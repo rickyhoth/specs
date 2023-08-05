@@ -1,0 +1,22 @@
+{
+  "name": "ZoomTransition",
+  "version": "0.2",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "summary": "Interactive zoom transition for presenting view controllers written in Swift",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZoomTransition",
+  "authors": {
+    "Tristan Himmelman": "tristanhimmelman@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZoomTransition.git",
+    "tag": "0.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": "true",
+  "source_files": "ZoomTransition/**/*.swift"
+}

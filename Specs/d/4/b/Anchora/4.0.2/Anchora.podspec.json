@@ -1,0 +1,24 @@
+{
+  "name": "Anchora",
+  "version": "4.0.2",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "frameworks": "UIKit",
+  "source_files": "Anchora/**/*.{swift}",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Anchora/",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Anchora.git",
+    "tag": "4.0.2"
+  },
+  "authors": {
+    "Anthony Latsis": "aqamoss3fan2010@gmail.com"
+  },
+  "social_media_url": "https://www.instagram.com/anthonylatsis/",
+  "summary": "A sweet cherry over Auto Layout to make your constraints easier, tidier and more compact.",
+  "requires_arc": true
+}

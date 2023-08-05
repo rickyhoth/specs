@@ -1,0 +1,20 @@
+{
+  "name": "TYSnapshotScroll",
+  "version": "0.2.8",
+  "summary": "A snapshot library.",
+  "description": "A snapshot library .",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TYSnapshotScroll.git",
+  "license": "MIT",
+  "authors": {
+    "tonyreet": "ktonyreet@gmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TYSnapshotScroll.git",
+    "tag": "0.2.8"
+  },
+  "source_files": "TYSnapshotScroll/**/*.{h,m}",
+  "vendored_frameworks": "TYSnapshotScroll/*.framework"
+}

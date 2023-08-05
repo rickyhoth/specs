@@ -1,0 +1,30 @@
+{
+  "name": "MKNetworkKit+RACExtensions",
+  "version": "0.2",
+  "summary": "Extension of the MKNetworkKit framework to support ReactiveCocoa signals.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MKNetworkKit-RACExtensions",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Jacob Jennings": "jdjennin@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MKNetworkKit-RACExtensions.git",
+    "tag": "0.2"
+  },
+  "platforms": {
+    "ios": "5.1"
+  },
+  "source_files": "*.{h,m}",
+  "requires_arc": true,
+  "dependencies": {
+    "MKNetworkKit": [
+
+    ],
+    "ReactiveCocoa": [
+
+    ]
+  }
+}

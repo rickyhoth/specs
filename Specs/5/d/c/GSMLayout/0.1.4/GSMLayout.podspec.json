@@ -1,0 +1,22 @@
+{
+  "name": "GSMLayout",
+  "version": "0.1.4",
+  "summary": "A short description of GSMLayout.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/GSMLayout",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "JiHoonAHN": "ahnjh1028@naver.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/GSMLayout.git",
+    "tag": "0.1.4"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "GSMLayout/Classes/**/*"
+}

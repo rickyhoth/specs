@@ -1,0 +1,26 @@
+{
+  "name": "KTNetwork",
+  "version": "0.1.0",
+  "summary": "KOTU's network library.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/KTNetwork",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "KOTU": "yjling2019@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/KTNetwork.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "KTNetwork/Classes/**/*",
+  "dependencies": {
+    "AFNetworking": [
+      "~> 4.0"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "LMGeocoder",
+  "version": "1.0.1",
+  "summary": "Simple wrapper for geocoding and reverse geocoding, using both Google Geocoding API and Apple iOS Geocoding Framework.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LMGeocoder",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE.txt"
+  },
+  "authors": {
+    "LMinh": "lminhtm@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LMGeocoder.git",
+    "tag": "1.0.1"
+  },
+  "source_files": "LMGeocoder/*.{m,h}",
+  "requires_arc": true
+}

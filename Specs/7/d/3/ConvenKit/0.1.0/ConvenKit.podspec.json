@@ -1,0 +1,22 @@
+{
+  "name": "ConvenKit",
+  "version": "0.1.0",
+  "summary": "ObjC useful helper class stuff",
+  "description": "ObjC useful helper class stuff",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ConvenKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Enix Yu": "enix223@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ConvenKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "ConvenKit/Classes/**/*"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "CXDownloader",
+  "version": "0.0.1",
+  "summary": "CXDownloader.s.summary",
+  "description": "CXDownloader . s.description",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CXDownloader.git",
+  "license": "MIT",
+  "authors": {
+    "chuxia": "chuxia98"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CXDownloader.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "CXDownloader/Classes/**/*",
+  "exclude_files": "Classes/Exclude"
+}

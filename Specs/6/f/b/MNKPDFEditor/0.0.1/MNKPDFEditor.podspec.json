@@ -1,0 +1,25 @@
+{
+  "name": "MNKPDFEditor",
+  "version": "0.0.1",
+  "summary": "PDF viewing / editing framework",
+  "description": "\"A framework that provides viewing and editing (rotating and reordering pages, drawing on them) for .pdf files\"",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MNKPDFEditor",
+  "license": "MIT",
+  "authors": {
+    "Andrei Rychkov": "rychkov.dev@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MNKPDFEditor.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "MNKPDFEditor": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}

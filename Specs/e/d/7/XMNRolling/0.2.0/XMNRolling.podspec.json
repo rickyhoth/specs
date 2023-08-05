@@ -1,0 +1,23 @@
+{
+  "name": "XMNRolling",
+  "version": "0.2.0",
+  "summary": "XMNRolling 无限滚动banner",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/XMNRolling",
+  "license": "MIT",
+  "authors": {
+    "XMFraker": "3057600441@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/XMNRolling.git",
+    "tag": "0.2.0"
+  },
+  "source_files": "Classes/**/*.{h,m}",
+  "resources": "Classes/**/*.png",
+  "ios": {
+    "frameworks": "UIKit"
+  },
+  "requires_arc": true,
+  "platforms": {
+    "ios": "10.0"
+  }
+}

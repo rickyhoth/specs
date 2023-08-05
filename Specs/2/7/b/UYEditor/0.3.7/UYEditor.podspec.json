@@ -1,0 +1,28 @@
+{
+  "name": "UYEditor",
+  "version": "0.3.7",
+  "summary": "UYEditor",
+  "description": "#UYEditor",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/UYEditor",
+  "license": "MIT",
+  "authors": {
+    "winddpan": "winddpan@126.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/UYEditor.git",
+    "tag": "0.3.7"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "resources": [
+    "iOS/HTML/*",
+    "iOS/UYEditor.xcassets"
+  ],
+  "source_files": "iOS/Source/**/*.{h,m}",
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "TanibleView",
+  "version": "1.1.0",
+  "summary": "Very simple animate TableView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TanibleView",
+  "screenshots": "https://bitbucket.devops.nonprod.empf.local/scm/react/dokgi88.github.io/blob/master/_images/TanibleView/imgTitleLogo.png?raw=true",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "dokgi88": "dokgi88@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TanibleView.git",
+    "tag": "1.1.0"
+  },
+  "swift_versions": "5.0",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "TanibleView/Classes/**/*"
+}

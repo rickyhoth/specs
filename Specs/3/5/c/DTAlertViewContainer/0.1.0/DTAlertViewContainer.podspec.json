@@ -1,0 +1,23 @@
+{
+  "name": "DTAlertViewContainer",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "summary": "DTAlertViewContainer is an animated, flexible container to present any View as AlertView.",
+  "requires_arc": true,
+  "version": "0.1.0",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Dmitriy Titov": "dmitriytitovwm@gmail.com"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DTAlertViewContainer",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DTAlertViewContainer.git",
+    "tag": "0.1.0"
+  },
+  "frameworks": "UIKit",
+  "source_files": "DTAlertViewContainer/**/*.{h}"
+}

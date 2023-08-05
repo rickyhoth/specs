@@ -1,0 +1,21 @@
+{
+  "name": "RAFSUSDK",
+  "version": "0.0.4",
+  "summary": "Rayo fsu sdk",
+  "description": "Rayo fsu sdk used to control FSU Ble Device of Rayonics (www.rayonics.com.cn)",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/RAFSUSDK",
+  "license": "MIT",
+  "authors": {
+    "Piccolo": "popking5466@gmail.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/RAFSUSDK.git",
+    "tag": "0.0.4"
+  },
+  "source_files": "RayonicsFSUSDK.framework/Headers/*.{h}",
+  "vendored_frameworks": "RayonicsFSUSDK.framework",
+  "libraries": "c++"
+}

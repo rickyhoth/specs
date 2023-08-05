@@ -1,0 +1,21 @@
+{
+  "name": "SVFoundation",
+  "authors": {
+    "Stanislav Smida": "s@svagant.com"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/svfoundation",
+  "platforms": {
+    "ios": "10.0"
+  },
+  "license": {
+    "type": "MIT"
+  },
+  "version": "0.1.8",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/svfoundation.git",
+    "tag": "0.1.8"
+  },
+  "source_files": "SVFoundation/*.swift",
+  "summary": "An extension to Foundation.",
+  "swift_version": "4.2"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "TLMetaResolver",
+  "version": "0.1.3.1",
+  "summary": "TLMetaResolver is an extension to UIWebView that adds the ability to parse the meta tags in the loaded web page.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TLMetaResolver",
+  "license": "MIT",
+  "authors": {
+    "BrunoBerisso": "bruno@tryolabs.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TLMetaResolver.git",
+    "tag": "0.1.3.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "TLMetaResolver": [
+      "Pod/Assets/**/*"
+    ]
+  }
+}

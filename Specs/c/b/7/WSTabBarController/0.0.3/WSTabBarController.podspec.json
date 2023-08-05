@@ -1,0 +1,23 @@
+{
+  "name": "WSTabBarController",
+  "version": "0.0.3",
+  "summary": "A custom TabBarController with publish button written in Swift.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WSTabBarController",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Chisj": "chisj2012@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WSTabBarController.git",
+    "tag": "0.0.3"
+  },
+  "source_files": "WSTabBarController/WSTabBarController/*.swift",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "frameworks": "UIKit",
+  "requires_arc": true
+}

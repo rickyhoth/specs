@@ -1,0 +1,27 @@
+{
+  "name": "Animo",
+  "version": "1.1.0",
+  "license": "MIT",
+  "summary": "Bring life to CALayers with SpriteKit-like animation builders.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Animo",
+  "authors": {
+    "John Rommel Estropia": "john.estropia@eure.jp"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Animo.git",
+    "tag": "1.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": [
+    "Animo",
+    "Animo/**/*.{swift}"
+  ],
+  "frameworks": [
+    "Foundation",
+    "UIKit",
+    "QuartzCore"
+  ],
+  "requires_arc": true
+}

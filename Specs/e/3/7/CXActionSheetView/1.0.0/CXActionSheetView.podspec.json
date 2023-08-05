@@ -1,0 +1,23 @@
+{
+  "name": "CXActionSheetView",
+  "version": "1.0.0",
+  "summary": "action sheetView",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CXActionSheetView.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "cao.xin": "cao.xin@cesgroup.com.cn"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CXActionSheetView.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source_files": "CXActionSheetView/Class/ActionSheetView/*",
+  "frameworks": "UIKit",
+  "requires_arc": true
+}

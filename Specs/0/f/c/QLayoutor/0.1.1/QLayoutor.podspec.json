@@ -1,0 +1,23 @@
+{
+  "name": "QLayoutor",
+  "version": "0.1.1",
+  "module_name": "QLayoutor",
+  "summary": "Helper functions to do iOS Auto-layout (Swift).",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/QLayoutor",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ZefengQiu": "z9qiu@uwaterloo.ca"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/QLayoutor.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "QLayoutor/Classes/**/*",
+  "frameworks": "UIKit"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "PruebaSDK",
+  "version": "0.1.0",
+  "summary": "Esto es un SDK de prueba.",
+  "description": "'Esta es la descripcion del SDK de prueba.'",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/PruebaSDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Andres Avila": "andres.avila@netpay.com.mx"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/PruebaSDK.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.3"
+  },
+  "source_files": "Source/**/*.swift",
+  "swift_versions": "5.0",
+  "swift_version": "5.0"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "ZYShoppingComponents",
+  "version": "0.1.2",
+  "summary": "A short description of ZYShoppingComponents.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZYShoppingComponents",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xiaoyang521style": "mailyzhao@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZYShoppingComponents.git",
+    "tag": "0.1.2"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "ZYShoppingComponents/Classes/**/*"
+}

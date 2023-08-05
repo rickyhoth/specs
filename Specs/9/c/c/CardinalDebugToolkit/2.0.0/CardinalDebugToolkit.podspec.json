@@ -1,0 +1,27 @@
+{
+  "name": "CardinalDebugToolkit",
+  "version": "2.0.0",
+  "summary": "iOS debug toolkit",
+  "description": "iOS debug toolkit that lets you build a comprehensive debug panel to access from inside an app.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CardinalDebugToolkit",
+  "screenshots": "https://bitbucket.devops.nonprod.empf.local/scm/react/screenshot.png",
+  "license": "MIT",
+  "authors": {
+    "Robin Kunde": "rkunde@cardinalsolutions.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CardinalDebugToolkit.git",
+    "tag": "2.0.0"
+  },
+  "source_files": "Sources/**/*.{h,m,swift}",
+  "resource_bundles": {
+    "CardinalDebugToolkit-Resources": [
+      "Storyboards/**/*.{storyboard,xib}",
+      "Sources/Views/**/*.xib"
+    ]
+  },
+  "pushed_with_swift_version": "4.0"
+}

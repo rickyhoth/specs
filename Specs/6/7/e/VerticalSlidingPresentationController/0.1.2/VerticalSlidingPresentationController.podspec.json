@@ -1,0 +1,28 @@
+{
+  "name": "VerticalSlidingPresentationController",
+  "version": "0.1.2",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "summary": "Vertical Sliding custom view controller presentation animation",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/VerticalSlidingPresentationController",
+  "authors": {
+    "Liyu Wang": "sense777cn@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/VerticalSlidingPresentationController.git",
+    "tag": "0.1.2"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "swift_versions": [
+    "5.1",
+    "5.2",
+    "5.3"
+  ],
+  "source_files": "VerticalSlidingPresentationController/Sources/*.swift",
+  "frameworks": "UIKit",
+  "swift_version": "5.3"
+}

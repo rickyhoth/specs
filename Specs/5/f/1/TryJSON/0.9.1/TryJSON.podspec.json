@@ -1,0 +1,20 @@
+{
+  "name": "TryJSON",
+  "version": "0.9.1",
+  "summary": "TryJSON oriented JSON",
+  "description": "Map JSON to objects via a protocol oriented approach",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TryJSON",
+  "license": "MIT",
+  "authors": {
+    "Morten Bøgh": "morten@justabeech.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TryJSON.git",
+    "tag": "0.9.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "TryJSON/JSONObject.swift"
+}

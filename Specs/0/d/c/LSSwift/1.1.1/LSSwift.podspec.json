@@ -1,0 +1,25 @@
+{
+  "name": "LSSwift",
+  "version": "1.1.1",
+  "summary": "LSSwift",
+  "description": "LSSwift",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/",
+  "license": "MIT",
+  "authors": {
+    "ArthurShuai": "zhixingui_liushuai@163com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "requires_arc": true,
+  "swift_version": "4.2",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LSSwift.git",
+    "tag": "1.1.1"
+  },
+  "source_files": "**/*.swift",
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ]
+}

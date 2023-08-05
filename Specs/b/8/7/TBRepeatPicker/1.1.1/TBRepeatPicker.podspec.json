@@ -1,0 +1,32 @@
+{
+  "name": "TBRepeatPicker",
+  "version": "1.1.1",
+  "summary": "An event repeat rule picker similar to iOS system calendar.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TBRepeatPicker",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE.txt"
+  },
+  "authors": {
+    "Xin Hong": "xin@teambition.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TBRepeatPicker.git",
+    "tag": "1.1.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "TBRepeatPicker/*.swift",
+  "resource_bundles": {
+    "TBRepeatPicker": [
+      "TBRepeatPicker/Resources/*/*.png",
+      "TBRepeatPicker/Resources/*/*.lproj"
+    ]
+  },
+  "frameworks": [
+    "Foundation",
+    "UIKit"
+  ]
+}

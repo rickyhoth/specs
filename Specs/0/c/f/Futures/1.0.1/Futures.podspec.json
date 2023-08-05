@@ -1,0 +1,22 @@
+{
+  "name": "Futures",
+  "version": "1.0.1",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "summary": "A small framework for Swift programs that need Futures or Promises.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Futures",
+  "authors": {
+    "Cameron Pulsford": "cpulsfor@me.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Futures.git",
+    "tag": "1.0.1"
+  },
+  "requires_arc": true,
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Futures/*.swift"
+}

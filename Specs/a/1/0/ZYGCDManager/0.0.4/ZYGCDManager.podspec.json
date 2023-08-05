@@ -1,0 +1,25 @@
+{
+  "name": "ZYGCDManager",
+  "version": "0.0.4",
+  "summary": "ZYGCDManager",
+  "description": "ZYGCDManager for GCD Async/sync Methods",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZYGCD",
+  "license": "MIT",
+  "authors": {
+    "zhangyushaunavayne": "shaunavayne@vip.qq.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "frameworks": [
+    "Foundation",
+    "UIKit"
+  ],
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZYGCD.git",
+    "tag": "0.0.4",
+    "submodules": true
+  },
+  "source_files": "ZYGCD/ZYGCD/*.{h,m}",
+  "public_header_files": "ZYGCD/ZYGCD/*.h"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "TestC",
+  "version": "0.1.0",
+  "summary": "lalala",
+  "description": "hahaha",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TestC",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "divercass": "1249954007@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TestC.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TestC/Classes/**/*"
+}

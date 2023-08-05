@@ -1,0 +1,24 @@
+{
+  "name": "SwiftyMath",
+  "version": "1.0.2",
+  "summary": "A simple math parser.",
+  "description": "SwiftyMath is a CocoaPod which allows you to perform addition, subtraction, multiplication, division, exponents, roots, and modulos.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwiftyMath/tree/main",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE.md"
+  },
+  "authors": {
+    "jaredrkozar": "jared.rkozar@gmail.com"
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwiftyMath.git",
+    "tag": "1.0.2"
+  },
+  "source_files": "SwiftyMath/Classes/*.swift",
+  "swift_versions": "5",
+  "swift_version": "5"
+}

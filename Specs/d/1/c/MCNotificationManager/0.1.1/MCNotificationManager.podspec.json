@@ -1,0 +1,23 @@
+{
+  "name": "MCNotificationManager",
+  "version": "0.1.1",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "summary": "Show your own banners like Notification Center within your app.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MCNotificationManager",
+  "authors": {
+    "Matthew Cheok": "cheok.jz@gmail.com"
+  },
+  "requires_arc": true,
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MCNotificationManager.git",
+    "branch": "master",
+    "tag": "0.1.1"
+  },
+  "source_files": "MCNotificationManager/*.{h,m}"
+}

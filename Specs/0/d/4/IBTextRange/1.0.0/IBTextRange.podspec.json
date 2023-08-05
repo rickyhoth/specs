@@ -1,0 +1,22 @@
+{
+  "name": "IBTextRange",
+  "version": "1.0.0",
+  "summary": "UITextView and UITextField category of a property of maxLength . UITextView has a property called placeholder",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/UITextRange",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE.md"
+  },
+  "authors": {
+    "冰琳": "269042025@qq.com"
+  },
+  "platforms": {
+    "ios": "6.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/UITextRange.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "IBTextRange",
+  "requires_arc": true
+}

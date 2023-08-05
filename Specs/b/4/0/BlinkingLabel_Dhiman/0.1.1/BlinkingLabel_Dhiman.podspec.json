@@ -1,0 +1,22 @@
+{
+  "name": "BlinkingLabel_Dhiman",
+  "version": "0.1.1",
+  "summary": "A subclass on UILabel that provides a blink.",
+  "description": "This CocoaPod provides the ability to use a UILabel that may be started and stopped blinking.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/BlinkingLabel_Dhiman",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ranjitDhiman1990": "dhimanranjit197@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/BlinkingLabel_Dhiman.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "BlinkingLabel_Dhiman/Classes/**/*"
+}

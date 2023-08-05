@@ -1,0 +1,28 @@
+{
+  "name": "KingsoftOfficeABC",
+  "version": "1.0.0",
+  "summary": "A short summary of KSdk.",
+  "description": "A short description of KSdk.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/KingsoftOfficeABC",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "liaohuanyu": "s_liaohuanyu@wps.cn"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/KingsoftOfficeABC.git",
+    "tag": "1.0.0"
+  },
+  "source_files": [
+    "KingsoftOfficeABC",
+    "*.{h,a}"
+  ],
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}

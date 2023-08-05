@@ -1,0 +1,92 @@
+{
+  "name": "PCCWFoundationSwift",
+  "version": "0.0.2",
+  "summary": "PCCWFoundationSwift Basic.",
+  "description": "[ObjectMapper](https://bitbucket.devops.nonprod.empf.local/scm/react/Moya-ObjectMapper).",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/PCCWFoundationSwift",
+  "license": {
+    "type": "MIT",
+    "file": "License"
+  },
+  "authors": {
+    "lizhihui0215@gmail.com": "dsn4cgwyA"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/PCCWFoundationSwift.git",
+    "tag": "0.0.2"
+  },
+  "source_files": [
+    "Source",
+    "Source/*.swift"
+  ],
+  "requires_arc": true,
+  "xcconfig": {
+    "HEADER_SEARCH_PATHS": "$(SDKROOT)/usr/include/libxml2"
+  },
+  "pod_target_xcconfig": {
+    "SWIFT_VERSION": "3.2"
+  },
+  "dependencies": {
+    "RealmSwift": [
+
+    ],
+    "NVActivityIndicatorView": [
+
+    ],
+    "SnapKit": [
+      "~> 3.2.0"
+    ],
+    "IQKeyboardManagerSwift": [
+
+    ],
+    "ObjectMapper+Realm": [
+
+    ],
+    "Moya-ObjectMapper/RxSwift": [
+
+    ],
+    "DeviceKit": [
+
+    ],
+    "KeychainAccess": [
+
+    ],
+    "RxRealm": [
+
+    ],
+    "MJRefresh": [
+
+    ],
+    "UIColor_Hex_Swift": [
+
+    ],
+    "Kingfisher": [
+      "~> 3.13.1"
+    ],
+    "TZImagePickerController": [
+
+    ],
+    "RSKGrowingTextView": [
+
+    ],
+    "RxCocoa": [
+
+    ],
+    "KissXML": [
+
+    ],
+    "Toaster": [
+
+    ],
+    "CryptoSwift": [
+
+    ],
+    "WebViewJavascriptBridge": [
+
+    ]
+  },
+  "pushed_with_swift_version": "3.2"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "SEFilterControl-ProgressColor",
+  "version": "0.1.0",
+  "summary": "A GUI library for customized slider",
+  "description": "Thank you Shady Elyaski for your contribution to open source community. This library is a modified version of https://bitbucket.devops.nonprod.empf.local/scm/react/ios-filter-control. Minor customization to show different color with background",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SEFilterControl-ProgressColor",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "aligermiyanoglu": "aligermiyanoglu@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SEFilterControl-ProgressColor.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SEFilterControl-ProgressColor/Classes/**/*"
+}

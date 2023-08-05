@@ -1,0 +1,24 @@
+{
+  "name": "SkyTechChat",
+  "version": "0.0.1",
+  "summary": "Chat platform",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/iOS-sdk",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "": ""
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/iOS-sdk.git",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "SkyTechChat",
+    "SkyTechChat/**/*.{h,m}"
+  ],
+  "platforms": {
+    "ios": "12.0"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "iOSLibrary",
+  "version": "0.1.0",
+  "summary": "Utilities for iOS application (Form, Date, App,...)",
+  "description": "Utilities for iOS application, methods for Form, Date, App or anything usefull or used in previous apps",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/iOSLibrary",
+  "license": "MIT",
+  "authors": {
+    "Henri": "sparky008@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/iOSLibrary.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "iOSLibrary": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}

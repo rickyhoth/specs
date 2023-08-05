@@ -1,0 +1,19 @@
+{
+  "name": "ADURL",
+  "version": "0.1.0",
+  "summary": "a URL builder class based on node's url module",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ADURL",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE.md"
+  },
+  "authors": {
+    "jden": "jason@denizac.org"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ADURL.git",
+    "tag": "0.1.0"
+  },
+  "source_files": "ADURL/**/*.{h,m}",
+  "requires_arc": false
+}

@@ -1,0 +1,22 @@
+{
+  "name": "NTJsonValues",
+  "version": "1.01",
+  "summary": "NTJsonValues - A NSDictionary Category to aid parsing JSON values.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/NTJsonValues",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Ethan Nagel": "eanagel@gmail.com"
+  },
+  "platforms": {
+    "ios": "6.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/NTJsonValues.git",
+    "tag": "1.01"
+  },
+  "requires_arc": true,
+  "source_files": "*.{h,m}"
+}

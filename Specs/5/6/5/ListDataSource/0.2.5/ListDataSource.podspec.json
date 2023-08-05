@@ -1,0 +1,39 @@
+{
+  "name": "ListDataSource",
+  "version": "0.2.5",
+  "summary": "A short description of ListDataSource.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ListDataSource",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "jackiehu": "jackie"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ListDataSource.git",
+    "tag": "0.2.5"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "frameworks": [
+    "UIKit",
+    "Foundation",
+    "QuartzCore"
+  ],
+  "swift_versions": [
+    "4.2",
+    "5.0",
+    "5.1",
+    "5.2"
+  ],
+  "requires_arc": true,
+  "dependencies": {
+    "DifferenceKit": [
+
+    ]
+  },
+  "source_files": "Sources/**/*",
+  "swift_version": "5.2"
+}

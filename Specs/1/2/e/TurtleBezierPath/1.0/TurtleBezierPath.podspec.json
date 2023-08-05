@@ -1,0 +1,17 @@
+{
+  "name": "TurtleBezierPath",
+  "version": "1.0",
+  "license": "MIT",
+  "summary": "UIBezierPath subclass for Turtle Graphics",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TurtleBezierPath",
+  "authors": "Nigel Timothy Barber",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TurtleBezierPath.git",
+    "tag": "1.0"
+  },
+  "source_files": "TurtleBezierPath",
+  "requires_arc": false,
+  "platforms": {
+    "ios": "5.0"
+  }
+}

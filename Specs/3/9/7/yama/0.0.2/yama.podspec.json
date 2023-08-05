@@ -1,0 +1,22 @@
+{
+  "name": "yama",
+  "version": "0.0.2",
+  "summary": "A offline and advanced memory analysis tool based on MallocStackLogging.",
+  "description": "A offline and advanced memory analysis tool based on MallocStackLogging.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/yama",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "tsuiyuenhong": "tsuiyuenhong@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/yama.git",
+    "tag": "0.0.2"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "yama/**/*"
+}

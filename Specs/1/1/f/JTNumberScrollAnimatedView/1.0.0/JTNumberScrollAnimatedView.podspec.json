@@ -1,0 +1,24 @@
+{
+  "name": "JTNumberScrollAnimatedView",
+  "version": "1.0.0",
+  "summary": "A scroll animation for display number for iOS",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JTNumberScrollAnimatedView",
+  "license": {
+    "type": "MIT"
+  },
+  "authors": {
+    "Jonathan Tribouharet": "jonathan.tribouharet@gmail.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JTNumberScrollAnimatedView.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "JTNumberScrollAnimatedView/*",
+  "requires_arc": true,
+  "screenshots": [
+    "https://raw.githubusercontent.com/jonathantribouharet/JTNumberScrollAnimatedView/master/Screens/example.gif"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "LYSoundtrack",
+  "version": "1.12.0",
+  "summary": "LYSoundtrack lib.",
+  "description": "LYSoundtrack library.\nSound visual lib.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LYSoundtrack",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Luo Yu(blodely)": "indie.luo@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LYSoundtrack.git",
+    "tag": "1.12.0"
+  },
+  "social_media_url": "https://weibo.com/blodely",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": [
+    "LYSoundtrack/Classes/range_slider/*",
+    "LYSoundtrack/Classes/prefix_trimmer/*",
+    "LYSoundtrack/Classes/begin_selector/*",
+    "LYSoundtrack/Classes/*"
+  ],
+  "frameworks": [
+    "UIKit",
+    "AVFoundation"
+  ],
+  "dependencies": {
+    "LYCategory": [
+      "~>1.12"
+    ],
+    "Masonry": [
+
+    ]
+  }
+}

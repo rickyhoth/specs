@@ -1,0 +1,22 @@
+{
+  "name": "ATManchSDK",
+  "version": "0.1.2",
+  "summary": "A short description of ATManchSDK.",
+  "description": "Manch SDK for eSIgn.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ATManchSDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Atmaram": "atmaram.thakur@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ATManchSDK.git",
+    "tag": "0.1.2"
+  },
+  "platforms": {
+    "ios": "10"
+  },
+  "source_files": "ATManchSDK/Classes/**/*"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "ZSSnapshotKit",
+  "version": "0.0.2",
+  "summary": "iOS截图长截图功能kit",
+  "description": "iOS截图长截图功能kit。WKWebView、UIWebView",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZSSnapshotKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "safiri": "safiri@163.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZSSnapshotKit.git",
+    "tag": "0.0.2"
+  },
+  "source_files": [
+    "ZSSnapshotKit",
+    "ZSSnapshotKit/**/*.{h,m}"
+  ]
+}

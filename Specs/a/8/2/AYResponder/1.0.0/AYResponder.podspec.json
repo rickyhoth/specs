@@ -1,0 +1,21 @@
+{
+  "name": "AYResponder",
+  "version": "1.0.0",
+  "summary": "Selector responder for object",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AYResponder",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Alan Yeh": "alan@yerl.cn"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AYResponder.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "6.0"
+  },
+  "source_files": "AYResponder/Classes/**/*"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "KALoader",
+  "version": "0.2",
+  "summary": "Create beautiful animated placeholders",
+  "description": "This framework will help you to create beautiful animated placeholders",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/KALoader",
+  "license": "MIT",
+  "authors": {
+    "Kirill": "kirillzzy@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/KALoader.git",
+    "tag": "0.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "KALoader/*.swift",
+  "pushed_with_swift_version": "3.0"
+}

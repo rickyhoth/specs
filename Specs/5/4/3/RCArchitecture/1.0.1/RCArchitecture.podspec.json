@@ -1,0 +1,23 @@
+{
+  "name": "RCArchitecture",
+  "version": "1.0.1",
+  "license": {
+    "type": "MIT"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/RCArchitecture",
+  "authors": {
+    "Islom Alimov": "islomalimovm@gmail.com"
+  },
+  "summary": "Project Setup.",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/RCArchitecture.git",
+    "tag": "1.0.1"
+  },
+  "source_files": "*",
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}

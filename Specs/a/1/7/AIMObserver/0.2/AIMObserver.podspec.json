@@ -1,0 +1,23 @@
+{
+  "name": "AIMObserver",
+  "version": "0.2",
+  "summary": "Key value observer used by AIM team",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AIMObservers",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Maciej Gad": "https://github.com/MaciejGad"
+  },
+  "social_media_url": "https://twitter.com/maciej_gad",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AIMObservers.git",
+    "tag": "v0.2"
+  },
+  "source_files": "AIMObserver.{h,m}",
+  "requires_arc": true
+}

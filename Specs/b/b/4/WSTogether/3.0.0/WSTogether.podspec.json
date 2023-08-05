@@ -1,0 +1,28 @@
+{
+  "name": "WSTogether",
+  "version": "3.0.0",
+  "summary": "自定义",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WSTogether.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "WusongAsong": "13817407397@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WSTogether.git",
+    "tag": "3.0.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "WSTogether/Classes/**/*.{h}",
+  "frameworks": "UIKit",
+  "dependencies": {
+    "AFNetworking": [
+
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Scheduler",
+  "version": "1.0.0",
+  "summary": "A collection of utility classes for scheduling.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Scheduler",
+  "authors": {
+    "Cole Dunsby": "coledunsby@gmail.com"
+  },
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "requires_arc": true,
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/scheduler.git",
+    "tag": "v/1.0.0"
+  },
+  "source_files": "Scheduler/**/*.{swift}",
+  "module_name": "Scheduler",
+  "dependencies": {
+    "SwiftDate": [
+
+    ]
+  },
+  "pushed_with_swift_version": "3.0"
+}

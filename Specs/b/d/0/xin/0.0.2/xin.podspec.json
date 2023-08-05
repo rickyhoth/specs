@@ -1,0 +1,24 @@
+{
+  "name": "xin",
+  "version": "0.0.2",
+  "summary": "xin112",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/xin",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xiaoxin112": "1123586429@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/xin.git",
+    "tag": "0.0.2"
+  },
+  "source_files": "Classes/*.{h,m}",
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}

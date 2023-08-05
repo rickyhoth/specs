@@ -1,0 +1,24 @@
+{
+  "name": "MGWatchdog",
+  "version": "0.1.2",
+  "summary": "iOS/OSX UI freezes analyzer.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MGWatchdog",
+  "license": "MIT",
+  "authors": {
+    "Max Gordeev": "maxim.m.gordeev@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MGWatchdog.git",
+    "tag": "0.1.2"
+  },
+  "platforms": {
+    "ios": "7.0",
+    "osx": "10.8"
+  },
+  "requires_arc": true,
+  "source_files": "MGWatchdog/MGWatchdog/Sources/*.{h,m}",
+  "public_header_files": "MGWatchdog/MGWatchdog/Sources/MGWatchdog.h",
+  "ios": {
+    "frameworks": "UIKit"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "MSFakeProgress",
+  "version": "0.0.1",
+  "summary": "A fake progress for Object-C",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MSFakeProgress",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "mrsong": "424607870@qq.com"
+  },
+  "platforms": {
+    "ios": "5.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MSFakeProgress.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "MSFakeProgress/MSFakeProgress/*"
+}

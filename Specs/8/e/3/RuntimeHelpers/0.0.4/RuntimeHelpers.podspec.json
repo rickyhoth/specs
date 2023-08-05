@@ -1,0 +1,21 @@
+{
+  "name": "RuntimeHelpers",
+  "version": "0.0.4",
+  "summary": "A collection of helpers related to objc/runtime.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/RuntimeHelpers",
+  "license": "MIT",
+  "authors": {
+    "Fernando Mazzon": "Fernando.Mazzon@rga.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/RuntimeHelpers.git",
+    "tag": "0.0.4"
+  },
+  "source_files": [
+    "Classes",
+    "Classes/**/*.{h,m}"
+  ],
+  "public_header_files": "Classes/**/*.h",
+  "frameworks": "Foundation",
+  "requires_arc": true
+}

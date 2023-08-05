@@ -1,0 +1,25 @@
+{
+  "name": "SwitchLanguage",
+  "version": "1.1.2",
+  "license": "MIT",
+  "summary": "Manage translation easily in your app",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwitchLanguage",
+  "authors": {
+    "Bérangère LA TOUCHE": "",
+    "Hoang-Nam NGUYEN": "",
+    "Nicolas POINCET": ""
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwitchLanguage.git",
+    "tag": "1.1.2"
+  },
+  "platforms": {
+    "ios": "8.0",
+    "tvos": "9.0"
+  },
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ],
+  "source_files": "CIFramework/*.swift"
+}

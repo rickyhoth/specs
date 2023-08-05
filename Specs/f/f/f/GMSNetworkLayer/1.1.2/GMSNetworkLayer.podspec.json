@@ -1,0 +1,20 @@
+{
+  "name": "GMSNetworkLayer",
+  "version": "1.1.2",
+  "summary": "Stylish HTTP Networking in Swift.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/GMSNetworkLayer",
+  "license": "MIT",
+  "authors": {
+    "Gabriel Silveira": "gabi.msilveira@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/GMSNetworkLayer.git",
+    "tag": "1.1.2"
+  },
+  "source_files": "NetworkLayer/*.swift",
+  "platforms": {
+    "ios": "12.2"
+  },
+  "swift_versions": "5",
+  "swift_version": "5"
+}

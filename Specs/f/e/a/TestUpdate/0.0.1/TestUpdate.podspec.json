@@ -1,0 +1,20 @@
+{
+  "name": "TestUpdate",
+  "license": "MIT",
+  "requires_arc": true,
+  "version": "0.0.1",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "frameworks": "UIKit",
+  "summary": "a update for TestUpdate.",
+  "authors": {
+    "heifashi": "871767841@qq.com"
+  },
+  "source_files": "TestUpdate/**/*.{h,m}",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TestUpdate",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TestUpdate.git",
+    "tag": "0.0.1"
+  }
+}

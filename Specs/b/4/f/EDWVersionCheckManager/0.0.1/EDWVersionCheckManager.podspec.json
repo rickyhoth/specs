@@ -1,0 +1,20 @@
+{
+  "name": "EDWVersionCheckManager",
+  "version": "0.0.1",
+  "summary": "EDWVersionCheckManager",
+  "description": "EDWVersionCheckManager,can check update form appStroe!",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/EDWVersionCheckManager",
+  "license": "MIT",
+  "authors": {
+    "sunyue": "sunyue@163.com"
+  },
+  "platforms": {
+    "ios": null
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/EDWVersionCheckManager.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "EDWVersionCheckManagerDemo/EDWVersionCheckManager/*.{c,h,hh,m,mm}",
+  "requires_arc": false
+}

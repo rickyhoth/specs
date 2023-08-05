@@ -1,0 +1,21 @@
+{
+  "name": "SwiftWeekSlider",
+  "version": "0.1.1",
+  "summary": "An interactive week view with custom colors, and actions.",
+  "description": "An interactive week view with custom colors, and actions. Includes highlight support.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwiftWeekSlider",
+  "license": "MIT",
+  "authors": {
+    "Gary Frazier": ""
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwiftWeekSlider.git",
+    "tag": "0.1.1"
+  },
+  "source_files": "SwiftWeekSlider/SwiftWeekSlider/**/*.{h,m,swift}",
+  "exclude_files": "Classes/Exclude",
+  "pushed_with_swift_version": "4.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "XCameraKit",
+  "version": "0.1.0",
+  "swift_versions": "5.5",
+  "summary": "An easy-to-use library for camera management in iOS apps.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/XCameraKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "jjunhaa0211": "goodjunha@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/XCameraKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "14.0"
+  },
+  "source_files": "XCameraKit/Classes/*.swift",
+  "swift_version": "5.5"
+}

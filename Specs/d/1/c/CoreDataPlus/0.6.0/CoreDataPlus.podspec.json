@@ -1,0 +1,26 @@
+{
+  "name": "CoreDataPlus",
+  "version": "0.6.0",
+  "license": "MIT",
+  "documentation_url": "http://www.tinrobots.org/CoreDataPlus",
+  "summary": "CoreData extensions.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CoreDataPlus",
+  "authors": {
+    "Alessandro Marzoli": "me@alessandromarzoli.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CoreDataPlus.git",
+    "tag": "0.6.0"
+  },
+  "requires_arc": true,
+  "platforms": {
+    "ios": "10.0",
+    "osx": "10.12",
+    "tvos": "10.0",
+    "watchos": "3.0"
+  },
+  "source_files": [
+    "Sources/*.swift",
+    "Support/*.{h,m}"
+  ]
+}

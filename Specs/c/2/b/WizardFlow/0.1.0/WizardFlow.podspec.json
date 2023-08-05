@@ -1,0 +1,22 @@
+{
+  "name": "WizardFlow",
+  "version": "0.1.0",
+  "summary": "Allow create forms or ui sequences in a wizard fashion",
+  "description": "Allow create forms or ui sequences in a wizard fashion",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WizardFlow",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Dani Manuel Céspedes Lara": "dmanuelcl@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WizardFlow.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "WizardFlow/Classes/**/*"
+}

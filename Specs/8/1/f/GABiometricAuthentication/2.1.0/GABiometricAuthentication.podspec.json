@@ -1,0 +1,26 @@
+{
+  "name": "GABiometricAuthentication",
+  "version": "2.1.0",
+  "summary": "This is pod handle BiometricAuthentication",
+  "description": "This is pod handle BiometricAuthentication in the LocalAuthentication framework",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/GABiometricAuthentication",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "idoMeirov": "idom@gini-apps.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/GABiometricAuthentication.git",
+    "tag": "2.1.0"
+  },
+  "swift_versions": "5.0",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "frameworks": "UIKit",
+  "source_files": "GABiometricAuthentication/Classes/**/*",
+  "resources": "GABiometricAuthentication/Assets/PopUp/**/*",
+  "swift_version": "5.0"
+}

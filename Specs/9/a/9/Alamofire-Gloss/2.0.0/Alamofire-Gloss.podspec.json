@@ -1,0 +1,42 @@
+{
+  "name": "Alamofire-Gloss",
+  "version": "2.0.0",
+  "summary": "Convenience Gloss bindings for Alamofire.",
+  "description": "[Gloss](https://bitbucket.devops.nonprod.empf.local/scm/react/Alamofire-Gloss).",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Alamofire-Gloss",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Steven Rogers": "me@srogers.net"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Alamofire-Gloss.git",
+    "tag": "2.0.0"
+  },
+  "social_media_url": "https://twitter.com/spxrogers",
+  "platforms": {
+    "ios": "9.0",
+    "osx": "10.11",
+    "tvos": "9.0",
+    "watchos": "2.0"
+  },
+  "requires_arc": true,
+  "default_subspecs": "Core",
+  "subspecs": [
+    {
+      "name": "Core",
+      "source_files": "Source/*.swift",
+      "dependencies": {
+        "Alamofire": [
+          "~> 4.0"
+        ],
+        "Gloss": [
+          "~> 1.0"
+        ]
+      },
+      "frameworks": "Foundation"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "LOInstagram",
+  "version": "0.1.1",
+  "summary": "LOInstagram.",
+  "description": "Instagram APi wrapper",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LOInstagram",
+  "license": "MIT",
+  "authors": {
+    "vivalalova": "vivalalova0@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LOInstagram.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/*",
+  "resource_bundles": {
+    "LOInstagram": [
+      "Pod/Assets/*.png"
+    ]
+  },
+  "dependencies": {
+    "AFNetworking": [
+      "~> 2.6.3"
+    ]
+  }
+}

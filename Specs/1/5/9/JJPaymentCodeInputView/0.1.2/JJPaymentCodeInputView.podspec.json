@@ -1,0 +1,25 @@
+{
+  "name": "JJPaymentCodeInputView",
+  "version": "0.1.2",
+  "summary": "a payment code inputview like common app",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JJPaymentCodeInputView",
+  "swift_version": "4.2",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "snailjj": "snail5jj@hotmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JJPaymentCodeInputView.git",
+    "tag": "0.1.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "static_framework": true,
+  "source_files": "JJPaymentCodeInputView/Classes/*.swift",
+  "deprecated": true
+}

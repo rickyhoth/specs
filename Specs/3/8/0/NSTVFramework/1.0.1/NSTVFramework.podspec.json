@@ -1,0 +1,26 @@
+{
+  "name": "NSTVFramework",
+  "version": "1.0.1",
+  "summary": "NSTVFramework...",
+  "description": "Introducing to the NSTV Framework, it is just for testing",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/NSTVFramework",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Edward Nguon": "nguonsotheavuth1@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/NSTVFramework.git",
+    "tag": "1.0.1"
+  },
+  "platforms": {
+    "ios": "12.0"
+  },
+  "swift_versions": "5.8.1",
+  "ios": {
+    "vendored_frameworks": "NSTVFramework.xcframework"
+  },
+  "swift_version": "5.8.1"
+}

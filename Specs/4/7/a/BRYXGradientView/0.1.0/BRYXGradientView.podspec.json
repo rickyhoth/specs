@@ -1,0 +1,19 @@
+{
+  "name": "BRYXGradientView",
+  "version": "0.1.0",
+  "summary": "A lightweight gradient view for iOS 7+, written in Swift, with support for Auto Layout and Interface Builder.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/reactBRYXGradientView",
+  "license": "MIT",
+  "authors": {
+    "Adam Binsz": "adam@adambinsz.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/reactBRYXGradientView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "GradientView.swift"
+}

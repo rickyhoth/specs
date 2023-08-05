@@ -1,0 +1,22 @@
+{
+  "name": "JSONKit-NoArc",
+  "version": "0.0.1",
+  "summary": "JSONKit v1.4 设置fno-objc-arc",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JSONKit",
+  "license": {
+    "type": "Copyright",
+    "text": "        Copyright (c) 2016 Tencent. All rights reserved.\n"
+  },
+  "authors": {
+    "Fmyz": "https://bitbucket.devops.nonprod.empf.local/scm/react/JSONKit.git"
+  },
+  "platforms": {
+    "ios": null
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JSONKit-NoArc.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "JSONKit.*",
+  "requires_arc": false
+}

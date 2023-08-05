@@ -1,0 +1,24 @@
+{
+  "name": "KxUI",
+  "version": "0.4.3",
+  "summary": "KxUI - UI Framework",
+  "swift_versions": "5.0",
+  "description": "Kei UI Utility Framework",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/KxUI",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Keun young Kim": "app@meetkei.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/KxUI.git",
+    "tag": "0.4.3"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "KxUI/**/*",
+  "swift_version": "5.0"
+}

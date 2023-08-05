@@ -1,0 +1,27 @@
+{
+  "name": "NXNetworking",
+  "version": "0.1.2",
+  "summary": "简介",
+  "description": "芳芳小仙女",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/NXNetworking",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "niuxinhuai": "1242537720@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/NXNetworking.git",
+    "tag": "0.1.2"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "NXNetworking/Classes/**/*",
+  "dependencies": {
+    "AFNetworking": [
+
+    ]
+  }
+}

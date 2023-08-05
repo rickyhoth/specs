@@ -1,0 +1,23 @@
+{
+  "name": "PerspectiveTransform",
+  "version": "0.2.0",
+  "summary": "Perspective Transform calculates CATransform3D",
+  "description": "Calculates CATransform3D to transform rectangular frame to convex quadrilateral\nAllows to overlay images in UIView given 4 points.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/PerspectiveTransform",
+  "screenshots": "https://bitbucket.devops.nonprod.empf.local/scm/react/container-with-green-polygon.png",
+  "license": "MIT",
+  "authors": {
+    "Paul Zabelin": "https://github.com/paulz"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/PerspectiveTransform.git",
+    "tag": "0.2.0"
+  },
+  "social_media_url": "https://twitter.com/iospaulz",
+  "platforms": {
+    "ios": "11.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "frameworks": "UIKit"
+}

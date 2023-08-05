@@ -1,0 +1,24 @@
+{
+  "name": "DBManager",
+  "version": "0.1.0",
+  "summary": "CoreData common class",
+  "description": "Common file wich help you to access CoreData",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DBManager",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "VikasPrajapatiSA": "vikas.prajapati@solutionanalysts.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DBManager.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DBManager/Classes/**/*",
+  "swift_versions": "4.0",
+  "swift_version": "4.0"
+}

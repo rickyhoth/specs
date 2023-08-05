@@ -1,0 +1,19 @@
+{
+  "name": "ZKTextField",
+  "version": "0.0.1",
+  "license": "MIT",
+  "summary": "NSTextField replacement.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/zktextfield",
+  "authors": {
+    "Alex Zielenski": "support@alexzielenski.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZKTextField.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "src",
+  "platforms": {
+    "osx": null
+  },
+  "requires_arc": false
+}

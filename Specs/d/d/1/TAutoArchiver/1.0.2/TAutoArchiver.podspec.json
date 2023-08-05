@@ -1,0 +1,19 @@
+{
+  "name": "TAutoArchiver",
+  "version": "1.0.2",
+  "summary": "归档KeyedArchiver, 以及auto NSCoding",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TAutoArchiver",
+  "license": "MIT",
+  "authors": {
+    "Fmyz": "https://bitbucket.devops.nonprod.empf.local/scm/react/TAutoArchiver"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TAutoArchiver.git",
+    "tag": "1.0.2"
+  },
+  "source_files": "TClasses/*.{h,m}",
+  "requires_arc": true
+}

@@ -1,0 +1,37 @@
+{
+  "name": "TTC",
+  "version": "0.1.0",
+  "summary": "zz TTC.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TTC",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhkbgt": "kkbbggtt@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TTC.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "resources": "TTC/Assets/*",
+  "vendored_frameworks": "Frameworks/*.framework",
+  "vendored_libraries": "Libs/*.a",
+  "libraries": [
+    "icucore",
+    "c++",
+    "bsm",
+    "z",
+    "bz2",
+    "resolv"
+  ],
+  "frameworks": [
+    "UIKit",
+    "MapKit",
+    "WebKit"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "HMCategary",
+  "version": "0.0.2",
+  "license": "MIT",
+  "summary": "Categary for HMProject",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HMCategary",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HMCategary.git",
+    "tag": "0.0.2"
+  },
+  "source_files": "HMCategary/Categary/*.{h,m}",
+  "requires_arc": true,
+  "platforms": {
+    "ios": "7.0"
+  },
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ],
+  "authors": {
+    "BY": ""
+  },
+  "social_media_url": ""
+}

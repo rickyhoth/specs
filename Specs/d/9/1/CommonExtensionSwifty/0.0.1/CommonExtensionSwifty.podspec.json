@@ -1,0 +1,28 @@
+{
+  "name": "CommonExtensionSwifty",
+  "version": "0.0.1",
+  "summary": "Common extension in swift.",
+  "description": "Common extension in swift",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CommonExtensionSwifty.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "admin": ""
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "swift_versions": "5.0",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CommonExtensionSwifty.git",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "CommonExtensionSwifty",
+    "CommonExtensionSwifty/**/*.{h,m,swift}"
+  ],
+  "exclude_files": "Classes/Exclude",
+  "swift_version": "5.0"
+}

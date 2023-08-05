@@ -1,0 +1,28 @@
+{
+  "name": "QFPolygonView",
+  "version": "1.0.2",
+  "summary": "一个 多边形能力图 多边形属性分值 的控件",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/QFPolygonView",
+  "license": "MIT",
+  "authors": {
+    "风7cheng": "cqf_qifeng@163.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/QFPolygonView.git",
+    "tag": "1.0.2"
+  },
+  "source_files": [
+    "QFPolygonView",
+    "QFPolygonView/**/*.{h,m}"
+  ],
+  "frameworks": "UIKit",
+  "requires_arc": true,
+  "dependencies": {
+    "QFBaseUtil": [
+
+    ]
+  }
+}

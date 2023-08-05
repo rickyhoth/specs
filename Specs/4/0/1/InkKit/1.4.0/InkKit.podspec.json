@@ -1,0 +1,22 @@
+{
+  "name": "InkKit",
+  "version": "1.4.0",
+  "summary": "Drawing and Geometry made easy on iOS - now in Swift!",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/InkKit",
+  "screenshots": "http://shaps.me/assets/img/blog/InkKit.gif",
+  "license": "MIT",
+  "authors": {
+    "Shaps": "shapsuk@me.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/InkKit.git",
+    "tag": "1.4.0"
+  },
+  "social_media_url": "https://twitter.com/shaps",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "pushed_with_swift_version": "2.3"
+}

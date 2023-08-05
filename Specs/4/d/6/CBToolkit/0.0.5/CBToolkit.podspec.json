@@ -1,0 +1,23 @@
+{
+  "name": "CBToolkit",
+  "version": "0.0.5",
+  "summary": "A UI and utility Toolkit for iOS",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CBToolkit",
+  "license": "MIT",
+  "authors": {
+    "wes": "wesburn@me.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CBToolkit.git",
+    "tag": "0.0.5"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CBToolkit/CBToolkit/*.swift",
+  "requires_arc": true,
+  "frameworks": [
+    "UIKit",
+    "QuartzCore"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "LJWTestBaseLib",
+  "version": "0.1.0",
+  "summary": "LJWTestBaseLib.",
+  "description": "LJWTestBaseLib非常好用",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LJWTestBaseLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "876107909@qq.com": "liujingwei@huobi.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LJWTestBaseLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LJWTestBaseLib/Classes/**/*"
+}

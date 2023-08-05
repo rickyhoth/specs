@@ -1,0 +1,27 @@
+{
+  "name": "FLEXTools",
+  "version": "0.0.2",
+  "summary": "FLEX扩展带Button",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/FLEXTools",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "spf": "spf_ios@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/FLEXTools.git",
+    "tag": "0.0.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FLEXTools/Classes/**/*",
+  "dependencies": {
+    "FLEX": [
+
+    ]
+  }
+}

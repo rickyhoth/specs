@@ -1,0 +1,19 @@
+{
+  "name": "MyPodsTest",
+  "version": "0.0.2",
+  "summary": "MyPodsTest is my test pod project",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/mypodproject",
+  "license": "MIT",
+  "authors": {
+    "zhaoxuezhi": "zhaoxuezhi@xiaoneng.cn"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/mypodproject.git",
+    "tag": "0.0.2"
+  },
+  "source_files": "MyPodsTest/**/*.{h,m}",
+  "requires_arc": true
+}

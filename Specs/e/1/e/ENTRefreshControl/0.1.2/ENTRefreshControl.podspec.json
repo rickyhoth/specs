@@ -1,0 +1,23 @@
+{
+  "name": "ENTRefreshControl",
+  "version": "0.1.2",
+  "summary": "Use External Refresh Control with ENTRefreshControl.",
+  "description": "Every things with `ENTRefreshControl` works just the same as native `UIRefreshControl` but with few changes.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ENTRefreshControl",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "syedqamara": "syedqamar.a1@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ENTRefreshControl.git",
+    "tag": "0.1.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "swift_version": "3.2",
+  "source_files": "ENTRefreshControl/Classes/**/*"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "GLNPianoView",
+  "version": "1.0.0",
+  "license": {
+    "type": "custom",
+    "file": "LICENCE.md"
+  },
+  "summary": "GLNPianoView...",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/GLNPianoView.git",
+  "authors": {
+    "Gary Newby": "gary@mellowmuse.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/GLNPianoView.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "Source/*.{h,m}",
+  "requires_arc": true,
+  "platforms": {
+    "ios": "7.0"
+  }
+}

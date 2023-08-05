@@ -1,0 +1,22 @@
+{
+  "name": "FmyLoveKit",
+  "version": "0.1.0",
+  "summary": "FmyLoveKit",
+  "description": "TODO: xingwexin love fmy,love ok.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/FmyLoveKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xingweixin": "xwx3135@126.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/FmyLoveKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "FmyLoveKit/Classes/**/*"
+}

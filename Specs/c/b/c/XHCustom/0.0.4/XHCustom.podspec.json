@@ -1,0 +1,19 @@
+{
+  "name": "XHCustom",
+  "version": "0.0.4",
+  "platforms": {
+    "ios": "6.0"
+  },
+  "license": "MIT",
+  "summary": "星爷的第一个pods",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/XHCustom",
+  "authors": {
+    "XingHang": "1879232763@qq.com"
+  },
+  "social_media_url": "https://bitbucket.devops.nonprod.empf.local/scm/react/XHCustom.git",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/XHCustom.git",
+    "tag": "0.0.4"
+  },
+  "source_files": "XHCustom/**/*.h"
+}

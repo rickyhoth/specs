@@ -1,0 +1,22 @@
+{
+  "name": "ZLFpod",
+  "version": "0.1.4",
+  "summary": "做简要描述",
+  "description": "TODO：详细的描述",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZLFpod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zlfyuan": "\u001b[15~1553427003@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZLFpod.git",
+    "tag": "0.1.4"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZLFpod/**/*"
+}

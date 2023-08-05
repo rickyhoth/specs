@@ -1,0 +1,24 @@
+{
+  "name": "ZTBase",
+  "version": "0.5.6",
+  "summary": "ZTBase is the basic framework of OC project.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZTBase",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "CherishSmile": "misteralvin@yeah.net"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZTBase.git",
+    "tag": "0.5.6"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "requires_arc": true,
+  "source_files": "ZTBase/ZTBaseKit.framework/Headers/*.{h}",
+  "vendored_frameworks": "ZTBase/ZTBaseKit.framework",
+  "public_header_files": "ZTBase/ZTBaseKit.framework/Headers/*.{h}"
+}

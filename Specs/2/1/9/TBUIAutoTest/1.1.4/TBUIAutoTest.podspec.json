@@ -1,0 +1,29 @@
+{
+  "name": "TBUIAutoTest",
+  "version": "1.1.4",
+  "summary": "Generating accessibilityIdentifier for UIAutomation.",
+  "description": "TBUIAutoTest generates UIAutomation `accessibilityIdentifier` for you.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TBUIAutoTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "YangXiaoyu": "yulingtianxia@gmail.com"
+  },
+  "social_media_url": "https://twitter.com/yulingtianxia",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TBUIAutoTest.git",
+    "tag": "1.1.4"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "TBUIAutoTest/*.{h,m}",
+  "public_header_files": "TBUIAutoTest/TBUIAutoTest.h",
+  "frameworks": [
+    "Foundation",
+    "UIKit"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "RGNavigationController",
+  "version": "0.2.1",
+  "summary": "RGNavigationController",
+  "description": "导航控制器",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/RGNavigationController",
+  "license": "MIT",
+  "authors": {
+    "18607304107@163.com": "gui.ren@hand-china.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/RGNavigationController.git",
+    "tag": "0.2.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "RGNavigationController/Classes/**/*",
+  "resource_bundles": {
+    "RGNavigationController": [
+      "RGNavigationController/Assets/*.png"
+    ]
+  }
+}

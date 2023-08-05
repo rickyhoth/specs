@@ -1,0 +1,22 @@
+{
+  "name": "GRProgressView",
+  "version": "0.1.0",
+  "summary": "A short description of GRProgressView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/GRProgressView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Assuner-Lee": "yongguang.li@ele.me"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/GRProgressView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "GRProgressView/Classes/**/*"
+}

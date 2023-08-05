@@ -1,0 +1,22 @@
+{
+  "name": "PSAutolayout",
+  "version": "1.0",
+  "license": {
+    "type": "Apache",
+    "file": "LICENSE"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/PSAutolayout",
+  "authors": {
+    "Steven Hepting": "shepting@gmail.com"
+  },
+  "summary": "Autolayout utility for source-based layout code.",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/PSAutolayout.git",
+    "tag": "v1.0"
+  },
+  "source_files": "Source/*",
+  "requires_arc": true,
+  "platforms": {
+    "ios": "7.0"
+  }
+}

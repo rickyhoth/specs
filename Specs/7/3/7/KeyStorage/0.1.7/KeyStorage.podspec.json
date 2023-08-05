@@ -1,0 +1,20 @@
+{
+  "name": "KeyStorage",
+  "version": "0.1.7",
+  "summary": "Simplifying securely working with key information",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/KeyStorage",
+  "license": "MIT",
+  "authors": {
+    "Ben Bahrenburg": "hello@bencoding.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/KeyStorage.git",
+    "tag": "0.1.7"
+  },
+  "social_media_url": "https://twitter.com/bencoding",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "KeyStorage/Classes/**/*",
+  "pushed_with_swift_version": "3.0"
+}

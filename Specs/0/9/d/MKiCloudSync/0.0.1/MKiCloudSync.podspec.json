@@ -1,0 +1,22 @@
+{
+  "name": "MKiCloudSync",
+  "version": "0.0.1",
+  "platforms": {
+    "ios": null
+  },
+  "summary": "Sync your NSUserDefaults to iCloud automatically.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MKiCloudSync",
+  "license": {
+    "type": "MIT",
+    "file": "README.mdown"
+  },
+  "authors": {
+    "MugunthKumar": "contact@mk.sg"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MKiCloudSync.git",
+    "commit": "9e57c89c773566cb7522e8269f3a973c84231acd"
+  },
+  "source_files": "*.{h,m}",
+  "requires_arc": false
+}

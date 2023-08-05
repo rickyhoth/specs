@@ -1,0 +1,27 @@
+{
+  "name": "CXYToolKit",
+  "version": "0.0.1",
+  "summary": "A short description of CXYToolKit.",
+  "description": "1234556",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CXYToolKit",
+  "license": "MIT",
+  "authors": {
+    "bigapple": "weibinchen@uutaka.com"
+  },
+  "platforms": {
+    "ios": null
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CXYToolKit.git",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "Classes",
+    "Classes/**/*.{h,m}"
+  ],
+  "exclude_files": "Classes/Exclude",
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ]
+}

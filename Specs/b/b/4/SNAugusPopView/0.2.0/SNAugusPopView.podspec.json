@@ -1,0 +1,22 @@
+{
+  "name": "SNAugusPopView",
+  "version": "0.2.0",
+  "summary": "A very lightweight popView.",
+  "description": "The popView support some directions of arrow,and show gradient and border effect.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SNAugusPopView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "venn0126": "venn221@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SNAugusPopView.git",
+    "tag": "0.2.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "SNAugusPopView/Classes/**/*"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "SwiftRequest",
+  "version": "0.0.3",
+  "summary": "SwiftRequest is a simple HTTP client for Swift",
+  "description": "                   SwiftRequest is a simple HTTP client for Swift. It was inspired by the [Node.js Request library](https://bitbucket.devops.nonprod.empf.local/scm/react/).\n",
+  "homepage": "http://github.com/rickyrobinett/SwiftRequest",
+  "license": "MIT",
+  "authors": {
+    "Ricky Robinett": "ricky.robinett@gmail.com"
+  },
+  "social_media_url": "http://twitter.com/RickyRobinett",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwiftRequest.git",
+    "tag": "0.0.3"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SwiftRequest/*.swift",
+  "requires_arc": true
+}

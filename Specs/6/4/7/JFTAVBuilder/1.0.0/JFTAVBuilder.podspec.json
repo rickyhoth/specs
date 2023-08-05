@@ -1,0 +1,23 @@
+{
+  "name": "JFTAVBuilder",
+  "version": "1.0.0",
+  "summary": "JFTAVBuilder",
+  "description": "对视频提供编辑、合成、导出、滤镜功能",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AVBuilder",
+  "authors": {
+    "jft0m": "377632523@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AVBuilder.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "Classes/**/*.{h,m,c}",
+  "resources": "Assets/**/*"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "editorphoto",
+  "version": "1.0.0",
+  "summary": "lorem ipsum",
+  "description": "lorem ipsum",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/photo-editor",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE.md"
+  },
+  "authors": {
+    "aaaa": "aaaa@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/photo-editor",
+    "tag": "1.0.0"
+  },
+  "swift_versions": "5.0",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "iOSPhotoEditor/**/*.{swift}",
+  "exclude_files": "",
+  "resources": "iOSPhotoEditor/**/*.{png,jpeg,jpg,storyboard,xib,ttf}",
+  "swift_version": "5.0"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "YMMEmptyDataSet",
+  "version": "0.1.1",
+  "summary": "iOS Framework with fork of https://bitbucket.devops.nonprod.empf.local/scm/react/DZNEmptyDataSet",
+  "description": "iOS Framework with fork of https://bitbucket.devops.nonprod.empf.local/scm/react/DZNEmptyDataSet (add customisation)",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/YMMEmptyDataSet",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "qclmnt": "ios-dev@youmiam.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YMMEmptyDataSet.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "YMMEmptyDataSet/Classes/**/*"
+}

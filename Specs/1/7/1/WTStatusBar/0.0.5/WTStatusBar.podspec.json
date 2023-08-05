@@ -1,0 +1,21 @@
+{
+  "name": "WTStatusBar",
+  "version": "0.0.5",
+  "summary": "iPhone/iPad status bar with text (and optionally Foursquare-like progress bar) display.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WTStatusBar",
+  "screenshots": "https://bitbucket.devops.nonprod.empf.local/scm/react/WTStatusBar/raw/master/screenshot.png",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": "Alex Skalozub",
+  "platforms": {
+    "ios": "5.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WTStatusBar.git",
+    "tag": "0.0.5"
+  },
+  "source_files": "WTStatusBar/**/*.{h,m}",
+  "requires_arc": true
+}

@@ -1,0 +1,22 @@
+{
+  "name": "LGMacroAndCategoryModule",
+  "version": "1.0.0",
+  "summary": "LGMacroAndCategoryModule is Project macro definition",
+  "description": "LGMacroAndCategoryModule is a tool class module for projects that sets some macro definitions, categories, etc",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LGMacroAndCategoryModule",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ZengCDong": "983217036@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LGMacroAndCategoryModule.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LGMacroAndCategoryModule/Classes/**/*"
+}

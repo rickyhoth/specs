@@ -1,0 +1,23 @@
+{
+  "name": "Unwind",
+  "platforms": {
+    "ios": "9.1"
+  },
+  "summary": "Unwind is a JSON parsing library using infix and postfix operators.",
+  "requires_arc": true,
+  "version": "0.1.1",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Micah Wilson": "micahw@sisna.com"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Unwind",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Unwind.git",
+    "tag": "0.1.1"
+  },
+  "source_files": "Unwind/**/*.{swift}",
+  "pushed_with_swift_version": "3.0"
+}

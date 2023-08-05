@@ -1,0 +1,21 @@
+{
+  "name": "NAExpandableTableController",
+  "version": "0.1.1",
+  "summary": "An expandable UITableView implementation written in swift.",
+  "description": "An easy way to make an expandable UITableView written in Swift.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/NAExpandableTableController",
+  "license": "MIT",
+  "authors": {
+    "Nick A": "narciero"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/NAExpandableTableController.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/*",
+  "frameworks": "UIKit"
+}

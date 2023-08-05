@@ -1,0 +1,21 @@
+{
+  "name": "Flexy",
+  "version": "0.1.0",
+  "summary": "Framework for constructing flexible datasource for UICollectionView and UITableView",
+  "description": "Flexy is a framework that provides convenient API for UICollectionView and UITableView datasource, allow to use multiple types cell very easy.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Flexy",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE.txt"
+  },
+  "authors": "Anisov Aleksey",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Flexy.git",
+    "tag": "0.1.0"
+  },
+  "source_files": "Flexy/Source/**/*.swift",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true
+}

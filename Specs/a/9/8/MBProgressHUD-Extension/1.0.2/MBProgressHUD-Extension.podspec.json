@@ -1,0 +1,24 @@
+{
+  "name": "MBProgressHUD-Extension",
+  "version": "1.0.2",
+  "summary": "An easy way to use MBProgressHUD",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MBProgressHUD-Extension",
+  "license": "MIT",
+  "authors": {
+    "qq2126724184": "2126724184@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MBProgressHUD-Extension.git",
+    "tag": "1.0.2"
+  },
+  "source_files": "MBProgressHUD-Extension/**/*.{h,m}",
+  "requires_arc": true,
+  "dependencies": {
+    "MBProgressHUD": [
+
+    ]
+  }
+}

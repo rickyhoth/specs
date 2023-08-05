@@ -1,0 +1,19 @@
+{
+  "name": "R.swift",
+  "version": "0.7.0",
+  "summary": "Use strong typed, autocompleted resources like images and segues in Swift",
+  "description": "                   R.swift is a tool to get strong typed, autocompleted resources like images and segues in Swift\n\n                   * Never type string identifiers again\n                   * Strong type all the things\n                   * Supports images, segues, storyboards, nibs and xibs, reuse identifiers and more\n                   * Compile time checks and errors instead of runtime crashes\n",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/R.swift",
+  "license": "MIT",
+  "authors": {
+    "Mathijs Kadijk": "mkadijk@gmail.com"
+  },
+  "social_media_url": "https://twitter.com/mac_cain13",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "http": "https://bitbucket.devops.nonprod.empf.local/scm/react/rswift-0.7.0-build-2.zip"
+  },
+  "preserve_paths": "rswift"
+}

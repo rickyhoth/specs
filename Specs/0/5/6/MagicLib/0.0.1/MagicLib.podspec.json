@@ -1,0 +1,29 @@
+{
+  "name": "MagicLib",
+  "version": "0.0.1",
+  "summary": "MagicLib.",
+  "description": "MagicLib ++++++++",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MagicLib",
+  "license": {
+    "type": "MIT",
+    "file": "FILE_LICENSE"
+  },
+  "authors": {
+    "zhangyonglu": "zhangyonglu@baidu.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MagicLib.git",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "Classes",
+    "Classes/**/*.{h,m}"
+  ],
+  "exclude_files": "Classes/Exclude",
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}

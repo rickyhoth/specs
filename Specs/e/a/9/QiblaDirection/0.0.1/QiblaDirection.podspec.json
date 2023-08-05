@@ -1,0 +1,20 @@
+{
+  "name": "QiblaDirection",
+  "version": "0.0.1",
+  "license": "MIT",
+  "summary": "Detects users angle to Kaaba in Swift",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/QiblaDirection",
+  "social_media_url": "https://tr.linkedin.com/in/ethemozcan",
+  "authors": {
+    "Ethem Ozcan": "ethemozcan@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/QiblaDirection.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "QiblaDirection.swift",
+  "requires_arc": true
+}

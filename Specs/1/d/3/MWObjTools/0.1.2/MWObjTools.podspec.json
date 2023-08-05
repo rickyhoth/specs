@@ -1,0 +1,22 @@
+{
+  "name": "MWObjTools",
+  "version": "0.1.2",
+  "summary": "Somt Tools Class in ObjC.",
+  "description": "Somt Tools Class in ObjC.ccc",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MWObjTools",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "fishmwei": "fishmwei@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MWObjTools.git",
+    "tag": "0.1.2"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source_files": "MWObjTools/Classes/**/*"
+}

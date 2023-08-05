@@ -1,0 +1,26 @@
+{
+  "name": "BtnCell",
+  "version": "1.0.1",
+  "summary": "BtnCell,BtnCell",
+  "description": "BtnCell---BtnCell",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/BtnCell.git",
+  "license": {
+    "type": "MIT",
+    "file": "License"
+  },
+  "authors": {
+    "MichaelLi": "1045359337@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/BtnCell.git",
+    "tag": "1.0.1"
+  },
+  "source_files": [
+    "BtnCell",
+    "BtnCell.{h,m}"
+  ],
+  "requires_arc": true
+}

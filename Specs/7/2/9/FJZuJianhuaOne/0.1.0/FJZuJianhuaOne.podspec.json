@@ -1,0 +1,22 @@
+{
+  "name": "FJZuJianhuaOne",
+  "version": "0.1.0",
+  "summary": "A short description of FJZuJianhuaOne.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/FJZuJianhuaOne",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "fangjian001": "543595619@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/FJZuJianhuaOne.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "FJZuJianhuaOne/Classes/**/*"
+}

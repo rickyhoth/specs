@@ -1,0 +1,22 @@
+{
+  "name": "BMXSwipableCell",
+  "version": "1.0",
+  "summary": "A custom UITableViewCell that supports swipe to reveal",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/BMXSwipableCell",
+  "license": "MIT",
+  "authors": {
+    "Massimiliano Bigatti": "massimiliano@bigatti.it"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/BMXSwipableCell.git",
+    "tag": "1.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source_files": [
+    "BMXSwipableCell",
+    "BMXSwipableCell/**/*.{h,m}"
+  ],
+  "requires_arc": true
+}

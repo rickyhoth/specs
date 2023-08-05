@@ -1,0 +1,22 @@
+{
+  "name": "LWCoreDataManager",
+  "version": "1.0.0-beta",
+  "summary": "User for Core data.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LWCoreDataManager",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "waydechou1994": "linwei.zhou@protontel.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LWCoreDataManager.git",
+    "tag": "1.0.0-beta"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LWCoreDataManager/Classes/**/*"
+}

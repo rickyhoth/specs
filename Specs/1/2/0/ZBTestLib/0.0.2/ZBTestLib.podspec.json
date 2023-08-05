@@ -1,0 +1,21 @@
+{
+  "name": "ZBTestLib",
+  "version": "0.0.2",
+  "summary": "This is a Object-c Categorg kit library.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZBTestLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhoubo": "1436640281@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZBTestLib.git",
+    "tag": "0.0.2"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source_files": "Class/*"
+}

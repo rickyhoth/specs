@@ -1,0 +1,27 @@
+{
+  "name": "RLogger",
+  "version": "0.1.0",
+  "authors": {
+    "RahulMaithani": "r.maithani12@gmail.com"
+  },
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/RLogger",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/RLogger.git",
+    "branch": "master",
+    "tag": "0.1.0"
+  },
+  "summary": "This is such a logging framework.",
+  "source_files": [
+    "**/*.swift",
+    "*.swift"
+  ],
+  "swift_versions": "4.0",
+  "platforms": {
+    "ios": "13.0"
+  },
+  "swift_version": "4.0"
+}

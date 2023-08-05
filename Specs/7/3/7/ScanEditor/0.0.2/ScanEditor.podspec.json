@@ -1,0 +1,21 @@
+{
+  "name": "ScanEditor",
+  "version": "0.0.2",
+  "summary": "ScanEditor will help to select cropping element from images and photos using corner points",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ScanEditor",
+  "authors": "Stanislav Shiyanovskiy",
+  "platforms": {
+    "ios": "13.0"
+  },
+  "swift_versions": "5",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ScanEditor.git",
+    "tag": "0.0.2"
+  },
+  "source_files": "ScanEditor/**/*.{h,m,swift}",
+  "swift_version": "5"
+}

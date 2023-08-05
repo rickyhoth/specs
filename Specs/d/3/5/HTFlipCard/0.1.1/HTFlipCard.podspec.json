@@ -1,0 +1,22 @@
+{
+  "name": "HTFlipCard",
+  "version": "0.1.1",
+  "summary": "A short description of HTFlipCard.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HTFlipCard",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "squarepants1991": "tomcat1991@126.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HTFlipCard.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HTFlipCard/Classes/**/*"
+}

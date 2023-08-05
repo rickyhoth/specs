@@ -1,0 +1,29 @@
+{
+  "name": "NYCarousel",
+  "version": "0.1.0",
+  "summary": "NYCarousel.",
+  "description": "swift 轮播器\n用于首页轮播",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/NYCarousel",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "nieyuchina@163.com": "nieyuchina@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/NYCarousel.git",
+    "tag": "0.1.0"
+  },
+  "swift_versions": "5.0",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "NYCarousel/Classes/**/*",
+  "dependencies": {
+    "Kingfisher": [
+
+    ]
+  },
+  "swift_version": "5.0"
+}

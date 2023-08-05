@@ -1,0 +1,23 @@
+{
+  "name": "TCProgressBar",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "summary": "Simple and clean progress bar.",
+  "requires_arc": true,
+  "version": "0.2",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Tal Cohen": "talthent@gmail.com"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TCProgressBar",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TCProgressBar.git",
+    "tag": "0.2"
+  },
+  "source_files": "TCProgressBar/TCProgressBar.{swift}",
+  "pushed_with_swift_version": "3.0"
+}

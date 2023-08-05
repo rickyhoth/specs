@@ -1,0 +1,23 @@
+{
+  "name": "VGLib",
+  "version": "0.1.0",
+  "summary": "Common Library",
+  "description": "TODO: Add long description of the pod here.",
+  "swift_version": "4.0",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/VGLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "vengateshkr": "vengateshkr@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/VGLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "VGLib/Classes/**/*"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "IFTimeoutBlock",
+  "version": "1.0.0",
+  "license": "MIT",
+  "summary": "Asynchronous execution block with timeout support",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/IFTimeoutBlock",
+  "authors": {
+    "Min Kim": "minsikzzang@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/IFTimeoutBlock.git",
+    "tag": "1.0.0",
+    "submodules": true
+  },
+  "requires_arc": false,
+  "platforms": {
+    "ios": "6.0",
+    "osx": "10.8"
+  },
+  "public_header_files": "IFTimeoutBlock/IFTimeoutBlock.h",
+  "source_files": "IFTimeoutBlock/{*}.{h,m}"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "BecmPod",
+  "version": "0.1.0",
+  "summary": "BecmPod.",
+  "description": "Pod Becm",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/BecmPod.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "vadue": "vmanuel.fd@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/BecmPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "BecmPod/Classes/**/*",
+  "pushed_with_swift_version": "3.0"
+}

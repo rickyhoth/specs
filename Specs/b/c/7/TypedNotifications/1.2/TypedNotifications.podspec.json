@@ -1,0 +1,25 @@
+{
+  "name": "TypedNotifications",
+  "version": "1.2",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TypedNotifications",
+  "authors": {
+    "Joe Fabisevich": "github@fabisevi.ch"
+  },
+  "summary": "A wrapper around NotificationCenter for sending typed notifications with payloads across your iOS app.",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TypedNotifications.git",
+    "tag": "1.2"
+  },
+  "source_files": "Source/*.swift",
+  "frameworks": "Foundation",
+  "requires_arc": true,
+  "social_media_url": "https://twitter.com/mergesort",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "swift_version": "4.2"
+}

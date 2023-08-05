@@ -1,0 +1,22 @@
+{
+  "name": "AFModule",
+  "version": "1.0.4",
+  "summary": "iOS 基础组件库",
+  "description": "TODO: iOS 基础组件库",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AFModule",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Alfie": "418983798@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AFModule.git",
+    "tag": "1.0.4"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "AFModule/Classes/**/*.{h,m}"
+}

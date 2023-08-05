@@ -1,0 +1,26 @@
+{
+  "name": "XYJSocketRocket",
+  "version": "0.0.1",
+  "summary": "SocketRocket改名版。原地址https://bitbucket.devops.nonprod.empf.local/scm/react/SocketRocket。",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/XYJSRWebSocket",
+  "authors": {
+    "xiaoyingjun": "445257607@qq.com"
+  },
+  "license": "BSD",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/XYJSRWebSocket.git",
+    "tag": "0.0.1"
+  },
+  "requires_arc": true,
+  "source_files": "XYJSocketRocket/**/*.{h,m}",
+  "public_header_files": "XYJSocketRocket/*.h",
+  "platforms": {
+    "ios": "6.0"
+  },
+  "ios": {
+    "frameworks": [
+      "CFNetwork",
+      "Security"
+    ]
+  }
+}

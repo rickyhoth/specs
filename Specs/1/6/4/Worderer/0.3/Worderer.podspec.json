@@ -1,0 +1,21 @@
+{
+  "name": "Worderer",
+  "version": "0.3",
+  "summary": "Random words generating (iOS)",
+  "description": "Random words generating (determined by dictionary). Might be useful for testing",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Worderer",
+  "license": "MIT",
+  "authors": {
+    "Dan Parkhomenko": "thereaintnomailformeagain@gmail.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Worderer.git",
+    "tag": "0.3"
+  },
+  "source_files": "Classes/*.{h,m,xib,png}",
+  "resources": "Resources/*.{xib,png,plist}",
+  "frameworks": "UIKit"
+}

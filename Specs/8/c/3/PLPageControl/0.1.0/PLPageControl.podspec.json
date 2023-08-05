@@ -1,0 +1,23 @@
+{
+  "name": "PLPageControl",
+  "version": "0.1.0",
+  "summary": "A custom page control for iOS",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/PLPageControl",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Luiz Duraes": "lduraes@gmail.com",
+    "Pedro Lucas": "lucasdasilvajunior@yahoo.com.br"
+  },
+  "platforms": {
+    "ios": "6.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/PLPageControl.git",
+    "tag": "0.1.0"
+  },
+  "source_files": "Pager/PLPageControl.{h,m}",
+  "requires_arc": true
+}

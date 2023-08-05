@@ -1,0 +1,29 @@
+{
+  "name": "WWZFoundation",
+  "version": "1.1.0",
+  "summary": "A short description of WWZFoundation.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WWZFoundation",
+  "license": "MIT",
+  "authors": {
+    "wwz": "wwz@zgkjd.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WWZFoundation.git",
+    "tag": "1.1.0"
+  },
+  "requires_arc": true,
+  "frameworks": "UIKit",
+  "subspecs": [
+    {
+      "name": "WWZFoundation",
+      "source_files": "WWZFoundation/WWZFoundation/*.{h,m}"
+    },
+    {
+      "name": "Foundation+WWZ",
+      "source_files": "WWZFoundation/Foundation+WWZ/*.{h,m}"
+    }
+  ]
+}

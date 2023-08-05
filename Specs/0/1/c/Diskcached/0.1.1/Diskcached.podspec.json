@@ -1,0 +1,24 @@
+{
+  "name": "Diskcached",
+  "platforms": {
+    "ios": null
+  },
+  "version": "0.1.1",
+  "summary": "Diskcached.",
+  "description": "simple disk cache",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Diskcached",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Hirohisa Kawasaki": "hirohisa.kawasaki@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Diskcached.git",
+    "tag": "0.1.1"
+  },
+  "source_files": "Diskcached/*.{h,m}",
+  "requires_arc": true,
+  "frameworks": "UIKit"
+}

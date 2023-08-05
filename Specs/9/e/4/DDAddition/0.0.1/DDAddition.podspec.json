@@ -1,0 +1,19 @@
+{
+  "name": "DDAddition",
+  "version": "0.0.1",
+  "license": "MIT",
+  "summary": "An animatedLayout of UICollectionView",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Addition",
+  "authors": {
+    "董立权": "894896663@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Addition.git",
+    "tag": "0.0.1"
+  },
+  "requires_arc": true,
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Addition/Addition/classes/*.{h,m}"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "RXAdView",
+  "version": "0.1.0",
+  "summary": "An launch Ad View",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/RXAdView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": "AlphaDog13",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/RXAdView.git",
+    "tag": "0.1.0"
+  },
+  "source_files": "RXAdView/*.swift",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "frameworks": [
+    "Foundation",
+    "UIKit"
+  ]
+}

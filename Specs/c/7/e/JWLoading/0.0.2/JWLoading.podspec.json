@@ -1,0 +1,22 @@
+{
+  "name": "JWLoading",
+  "version": "0.0.2",
+  "summary": "Loading动画。",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JWLoading",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wangjun": "github_work@163.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JWLoading.git",
+    "tag": "0.0.2"
+  },
+  "source_files": "JWLoading/JWLoading/JWLoading/**/*.{h,m}",
+  "requires_arc": true
+}

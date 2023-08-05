@@ -1,0 +1,22 @@
+{
+  "name": "FDBarGauge",
+  "version": "4.0.1",
+  "license": "MIT",
+  "summary": "A view for showing LED bars",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/FDBarGauge",
+  "authors": {
+    "William Entriken": "github.com@phor.net"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/FDBarGauge.git",
+    "tag": "4.0.1"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "Sources/**/*.swift",
+  "swift_versions": [
+    "5.0"
+  ],
+  "swift_version": "5.0"
+}

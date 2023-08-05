@@ -1,0 +1,28 @@
+{
+  "name": "ZBNavigator",
+  "version": "0.0.2",
+  "summary": "A short description of ZBNavigator.",
+  "description": "ZBNavigator",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZBNavigator",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "肖志斌": "373379320@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZBNavigator.git",
+    "tag": "0.0.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZBNavigator/Classes/**/*",
+  "prefix_header_contents": "#import \"ZBNavigatorHeader.h\"",
+  "dependencies": {
+    "ZBYAML": [
+
+    ]
+  }
+}

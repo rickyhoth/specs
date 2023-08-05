@@ -1,0 +1,26 @@
+{
+  "name": "ZNotificationMessageHUD",
+  "version": "1.0.0",
+  "summary": "ZNotificationMessageHUD.",
+  "description": "ZNotificationMessageHUD is a simple message View",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZNotificationMessageHUD",
+  "license": {
+    "type": "MIT",
+    "file": "FILE_LICENSE"
+  },
+  "authors": {
+    "Daniel": "648118379@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZNotificationMessageHUD.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "ZNotificationMessageHUD/*.swift",
+  "frameworks": "UIKit",
+  "requires_arc": true,
+  "module_name": "ZNotificationMessageHUD",
+  "pushed_with_swift_version": "3.0"
+}

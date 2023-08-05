@@ -1,0 +1,22 @@
+{
+  "name": "JWChineseNumeralsElaborateFormat",
+  "version": "1.0.0",
+  "summary": "Translate amount to Chinese Uppercase.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JWChineseNumeralsElaborateFormat",
+  "license": "MIT",
+  "authors": {
+    "Joe": "sheninter@163.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JWChineseNumeralsElaborateFormat.git",
+    "tag": "1.0.0"
+  },
+  "source_files": [
+    "ChinsesNumberalsFormat",
+    "ChinsesNumberalsFormat/**/*.{h,m}"
+  ],
+  "exclude_files": "Classes/Exclude"
+}

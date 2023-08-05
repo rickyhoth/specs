@@ -1,0 +1,22 @@
+{
+  "name": "XAGuidePage",
+  "version": "0.0.1",
+  "summary": "引导页",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/XAGuidePage",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "SSSure": "389499695@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/XAGuidePage.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "XAGuidePage/Classes/**/*"
+}

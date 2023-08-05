@@ -1,0 +1,22 @@
+{
+  "name": "cc",
+  "version": "0.1.0",
+  "summary": "gurhfskjfhkhughgyuguguu",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/cc",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ahad11": "aalarifi64@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/cc.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "cc/Classes/**/*",
+  "pushed_with_swift_version": "4.0"
+}

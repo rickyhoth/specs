@@ -1,0 +1,22 @@
+{
+  "name": "EasyBuild-ios-framework",
+  "version": "0.1.1",
+  "summary": "EasyBuild-ios",
+  "description": "EasyBuild ios framework",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/EasyBuildARI-swift",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "michael-martinez": "michael@michael-martinez.fr"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/EasyBuildARI-swift.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Classes/**/*"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "SpfTestDemo",
+  "version": "0.0.1",
+  "summary": "test Demo",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SpfTestDemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "feigey2k@sina.com": "feigey2k@sina.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SpfTestDemo.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "SpfTestDemo/Classes/**/*",
+  "dependencies": {
+    "MMKV": [
+      "~> 1.1.0"
+    ]
+  }
+}

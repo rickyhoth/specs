@@ -1,0 +1,27 @@
+{
+  "name": "NETManager",
+  "version": "0.1.0",
+  "summary": "net manager base on afn",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AHNETManager",
+  "license": "MIT",
+  "authors": {
+    "ah": "zth1011@126.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AHNETManager.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "NETManager/**/*",
+  "dependencies": {
+    "AFNetworking": [
+      "~> 3.1.0"
+    ],
+    "MJExtension": [
+      "~> 3.0.13"
+    ]
+  }
+}

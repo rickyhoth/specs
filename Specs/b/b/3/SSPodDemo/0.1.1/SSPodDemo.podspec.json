@@ -1,0 +1,22 @@
+{
+  "name": "SSPodDemo",
+  "version": "0.1.1",
+  "summary": "a pod Test Demo",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SSPodDemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "aishuaishuai298513": "1131766972@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SSPodDemo.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SSPodDemo/Classes/**/*"
+}

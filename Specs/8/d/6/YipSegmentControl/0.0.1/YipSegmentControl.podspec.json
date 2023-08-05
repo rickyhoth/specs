@@ -1,0 +1,22 @@
+{
+  "name": "YipSegmentControl",
+  "version": "0.0.1",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE.md"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/YipSegmentControl",
+  "authors": {
+    "Eddie Yip": "yesidi@me.com"
+  },
+  "summary": "An elegant sement, keyword: swift,UISegment,UIStoryboard,xib,nib",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YipSegmentControl.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "*",
+  "pushed_with_swift_version": "3.0"
+}

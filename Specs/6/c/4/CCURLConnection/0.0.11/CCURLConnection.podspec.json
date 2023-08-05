@@ -1,0 +1,27 @@
+{
+  "name": "CCURLConnection",
+  "version": "0.0.11",
+  "summary": "A library to simplify interactions with remote APIs.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CCURLConnection",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Pavel Kondratyev": "shamurai@mail.ru"
+  },
+  "platforms": {
+    "ios": "5.0",
+    "osx": "10.7"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CCURLConnection.git",
+    "tag": "v0.0.11"
+  },
+  "source_files": "CCURLConnection/**/*.{h,m}",
+  "frameworks": "Foundation",
+  "ios": {
+    "frameworks": "UIKit"
+  },
+  "requires_arc": true
+}

@@ -1,0 +1,51 @@
+{
+  "name": "TYSocialLibaray",
+  "version": "1.0.1",
+  "summary": "基于友盟的社会化分享、登录",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TYSocialLibaray",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ty": "785072254@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TYSocialLibaray.git",
+    "tag": "1.0.1"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source_files": "TYSocialLibaray/Classes/**/*",
+  "dependencies": {
+    "UMCCommon": [
+
+    ],
+    "UMCSecurityPlugins": [
+
+    ],
+    "UMCAnalytics": [
+
+    ],
+    "UMCShare/UI": [
+
+    ],
+    "UMCShare/Social/ReducedWeChat": [
+
+    ],
+    "UMCShare/Social/ReducedQQ": [
+
+    ],
+    "UMCShare/Social/ReducedSina": [
+
+    ],
+    "UMCShare/Social/Facebook": [
+
+    ],
+    "UMCShare/Social/Twitter": [
+
+    ]
+  }
+}

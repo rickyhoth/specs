@@ -1,0 +1,23 @@
+{
+  "name": "MTCrashProtector",
+  "version": "0.0.5.7",
+  "summary": "To help APPs to get free from common crash such as `unregconized Selector`, `dealloc without removing observer` and `forget Timer invalidate issue` etc",
+  "description": "Empty Now",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CrashProtector",
+  "license": "MIT",
+  "authors": {
+    "kuangjeon": "tgq@meitu.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CrashProtector.git",
+    "tag": "0.0.5.7"
+  },
+  "source_files": [
+    "Classes",
+    "Classes/**/*.{h,m}"
+  ],
+  "requires_arc": true
+}

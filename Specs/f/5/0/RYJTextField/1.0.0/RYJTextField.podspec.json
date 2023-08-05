@@ -1,0 +1,23 @@
+{
+  "name": "RYJTextField",
+  "version": "1.0.0",
+  "summary": "Quickly add TextField restrictions.",
+  "description": "Quickly add TextField restrictions.✍️",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/RYJTextField",
+  "license": "MIT",
+  "authors": {
+    "YiJie Ren": "jie_ios@163.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/RYJTextField.git",
+    "tag": "1.0.0"
+  },
+  "source_files": [
+    "RYJTextField/RYJTextField",
+    "RYJTextField/**/*.{h,m}"
+  ],
+  "exclude_files": "Classes/Exclude"
+}

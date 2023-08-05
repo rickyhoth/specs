@@ -1,0 +1,24 @@
+{
+  "name": "HCLong",
+  "version": "1.0.2",
+  "summary": "A third-party library",
+  "description": "A third-party library.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HCLong",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yangdalong1": "yangdalong1@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HCLong.git",
+    "tag": "1.0.2"
+  },
+  "source_files": "*",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "frameworks": "UIKit",
+  "requires_arc": true
+}

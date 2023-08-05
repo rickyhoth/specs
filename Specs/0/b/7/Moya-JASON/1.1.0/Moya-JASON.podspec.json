@@ -1,0 +1,70 @@
+{
+  "name": "Moya-JASON",
+  "version": "1.1.0",
+  "summary": "JASON bindings for Moya.",
+  "description": "[JASON](https://bitbucket.devops.nonprod.empf.local/scm/react/JASON) bindings for\n[Moya](https://bitbucket.devops.nonprod.empf.local/scm/react/Moya) for easier JSON serialization.\nIncludes [RxSwift](https://bitbucket.devops.nonprod.empf.local/scm/react/RxSwift/) and [ReactiveCocoa](https://bitbucket.devops.nonprod.empf.local/scm/react/ReactiveCocoa) bindings as well.\nInstructions on how to use it are in\n[the README](https://bitbucket.devops.nonprod.empf.local/scm/react/Moya-JASON).",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Moya-JASON",
+  "license": "MIT",
+  "authors": {
+    "Łukasz Mróz": "thesunshinejr@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Moya-JASON.git",
+    "tag": "1.1.0"
+  },
+  "social_media_url": "https://twitter.com/thesunshinejr",
+  "platforms": {
+    "ios": "8.0",
+    "osx": "10.10",
+    "watchos": "2.0",
+    "tvos": "9.0"
+  },
+  "requires_arc": true,
+  "default_subspecs": "Core",
+  "pushed_with_swift_version": "3.0",
+  "subspecs": [
+    {
+      "name": "Core",
+      "source_files": "Source/*.swift",
+      "dependencies": {
+        "Moya": [
+          "~> 8.0.0"
+        ],
+        "JASON": [
+
+        ]
+      },
+      "frameworks": "Foundation"
+    },
+    {
+      "name": "RxSwift",
+      "source_files": "Source/RxSwift/*.swift",
+      "dependencies": {
+        "Moya/RxSwift": [
+          "~> 8.0.0"
+        ],
+        "Moya-JASON/Core": [
+
+        ],
+        "RxSwift": [
+
+        ]
+      }
+    },
+    {
+      "name": "ReactiveCocoa",
+      "source_files": "Source/ReactiveCocoa/*.swift",
+      "dependencies": {
+        "Moya/ReactiveCocoa": [
+          "~> 8.0.0"
+        ],
+        "Moya-JASON/Core": [
+
+        ],
+        "ReactiveSwift": [
+
+        ]
+      }
+    }
+  ]
+}

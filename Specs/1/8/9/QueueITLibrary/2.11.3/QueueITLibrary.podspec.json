@@ -1,0 +1,19 @@
+{
+  "name": "QueueITLibrary",
+  "version": "2.11.3",
+  "summary": "Library for integrating Queue-it into an iOS app using web uI",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ios-webui-sdk",
+  "license": "MIT",
+  "authors": {
+    "Queue-It": "https://queue-it.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ios-webui-sdk.git",
+    "tag": "2.11.3"
+  },
+  "requires_arc": true,
+  "source_files": "QueueITLib/*.{h,m}"
+}

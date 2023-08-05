@@ -1,0 +1,25 @@
+{
+  "name": "vincenty",
+  "version": "1.0.2",
+  "summary": "Compute vincenty distance in Swift",
+  "description": "see https://bitbucket.devops.nonprod.empf.local/scm/react/vincenty.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/vincenty",
+  "license": {
+    "type": "MIT"
+  },
+  "authors": "Daniel Strobusch",
+  "swift_version": "4.0",
+  "platforms": {
+    "ios": "11.0",
+    "osx": "10.13"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/vincenty.git",
+    "tag": "1.0.2"
+  },
+  "source_files": [
+    "Sources",
+    "Sources/**/*.swift"
+  ],
+  "exclude_files": ".travis.yml"
+}

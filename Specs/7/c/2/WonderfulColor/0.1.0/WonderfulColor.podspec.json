@@ -1,0 +1,24 @@
+{
+  "name": "WonderfulColor",
+  "version": "0.1.0",
+  "swift_versions": "5.4.2",
+  "summary": "Easily get material color",
+  "description": "the WonderfulColor makes you easily get material color",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WonderfulColor",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "SeunggiLee": "avocado34.131@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WonderfulColor.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "WonderfulColor/Classes/**/*",
+  "swift_version": "5.4.2"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "CYFTPManager",
+  "version": "1.6.7",
+  "license": "MIT",
+  "summary": "An Objective-C class for simple, synchronous ftp access.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CYFTPManager",
+  "authors": {
+    "yellowei": "hw0521@vip.qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CYFTPManager.git",
+    "tag": "1.6.7"
+  },
+  "source_files": "CYFTPManager/FTPManager.{h,m}",
+  "requires_arc": true,
+  "ios": {
+    "frameworks": "CFNetwork"
+  },
+  "osx": {
+    "frameworks": "CoreServices"
+  }
+}

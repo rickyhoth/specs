@@ -1,0 +1,20 @@
+{
+  "name": "TamCalendar",
+  "version": "2.0.0",
+  "summary": "A simple calendar control",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TamCalendar",
+  "license": "MIT",
+  "authors": {
+    "Tam": "1558842407@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TamCalendar.git",
+    "tag": "v2.0.0"
+  },
+  "source_files": "TamCalendarTest/TamCalendar/**/*.{h,m}",
+  "resources": "TamCalendarTest/TamCalendar/Resources",
+  "requires_arc": true
+}

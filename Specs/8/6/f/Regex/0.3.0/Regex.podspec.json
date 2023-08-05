@@ -1,0 +1,24 @@
+{
+  "name": "Regex",
+  "version": "0.3.0",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE.md"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Regex",
+  "authors": {
+    "bryn austin bellomy": "bryn.bellomy@gmail.com"
+  },
+  "summary": "Regular expression class (in Swift).  Wraps NSRegularExpression.",
+  "documentation_url": "http://brynbellomy.github.io/Regex/index.html",
+  "platforms": {
+    "ios": "8.0",
+    "osx": "10.10"
+  },
+  "source_files": "src/*.swift",
+  "requires_arc": true,
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Regex.git",
+    "tag": "0.3.0"
+  }
+}

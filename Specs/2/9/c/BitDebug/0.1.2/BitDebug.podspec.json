@@ -1,0 +1,22 @@
+{
+  "name": "BitDebug",
+  "version": "0.1.2",
+  "summary": "Your debug menu presentable anywhere.",
+  "description": "Your debug menu presentable anywhere.\nAnd simple usage.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/BitDebug",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Tomoya Hirano": "cromteria@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/BitDebug.git",
+    "tag": "0.1.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "BitDebug/Classes/**/*"
+}

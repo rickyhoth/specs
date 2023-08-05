@@ -1,0 +1,22 @@
+{
+  "name": "QuickForms",
+  "version": "0.4",
+  "summary": "Quick forms",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/QuickForms",
+  "authors": {
+    "Alexandr Khmelevsky": "khmelevsky.alex@gmail.com"
+  },
+  "social_media_url": "https://twitter.com/AlexKhmelevsky",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/QuickForms.git",
+    "tag": "0.4"
+  },
+  "platforms": {
+    "ios": "8.0",
+    "tvos": "9.0"
+  },
+  "requires_arc": true,
+  "source_files": "Sources/**/*.swift",
+  "license": "MIT",
+  "pushed_with_swift_version": "4"
+}

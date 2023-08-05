@@ -1,0 +1,23 @@
+{
+  "name": "AFMaterialTextField",
+  "version": "0.1.2",
+  "summary": "A custom Material TextFields.",
+  "swift_version": "4.0",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AFMaterialTextField",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "fakiho": "afdetails@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AFMaterialTextField.git",
+    "tag": "0.1.2"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "Classes/*.{h,m,swift}"
+}

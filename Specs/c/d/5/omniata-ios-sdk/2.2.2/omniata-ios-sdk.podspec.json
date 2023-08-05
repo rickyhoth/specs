@@ -1,0 +1,29 @@
+{
+  "name": "omniata-ios-sdk",
+  "version": "2.2.2",
+  "summary": "iOS SDK of Omniata",
+  "description": "It is an iOS SDK of using Omniata EVENT and CHANNEL API.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/omniata-ios-sdk",
+  "license": "BSD",
+  "authors": {
+    "Omniata": "support@omniata.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/omniata-ios-sdk.git",
+    "tag": "2.2.2"
+  },
+  "platforms": {
+    "ios": "5.0"
+  },
+  "requires_arc": true,
+  "source_files": [
+    "iOmniataAPI/*",
+    "iOmniataAPI/SBJson/*"
+  ],
+  "frameworks": [
+    "Foundation",
+    "SystemConfiguration",
+    "UIKit",
+    "AdSupport"
+  ]
+}

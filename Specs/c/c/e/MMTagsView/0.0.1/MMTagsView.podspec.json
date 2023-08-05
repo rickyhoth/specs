@@ -1,0 +1,34 @@
+{
+  "name": "MMTagsView",
+  "version": "0.0.1",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "summary": "一款支持自动布局的标签tag",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MMTagsView",
+  "authors": {
+    "SunnyX": "1031787148@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MMTagsView.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "MMTagsView/*.{h,m}",
+  "frameworks": [
+    "Foundation",
+    "UIKit"
+  ],
+  "requires_arc": true,
+  "dependencies": {
+    "MMUIKitAdditions": [
+
+    ],
+    "Masonry": [
+      "~> 1.0.2"
+    ]
+  }
+}

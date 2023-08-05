@@ -1,0 +1,23 @@
+{
+  "name": "NXContainerViewController",
+  "version": "0.1.1",
+  "summary": "A custom ContainerViewController has present and dismiss animation",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/NXContainerViewController",
+  "license": "MIT",
+  "authors": {
+    "nightx": "qufeng33@hotmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/NXContainerViewController.git",
+    "tag": "0.1.1"
+  },
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ],
+  "source_files": "NXContainerViewController/*.{h,m}",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true
+}

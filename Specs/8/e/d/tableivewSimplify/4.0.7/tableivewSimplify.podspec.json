@@ -1,0 +1,30 @@
+{
+  "name": "tableivewSimplify",
+  "version": "4.0.7",
+  "summary": "one line of tableview",
+  "description": "one line for tableivewSimplify",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/tableivewSimplifyDemo.git",
+  "license": "MIT",
+  "authors": {
+    "wangjindong": "419591321@qq.com"
+  },
+  "platforms": {
+    "ios": "6.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/tableivewSimplifyDemo.git",
+    "tag": "4.0.7"
+  },
+  "source_files": "tableviewSimplify/*",
+  "frameworks": [
+    "Foundation",
+    "CoreGraphics",
+    "UIKit"
+  ],
+  "requires_arc": true,
+  "dependencies": {
+    "UITableView+FDTemplateLayoutCell": [
+      "~> 1.3"
+    ]
+  }
+}

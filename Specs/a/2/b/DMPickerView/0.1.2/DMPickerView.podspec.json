@@ -1,0 +1,22 @@
+{
+  "name": "DMPickerView",
+  "version": "0.1.2",
+  "summary": "A custom picker view for iOS",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DMPickerView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "otranzer": "otranzer@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DMPickerView.git",
+    "tag": "0.1.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DMPickerView/Classes/**/*"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "PlotKit",
+  "version": "0.0.1",
+  "summary": "OS X plotting framework",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/PlotKit",
+  "license": "MIT",
+  "authors": {
+    "Alejandro": "al@isaza.ca"
+  },
+  "platforms": {
+    "osx": "10.10"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/PlotKit.git",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "PlotKit/*.swift",
+    "PlotKit/**/*.swift"
+  ],
+  "dependencies": {
+    "Upsurge": [
+      "~> 0.4"
+    ]
+  }
+}

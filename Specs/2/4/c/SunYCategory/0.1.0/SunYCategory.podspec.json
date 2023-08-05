@@ -1,0 +1,20 @@
+{
+  "name": "SunYCategory",
+  "version": "0.1.0",
+  "summary": "S Category",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SunYCategory",
+  "license": "MIT",
+  "authors": {
+    "mrsun1991": "mrsun_1991@163.com"
+  },
+  "social_media_url": "http://weibo.com",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SunYCategory.git",
+    "tag": "0.1.0"
+  },
+  "source_files": "SunYCategory/**/*",
+  "requires_arc": true
+}

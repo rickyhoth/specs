@@ -1,0 +1,26 @@
+{
+  "name": "JimiVideoPlayer",
+  "version": "1.4.3",
+  "summary": "Jimi RTMP Video Player SDK for iOS at CocoaPods.",
+  "description": "Jimi RTMP Video Player SDK for iOS at CocoaPods.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JimiVideoPlayer",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Eafy": "lizhijian_21@163.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JimiVideoPlayer.git",
+    "tag": "1.4.3"
+  },
+  "ios": {
+    "vendored_frameworks": "JimiVideoPlayer.framework"
+  },
+  "libraries": "c++",
+  "requires_arc": true
+}

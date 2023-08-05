@@ -1,0 +1,21 @@
+{
+  "name": "HJDanmaku",
+  "version": "2.0.4",
+  "summary": "A high performance danmaku engine for iOS",
+  "description": "A high performance danmaku engine for iOS, http://www.olinone.com/?p=186",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HJDanmakuDemo",
+  "license": "MIT",
+  "authors": {
+    "panghaijiao": "275742376@qq.com"
+  },
+  "platforms": {
+    "ios": "5.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HJDanmakuDemo.git",
+    "tag": "2.0.4"
+  },
+  "source_files": "HJDanmaku",
+  "frameworks": "UIKit",
+  "requires_arc": true
+}

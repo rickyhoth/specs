@@ -1,0 +1,21 @@
+{
+  "name": "DZHandy",
+  "version": "1.0",
+  "summary": "基于运行时的简单分类",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DZHandy",
+  "license": "MIT",
+  "authors": {
+    "董棁": "1622997569@qq.com"
+  },
+  "platforms": {
+    "ios": "6.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DZHandy.git",
+    "tag": "1.0"
+  },
+  "source_files": [
+    "DZHandy",
+    "DZHandy/**/*.{h,m}"
+  ]
+}

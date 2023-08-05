@@ -1,0 +1,22 @@
+{
+  "name": "WWHKit",
+  "version": "0.2.0",
+  "summary": "WWHKit 开发中常用的第三方库的注解",
+  "description": "提供讲解详尽的常用第三方库源码赏析以及自己的理解",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WWHKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wangweihu": "wangweihu@jiayuan.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WWHKit.git",
+    "tag": "0.2.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "WWHKit/Classes/**/*"
+}

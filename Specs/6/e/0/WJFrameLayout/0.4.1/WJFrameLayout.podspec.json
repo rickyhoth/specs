@@ -1,0 +1,31 @@
+{
+  "name": "WJFrameLayout",
+  "version": "0.4.1",
+  "summary": "An iOS layout framework based on Frame layout. The way using it is like Masonry. CALayer and UIView are both supported. ",
+  "description": "An iOS layout framework based on Frame layout. The way using it is like Masonry. CALayer and UIView are both supported. ",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WJFrameLayout",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wangwanjie": "wangwanjie1993@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WJFrameLayout.git",
+    "tag": "0.4.1"
+  },
+  "platforms": {
+    "ios": "6.0"
+  },
+  "source_files": [
+    "WJFrameLayout",
+    "WJFrameLayout/**/*.{h,m}"
+  ],
+  "public_header_files": "WJFrameLayout/**/*.h",
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ],
+  "requires_arc": true
+}

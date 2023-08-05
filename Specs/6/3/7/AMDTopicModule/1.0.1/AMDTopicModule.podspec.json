@@ -1,0 +1,36 @@
+{
+  "name": "AMDTopicModule",
+  "version": "1.0.1",
+  "summary": "the module of topic",
+  "description": "the module of topic in app wdwd",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/README.md",
+  "license": "MIT",
+  "authors": {
+    "xieqiang": "xie244135119@163.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AMDTopicModule.git",
+    "tag": "1.0.1"
+  },
+  "source_files": [
+    "AMDTopicModule",
+    "AMDTopicModule/**/*.{h,m}"
+  ],
+  "exclude_files": "Classes/Exclude",
+  "resources": "AMDTopicModule/AMDTopicModule.bundle",
+  "requires_arc": true,
+  "dependencies": {
+    "SSBaseKit": [
+
+    ],
+    "SSBaseLib": [
+
+    ],
+    "SDWebImage": [
+
+    ]
+  }
+}

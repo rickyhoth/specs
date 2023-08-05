@@ -1,0 +1,22 @@
+{
+  "name": "NSString-UrlEncode",
+  "version": "1.0.0",
+  "summary": "Category that adds urlEncode to NSString.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/NSString-UrlEncode",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Kevin Renskers": "info@mixedcase.nl"
+  },
+  "platforms": {
+    "ios": null
+  },
+  "requires_arc": true,
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/NSString-UrlEncode.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "*.{h,m}"
+}

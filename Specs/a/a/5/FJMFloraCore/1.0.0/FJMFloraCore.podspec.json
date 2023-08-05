@@ -1,0 +1,19 @@
+{
+  "name": "FJMFloraCore",
+  "version": "1.0.0",
+  "summary": "FJMFloraCore have some object-c component",
+  "description": "some object-c component",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/FloraCore",
+  "license": "Apache License 2.0",
+  "authors": {
+    "": "478560836@163.com"
+  },
+  "platforms": {
+    "ios": null
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/FloraCore.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "core/component/*.{h,m}"
+}

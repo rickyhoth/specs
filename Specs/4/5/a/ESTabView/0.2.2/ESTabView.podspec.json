@@ -1,0 +1,26 @@
+{
+  "name": "ESTabView",
+  "version": "0.2.2",
+  "summary": "ESTabView.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ESTabView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "云之彼端": "cezres@163.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ESTabView.git",
+    "tag": "0.2.2"
+  },
+  "source_files": [
+    "Classes",
+    "Classes/**/*.{h,m}"
+  ],
+  "public_header_files": "Classes/**/*.h",
+  "requires_arc": true
+}

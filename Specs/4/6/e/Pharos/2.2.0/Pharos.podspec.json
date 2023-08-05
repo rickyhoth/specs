@@ -1,0 +1,24 @@
+{
+  "name": "Pharos",
+  "version": "2.2.0",
+  "summary": "Pharos is Observer pattern framework for Swift that utilize `propertyWrapper",
+  "description": "Pharos is Observer pattern framework for Swift that utilize propertyWrapper. It using builder pattern and designed so it could be read just like english language.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Pharos",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "nayanda": "hainayanda@outlook.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Pharos.git",
+    "tag": "2.2.0"
+  },
+  "platforms": {
+    "ios": "12.0"
+  },
+  "source_files": "Pharos/Classes/**/*",
+  "swift_versions": "5.5",
+  "swift_version": "5.5"
+}

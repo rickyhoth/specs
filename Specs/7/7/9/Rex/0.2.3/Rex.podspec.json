@@ -1,0 +1,27 @@
+{
+  "name": "Rex",
+  "module_name": "Rex",
+  "version": "0.2.3",
+  "summary": "Additional ReactiveCocoa operators",
+  "description": "Extensions for ReactiveCocoa that may not fit in the core framework.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Rex",
+  "license": "MIT",
+  "authors": {
+    "Neil Pankey": "npankey@gmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Rex.git",
+    "tag": "v0.2.3"
+  },
+  "source_files": "Source/**/*.swift",
+  "frameworks": "UIKit",
+  "requires_arc": true,
+  "dependencies": {
+    "ReactiveCocoa": [
+      "3.0-RC.1"
+    ]
+  }
+}

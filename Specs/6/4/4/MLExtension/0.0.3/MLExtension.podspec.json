@@ -1,0 +1,33 @@
+{
+  "name": "MLExtension",
+  "version": "0.0.3",
+  "authors": {
+    "CoderML": "weiminglei1990@163.com"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MLExtension",
+  "summary": "Category",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MLExtension.git",
+    "tag": "0.0.3"
+  },
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "Classes/*.{h,m}",
+  "dependencies": {
+    "MBProgressHUD": [
+
+    ],
+    "SDWebImage": [
+
+    ],
+    "MJExtension": [
+
+    ]
+  }
+}

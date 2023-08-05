@@ -1,0 +1,22 @@
+{
+  "name": "UBIBadgeView",
+  "version": "0.0.1",
+  "summary": "Badge UI for iOS",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/UBIBadgeView",
+  "license": {
+    "type": "MIT"
+  },
+  "authors": {
+    "Yuki Yasoshima": "yasoshima@ubiregi.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/UBIBadgeView.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "UBIBadgeView/*.swift",
+  "swift_version": "4.0"
+}

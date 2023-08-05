@@ -1,0 +1,24 @@
+{
+  "name": "IQKeyboardManager",
+  "version": "2.5.0",
+  "summary": "Keyboard TextField Manager",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/IQKeyboardManager",
+  "screenshots": "https://bitbucket.devops.nonprod.empf.local/scm/react/IQKeyboardManager/blob/master/KeyboardTextFieldDemo/Screenshot/IQKeyboardManagerScreenshot.png",
+  "license": "MIT",
+  "authors": {
+    "Iftekhar Qurashi": "hack.iftekhar@gmail.com"
+  },
+  "platforms": {
+    "ios": "5.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/IQKeyboardManager.git",
+    "tag": "2.5.0"
+  },
+  "source_files": [
+    "Classes",
+    "KeyboardTextFieldDemo/IQKeyBoardManager/*.{h,m}"
+  ],
+  "resources": "KeyboardTextFieldDemo/IQKeyBoardManager/*.png",
+  "requires_arc": true
+}

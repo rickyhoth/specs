@@ -1,0 +1,19 @@
+{
+  "name": "TSNAtomicFlag",
+  "version": "1.0",
+  "license": {
+    "type": "MIT"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TSNAtomicFlag",
+  "authors": {
+    "Brian Lambert": "brianlambert@softwarenerd.org"
+  },
+  "summary": "Atomic flag for Mac and iOS.",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TSNAtomicFlag.git",
+    "tag": "v1.0"
+  },
+  "source_files": "Source/*",
+  "frameworks": "Foundation",
+  "requires_arc": true
+}

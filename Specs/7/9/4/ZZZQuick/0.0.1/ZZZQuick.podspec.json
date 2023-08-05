@@ -1,0 +1,26 @@
+{
+  "name": "ZZZQuick",
+  "summary": "Simple component.",
+  "version": "0.0.1",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZZZQuick",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "guoxuzan": "guoxuzan@qq.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZZZQuick.git",
+    "tag": "0.0.1"
+  },
+  "social_media_url": "http://guoxuzan.com",
+  "source_files": [
+    "ZZZQuick",
+    "ZZZQuick/**/*.{h,m}"
+  ],
+  "frameworks": "UIKit"
+}

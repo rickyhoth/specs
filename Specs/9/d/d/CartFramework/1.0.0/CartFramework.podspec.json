@@ -1,0 +1,22 @@
+{
+  "name": "CartFramework",
+  "version": "1.0.0",
+  "summary": "This CartFramework can be used for any shopping product",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CartFramework",
+  "license": "MIT",
+  "authors": {
+    "WaqarAhmedBajwa": "waqarahmed.bajwa@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CartFramework.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "CartFramework/**/*",
+  "exclude_files": "CartFrameWork/info.plist",
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}

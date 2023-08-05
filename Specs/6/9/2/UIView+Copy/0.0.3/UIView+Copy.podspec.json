@@ -1,0 +1,20 @@
+{
+  "name": "UIView+Copy",
+  "version": "0.0.3",
+  "summary": "Adding a copy method to UIView.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/UIView-Copy",
+  "license": "MIT",
+  "authors": {
+    "Pierre-Marc Airoldi": "pierremarcairoldi@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/UIView-Copy.git",
+    "tag": "0.0.3"
+  },
+  "social_media_url": "https://twitter.com/petester42",
+  "platforms": {
+    "ios": "6.0"
+  },
+  "requires_arc": true,
+  "source_files": "Classes"
+}

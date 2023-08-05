@@ -1,0 +1,28 @@
+{
+  "name": "Flexible",
+  "version": "1.0",
+  "summary": "Smart arrays implemented in Swift",
+  "description": "Provides developer with set of tools that simplify work with arrays in Swift.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Flexible",
+  "screenshots": "https://bitbucket.devops.nonprod.empf.local/scm/react/Flexible/raw/master/Images/logo_2048_600.png",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Igor Matyushkin": "igormatyushkin014@gmail.com"
+  },
+  "social_media_url": "https://twitter.com/imatyushkin1",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Flexible.git",
+    "tag": "1.0"
+  },
+  "source_files": [
+    "Source",
+    "Source/**/*"
+  ],
+  "swift_version": "4.0"
+}

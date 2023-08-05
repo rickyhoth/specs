@@ -1,0 +1,22 @@
+{
+  "name": "kkFramework",
+  "version": "0.0.2",
+  "summary": "kFramework is a framework for testing purpose.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/kFramework.git",
+  "authors": {
+    "KOiSPRK": "koi@smartsoftasia.com"
+  },
+  "license": {
+    "text": "Copyright 2017 KOiSPRK. All rights reserved.",
+    "type": "Testing"
+  },
+  "source": {
+    "http": "https://bitbucket.devops.nonprod.empf.local/scm/react/kFramework/raw/master/kFramework.zip"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "ios": {
+    "vendored_frameworks": "kFramework.framework"
+  }
+}

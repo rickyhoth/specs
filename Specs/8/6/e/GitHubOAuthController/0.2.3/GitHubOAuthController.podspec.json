@@ -1,0 +1,23 @@
+{
+  "name": "GitHubOAuthController",
+  "version": "0.2.3",
+  "summary": "Simple GitHub OAuth Controller",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/GitHubOAuthController",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "dkhamsing": "dkhamsing8@gmail.com"
+  },
+  "social_media_url": "http://twitter.com/dkhamsing",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/GitHubOAuthController.git",
+    "tag": "0.2.3"
+  },
+  "source_files": "GitHubOAuthController/*",
+  "requires_arc": true
+}

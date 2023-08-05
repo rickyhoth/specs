@@ -1,0 +1,22 @@
+{
+  "name": "MulticastDelegateSwift",
+  "version": "2.0.0",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "license": {
+    "type": "MIT"
+  },
+  "summary": "Swift Multicast Delegate",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MulticastDelegate",
+  "authors": {
+    "Joao Nunes": "joao3001@hotmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MulticastDelegate.git",
+    "tag": "2.0.0"
+  },
+  "description": "Multicast Delegate made for swift language.",
+  "source_files": "Sources/MulticastDelegate.swift",
+  "requires_arc": true
+}

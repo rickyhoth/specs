@@ -1,0 +1,17 @@
+{
+  "name": "IRUserResizableView",
+  "version": "0.1.0",
+  "summary": "A powerful resizable view of iOS.",
+  "description": "A powerful resizable view of iOS.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/IRUserResizableView.git",
+  "license": "MIT",
+  "authors": "irons163",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/IRUserResizableView.git",
+    "tag": "0.1.0"
+  },
+  "source_files": "IRUserResizableView/**/*.{h,m}"
+}

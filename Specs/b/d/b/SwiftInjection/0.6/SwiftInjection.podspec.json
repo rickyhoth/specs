@@ -1,0 +1,23 @@
+{
+  "name": "SwiftInjection",
+  "version": "0.6",
+  "summary": "A dependency injection framework for swift",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwiftInjection",
+  "license": {
+    "type": "MIT",
+    "file": "License.txt"
+  },
+  "authors": {
+    "Aryan Ghassemi": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwiftInjection"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwiftInjection.git",
+    "tag": "0.6"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SwiftInjection/*.{swift}",
+  "frameworks": "Foundation",
+  "requires_arc": true
+}

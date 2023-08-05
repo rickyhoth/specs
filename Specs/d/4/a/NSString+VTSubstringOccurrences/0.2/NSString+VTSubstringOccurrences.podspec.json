@@ -1,0 +1,22 @@
+{
+  "name": "NSString+VTSubstringOccurrences",
+  "version": "0.2",
+  "summary": "NSString category to count the number of occurrences for a given substring.",
+  "description": "                   `NSString` category to count the number of occurrences for a given substring.\n",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/NSString-VTSubstringOccurrences",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Vincent Tourraine": "me@vtourraine.net"
+  },
+  "social_media_url": "http://twitter.com/vtourraine",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/NSString-VTSubstringOccurrences.git",
+    "tag": "0.2"
+  },
+  "source_files": "Classes",
+  "frameworks": "Foundation",
+  "requires_arc": true
+}

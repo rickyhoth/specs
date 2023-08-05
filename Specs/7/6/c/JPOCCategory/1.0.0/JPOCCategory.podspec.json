@@ -1,0 +1,17 @@
+{
+  "name": "JPOCCategory",
+  "version": "1.0.0",
+  "summary": "view category.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JPCategory",
+  "license": "MIT",
+  "authors": "baiyi",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JPCategory.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "JPCategory/*.{h,m}",
+  "requires_arc": true
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Carte",
+  "version": "2.2.0",
+  "summary": "Open source notice generator for Cocoa.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Carte",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Suyeol Jeon": "devxoul@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Carte.git",
+    "tag": "2.2.0"
+  },
+  "source_files": "Sources/Carte/*.swift",
+  "preserve_paths": "Sources/Carte/**/*",
+  "requires_arc": true,
+  "swift_version": "5.0",
+  "platforms": {
+    "ios": "8.0"
+  }
+}

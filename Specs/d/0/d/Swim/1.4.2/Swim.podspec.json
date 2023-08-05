@@ -1,0 +1,24 @@
+{
+  "name": "Swim",
+  "version": "1.4.2",
+  "summary": "EZ-NET Standard Swift Module.",
+  "description": "It is a swift module that implements basic features.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ESSwim",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Tomohiro Kumagai": "http://ez-net.jp/profile/"
+  },
+  "social_media_url": "http://twitter.com/es_kumagai",
+  "platforms": {
+    "ios": "8.0",
+    "osx": "10.9"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ESSwim.git",
+    "tag": "1.4.2"
+  },
+  "source_files": "Sources/**/*.swift"
+}

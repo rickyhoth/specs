@@ -1,0 +1,19 @@
+{
+  "name": "RuntimeLib",
+  "version": "1.1.0",
+  "summary": "iOS runtime tools",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/RuntimeLib",
+  "license": "MIT",
+  "authors": {
+    "Reynold": "15116027535@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/RuntimeLib.git",
+    "tag": "1.1.0"
+  },
+  "source_files": "Sources/*",
+  "requires_arc": true
+}

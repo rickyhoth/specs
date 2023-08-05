@@ -1,0 +1,30 @@
+{
+  "name": "MAYMacro",
+  "version": "1.0.0",
+  "summary": "Collect common macros.",
+  "description": "MAYMacro is iPad and iPhone compatible. Supports landscape and portrait orientations.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MAYMacro",
+  "authors": {
+    "马裕博": "1632212092@qq.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "requires_arc": true,
+  "license": {
+    "type": "Apache",
+    "file": "LICENSE"
+  },
+  "frameworks": [
+    "Foundation",
+    "UIKit"
+  ],
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MAYMacro.git",
+    "tag": "1.0.0"
+  },
+  "source_files": [
+    "MAYMacro",
+    "MAYMacro/*.{h}"
+  ]
+}

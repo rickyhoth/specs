@@ -1,0 +1,20 @@
+{
+  "name": "TJLMemoization",
+  "version": "1.0.0",
+  "license": "MIT",
+  "summary": "Easy and safe selector memoization.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TJLMemoization",
+  "authors": {
+    "Terry Lewis II": "terry@ploverproductions.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TJLMemoization.git",
+    "tag": "v1.0.0"
+  },
+  "source_files": "TJLMemoization/Source/*.{h,m}",
+  "requires_arc": true,
+  "platforms": {
+    "ios": "6.0"
+  },
+  "social_media_url": "https://twitter.com/tlewisii"
+}

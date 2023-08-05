@@ -1,0 +1,23 @@
+{
+  "name": "IBActionSheet",
+  "version": "0.0.2",
+  "summary": "Customizable iOS 7 style UIActionSheet",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/IBActionSheet",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Ian Burns": "ianb821@gmail.com"
+  },
+  "platforms": {
+    "ios": "5.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/IBActionSheet.git",
+    "tag": "0.0.2"
+  },
+  "source_files": "IBActionSheetSample/IBActionSheetSample/IBActionSheet.{h,m}",
+  "frameworks": "QuartzCore",
+  "requires_arc": true
+}

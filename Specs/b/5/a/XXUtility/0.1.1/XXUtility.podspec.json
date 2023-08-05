@@ -1,0 +1,26 @@
+{
+  "name": "XXUtility",
+  "version": "0.1.1",
+  "summary": "XXUtility 常用工具类",
+  "description": "# XXUtility 常用工具类",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/XXUtility",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "小新": "1350009686@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/XXUtility.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "XXUtility/Classes/**/*",
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ]
+}

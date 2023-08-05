@@ -1,0 +1,26 @@
+{
+  "name": "EruLegacy",
+  "version": "0.0.1",
+  "summary": "Various utility classes & categories to speed up development.",
+  "description": "Various utility classes & categories to speed up development. Written in obj-c.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/EruLegacy",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Göksel Köksal": "goksel.koksal@outlook.com"
+  },
+  "social_media_url": "http://twitter.com/gokselkk",
+  "platforms": {
+    "ios": "7.1"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/EruLegacy.git",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "Classes",
+    "Pod/Classes/**/*.{h,m}"
+  ]
+}

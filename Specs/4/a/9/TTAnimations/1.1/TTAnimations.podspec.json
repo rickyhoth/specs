@@ -1,0 +1,20 @@
+{
+  "name": "TTAnimations",
+  "license": "MIT",
+  "version": "1.1",
+  "summary": "An  exquisite collection of animation",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TTAnimations",
+  "authors": {
+    "titeng.jiang": "624790402@qq.com"
+  },
+  "requires_arc": true,
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TTAnimations.git",
+    "tag": "1.1"
+  },
+  "platforms": {
+    "ios": "6.0"
+  },
+  "public_header_files": "TTAnimations/*.h",
+  "source_files": "TTAnimations/**/*.{h,m,c}"
+}

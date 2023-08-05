@@ -1,0 +1,19 @@
+{
+  "name": "KKExtensions",
+  "version": "0.3",
+  "summary": "Some useful swift extensions",
+  "description": "Some useful swift extensions:\n* FileManager\n  - getDocumentDirectory\n* Collection\n  - safe",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/KKExtensions",
+  "license": "MIT",
+  "authors": {
+    "Kirill Khudyakov": "hudiakov@gmail.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/KKExtensions.git",
+    "tag": "0.3"
+  },
+  "source_files": "Extensions/**/*"
+}

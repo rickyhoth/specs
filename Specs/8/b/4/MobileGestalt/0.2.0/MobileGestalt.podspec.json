@@ -1,0 +1,25 @@
+{
+  "name": "MobileGestalt",
+  "version": "0.2.0",
+  "summary": "Get iOS device UDID with public API",
+  "description": "- Use public APIs\n- Get iOS device information (UDID, IMEI, Product, Version)\n- Use signed profile",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MobileGestalt",
+  "license": "MIT",
+  "authors": {
+    "冷秋": "516563564@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MobileGestalt.git",
+    "tag": "0.2.0"
+  },
+  "source_files": "MobileGestalt/Classes/**/*.{h,m}",
+  "public_header_files": "MobileGestalt/Classes/Public/*.h",
+  "dependencies": {
+    "GCDWebServer": [
+
+    ]
+  }
+}

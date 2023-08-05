@@ -1,0 +1,19 @@
+{
+  "name": "CBProgressHUD",
+  "version": "1.0.0",
+  "summary": "模仿MBProgressHUD,实现代码轻量化和约束轻微优化.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CBProgressHUD",
+  "license": "MIT",
+  "authors": {
+    "陈超邦": "http://cbang.info"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CBProgressHUD.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "CBProgressHUD/CBProgressHUD/*.{h,m}",
+  "requires_arc": true
+}

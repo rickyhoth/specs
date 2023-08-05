@@ -1,0 +1,19 @@
+{
+  "name": "THCCoreData",
+  "version": "0.0.1",
+  "summary": "A Core Data wrapper",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/thinc.THCCoreData",
+  "license": "MIT",
+  "authors": {
+    "Weber Christopher": "chrisr.weber@gmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/thinc.swift.THCCoreData.git",
+    "tag": "v0.0.1"
+  },
+  "source_files": "THCCoreData/**/*.swift",
+  "requires_arc": true
+}

@@ -1,0 +1,19 @@
+{
+  "name": "libPusher",
+  "version": "1.3",
+  "license": "MIT",
+  "summary": "An Objective-C client for the Pusher.com service.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/libPusher",
+  "authors": "Luke Redpath",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/libPusher.git",
+    "tag": "v1.3"
+  },
+  "source_files": "Library/*",
+  "requires_arc": true,
+  "dependencies": {
+    "SocketRocket": [
+
+    ]
+  }
+}

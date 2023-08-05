@@ -1,0 +1,24 @@
+{
+  "name": "SpanishInflection",
+  "version": "0.0.1",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "summary": "Spanish rules for InflectorKit.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SpanishInflection.git",
+  "authors": {
+    "Héctor Marqués Ranea": "h@mrhector.me"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SpanishInflection.git",
+    "commit": "0.0.1"
+  },
+  "source_files": "SpanishInflection",
+  "requires_arc": true,
+  "dependencies": {
+    "InflectorKit": [
+      "~> 0.0.1"
+    ]
+  }
+}

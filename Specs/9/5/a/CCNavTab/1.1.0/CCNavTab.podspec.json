@@ -1,0 +1,22 @@
+{
+  "name": "CCNavTab",
+  "version": "1.1.0",
+  "summary": "A Easy Way To Construct A Frame for ios.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CCNavTab",
+  "license": "LICENSE",
+  "authors": {
+    "CC": "15223245@qq.com"
+  },
+  "platforms": {
+    "ios": "6.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CCNavTab.git",
+    "tag": "1.1.0"
+  },
+  "source_files": [
+    "CCNavTab",
+    "Lib/CCNavTab/**/*.{h,m}"
+  ],
+  "frameworks": "UIKit"
+}

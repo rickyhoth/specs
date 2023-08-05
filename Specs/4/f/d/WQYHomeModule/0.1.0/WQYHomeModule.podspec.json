@@ -1,0 +1,22 @@
+{
+  "name": "WQYHomeModule",
+  "version": "0.1.0",
+  "summary": "A short description of WQYHomeModule.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/reactWQYHomeModule",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wang-qiuyu": "1069446439@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/reactWQYHomeModule.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "WQYHomeModule/Classes/**/*"
+}

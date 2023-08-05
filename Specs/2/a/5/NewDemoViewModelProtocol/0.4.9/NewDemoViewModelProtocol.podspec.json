@@ -1,0 +1,21 @@
+{
+  "name": "NewDemoViewModelProtocol",
+  "version": "0.4.9",
+  "summary": "A short description of NewDemoViewModelProtocol.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/NewDemoViewModelProtocol",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "only-einsteined": "oieinstein@yeah.net"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/NewDemoViewModelProtocol.git",
+    "tag": "0.4.9"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "NewDemoViewModelProtocol/Code/*{.h}"
+}

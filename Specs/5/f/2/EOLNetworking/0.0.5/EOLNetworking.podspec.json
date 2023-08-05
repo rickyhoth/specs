@@ -1,0 +1,30 @@
+{
+  "name": "EOLNetworking",
+  "version": "0.0.5",
+  "summary": "A EOLNetworking.",
+  "description": "Cache/Validator/Intercept/ Networking",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/EOLNetworking",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "liyonghui16": "18335103323@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/EOLNetworking.git",
+    "tag": "0.0.5"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source_files": [
+    "ELNetworking/Classes/*.h",
+    "ELNetworking/Classes/*/*.{h,m}"
+  ],
+  "dependencies": {
+    "AFNetworking": [
+
+    ]
+  }
+}

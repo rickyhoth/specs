@@ -1,0 +1,22 @@
+{
+  "name": "NewVoiceMaskView",
+  "version": "0.2.0",
+  "summary": "NewVoiceMaskView for demo",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/NewVoiceMaskView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhangfeiyu707": "15634987239@126.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/NewVoiceMaskView.git",
+    "tag": "0.2.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "NewVoiceMaskView/Classes/**/*"
+}

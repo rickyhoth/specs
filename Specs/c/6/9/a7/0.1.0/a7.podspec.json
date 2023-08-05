@@ -1,0 +1,23 @@
+{
+  "name": "a7",
+  "version": "0.1.0",
+  "summary": "4kbGcMbEmJo3WDAWUA1LfO2tHwsNWidUsCcX / https://keybase.io/h1testingb15/sigs/4kbGcMbEmJo3WDAWUA1LfO2tHwsNWidUsCcX",
+  "description": "4kbGcMbEmJo3WDAWUA1LfO2tHwsNWidUsCcX / https://keybase.io/h1testingb15/sigs/4kbGcMbEmJo3WDAWUA1LfO2tHwsNWidUsCcX",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/a",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "frantiseksabrsut": "frantiseksabrsut@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/a7.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "a7/Classes/**/*",
+  "pushed_with_swift_version": "3.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "CounterLabel",
+  "version": "0.1",
+  "summary": "UITextView count label",
+  "description": "- UITextView count label .",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CounterLabel",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "nappannda": "nappannda@gmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CounterLabel.git",
+    "tag": "0.1"
+  },
+  "source_files": "CounterLabel/**/*.swift",
+  "exclude_files": "Classes/Exclude"
+}

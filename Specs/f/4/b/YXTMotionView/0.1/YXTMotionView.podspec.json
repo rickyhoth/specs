@@ -1,0 +1,22 @@
+{
+  "name": "YXTMotionView",
+  "version": "0.1",
+  "summary": "A Custom Image View That Implements Device Motion Scrolling",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/YXTMotionView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Hanton Yang": "hanton.yang@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YXTMotionView.git",
+    "tag": "0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YXTMotionView/*.{h,m}",
+  "requires_arc": true
+}

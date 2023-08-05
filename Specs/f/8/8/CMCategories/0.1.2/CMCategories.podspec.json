@@ -1,0 +1,32 @@
+{
+  "name": "CMCategories",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "version": "0.1.2",
+  "summary": "iOS Categories.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CMCategories",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Jerry": "imjerrybao@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CMCategories.git",
+    "tag": "v0.1.2"
+  },
+  "public_header_files": "Categories/**/*.h",
+  "source_files": "Categories/**/*.{h,m}",
+  "ios": {
+    "frameworks": [
+      "Foundation",
+      "UIKit",
+      "CoreLocation",
+      "CoreData"
+    ]
+  },
+  "libraries": "z",
+  "requires_arc": true
+}

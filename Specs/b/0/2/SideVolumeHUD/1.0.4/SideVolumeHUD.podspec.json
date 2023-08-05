@@ -1,0 +1,28 @@
+{
+  "name": "SideVolumeHUD",
+  "version": "1.0.4",
+  "summary": "SideVolumeHUD",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SideVolumeHUD",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Daniel Illescas Romero": "illescas.daniel@protonmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SideVolumeHUD.git",
+    "tag": "1.0.4"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "Sources/Code/**/*",
+  "frameworks": [
+    "Foundation",
+    "UIKit",
+    "CoreGraphics",
+    "QuartzCore",
+    "MediaPlayer"
+  ]
+}

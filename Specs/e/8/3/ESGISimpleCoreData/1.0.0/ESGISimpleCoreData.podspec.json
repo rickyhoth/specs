@@ -1,0 +1,20 @@
+{
+  "name": "ESGISimpleCoreData",
+  "version": "1.0.0",
+  "summary": "This is a summary.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SimpleCoreData",
+  "authors": "TantePata",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SimpleCoreData.git",
+    "tag": "v1.0.0"
+  },
+  "license": {
+    "type": "BSD",
+    "file": "LICENSE"
+  },
+  "source_files": "Sources/**/*.{swift,h}",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true
+}

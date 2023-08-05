@@ -1,0 +1,31 @@
+{
+  "name": "Boilerplate",
+  "version": "0.1.1",
+  "license": {
+    "type": "Apache 2.0",
+    "file": "LICENSE"
+  },
+  "summary": "Swift boilerplate code library with tons of useful stuff, including Linux compatibility layers",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Boilerplate",
+  "social_media_url": "https://bitbucket.devops.nonprod.empf.local/scm/react/Boilerplate",
+  "authors": {
+    "Daniel Leping": "daniel@crossroadlabs.xyz"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Boilerplate.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "8.0",
+    "osx": "10.9",
+    "tvos": "9.0",
+    "watchos": "2.0"
+  },
+  "source_files": "Boilerplate/*.swift",
+  "dependencies": {
+    "Result": [
+      "~> 2.0"
+    ]
+  },
+  "requires_arc": true
+}

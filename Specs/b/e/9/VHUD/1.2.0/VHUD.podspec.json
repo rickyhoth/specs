@@ -1,0 +1,20 @@
+{
+  "name": "VHUD",
+  "version": "1.2.0",
+  "summary": "Simple HUD.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/VHUD",
+  "license": "MIT",
+  "authors": {
+    "Airin": "xl1138@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/VHUD.git",
+    "tag": "1.2.0"
+  },
+  "requires_arc": true,
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Sources/*.swift",
+  "pushed_with_swift_version": "3.0"
+}

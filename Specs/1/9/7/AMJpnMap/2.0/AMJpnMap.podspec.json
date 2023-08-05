@@ -1,0 +1,23 @@
+{
+  "name": "AMJpnMap",
+  "version": "2.0",
+  "summary": "It can display a simple map of Japan.",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AMJpnMapView",
+  "authors": {
+    "am10": "adventam10@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AMJpnMapView.git",
+    "tag": "2.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "requires_arc": true,
+  "source_files": "AMJpnMapView/**/*.{swift}",
+  "swift_version": "5.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "NBNavigationController",
+  "version": "0.1.5",
+  "summary": "Navigation controller with custom transition",
+  "description": "This NBNavigationController supports custom transition.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/NBNavigationController",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE.txt"
+  },
+  "authors": {
+    "Nishant Bhasin": "nikieme3@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/NBNavigationController.git",
+    "tag": "0.1.5"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "NBNavigationController/*.swift",
+  "pushed_with_swift_version": "3.0"
+}

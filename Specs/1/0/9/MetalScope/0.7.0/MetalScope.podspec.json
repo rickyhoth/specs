@@ -1,0 +1,21 @@
+{
+  "name": "MetalScope",
+  "version": "0.7.0",
+  "summary": "Metal-backed 360° panorama view for iOS",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MetalScope",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": "eje Inc.",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MetalScope.git",
+    "tag": "0.7.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "Sources/**/*.swift",
+  "resources": "Sources/**/*.xcassets",
+  "pushed_with_swift_version": "3.1"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "GBViewCollectionKit",
+  "version": "0.2.3",
+  "summary": "Model based configuration of collection views.",
+  "description": "Library that implements MVVM (Model View ViewModel)-Pattern for Table/Collection-Views. Based on work of Kristaps Zeibarts.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/GBViewCollectionKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Gennady Berezovsky": "bergencroc@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/GBViewCollectionKit.git",
+    "tag": "0.2.3"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "swift_version": "4.0",
+  "source_files": "GBViewCollectionKit/Classes/**/*",
+  "resource_bundles": {
+    "GBViewCollectionKitResources": [
+      "GBViewCollectionKit/Classes/**/*.xib"
+    ]
+  }
+}

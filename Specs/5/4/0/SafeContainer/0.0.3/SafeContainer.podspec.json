@@ -1,0 +1,25 @@
+{
+  "name": "SafeContainer",
+  "version": "0.0.3",
+  "summary": "to make  operatoring containers of iOS such as 'NSArray'、'NSDictionary'、'NSSet'  More Secure.",
+  "description": "the target of this project is to make  operatoring containers of iOS such as 'NSArray'、'NSDictionary'、'NSSet'  More Secure",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SafeContainer",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "qzjian": "qzjian@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SafeContainer.git",
+    "tag": "0.0.3"
+  },
+  "source_files": "SafeContainner/*.{h,m}",
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}

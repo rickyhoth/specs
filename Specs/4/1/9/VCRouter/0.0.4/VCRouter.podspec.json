@@ -1,0 +1,28 @@
+{
+  "name": "VCRouter",
+  "version": "0.0.4",
+  "summary": "VCRouter - prototype",
+  "description": "VCRouter - Prototype View Controller router for iOS/macOS/tvOS (Swift).",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/VCRouter",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "documentation_url": "https://bitbucket.devops.nonprod.empf.local/scm/react/VCRouter",
+  "authors": {
+    "Alexander.Ivlev": "ivlev.stef@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/VCRouter.git",
+    "tag": "v0.0.4"
+  },
+  "requires_arc": true,
+  "source_files": [
+    "VCRouter/VCRouter/Sources/**/*.swift",
+    "VCRouter/VCRouter/VCRouter.h"
+  ],
+  "platforms": {
+    "ios": "8.0"
+  },
+  "pushed_with_swift_version": "3.0"
+}

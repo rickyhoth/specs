@@ -1,0 +1,33 @@
+{
+  "name": "starrymediaDMA-Util",
+  "version": "1.0.2",
+  "summary": "starrymediaDMA-Util Framework",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DMASDK-Chain",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "tangjianqiang": "494326253@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DMASDK-Chain.git",
+    "branch": "util"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "swift_versions": "4.2",
+  "ios": {
+    "vendored_frameworks": "starrymediaDMA_Util.framework"
+  },
+  "dependencies": {
+    "Alamofire": [
+      "~> 4.7"
+    ],
+    "HandyJSON": [
+      "~> 5.0.0"
+    ]
+  },
+  "swift_version": "4.2"
+}

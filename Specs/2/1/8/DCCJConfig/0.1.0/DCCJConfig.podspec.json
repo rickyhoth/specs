@@ -1,0 +1,22 @@
+{
+  "name": "DCCJConfig",
+  "version": "0.1.0",
+  "summary": "Global config and setting are here.",
+  "description": "Global config and setting are here used by DCCJ",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DCCJConfig",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Ghstart": "gonghuan2020@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DCCJConfig.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "DCCJConfig/Classes/**/*"
+}

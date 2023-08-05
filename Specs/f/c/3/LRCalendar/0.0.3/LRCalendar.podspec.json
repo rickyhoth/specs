@@ -1,0 +1,20 @@
+{
+  "name": "LRCalendar",
+  "version": "0.0.3",
+  "summary": "LRCalendar",
+  "description": "可自定义日历",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LRCalendar",
+  "license": "MIT",
+  "authors": {
+    "leo": "work.mileo@gmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LRCalendar.git",
+    "tag": "0.0.3"
+  },
+  "requires_arc": true,
+  "source_files": "LRCalendar/LRCalendar/*"
+}

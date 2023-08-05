@@ -1,0 +1,22 @@
+{
+  "name": "DKLogger",
+  "version": "0.3.8.1",
+  "summary": "A short description of DKLogger.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DKLogger",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "winterrain5": "913419042@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DKLogger.git",
+    "tag": "0.3.8.1"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "DKLogger/Classes/**/*"
+}

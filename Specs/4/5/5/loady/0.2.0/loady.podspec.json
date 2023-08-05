@@ -1,0 +1,24 @@
+{
+  "name": "loady",
+  "platforms": {
+    "ios": "10.0"
+  },
+  "summary": "fully customizable loading button with 8 different styles.",
+  "requires_arc": true,
+  "version": "0.2.0",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "farshad jahanmanesh": "farshadjahanmanesh@gmail.com"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/loady",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/loady.git",
+    "tag": "0.2.0"
+  },
+  "frameworks": "UIKit",
+  "source_files": "loady/LoadingButton/**/*.{swift}",
+  "swift_version": "4.2"
+}

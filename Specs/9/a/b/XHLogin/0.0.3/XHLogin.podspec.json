@@ -1,0 +1,37 @@
+{
+  "name": "XHLogin",
+  "version": "0.0.3",
+  "license": "MIT",
+  "summary": "XHLogin summary",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "swift_versions": "4.2",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/XHLogin",
+  "authors": {
+    "zklcode": "372909335@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/XHLogin.git",
+    "tag": "0.0.3"
+  },
+  "dependencies": {
+    "ZCommonTool": [
+      "~> 0.1.0"
+    ],
+    "XHNetTool": [
+
+    ],
+    "MBProgressHUD": [
+
+    ],
+    "SnapKit": [
+
+    ]
+  },
+  "source_files": "Modules/Classes/**/*",
+  "resources": [
+    "Modules/Assets/*.xcassets"
+  ],
+  "swift_version": "4.2"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "BOZPongRefreshControl",
+  "version": "0.1.1",
+  "summary": "A pull-down-to-refresh control for iOS that plays pong, originally created for the MHacks III iOS app",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/BOZPongRefreshControl",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Ben Oztalay": "boztalay@gmail.com",
+    "Joseph Constan": "jcon5294@gmail.com"
+  },
+  "platforms": {
+    "ios": null
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/BOZPongRefreshControl.git",
+    "tag": "0.1.1"
+  },
+  "source_files": "BOZPongRefreshControl/**/*.{h,m}",
+  "public_header_files": "BOZPongRefreshControl/**/*.h",
+  "frameworks": "UIKit",
+  "requires_arc": true
+}

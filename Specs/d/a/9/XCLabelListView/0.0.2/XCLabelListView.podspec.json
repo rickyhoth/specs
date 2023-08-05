@@ -1,0 +1,22 @@
+{
+  "name": "XCLabelListView",
+  "version": "0.0.2",
+  "summary": "XCLabelListView.",
+  "description": "XCLabelListView，列表标签视图",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/XCLabelListView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "fanxiaocong": "1016697223@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/XCLabelListView.git",
+    "tag": "0.0.2"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "XCLabelListView/Classes/**/*"
+}

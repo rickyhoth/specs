@@ -1,0 +1,28 @@
+{
+  "name": "tru-sdk-ios",
+  "version": "1.0.0",
+  "summary": "SDK for tru.ID",
+  "description": "iOS SDK for tru.ID: SIM Based Authentication.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/tru-sdk-ios",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE.md"
+  },
+  "authors": {
+    "author": "eric@tru.id"
+  },
+  "documentation_url": "https://bitbucket.devops.nonprod.empf.local/scm/react/README.md",
+  "platforms": {
+    "ios": "12.0"
+  },
+  "swift_versions": "5.3",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/tru-sdk-ios.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "Sources/TruSDK/**/*.swift",
+  "xcconfig": {
+    "SWIFT_VERSION": "5.3"
+  },
+  "swift_version": "5.3"
+}

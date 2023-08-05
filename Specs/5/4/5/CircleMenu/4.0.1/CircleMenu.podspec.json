@@ -1,0 +1,18 @@
+{
+  "name": "CircleMenu",
+  "version": "4.0.1",
+  "summary": "Amazing animation with buttons",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/circle-menu",
+  "license": "MIT",
+  "authors": {
+    "Juri Vasylenko": "juri.v@ramotion.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/circle-menu.git",
+    "tag": "4.0.1"
+  },
+  "source_files": "CircleMenuLib/**/*.swift"
+}

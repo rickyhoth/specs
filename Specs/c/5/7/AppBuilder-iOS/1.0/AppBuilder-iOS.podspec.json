@@ -1,0 +1,24 @@
+{
+  "name": "AppBuilder-iOS",
+  "version": "1.0",
+  "summary": "MidlandCalc includes the common components of Mortgage Calculator.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AppBuilder-iOS",
+  "license": {
+    "type": "Custom",
+    "text": "Copyright (C) Roynal Next. All Rights Reserved."
+  },
+  "authors": {
+    "Harry Ng": "roytornado@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AppBuilder-iOS.git",
+    "tag": "1.0"
+  },
+  "platforms": {
+    "ios": "5.1"
+  },
+  "source_files": "Lib/**/*.{h,m}",
+  "frameworks": "QuartzCore",
+  "resources": "Lib/Res/**",
+  "requires_arc": true
+}

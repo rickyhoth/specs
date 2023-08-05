@@ -1,0 +1,30 @@
+{
+  "name": "KProgressHUD",
+  "version": "1.0.0",
+  "summary": "An iOS activity indicator view.",
+  "description": "KProgressHUD is a framework that rewrite the [MBProgressHUD](https://bitbucket.devops.nonprod.empf.local/scm/react/MBProgressHUD) in Swift.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/KProgressHUD",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": "Kid17 iOS Team",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "swift_version": "5.0",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/KProgressHUD.git",
+    "tag": "1.0.0"
+  },
+  "frameworks": [
+    "QuartzCore",
+    "CoreGraphics"
+  ],
+  "source_files": "KProgressHUD/Classes/**/*.swift",
+  "dependencies": {
+    "SnapKit": [
+      "~> 4.2.0"
+    ]
+  }
+}

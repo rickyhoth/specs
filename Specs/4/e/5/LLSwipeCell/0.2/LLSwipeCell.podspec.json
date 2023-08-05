@@ -1,0 +1,19 @@
+{
+  "name": "LLSwipeCell",
+  "summary": "LLSwipeCell",
+  "version": "0.2",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LLSwipeCell",
+  "license": "MIT",
+  "authors": {
+    "Eugene Ovchynnykov": "eugene.ovchynnykov@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LLSwipeCell.git",
+    "tag": "0.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "LLSwipeCell/*"
+}

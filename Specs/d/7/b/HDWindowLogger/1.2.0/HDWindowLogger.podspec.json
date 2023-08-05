@@ -1,0 +1,23 @@
+{
+  "name": "HDWindowLogger",
+  "version": "1.2.0",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "summary": "iOS端将输出日志log悬浮显示在屏幕上，便于在真机调试信息",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HDNetTools",
+  "authors": {
+    "DamonHu": "dong765@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HDWindowLogger.git",
+    "tag": "1.2.0"
+  },
+  "requires_arc": true,
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "HDWindowLogger/HDWindowLogger/*.{h,m}",
+  "frameworks": "UIKit"
+}

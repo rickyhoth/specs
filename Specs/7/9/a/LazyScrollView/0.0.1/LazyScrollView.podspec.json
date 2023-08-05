@@ -1,0 +1,22 @@
+{
+  "name": "LazyScrollView",
+  "version": "0.0.1",
+  "summary": "iOS 高性能异构滚动视图构建方案.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LazyScrollView",
+  "license": {
+    "type": "MIT License",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "TsingZhang": "history_zq@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LazyScrollView.git",
+    "tag": "0.0.2"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source_files": "Classes/*.{h,m}",
+  "requires_arc": true
+}

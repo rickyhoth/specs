@@ -1,0 +1,22 @@
+{
+  "name": "JCMacros",
+  "version": "2",
+  "summary": "Objective-C 常用的宏定义",
+  "description": "Objective-C 常用的宏定义，为开发提供了很多方便",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JCMacros",
+  "license": "MIT",
+  "authors": {
+    "JackCat": "devjackcat@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JCMacros.git",
+    "tag": "2"
+  },
+  "source_files": "JCMacros/JCMacros/*.{h,m}",
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}

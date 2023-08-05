@@ -1,0 +1,27 @@
+{
+  "name": "EasySDK",
+  "version": "0.1.1",
+  "summary": "简单的工具.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/EasySDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "tianpengtao": "tianpengtao@foxmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/EasySDK.git"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source_files": "EasySDK/Classes/**/*",
+  "dependencies": {
+    "FMDB": [
+
+    ]
+  },
+  "requires_arc": true
+}

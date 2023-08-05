@@ -1,0 +1,24 @@
+{
+  "name": "FitBleKit",
+  "version": "1.0.2",
+  "summary": "Onecoder Ble Framework.",
+  "description": "Onecoder Ble Framework.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/FitBleKit",
+  "license": "MIT",
+  "authors": {
+    "onecoder": "mfpendy@onecoder.com.cn"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/FitBleKit.git",
+    "tag": "1.0.2"
+  },
+  "source_files": "FitBleKit/**/*.{h,m,c}",
+  "public_header_files": "FitBleKit/KitHeader/FitBleKit.h",
+  "frameworks": "CoreBluetooth",
+  "pod_target_xcconfig": {
+    "VALID_ARCHS[sdk=iphonesimulator*]": ""
+  }
+}

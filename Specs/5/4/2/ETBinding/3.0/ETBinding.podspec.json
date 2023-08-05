@@ -1,0 +1,24 @@
+{
+  "name": "ETBinding",
+  "version": "3.0",
+  "summary": "ETBinding",
+  "description": "ETBinding is set of observable classes. Unlike a regular observable is lifecycle-aware, meaning it respects the lifecycle of its owner.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ETBinding",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Jan Cislinsky": "jan.cislinsky@etnetera.cz"
+  },
+  "social_media_url": "",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ETBinding.git",
+    "tag": "3.0"
+  },
+  "source_files": "Sources/**/*",
+  "frameworks": "Foundation"
+}

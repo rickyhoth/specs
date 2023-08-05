@@ -1,0 +1,25 @@
+{
+  "name": "ASMediaFocusManager",
+  "version": "0.1",
+  "license": "MIT",
+  "summary": "Animate your iOS image views to fullscreen on a simple tap.",
+  "authors": {
+    "Philippe Converset": "pconverset@autresphere.com"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ASMediaFocusManager",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ASMediaFocusManager.git",
+    "tag": "0.1"
+  },
+  "platforms": {
+    "ios": "6.0"
+  },
+  "source_files": "ASMediaFocusManager/*.{h,m}",
+  "resources": "ASMediaFocusManager/*.{xib}",
+  "frameworks": [
+    "UIKit",
+    "Foundation",
+    "CoreGraphics"
+  ],
+  "requires_arc": true
+}

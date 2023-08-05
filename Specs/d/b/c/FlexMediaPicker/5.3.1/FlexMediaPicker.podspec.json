@@ -1,0 +1,49 @@
+{
+  "name": "FlexMediaPicker",
+  "version": "5.3.1",
+  "license": "MIT",
+  "summary": "Image",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/FlexMediaPicker.git",
+  "authors": {
+    "Martin Jacob Rehder": "gitrepocon01@rehsco.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/FlexMediaPicker.git",
+    "tag": "5.3.1"
+  },
+  "swift_versions": "5.0",
+  "platforms": {
+    "ios": "12.1"
+  },
+  "dependencies": {
+    "ImagePersistence": [
+
+    ],
+    "DateToolsSwift": [
+
+    ],
+    "StyledOverlay": [
+
+    ],
+    "ImageSlideshow": [
+
+    ],
+    "TaskQueue": [
+
+    ],
+    "Player": [
+
+    ],
+    "DSWaveformImage": [
+
+    ],
+    "FlexImageCropView": [
+
+    ]
+  },
+  "frameworks": "UIKit",
+  "source_files": "FlexMediaPicker/**/*.swift",
+  "resources": "FlexMediaPicker/**/*.xcassets",
+  "requires_arc": true,
+  "swift_version": "5.0"
+}

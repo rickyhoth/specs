@@ -1,0 +1,19 @@
+{
+  "name": "SMStateMachine",
+  "version": "1.0.0",
+  "summary": "Very simple state machine written in Objective-C.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SimpleStateMachine",
+  "license": "MIT",
+  "authors": {
+    "Artem Kireev": "est1908@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SimpleStateMachine.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "5.0"
+  },
+  "requires_arc": true,
+  "source_files": "SMStateMachine"
+}

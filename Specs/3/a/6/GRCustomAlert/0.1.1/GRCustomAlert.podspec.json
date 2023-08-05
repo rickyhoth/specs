@@ -1,0 +1,24 @@
+{
+  "name": "GRCustomAlert",
+  "version": "0.1.1",
+  "summary": "Customizable alert for iOS.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/GRCustomAlert",
+  "license": "MIT",
+  "authors": {
+    "grawson": "grawson2@jhu.edu"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/GRCustomAlert.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "8.3"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "GRCustomAlert": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}

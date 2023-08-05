@@ -1,0 +1,22 @@
+{
+  "name": "LPDAdditionsKit",
+  "version": "0.1.1",
+  "summary": "A short description of LPDAdditionsKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/lpd-additions-kit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "foxsofter": "foxsofter@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/lpd-additions-kit.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LPDAdditionsKit/Classes/**/*"
+}

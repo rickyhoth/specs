@@ -1,0 +1,23 @@
+{
+  "name": "KCKeyboardScrollingImagePicker",
+  "deprecated": true,
+  "version": "0.2.1",
+  "summary": "Deprecated. Please use KCKeyboardImagePicker.",
+  "description": "This library is deprecated. Please use KCKeyboardImagePicker.\nhttps://bitbucket.devops.nonprod.empf.local/scm/react/KCKeyboardImagePicker",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/KCKeyboardScrollingImagePicker",
+  "authors": "Kevin Yufei Chen",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/KCKeyboardScrollingImagePicker.git",
+    "tag": "0.2.1"
+  },
+  "license": "None",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "resource_bundles": {
+    "KCKeyboardScrollingImagePicker": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}

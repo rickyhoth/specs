@@ -1,0 +1,19 @@
+{
+  "name": "SwiftCircleSlider",
+  "version": "0.2.0",
+  "summary": "A circular slider (UI-Control) with basic modification possibilities. Written in Swift.",
+  "license": "MIT",
+  "authors": "Milan Ruben Kappen",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwiftCircleSlider",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": [
+    "SwiftCircleSlider",
+    "SwiftCircleSlider/**/*.{h,m,swift}"
+  ],
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwiftCircleSlider.git",
+    "tag": "0.2.0"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "yjyNuke",
+  "version": "0.0.3",
+  "summary": "nuke nuke",
+  "description": "A short description of nuke.\naaaaa",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/nuke",
+  "license": {
+    "type": "MIT",
+    "file": "FILE_LICENSE"
+  },
+  "authors": {
+    "yejinyong": "616115891@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/nuke.git",
+    "tag": "0.0.3"
+  },
+  "source_files": "Sources/*.{h,m}",
+  "public_header_files": "Sources/*.{h}",
+  "platforms": {
+    "ios": "9.0"
+  }
+}

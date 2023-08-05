@@ -1,0 +1,23 @@
+{
+  "name": "Buckets",
+  "version": "0.1.1",
+  "summary": "Complete, tested and documented data structure library in Swift",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Buckets-Swift",
+  "authors": {
+    "Mauricio Santos": "mauriciosantoss@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Buckets-Swift.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "8.0",
+    "osx": "10.9"
+  },
+  "source_files": "Source/*.{swift}",
+  "requires_arc": true
+}

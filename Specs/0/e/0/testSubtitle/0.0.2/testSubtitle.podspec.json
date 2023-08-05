@@ -1,0 +1,19 @@
+{
+  "name": "testSubtitle",
+  "version": "0.0.2",
+  "summary": "preload project for Subtitle.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/testSubtitle",
+  "license": "MIT",
+  "authors": {
+    "Seungho Hong": "gegorguly@gmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/testSubtitle.git",
+    "tag": "0.0.2"
+  },
+  "source_files": "testSubtitle/classes/*.swift",
+  "requires_arc": true
+}

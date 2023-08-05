@@ -1,0 +1,22 @@
+{
+  "name": "WYLineChart",
+  "version": "0.0.2",
+  "summary": "WYLineChart.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WYLineChart",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lemon": "463918560@qq.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WYLineChart.git",
+    "tag": "0.0.2"
+  },
+  "source_files": "WYLineChart/WYLineChartView/*.{h,m}",
+  "requires_arc": true
+}

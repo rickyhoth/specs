@@ -1,0 +1,20 @@
+{
+  "name": "btnImageLocation",
+  "version": "0.0.1",
+  "summary": "set ios btn iamgeLocation",
+  "description": "a catagory for set ios btn iamgeLocation",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/btnImageLocation",
+  "license": "MIT",
+  "authors": {
+    "cocoazxy": "cocoazxy@gmail.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/btnImageLocation.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "classess/**/*.{h,m}",
+  "requires_arc": true
+}

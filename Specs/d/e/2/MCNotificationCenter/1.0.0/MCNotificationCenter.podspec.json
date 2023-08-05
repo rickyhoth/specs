@@ -1,0 +1,19 @@
+{
+  "name": "MCNotificationCenter",
+  "version": "1.0.0",
+  "summary": "NSNotificationCenter and KVO manager for iOS.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MCNotificationCenter",
+  "license": "MIT",
+  "authors": {
+    "Max Campolo": "m.campolo91@gmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MCNotificationCenter.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "MCNotificationCenter/Source/*.swift",
+  "requires_arc": true
+}

@@ -1,0 +1,22 @@
+{
+  "name": "BSBacktraceLogger",
+  "version": "0.0.1",
+  "summary": "BSBacktraceLogger",
+  "description": "BSBacktraceLogger Desc",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/BSBacktraceLogger",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yixiang": "javer_yi@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/BSBacktraceLogger",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "BSBacktraceLogger/**/*{.h,.m}"
+}

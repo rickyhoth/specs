@@ -1,0 +1,33 @@
+{
+  "name": "MNExpandableCell",
+  "version": "0.1.0",
+  "summary": "A short description of MNExpandableCell.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MNExpandableCell",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "markoNazmy": "markoNazmy"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MNExpandableCell.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "swift_version": "4.0",
+  "source_files": "MNExpandableCell/Classes/**/*",
+  "resource_bundles": {
+    "MNExpandableCell": [
+      "MNExpandableCell/Assets/*.xib"
+    ]
+  },
+  "dependencies": {
+    "SnapKit": [
+
+    ]
+  }
+}

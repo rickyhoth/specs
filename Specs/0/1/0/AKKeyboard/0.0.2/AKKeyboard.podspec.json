@@ -1,0 +1,27 @@
+{
+  "name": "AKKeyboard",
+  "version": "0.0.2",
+  "summary": "AKKeyboard.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AKKeyboard.git",
+  "license": {
+    "type": "MIT",
+    "file": "FILE_LICENSE"
+  },
+  "authors": {
+    "ak": "549488710@qq.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AKKeyboard.git",
+    "tag": "0.0.2"
+  },
+  "source_files": [
+    "AKKeyboard",
+    "AKKeyboard/**/*.{h,m}"
+  ],
+  "resources": "AKKeyboard/AKKeyboard.bundle",
+  "frameworks": "UIKit",
+  "requires_arc": true
+}

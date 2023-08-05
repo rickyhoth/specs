@@ -1,0 +1,20 @@
+{
+  "name": "SSMenuView",
+  "version": "0.1.1",
+  "summary": "create a menuView by yourself",
+  "description": "一个可自定义的底部弹出选择框(create a menuView by yourself)",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SSMenuView",
+  "license": "MIT",
+  "authors": {
+    "sun6762": "1458742008@qq.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SSMenuView.git",
+    "tag": "0.1.1"
+  },
+  "source_files": "SSMenuView/Code/*.{h,m}",
+  "frameworks": "UIKit"
+}

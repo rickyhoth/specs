@@ -1,0 +1,30 @@
+{
+  "name": "YFRouter",
+  "version": "0.1.2",
+  "summary": "A iOS Router Component",
+  "description": "YFRouter is a part of YFKit，",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/YFRouter",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "laizw": "i@laizw.cn"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YFRouter.git",
+    "tag": "0.1.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": [
+    "YFRouter",
+    "YFRouter/*.{h,m}"
+  ],
+  "dependencies": {
+    "YFLog": [
+
+    ]
+  }
+}

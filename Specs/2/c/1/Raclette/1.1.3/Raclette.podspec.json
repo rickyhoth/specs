@@ -1,0 +1,19 @@
+{
+  "name": "Raclette",
+  "version": "1.1.3",
+  "license": "MIT",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Raclette.git",
+  "summary": "🧀 Let's get cheesy with Raclette, a UITableView extension to add rows and sections on-the-fly",
+  "authors": {
+    "rmnblm": "rmnblm@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Raclette.git",
+    "tag": "1.1.3"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Raclette/*.swift",
+  "pushed_with_swift_version": "3.0"
+}

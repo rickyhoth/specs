@@ -1,0 +1,22 @@
+{
+  "name": "WXPickerView",
+  "version": "0.1.1",
+  "summary": "A short description of WXPickerView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WXPickerView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wtj900": "wtj900@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WXPickerView.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "WXPickerView/Classes/**/*"
+}

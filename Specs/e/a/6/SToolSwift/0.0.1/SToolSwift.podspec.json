@@ -1,0 +1,26 @@
+{
+  "name": "SToolSwift",
+  "version": "0.0.1",
+  "summary": "My Tool.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SToolSwift",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "stewartqiu": "stewartqiu@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SToolSwift.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source_files": "SToolSwift/Classes/**/*",
+  "frameworks": [
+    "UIKit",
+    "MapKit"
+  ]
+}

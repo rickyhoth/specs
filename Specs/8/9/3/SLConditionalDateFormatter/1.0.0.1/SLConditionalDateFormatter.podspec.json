@@ -1,0 +1,25 @@
+{
+  "name": "SLConditionalDateFormatter",
+  "version": "1.0.0.1",
+  "summary": "\"today 2 hours ago\" and \"yesterday at 4 PM\" in one formatter",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SLConditionalDateFormatter",
+  "license": "MIT",
+  "authors": {
+    "Sebastian Ludwig": "sebastian@lurado.de"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SLConditionalDateFormatter.git",
+    "tag": "1.0.0.1"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "deprecated_in_favor_of": "LDOConditionalDateFormatter",
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "SLConditionalDateFormatter": [
+      "Pod/Assets/*.lproj"
+    ]
+  }
+}

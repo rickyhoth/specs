@@ -1,0 +1,28 @@
+{
+  "name": "FSCalendar+Persian",
+  "version": "2.9.3",
+  "summary": "RTL (Persian and Arabic) version of FSCalendar. https://husseinhj.github.io/FSCalendar/",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/FSCalendar",
+  "screenshots": [
+    "https://bitbucket.devops.nonprod.empf.local/scm/react/FSCalendar/raw/master/docs/Screenshots/English/DIY-Example-en.png",
+    "https://raw.githubusercontent.com/Husseinhj/FSCalendar/master/docs/Screenshots/Persian/DIY-Example-fa.png",
+    "https://bitbucket.devops.nonprod.empf.local/scm/react/FSCalendar/raw/master/docs/Screenshots/Arabic/DIY-Example-ar.png"
+  ],
+  "license": "MIT",
+  "authors": {
+    "Hussein Habibi Juybari": "hussein.juybari@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/FSCalendar.git",
+    "tag": "2.9.3"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "frameworks": [
+    "UIKit",
+    "QuartzCore"
+  ],
+  "source_files": "FSCalendar/*.{h,m}"
+}

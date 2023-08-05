@@ -1,0 +1,22 @@
+{
+  "name": "SWBaseViewController",
+  "version": "1.1.0",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SWBaseViewController",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "summary": "自定义导航",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Zhoushaowen": "348345883@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SWBaseViewController.git",
+    "tag": "1.1.0"
+  },
+  "source_files": "SWBaseViewController/SWBaseViewController/*.{h,m}",
+  "requires_arc": true
+}

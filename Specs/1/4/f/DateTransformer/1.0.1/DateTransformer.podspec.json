@@ -1,0 +1,22 @@
+{
+  "name": "DateTransformer",
+  "version": "1.0.1",
+  "source_files": "DateTransformer/**/*.{h,m}",
+  "summary": "A DateTransformer convert date to string using custom formats and visversa.",
+  "description": "A DateTransformer module convert date to string using custom formats and visversa.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DateTransformer",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Khaled Mahmoud": "khaled.mahmoud@asgatech.com"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DateTransformer.git",
+    "tag": "1.0.1"
+  }
+}

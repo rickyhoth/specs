@@ -1,0 +1,21 @@
+{
+  "name": "Haitch",
+  "version": "0.5.2",
+  "license": "Posse",
+  "summary": "Simple HTTP for Swift",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/haitch",
+  "social_media_url": "http://twitter.com/goposse",
+  "authors": {
+    "Posse Productions LLC": "apps@goposse.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/haitch.git",
+    "tag": "0.5.2"
+  },
+  "platforms": {
+    "ios": "8.0",
+    "osx": "10.9"
+  },
+  "source_files": "Source/**/*.swift",
+  "requires_arc": true
+}

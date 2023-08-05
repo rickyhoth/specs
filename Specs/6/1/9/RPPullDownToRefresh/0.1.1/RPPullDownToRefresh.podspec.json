@@ -1,0 +1,26 @@
+{
+  "name": "RPPullDownToRefresh",
+  "version": "0.1.1",
+  "summary": "iOS pull to refresh library",
+  "description": "RPPullDownToRefresh is an OpenSource pull to refresh library for iOS 8 and above",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/RPPullDownToRefresh",
+  "license": "MIT",
+  "authors": {
+    "Francesco Petrungaro (RedPlumber)": "redplumber@icloud.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/RPPullDownToRefresh.git",
+    "tag": "0.1.1"
+  },
+  "social_media_url": "https://twitter.com/petrungarof",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "RPPullDownToRefresh": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}

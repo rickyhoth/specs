@@ -1,0 +1,22 @@
+{
+  "name": "FlexibleModelProtocol",
+  "version": "1.1.2",
+  "license": "MIT",
+  "summary": "Model protocol with flexible, diverse types of conversion",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/FlexibleModelProtocol",
+  "authors": {
+    "hanwe lee": "mobiledev@kakao.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/FlexibleModelProtocol.git",
+    "tag": "1.1.2"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "swift_versions": "5.0",
+  "source_files": "FlexibleModelProtocol/FlexibleModelProtocol/*.{h,m,swift}",
+  "description": "Navigation view whose shape changes depending on the scroll position",
+  "exclude_files": "Classes/Exclude",
+  "swift_version": "5.0"
+}

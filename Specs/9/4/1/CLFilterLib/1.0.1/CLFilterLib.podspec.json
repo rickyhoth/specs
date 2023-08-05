@@ -1,0 +1,28 @@
+{
+  "name": "CLFilterLib",
+  "version": "1.0.1",
+  "summary": "image and video add filters",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CLFilterLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ClaudeLi": "claudeli@yeah.net"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CLFilterLib.git",
+    "tag": "1.0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CLFilterLib/Classes/**/*.{h,m}",
+  "resources": "CLFilterLib/Resources/CLFilters.bundle",
+  "dependencies": {
+    "GPUImage": [
+
+    ]
+  }
+}

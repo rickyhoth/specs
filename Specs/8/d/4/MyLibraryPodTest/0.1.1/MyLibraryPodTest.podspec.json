@@ -1,0 +1,22 @@
+{
+  "name": "MyLibraryPodTest",
+  "version": "0.1.1",
+  "summary": "测试pod",
+  "description": "测试pod",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MyLibraryPodTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "fndppx": "weikeyan@zuoyebang.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MyLibraryPodTest.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "MyLibraryPodTest/Classes/*"
+}

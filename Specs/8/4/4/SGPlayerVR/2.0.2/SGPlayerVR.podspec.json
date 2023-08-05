@@ -1,0 +1,23 @@
+{
+  "name": "SGPlayerVR",
+  "version": "2.0.2",
+  "summary": "A media player framework for iOS, macOS, and tvOS.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SGPlayer",
+  "authors": {
+    "Name": "nicka@substantial.com"
+  },
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "http": "https://bitbucket.devops.nonprod.empf.local/scm/react/SGPlayer/releases/download/v2.0.2/SGPlayerVR.zip"
+  },
+  "ios": {
+    "vendored_frameworks": "SGPlayer.framework"
+  },
+  "static_framework": true
+}

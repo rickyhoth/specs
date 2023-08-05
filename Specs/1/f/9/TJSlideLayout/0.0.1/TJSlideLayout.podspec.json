@@ -1,0 +1,19 @@
+{
+  "name": "TJSlideLayout",
+  "version": "0.0.1",
+  "summary": "TJSlideLayout is subclass of UICollectionViewLayout.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TJSlideLayout",
+  "license": "MIT",
+  "authors": {
+    "sunfengqian": "sunfengqian163@163.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TJSlideLayout.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "TJSlideLayout/**/*.{h,m}",
+  "requires_arc": true
+}

@@ -1,0 +1,33 @@
+{
+  "name": "QKAudioPlayer",
+  "version": "0.1.1",
+  "summary": "QKAudioPlayer.",
+  "description": "TODO: 音频播放.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/QKAudioPlayer",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "huahong": "2330669775@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/QKAudioPlayer.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "QKAudioPlayer/Classes/*.{h,m,swift}",
+  "dependencies": {
+    "QKTimer": [
+
+    ],
+    "SVProgressHUD": [
+
+    ],
+    "YYCategories": [
+
+    ]
+  }
+}

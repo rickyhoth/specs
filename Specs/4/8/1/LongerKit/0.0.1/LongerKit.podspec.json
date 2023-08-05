@@ -1,0 +1,21 @@
+{
+  "name": "LongerKit",
+  "version": "0.0.1",
+  "summary": "Some quick functions for iOS.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LongerKit",
+  "license": "MIT",
+  "authors": {
+    "LongerONE": "tangwanlong425@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LongerKit.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "LongerKit/**/*.{h,m}",
+  "frameworks": "UIKit",
+  "requires_arc": true,
+  "deprecated": true
+}

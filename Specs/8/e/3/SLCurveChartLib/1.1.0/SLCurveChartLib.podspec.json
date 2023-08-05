@@ -1,0 +1,27 @@
+{
+  "name": "SLCurveChartLib",
+  "version": "1.1.0",
+  "summary": "Offer a easy to built a statisticsView For iOS",
+  "description": "It is a marquee view used on iOS, which implement by Objective-C.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SLCurveChartDemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "cslmark": "chensl@hadlinks.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SLCurveChartLib.git",
+    "tag": "1.1.0"
+  },
+  "source_files": "SLChartLibDemo/SLChartLibDemo/SLCurveChartLib/**/*.{h,m}",
+  "frameworks": [
+    "Foundation",
+    "UIKit"
+  ],
+  "requires_arc": true
+}

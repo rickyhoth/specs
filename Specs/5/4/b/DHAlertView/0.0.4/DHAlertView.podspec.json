@@ -1,0 +1,24 @@
+{
+  "name": "DHAlertView",
+  "version": "0.0.4",
+  "summary": "A delightful iOS AlertView.",
+  "description": "It is alertView of UITableView",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DHAlertView",
+  "license": "MIT",
+  "authors": {
+    "mcq": "845891612@qq.com"
+  },
+  "platforms": {
+    "ios": "5.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DHAlertView.git",
+    "tag": "0.0.4"
+  },
+  "source_files": [
+    "Classes",
+    "Classes/**/*.{h, m}"
+  ],
+  "resources": "Classes/**/*.xib",
+  "requires_arc": true
+}

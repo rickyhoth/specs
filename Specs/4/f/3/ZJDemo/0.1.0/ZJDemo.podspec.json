@@ -1,0 +1,22 @@
+{
+  "name": "ZJDemo",
+  "version": "0.1.0",
+  "summary": "this is a demo",
+  "description": "this is tools with appverison manager",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZJDemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "曾佳": "jiaforios@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZJDemo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "ZJDemo/Classes/**/*"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Mrs-LSC",
+  "version": "0.1.0",
+  "summary": "A short description of Mrs-LSC.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Mrs-LSC",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "liusc": "liusc@sijibao.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Mrs-LSC.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "Mrs-LSC/Classes/**/*"
+}

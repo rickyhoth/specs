@@ -1,0 +1,20 @@
+{
+  "name": "TKRSpecificTest",
+  "version": "0.0.1",
+  "summary": "Run a specific test case by xcodebuild.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TKRSpecificTest",
+  "license": "MIT",
+  "authors": {
+    "tokorom": "tokorom@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TKRSpecificTest.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "TKRSpecificTest/*",
+  "frameworks": [
+    "XCTest",
+    "SenTestingKit"
+  ],
+  "requires_arc": true
+}

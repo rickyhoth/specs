@@ -1,0 +1,27 @@
+{
+  "name": "SMMosaicCollectionView",
+  "version": "1.0.6",
+  "license": {
+    "type": "MIT"
+  },
+  "summary": "A lightweight hoziontal image scroller that centers on the middle cell regardless of the image's aspect ratio.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SMMosaicCollectionView",
+  "authors": {
+    "Sam McEwan": "me@sammcewan.co.nz"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SMMosaicCollectionView.git",
+    "tag": "v1.0.6"
+  },
+  "source_files": "Source/*.{h,m}",
+  "requires_arc": true,
+  "platforms": {
+    "ios": "7.0"
+  },
+  "ios": {
+    "frameworks": [
+      "UIKit",
+      "Foundation"
+    ]
+  }
+}

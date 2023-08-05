@@ -1,0 +1,21 @@
+{
+  "name": "TPPageViewController",
+  "version": "0.1.0",
+  "summary": "A UIPageViewController replacement.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TPPageViewController",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "tpphha": "tpphha@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TPPageViewController.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TPPageViewController/Classes/**/*"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "IPicker",
+  "platforms": {
+    "ios": "11.0"
+  },
+  "summary": "Let your users pick data or a date elegantly in 3 lines of code.",
+  "version": "1.1.0",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Yousef": "yosefali97@hotmail.com"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/iPicker",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/iPicker.git",
+    "tag": "1.1.0"
+  },
+  "frameworks": "UIKit",
+  "source_files": "IPicker/Source/*.{swift}",
+  "swift_version": "4.2"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "BUKProgressView",
+  "version": "0.0.1",
+  "summary": "It is a custom progress view, you can change color & image.",
+  "description": "It is a custom progress view, you can change color & image. Join us: shaozhengxingok@126.com",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/BUKProgressView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "iexception group": "https://github.com/iexception"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/BUKProgressView.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "BUKProgressView/*.{h,m}",
+  "requires_arc": true
+}

@@ -1,0 +1,25 @@
+{
+  "name": "HzLib",
+  "version": "0.1.0",
+  "summary": "Common HzLib",
+  "description": "IOS Common Util HzLib",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HzLib",
+  "license": "MIT",
+  "authors": {
+    "woong": "dlsdnd345@mhand.net"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HzLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "HzLib": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}

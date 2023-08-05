@@ -1,0 +1,19 @@
+{
+  "name": "TCProgressView",
+  "version": "0.0.6",
+  "summary": "Progress View",
+  "description": "A progress view just like iOS Photos app.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TCProgressView",
+  "license": "MIT",
+  "authors": {
+    "RandallWang": "randallwang93@gmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TCProgressView.git",
+    "tag": "0.0.6"
+  },
+  "source_files": "TCProgressView/Source/*.{h,m}"
+}

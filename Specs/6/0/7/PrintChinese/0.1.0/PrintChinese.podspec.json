@@ -1,0 +1,22 @@
+{
+  "name": "PrintChinese",
+  "version": "0.1.0",
+  "summary": "控制台打印汉字",
+  "description": "数组、字典包括嵌套中的在控制台打印汉字",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/PrintChinese",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "onexf": "630850673@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/PrintChinese.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PrintChinese/Classes/**/*"
+}

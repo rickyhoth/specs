@@ -1,0 +1,21 @@
+{
+  "name": "Permission",
+  "version": "0.2",
+  "license": {
+    "type": "MIT"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Sorry",
+  "authors": {
+    "Damien": "damien@delba.io"
+  },
+  "summary": "A unified API to request permissions",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Sorry.git",
+    "tag": "v0.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Source/*.swift",
+  "requires_arc": true
+}

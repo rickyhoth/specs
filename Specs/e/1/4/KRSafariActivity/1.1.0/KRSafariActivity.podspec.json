@@ -1,0 +1,24 @@
+{
+  "name": "KRSafariActivity",
+  "version": "1.1.0",
+  "summary": "A UIActivity subclass that opens URLs in Safari - in Swift",
+  "description": "A UIActivity subclass that opens URLs in Safari - in Swift\nhttps://bitbucket.devops.nonprod.empf.local/scm/react/KRSafariActivity",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/KRSafariActivity",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Alexandre Brispot": "abrispot@gmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/KRSafariActivity.git",
+    "tag": "1.1.0"
+  },
+  "source_files": "KRSafariActivity/**/*.{swift}",
+  "resources": "KRSafariActivity/KRSafariActivity/Ressources/*",
+  "frameworks": "UIKit"
+}

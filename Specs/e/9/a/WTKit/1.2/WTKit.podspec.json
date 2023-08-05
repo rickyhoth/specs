@@ -1,0 +1,19 @@
+{
+  "name": "WTKit",
+  "version": "1.2",
+  "license": "MIT",
+  "summary": "Elegant HTTP Networking in Swift",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WTKit",
+  "authors": {
+    "宋文通": "https://bitbucket.devops.nonprod.empf.local/scm/react/WTKit"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WTKit.git",
+    "tag": "1.2"
+  },
+  "swift_version": "4.0",
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "Source/*.swift"
+}

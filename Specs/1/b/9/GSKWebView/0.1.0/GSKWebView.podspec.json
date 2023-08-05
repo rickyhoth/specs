@@ -1,0 +1,22 @@
+{
+  "name": "GSKWebView",
+  "version": "0.1.0",
+  "summary": "WebView for opening url",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/GSKWebView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "12212137": "gurjindersingh663@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/GSKWebView",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "GSKWebView/Classes/**/*"
+}

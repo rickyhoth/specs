@@ -1,0 +1,26 @@
+{
+  "name": "REPagedScrollView",
+  "version": "1.0",
+  "authors": {
+    "Roman Efimov": "romefimov@gmail.com"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/REPagedScrollView",
+  "summary": "Paged UIScrollView with an embedded UIPageControl.",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/REPagedScrollView.git",
+    "tag": "1.0"
+  },
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "platforms": {
+    "ios": "5.0"
+  },
+  "requires_arc": true,
+  "source_files": "REPagedScrollView",
+  "public_header_files": "REPagedScrollView/*.h",
+  "ios": {
+    "frameworks": "QuartzCore"
+  }
+}

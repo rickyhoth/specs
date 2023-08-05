@@ -1,0 +1,22 @@
+{
+  "name": "mapi",
+  "version": "1.2.0",
+  "summary": "A short description of mapi.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/mapi",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Sangamesh Hiremath": "sangameshbh41@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/mapi.git",
+    "tag": "1.2.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "mapi/Classes/**/*"
+}

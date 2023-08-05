@@ -1,0 +1,26 @@
+{
+  "name": "MMPopMenu",
+  "version": "0.0.1",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "summary": "MMPopMenu is a vertical popup menu for using in iOS applications",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MMPopMenu",
+  "authors": {
+    "SunnyX": "1031787148@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MMPopMenu.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "MMPopMenu/*.{h,m}",
+  "frameworks": [
+    "Foundation",
+    "UIKit"
+  ],
+  "requires_arc": true
+}

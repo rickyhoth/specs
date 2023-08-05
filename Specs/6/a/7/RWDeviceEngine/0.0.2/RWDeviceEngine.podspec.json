@@ -1,0 +1,23 @@
+{
+  "name": "RWDeviceEngine",
+  "version": "0.0.2",
+  "summary": "自定义标签管理",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/RWDeviceEngine.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Rover001": "zengyun6666@163.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/RWDeviceEngine.git",
+    "tag": "0.0.2"
+  },
+  "requires_arc": true,
+  "source_files": "DeviceEngine/*{h,m}",
+  "social_media_url": "https://cocoapods.org/pods/RWDeviceEngine"
+}

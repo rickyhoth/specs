@@ -1,0 +1,25 @@
+{
+  "name": "KMPageViewController",
+  "version": "0.1.11",
+  "summary": "KMPageViewController",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/KMPageViewController",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "hmhv": "jangsy7883@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/KMPageViewController.git",
+    "tag": "0.1.11"
+  },
+  "source_files": [
+    "KMPageViewController/*.{h,m}",
+    "KMPageViewController/Categorys/*.{h,m}"
+  ],
+  "requires_arc": true,
+  "platforms": {
+    "ios": "7.0"
+  }
+}

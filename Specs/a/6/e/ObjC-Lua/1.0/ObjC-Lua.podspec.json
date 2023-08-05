@@ -1,0 +1,24 @@
+{
+  "name": "ObjC-Lua",
+  "version": "1.0",
+  "summary": "An Objective-C wrapper around Lua.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ObjC-Lua",
+  "license": "BSD",
+  "authors": {
+    "Sean Meiners": "oss@ssttr.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ObjC-Lua.git",
+    "tag": "v1.0"
+  },
+  "source_files": [
+    "classes/*.{h,m}",
+    "lua/src/*.{h,c}"
+  ],
+  "exclude_files": [
+    "lua/src/luac.c",
+    "lua/src/lua.c"
+  ],
+  "requires_arc": true,
+  "compiler_flags": "-DLUA_USE_MACOSX=1"
+}

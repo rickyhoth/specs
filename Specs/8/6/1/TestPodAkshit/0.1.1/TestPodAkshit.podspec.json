@@ -1,0 +1,29 @@
+{
+  "name": "TestPodAkshit",
+  "version": "0.1.1",
+  "summary": "Sample repo for Testing by Akshit Zaveri.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TestPodAkshit",
+  "license": "MIT",
+  "authors": {
+    "Akshit": "akshit.zaveri@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TestPodAkshit.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TestPodAkshit/Classes/**/*",
+  "resource_bundles": {
+    "TestPodAkshit": [
+      "TestPodAkshit/Assets/*.png"
+    ]
+  },
+  "frameworks": "UIKit",
+  "dependencies": {
+    "DZNEmptyDataSet": [
+      "~> 1.4"
+    ]
+  }
+}

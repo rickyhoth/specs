@@ -1,0 +1,27 @@
+{
+  "name": "HISearchBar",
+  "version": "0.1.1",
+  "summary": "A short description of HISearchBar.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HISearchBar",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "hellohufan": "hellohufan@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HISearchBar.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HISearchBar/Classes/**/*",
+  "resource_bundles": {
+    "HISearchBar": [
+      "HISearchBar/Assets/*.png"
+    ]
+  }
+}

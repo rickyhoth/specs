@@ -1,0 +1,22 @@
+{
+  "name": "XMCrashProtector",
+  "version": "1.0.2",
+  "summary": "This is a crash protection component",
+  "description": "XMCrashProtector Handle the objective-c crash exception.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/XMCrashProtector",
+  "license": "MIT",
+  "authors": {
+    "SmatMing": "fzyxuming@163.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/XMCrashProtector.git",
+    "tag": "1.0.2"
+  },
+  "source_files": [
+    "XMCrashProtector",
+    "XMCrashProtector/**/*.{h,m}"
+  ]
+}

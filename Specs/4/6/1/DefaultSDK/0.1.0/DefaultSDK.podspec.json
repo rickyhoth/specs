@@ -1,0 +1,20 @@
+{
+  "name": "DefaultSDK",
+  "version": "0.1.0",
+  "license": "MIT",
+  "summary": "An Animate Water view on iOS.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DefaultSDK",
+  "authors": {
+    "511979194@qq.com": "511979194@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DefaultSDK.git",
+    "tag": "0.1.0"
+  },
+  "requires_arc": true,
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DefaultSDK/Classes/**/*.{h,m}",
+  "deprecated": true
+}

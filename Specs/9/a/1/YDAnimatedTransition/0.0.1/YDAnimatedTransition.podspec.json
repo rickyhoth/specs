@@ -1,0 +1,19 @@
+{
+  "name": "YDAnimatedTransition",
+  "version": "0.0.1",
+  "summary": "time of button",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/YDAnimatedTransition",
+  "license": "MIT",
+  "authors": {
+    "Huangupup": "757345969@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YDAnimatedTransition.git",
+    "tag": "0.0.1"
+  },
+  "requires_arc": true,
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source_files": "YDAnimatedTransition/**/*"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "KWTimer",
+  "version": "0.1.1",
+  "summary": "A sample timer",
+  "description": "A timer easy to use for objective-c",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/KWTimer",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "kevin": "devkevinma@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/KWTimer.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "KWTimer/Classes/**/*",
+  "dependencies": {
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "QKPrivacyTool",
+  "version": "0.1.1",
+  "summary": "QKPrivacyTool.",
+  "description": "TODO: 定位，相机，麦克风等权限判断.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/QKPrivacyTool",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "huahong": "2330669775@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/QKPrivacyTool.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "QKPrivacyTool/Classes/*.{h,m,swift}"
+}

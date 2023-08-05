@@ -1,0 +1,23 @@
+{
+  "name": "CPods",
+  "version": "1.0.0",
+  "summary": "hhhhhhhhh",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CPods",
+  "license": "MIT",
+  "authors": {
+    "值得拥有": "email@address.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CPods.git",
+    "tag": "1.0.0"
+  },
+  "source_files": [
+    "CPods",
+    "CPods/**/*.{h,m,swift,plist}"
+  ],
+  "frameworks": "UIKit",
+  "requires_arc": true
+}

@@ -1,0 +1,19 @@
+{
+  "name": "YHJSONSerialization",
+  "version": "0.1.0",
+  "summary": "JSON serialization and deserialization using system API",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/YHJSONSerialization",
+  "license": "MIT",
+  "authors": {
+    "Derrick Zhang": "derrickzyh@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YHJSONSerialization.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "5.0"
+  },
+  "requires_arc": true,
+  "source_files": "YHJSONSerialization/*.{h,m}"
+}

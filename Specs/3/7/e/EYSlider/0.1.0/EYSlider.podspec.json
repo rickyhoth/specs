@@ -1,0 +1,22 @@
+{
+  "name": "EYSlider",
+  "version": "0.1.0",
+  "summary": "Fully customisable slider",
+  "description": "This slider has a few animations!",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/EYSlider",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Etjen Ymeraj": "etjenymeraj@outlook.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/EYSlider.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "EYSlider/*.swift"
+}

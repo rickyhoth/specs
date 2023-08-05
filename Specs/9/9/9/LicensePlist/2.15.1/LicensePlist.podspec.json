@@ -1,0 +1,22 @@
+{
+  "name": "LicensePlist",
+  "version": "2.15.1",
+  "summary": "A license list generator of all your dependencies for iOS applications",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LicensePlist",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": "Masayuki Ono",
+  "source": {
+    "http": "https://bitbucket.devops.nonprod.empf.local/scm/react/portable_licenseplist.zip"
+  },
+  "preserve_paths": "*",
+  "exclude_files": "**/file.zip",
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}

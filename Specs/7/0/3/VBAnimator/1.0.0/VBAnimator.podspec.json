@@ -1,0 +1,19 @@
+{
+  "name": "VBAnimator",
+  "version": "1.0.0",
+  "summary": "Animator helps you to adding animation for presenting controller",
+  "description": "Animator helps you to adding animation for presenting controller\nLess coding",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Animator",
+  "license": "MIT",
+  "authors": {
+    "Bhavin": "bhavin.vaghela292@gmail.com"
+  },
+  "platforms": {
+    "ios": "12.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Animator.git",
+    "tag": "1.0.0"
+  },
+  "vendored_frameworks": "Animator.xcframework"
+}

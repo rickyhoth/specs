@@ -1,0 +1,22 @@
+{
+  "name": "JWPickerView",
+  "version": "1.0.0",
+  "summary": "PickerView for ios",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JWPickerView",
+  "license": "MIT",
+  "authors": {
+    "Javenfly": "960838547@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JWPickerView.git",
+    "tag": "1.0.0"
+  },
+  "source_files": [
+    "JWPickerView",
+    "JWPickerView/**/*.{h,m}"
+  ],
+  "frameworks": "UIKit"
+}

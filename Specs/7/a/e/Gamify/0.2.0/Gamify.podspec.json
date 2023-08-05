@@ -1,0 +1,19 @@
+{
+  "name": "Gamify",
+  "version": "0.2.0",
+  "summary": "An easy way of adding basic gamification elements to your app.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Gamify",
+  "license": "MIT",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "authors": {
+    "Haakon bogen": "hakon.bogen@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Gamify.git",
+    "tag": "0.2.0"
+  },
+  "source_files": "Gamify/*.*",
+  "requires_arc": true
+}

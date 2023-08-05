@@ -1,0 +1,27 @@
+{
+  "name": "TestPodDes",
+  "version": "0.1.5",
+  "summary": "A short description of TestPodDes.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TestPodDes",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "patricelee": "123916376+ningguotong@users.noreply.github.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TestPodDes.git",
+    "tag": "0.1.5"
+  },
+  "readme": "https://bitbucket.devops.nonprod.empf.local/scm/react/TestPodDes/blob/main/README_INTERNAL.md",
+  "changelog": "https://bitbucket.devops.nonprod.empf.local/scm/react/TestPodDes/blob/main/CHANGELOG.md",
+  "documentation_url": "https://bitbucket.devops.nonprod.empf.local/scm/react/TestPodDes/blob/main/MIGRATION.md",
+  "platforms": {
+    "ios": "10.0"
+  },
+  "ios": {
+    "vendored_frameworks": "XCFramework/TestPodDes.xcframework"
+  }
+}

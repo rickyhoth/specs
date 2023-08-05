@@ -1,0 +1,25 @@
+{
+  "name": "RSTools",
+  "version": "0.0.2",
+  "summary": "RSTools",
+  "description": "RSTools    www.cjzkw.com",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/RSTools.git",
+  "license": "MIT",
+  "authors": {
+    "SirRicky": "525023395@qq.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/RSTools.git",
+    "tag": "0.0.2"
+  },
+  "source_files": "Class/*",
+  "requires_arc": true,
+  "dependencies": {
+    "SFHFKeychainUtils": [
+
+    ]
+  }
+}

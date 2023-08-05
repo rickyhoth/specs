@@ -1,0 +1,27 @@
+{
+  "name": "RepositoryKit",
+  "version": "2.2.0",
+  "summary": "Repositories pattern for networking and storage",
+  "description": "Repository Pattern Swift. Where is the place to put your storage and networking code? Based on promises.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/RepositoryKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Luciano Polit": "lucianopolit@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/RepositoryKit.git",
+    "tag": "2.2.0"
+  },
+  "source_files": "Source/**/*.swift",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "dependencies": {
+    "PromiseKit": [
+      "~> 3.2.0"
+    ]
+  }
+}

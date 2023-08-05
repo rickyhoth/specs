@@ -1,0 +1,31 @@
+{
+  "name": "APIClient",
+  "version": "0.1.2",
+  "summary": "Convention over configuration REST API client",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/apiclient",
+  "license": "MIT",
+  "authors": {
+    "Klaas Pieter Annema": "klaaspieter@annema.me"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/APIClient.git",
+    "tag": "0.1.2"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Classes",
+  "frameworks": [
+    "MobileCoreServices",
+    "SystemConfiguration"
+  ],
+  "dependencies": {
+    "InflectorKit": [
+      "= 0.0.1"
+    ],
+    "DCKeyValueObjectMapping": [
+      "~> 1.4"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "iZootoiOSSDK",
+  "version": "1.0.9",
+  "summary": "iZooto Notification push services",
+  "description": "iZooto Push Notifications To Drive Audience Engagement",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/iZootoiOSSDK",
+  "license": "MIT",
+  "authors": {
+    "AmitKumarGupta": "amit@datability.co"
+  },
+  "platforms": {
+    "ios": "10"
+  },
+  "swift_versions": "4.0",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/iZootoiOSSDK.git",
+    "tag": "1.0.9"
+  },
+  "source_files": "iZootoiOSSDK/**/*.{h,swift}",
+  "exclude_files": "iZootoiOSSDK/**/*.plist",
+  "requires_arc": true,
+  "swift_version": "4.0"
+}

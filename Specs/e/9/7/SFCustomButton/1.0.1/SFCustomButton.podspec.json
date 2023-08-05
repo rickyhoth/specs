@@ -1,0 +1,22 @@
+{
+  "name": "SFCustomButton",
+  "version": "1.0.1",
+  "summary": "Free layout iocn textlabel button IOS9+",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SFCustomButton",
+  "license": {
+    "type": "MIT"
+  },
+  "authors": {
+    "LUCA": "iwangshengfeng@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SFCustomButton.git",
+    "tag": "1.0.1"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "public_header_files": "Classs/*.h",
+  "source_files": "Classs/**/*.{h,m}",
+  "requires_arc": true
+}

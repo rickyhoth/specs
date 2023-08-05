@@ -1,0 +1,20 @@
+{
+  "name": "YGHorizontalScroller",
+  "version": "0.0.4",
+  "summary": "A Simple Horizontal Scroller implemented by Swift",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/YGHorizontalScroller",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": "Yi Gu",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YGHorizontalScroller.git",
+    "tag": "0.0.4"
+  },
+  "source_files": "YGHorizontalScroller/*.swift",
+  "requires_arc": true
+}

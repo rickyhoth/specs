@@ -1,0 +1,27 @@
+{
+  "name": "VCWebBrowser",
+  "version": "1.0",
+  "summary": "UIWebView | WKWebView used with progressBar",
+  "description": "1. Show Url simply.\n2. Loading progress view.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/VCWebBrowser",
+  "license": {
+    "type": "Apache License",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "gftang": "gftang@vcainfo.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/VCWebBrowser.git",
+    "tag": "1.0"
+  },
+  "source_files": [
+    "VCWebBrowser/VCWebB/*.{h,m}",
+    "VCWebBrowser/NJKWebViewProgress/*.{h,m}"
+  ],
+  "frameworks": "UIKit"
+}

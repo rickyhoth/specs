@@ -1,0 +1,25 @@
+{
+  "name": "HLCommon",
+  "version": "0.0.2",
+  "summary": "基础工具代码，包括UI，Foundation",
+  "description": "this project provide all kinds of utils method for me",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HLCommon",
+  "license": "MIT",
+  "platforms": {
+    "ios": null
+  },
+  "authors": {
+    "李林": "lilin87788@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HLCommon.git",
+    "tag": "0.0.2"
+  },
+  "source_files": [
+    "HLCommon",
+    "HLCommon/**/*.{h,m}"
+  ],
+  "public_header_files": "HLCommon/**/*.h",
+  "frameworks": "UIKit",
+  "requires_arc": true
+}

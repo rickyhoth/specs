@@ -1,0 +1,22 @@
+{
+  "name": "IMBApiPod",
+  "version": "0.1.1",
+  "summary": "A short description of IMBApiPod.",
+  "description": "Prueba de pod",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/IMBPodApi",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "IrvinMB": "imbcr89@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/IMBPodApi.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "IMBApiPod/Classes/**/*"
+}

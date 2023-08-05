@@ -1,0 +1,24 @@
+{
+  "name": "SwiftyJSONCoding",
+  "version": "0.4.0",
+  "summary": "SwiftyJSONCoding is a framework for fast JSON coding/decoding",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JSON",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Даниил Войдилов": "voidilov@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JSON.git",
+    "branch": "master",
+    "tag": "0.4.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "swift_version": "4.2",
+  "source_files": "Sources/**/*"
+}

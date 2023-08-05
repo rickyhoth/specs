@@ -1,0 +1,43 @@
+{
+  "name": "ZXKitCore",
+  "swift_versions": "5.0",
+  "version": "0.0.6",
+  "license": {
+    "type": "Apache-2.0 License",
+    "file": "LICENSE"
+  },
+  "summary": "ZXKit Core",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/core",
+  "authors": {
+    "ZXKitCode": "dong765@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/core.git",
+    "tag": "0.0.6"
+  },
+  "requires_arc": true,
+  "platforms": {
+    "ios": "10.0"
+  },
+  "default_subspecs": "Core",
+  "documentation_url": "http://blog.hudongdong.com/swift/1079.html",
+  "subspecs": [
+    {
+      "name": "Core",
+      "source_files": [
+        "pod/extend/*.swift",
+        "pod/*.swift"
+      ]
+    },
+    {
+      "name": "idfa",
+      "source_files": "pod/subspec/ZXKit+idfa.swift",
+      "dependencies": {
+        "ZXKitCore/Core": [
+
+        ]
+      }
+    }
+  ],
+  "swift_version": "5.0"
+}

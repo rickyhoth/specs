@@ -1,0 +1,26 @@
+{
+  "name": "JHCreateViewTool",
+  "version": "1.0.2",
+  "summary": "OC快捷创建IOS控件",
+  "description": "OC链式创建控件",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JHCreateViewTool",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "jianghuli": "976971956@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JHCreateViewTool.git",
+    "tag": "1.0.2"
+  },
+  "source_files": [
+    "JHCreateViewTool",
+    "*.{h,m}"
+  ],
+  "requires_arc": true
+}

@@ -1,0 +1,25 @@
+{
+  "name": "EVVideoPlayer",
+  "version": "0.1.1",
+  "summary": "A UIView subclass for playing videos",
+  "description": "A video player with a lot of cool features. More coming soon!.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/EVVideoPlayer",
+  "license": "MIT",
+  "authors": {
+    "Esteban Vallejo": "evallejo@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/EVVideoPlayer.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "public_header_files": "Pod/Classes/**/*.h",
+  "frameworks": [
+    "AVFoundation",
+    "QuartzCore"
+  ]
+}

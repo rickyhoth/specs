@@ -1,0 +1,21 @@
+{
+  "name": "EZUtils",
+  "version": "0.0.2",
+  "summary": "Utils for iOS.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/EZUtils",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "adoniscx": "adoniscx@gmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/EZUtils.git",
+    "tag": "0.0.2"
+  },
+  "source_files": "EZUtils/*.swift"
+}

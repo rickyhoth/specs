@@ -1,0 +1,28 @@
+{
+  "name": "WanchangTest",
+  "version": "0.0.1",
+  "summary": "WanchangTest",
+  "description": "DescrepiWanchangTest",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WanchangTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "D8Ge": "wanchangliang"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WanchangTest.git",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "Classes",
+    "Classes/**/*.{h,m}"
+  ],
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}

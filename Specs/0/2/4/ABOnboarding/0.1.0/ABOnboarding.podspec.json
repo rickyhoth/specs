@@ -1,0 +1,28 @@
+{
+  "name": "ABOnboarding",
+  "version": "0.1.0",
+  "summary": "The easiest way to onboard users in your iOS app",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ABOnboarding",
+  "license": "MIT",
+  "authors": {
+    "Adam Boyd": "adamboyd50@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ABOnboarding.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "ABOnboarding": [
+      "Pod/Assets/*.png"
+    ]
+  },
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ]
+}

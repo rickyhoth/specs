@@ -1,0 +1,25 @@
+{
+  "name": "LakeKit",
+  "version": "0.0.3",
+  "summary": "LakeKit",
+  "description": "My LakeKit Classes",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LakeKit",
+  "license": "MIT",
+  "authors": {
+    "yangyu": "yangyu0525@autohome.com.cn"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LakeKit.git",
+    "tag": "0.0.3"
+  },
+  "source_files": [
+    "LakeKit",
+    "*.{h,m}"
+  ],
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}

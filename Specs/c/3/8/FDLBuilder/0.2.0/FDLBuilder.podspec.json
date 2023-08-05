@@ -1,0 +1,25 @@
+{
+  "name": "FDLBuilder",
+  "version": "0.2.0",
+  "summary": "FDL(Firebase Dynamic Links) builder.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/FDLBuilder",
+  "license": "MIT",
+  "authors": {
+    "Suguru Kishimoto": "melodydance.k.s@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/FDLBuilder.git",
+    "tag": "0.2.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "requires_arc": true,
+  "source_files": "FDLBuilder/Sources/*.swift",
+  "static_framework": true,
+  "dependencies": {
+    "Firebase/DynamicLinks": [
+      "~> 6.0"
+    ]
+  }
+}

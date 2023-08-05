@@ -1,0 +1,41 @@
+{
+  "name": "swiftTaste",
+  "version": "0.1.0",
+  "summary": "test",
+  "description": "TODO:swift test",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwiftTaste",
+  "license": "MIT",
+  "authors": {
+    "liuqiang187": "409864676@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwiftTaste.git",
+    "tag": "0.1.0"
+  },
+  "source_files": [
+    "SwiftTaste",
+    "SwiftTaste/**/*.{h,m}"
+  ],
+  "requires_arc": true,
+  "dependencies": {
+    "SnapKit": [
+
+    ],
+    "Alamofire": [
+
+    ],
+    "Kingfisher": [
+
+    ],
+    "FDFullscreenPopGesture": [
+
+    ],
+    "LTNavigationBar": [
+
+    ]
+  },
+  "pushed_with_swift_version": "3.0"
+}

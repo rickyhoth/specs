@@ -1,0 +1,21 @@
+{
+  "name": "KTCommonKit",
+  "version": "0.0.1",
+  "summary": "A public library.",
+  "description": "A public library for iOS.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/KTCommonKit",
+  "license": "MIT",
+  "authors": {
+    "KerryDeng": "dkts47@163.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/KTCommonKit.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "Common/*.{h,m}",
+  "frameworks": "UIKit",
+  "requires_arc": true
+}

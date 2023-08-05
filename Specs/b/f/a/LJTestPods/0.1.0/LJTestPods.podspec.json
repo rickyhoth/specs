@@ -1,0 +1,22 @@
+{
+  "name": "LJTestPods",
+  "version": "0.1.0",
+  "summary": "test pods",
+  "description": "测试pods",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LJTestPods",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "dabaosodmi0420": "837838309@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LJTestPods.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LJTestPods/Classes/**/*"
+}

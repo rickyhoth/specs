@@ -1,0 +1,27 @@
+{
+  "name": "DokuWiki",
+  "version": "0.1.3",
+  "summary": "A DokuWiki XMLRPC Swift Interface",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DokuWiki-Swift",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "whoisronnoc": "connor@ronnoc.info"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DokuWiki-Swift.git",
+    "tag": "0.1.3"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "dependencies": {
+    "SWXMLHash": [
+      "~> 4.7.0"
+    ]
+  },
+  "source_files": "DokuWiki/**/*.{swift}",
+  "swift_version": "4.2"
+}

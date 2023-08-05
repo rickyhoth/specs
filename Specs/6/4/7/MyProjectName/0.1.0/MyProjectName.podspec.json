@@ -1,0 +1,26 @@
+{
+  "name": "MyProjectName",
+  "version": "0.1.0",
+  "summary": "test pod-carthage-template.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MyProjectName",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "shinancao": "shinancao666@163.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MyProjectName.git",
+    "tag": "0.1.0"
+  },
+  "source_files": "Sources/**/*",
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ],
+  "requires_arc": true
+}

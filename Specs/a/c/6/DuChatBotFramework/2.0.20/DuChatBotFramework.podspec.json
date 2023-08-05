@@ -1,0 +1,26 @@
+{
+  "name": "DuChatBotFramework",
+  "version": "2.0.20",
+  "summary": "DuChatBotFramework",
+  "swift_versions": "5.0",
+  "description": "DuChatBotFramework that wraps around BSChatBotClient",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DuChatBotFramework",
+  "authors": {
+    "Blackstone eIT": "sales@blackstoneeit.com"
+  },
+  "source": {
+    "http": "https://bitbucket.devops.nonprod.empf.local/scm/react/DuChatBot.zip"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "ios": {
+    "vendored_frameworks": "DuChatBot.xcframework"
+  },
+  "dependencies": {
+    "BSChatBotClientFramework": [
+      "2.0.2"
+    ]
+  },
+  "swift_version": "5.0"
+}

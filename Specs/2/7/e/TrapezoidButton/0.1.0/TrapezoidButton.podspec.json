@@ -1,0 +1,22 @@
+{
+  "name": "TrapezoidButton",
+  "version": "0.1.0",
+  "summary": "自定义梯形button",
+  "description": "自定义梯形按钮可以点击，点击时改变颜色",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TrapezoidButton",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "caoyanan": "2606090119@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TrapezoidButton.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source_files": "TrapezoidButton/Classes/**/*"
+}

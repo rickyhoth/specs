@@ -1,0 +1,19 @@
+{
+  "name": "SireAutoNSCoding",
+  "version": "0.1.0",
+  "summary": "auto nscoding data and save data to disk or read from disk.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SireAutoNSCoding",
+  "license": "MIT",
+  "authors": {
+    "Sire": "1120523212@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SireAutoNSCoding.git",
+    "tag": "0.1.0"
+  },
+  "social_media_url": "http://sireai.github.io/",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SireAutoNSCoding/Classes/**/*"
+}

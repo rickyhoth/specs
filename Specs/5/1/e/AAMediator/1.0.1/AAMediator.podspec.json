@@ -1,0 +1,29 @@
+{
+  "name": "AAMediator",
+  "version": "1.0.1",
+  "summary": "iOS解耦工具",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AAMediator",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Aaron Feng": "516674612@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AAMediator.git",
+    "tag": "1.0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "swift_versions": "5",
+  "source_files": "AAMediator/Classes/**/*",
+  "dependencies": {
+    "AALRUCache": [
+
+    ]
+  },
+  "swift_version": "5"
+}

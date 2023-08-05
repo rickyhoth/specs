@@ -1,0 +1,23 @@
+{
+  "name": "InterestCalculator",
+  "platforms": {
+    "ios": "10.0"
+  },
+  "summary": "Pod is related to interest calculator.",
+  "requires_arc": true,
+  "version": "0.1.0",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Pallav Trivedi": "pallavtrivedi03@gmail.com"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/InterestCalculator",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/InterestCalculator.git",
+    "tag": "0.1.0"
+  },
+  "source_files": "InterestCalculator/*.{swift}",
+  "pushed_with_swift_version": "3.0"
+}

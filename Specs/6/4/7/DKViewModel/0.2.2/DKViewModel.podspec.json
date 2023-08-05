@@ -1,0 +1,37 @@
+{
+  "name": "DKViewModel",
+  "version": "0.2.2",
+  "summary": "A ViewModel implementation",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DKViewModel",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "drinking": "pan49@126.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DKViewModel.git",
+    "tag": "0.2.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DKViewModel/Classes/**/*",
+  "dependencies": {
+    "ReactiveObjC": [
+
+    ]
+  },
+  "subspecs": [
+    {
+      "name": "IGListKit",
+      "dependencies": {
+        "IGListKit": [
+          "~> 3.0"
+        ]
+      }
+    }
+  ]
+}

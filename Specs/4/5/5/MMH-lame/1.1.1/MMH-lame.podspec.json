@@ -1,0 +1,23 @@
+{
+  "name": "MMH-lame",
+  "version": "1.1.1",
+  "summary": "MMH lame",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MMH-lame",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Mr.wu": "1569485690@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MMH-lame.git",
+    "tag": "1.1.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "ios": {
+    "vendored_frameworks": "lame/lame.framework"
+  }
+}

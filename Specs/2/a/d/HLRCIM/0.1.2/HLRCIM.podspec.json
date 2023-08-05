@@ -1,0 +1,23 @@
+{
+  "name": "HLRCIM",
+  "version": "0.1.2",
+  "summary": "HLRCIM ...",
+  "description": "Turn RongCloud static libraries into dynamic ones",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HLRCIM",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "kinarobi": "kinarobin@outlook.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HLRCIM.git",
+    "tag": "0.1.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HLRCIM/Classes/**/*.h",
+  "vendored_frameworks": "HLRCIM/Classes/HLRCIM.framework"
+}

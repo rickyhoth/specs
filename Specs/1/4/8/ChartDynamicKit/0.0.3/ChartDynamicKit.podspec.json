@@ -1,0 +1,26 @@
+{
+  "name": "ChartDynamicKit",
+  "version": "0.0.3",
+  "summary": "Easily Create Hyper-Minimal Dynamic Charts",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ChartDynamicKit",
+  "license": "MIT",
+  "authors": {
+    "Steve Wight": "stevendouglaswight@gmail.com"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ChartDynamicKit.git",
+    "tag": "0.0.3"
+  },
+  "source_files": "ChartDynamicKit/**/*.{h,m,swift}",
+  "pod_target_xcconfig": {
+    "SWIFT_VERSION": "4"
+  },
+  "dependencies": {
+    "MinChartKit": [
+
+    ]
+  }
+}

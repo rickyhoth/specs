@@ -1,0 +1,24 @@
+{
+  "name": "TribunaGraph",
+  "version": "1.1.0",
+  "summary": "TribunaGraph is an easy-to-use library for forming GraphQL requests.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TribunaGraph",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Tribuna Digital": "reshetnikovreshetnikov@sports.ru"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TribunaGraph.git",
+    "tag": "1.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "swift_versions": "5.0",
+  "source_files": "TribunaGraph/Classes/**/*",
+  "frameworks": "Foundation",
+  "swift_version": "5.0"
+}

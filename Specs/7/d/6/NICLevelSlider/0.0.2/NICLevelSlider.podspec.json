@@ -1,0 +1,22 @@
+{
+  "name": "NICLevelSlider",
+  "version": "0.0.2",
+  "summary": "A Level Slider for iOS, written in Swift.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LevelSlider",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "nicholasLin": "990215314@qq.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LevelSlider.git",
+    "tag": "0.0.2"
+  },
+  "source_files": "NICLevelSliderDemo/NICLevelSliderDemo/srcs/*.swift",
+  "swift_version": "4.0"
+}

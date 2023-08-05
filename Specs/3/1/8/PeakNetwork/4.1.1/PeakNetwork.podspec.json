@@ -1,0 +1,30 @@
+{
+  "name": "PeakNetwork",
+  "version": "4.1.1",
+  "summary": "A collection of classes to aid performing network operations.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/PeakNetwork",
+  "license": {
+    "type": "Custom",
+    "file": "LICENSE.md"
+  },
+  "authors": {
+    "Sam Oakley": "sam.oakley@3squared.com"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/PeakNetwork.git",
+    "tag": "4.1.1"
+  },
+  "source_files": [
+    "PeakNetwork",
+    "PeakNetwork/**/*.{h,m,swift}"
+  ],
+  "dependencies": {
+    "PeakOperation": [
+
+    ]
+  },
+  "swift_version": "4.2"
+}

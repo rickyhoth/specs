@@ -1,0 +1,19 @@
+{
+  "name": "BMLongPressDragCellCollectionView",
+  "version": "3.1.1",
+  "summary": "🎉 iOS UICollectionView UICollectionViewCell long press to drag the reorder framework.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/BMLongPressDragCellCollectionView",
+  "license": "MIT",
+  "authors": {
+    "liangdahong": "ios@liangdahong.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/BMLongPressDragCellCollectionView.git",
+    "tag": "3.1.1"
+  },
+  "source_files": "BMLongPressDragCellCollectionView/**/*.{h,m}",
+  "requires_arc": true
+}

@@ -1,0 +1,22 @@
+{
+  "name": "SENoiceTable",
+  "version": "0.1.0",
+  "summary": "The noicest table you have seen.",
+  "description": "This is a very noice table view. Learn more here: https://bitbucket.devops.nonprod.empf.local/scm/react/SENoiceTable",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SENoiceTable",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Sahand Edrisian": "sedrisian@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SENoiceTable.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "*"
+}

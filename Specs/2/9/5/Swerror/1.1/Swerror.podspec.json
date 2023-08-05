@@ -1,0 +1,18 @@
+{
+  "name": "Swerror",
+  "version": "1.1",
+  "summary": "Swift Error type",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Swerror.git",
+    "tag": "1.1"
+  },
+  "authors": "Ilias Karim",
+  "license": "Apache-2.0",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/swerror",
+  "swift_version": "4.2",
+  "platforms": {
+    "ios": "12.1",
+    "osx": "10.14"
+  },
+  "source_files": "Swerror/*.swift"
+}

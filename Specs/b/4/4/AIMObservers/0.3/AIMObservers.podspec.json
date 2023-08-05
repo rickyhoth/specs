@@ -1,0 +1,30 @@
+{
+  "name": "AIMObservers",
+  "version": "0.3",
+  "summary": "Notifications and KVO observers used by AIM team",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AIMObservers",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Maciej Gad": "https://github.com/MaciejGad"
+  },
+  "social_media_url": "https://twitter.com/maciej_gad",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AIMObservers.git",
+    "tag": "v0.3"
+  },
+  "requires_arc": true,
+  "dependencies": {
+    "AIMObserver": [
+      "~> 0.3"
+    ],
+    "AIMNotificationObserver": [
+      "~> 0.3"
+    ]
+  }
+}

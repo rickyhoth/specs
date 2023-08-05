@@ -1,0 +1,22 @@
+{
+  "name": "LCXReuseViewID",
+  "version": "0.1.1",
+  "summary": "ReuseViewIDs for UITableView and UICollectionView.",
+  "description": "TODO: simple use of reuseViewID for UITableViewCell/UITableViewHeaderFooterView/UICollectionViewCell/UICollectionReusableView.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LCXReuseViewID",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "475512103@qq.com": "leichunxiang58@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LCXReuseViewID.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "LCXReuseViewID/Classes/**/*"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "SPTinderView",
+  "version": "0.2.0",
+  "license": "MIT",
+  "summary": "Tinder View written in Swift",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SPTinderView",
+  "social_media_url": "http://twitter.com/iosCook",
+  "authors": {
+    "Suraj Pathak": "freesuraj@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SPTinderView.git",
+    "tag": "0.2.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SPTinderView/Source/*.swift",
+  "requires_arc": true,
+  "screenshots": "https://bitbucket.devops.nonprod.empf.local/scm/react/SPTinderView/blob/master/assets/screenshot.gif?raw=true"
+}

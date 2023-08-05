@@ -1,0 +1,22 @@
+{
+  "name": "JKNetwork",
+  "version": "0.0.9",
+  "summary": "Secondary packaging.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JKNetWorking",
+  "authors": {
+    "zhangjie": "454200568@qq.com"
+  },
+  "license": {
+    "type": "MIT",
+    "file": "FILE_LICENSE"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JKNetWorking.git",
+    "tag": "0.0.9"
+  },
+  "source_files": "JKNetworking/JKNetworkingKit/**/*.{h,m}"
+}

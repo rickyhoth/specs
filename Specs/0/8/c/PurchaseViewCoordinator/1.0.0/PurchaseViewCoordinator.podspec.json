@@ -1,0 +1,24 @@
+{
+  "name": "PurchaseViewCoordinator",
+  "version": "1.0.0",
+  "summary": "PurchaseViewCoordinator",
+  "description": "PurchaseViewCoordinator",
+  "license": {
+    "type": "MIT"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/PurchaseViewCoordinator",
+  "authors": {
+    "Anton Protko": "maveric942@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/PurchaseViewCoordinator.git",
+    "tag": "1.0.0"
+  },
+  "requires_arc": true,
+  "platforms": {
+    "ios": "13.0"
+  },
+  "source_files": "Sources/PurchaseViewCoordinator/*.swift",
+  "swift_versions": "5.1",
+  "swift_version": "5.1"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "SYSDK",
+  "version": "0.1.2",
+  "summary": "Heo Seoyeong Library for Swift!!",
+  "swift_version": "4.2",
+  "description": "Heo Seoyeong's Library for Swift!!",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SYSDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Heo-Seoyeong": "gjtjdud93@gamil.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SYSDK.git",
+    "tag": "0.1.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Source/*.swift"
+}

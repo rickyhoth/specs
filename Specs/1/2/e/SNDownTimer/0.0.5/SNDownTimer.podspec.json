@@ -1,0 +1,26 @@
+{
+  "name": "SNDownTimer",
+  "version": "0.0.5",
+  "summary": "A short description of SNDownTimer.",
+  "description": "Witty timer",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SNDownTimer",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "snlo": "snloveydus@sina.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SNDownTimer.git",
+    "tag": "0.0.5"
+  },
+  "source_files": "SNDownTimer/SNDownTimer/*.{h,m}",
+  "requires_arc": true,
+  "xcconfig": {
+    "HEADER_SEARCH_PATHS": "$(SDKROOT)/usr/include/libxml2"
+  }
+}

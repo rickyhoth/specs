@@ -1,0 +1,23 @@
+{
+  "name": "DXLoadingTool",
+  "version": "1.1.1",
+  "summary": "loading tool for CocoaTouch",
+  "description": "<<-DESC\n                   loading tool for CocoaTouch\n                   DESC",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DXLoadingTool",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "cikelengfeng": "cikelengfeng@gmail.com"
+  },
+  "platforms": {
+    "ios": "5.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DXLoadingTool.git",
+    "tag": "1.1.1"
+  },
+  "source_files": "DXLoadingTool.{h,m}",
+  "requires_arc": true
+}

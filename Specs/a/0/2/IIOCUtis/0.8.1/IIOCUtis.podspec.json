@@ -1,0 +1,32 @@
+{
+  "name": "IIOCUtis",
+  "version": "0.8.1",
+  "summary": "记录oc中一些基础工具",
+  "description": "IIOCUtis\n1.HUDProgress",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/IIOCUtis",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "hatjs880328s": "shanwzh@inspur.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/IIOCUtis.git",
+    "tag": "0.8.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "swift_versions": "4.2",
+  "source_files": "IIOCUtis/Classes/**/*",
+  "dependencies": {
+    "III18N": [
+
+    ],
+    "JGProgressHUD": [
+
+    ]
+  },
+  "swift_version": "4.2"
+}

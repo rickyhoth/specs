@@ -1,0 +1,23 @@
+{
+  "name": "YMValidator",
+  "version": "0.2.1",
+  "summary": "TextField Validation library for Swift (@IBDesignable & Programmatically)",
+  "description": "TextField Validation library for Swift using IBDesignable from Storyboard or Programmatically.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/YMValidator",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Ysee Monnier": "contact@yseemonnier.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YMValidator.git",
+    "tag": "0.2.1"
+  },
+  "social_media_url": "https://twitter.com/Ysee88",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YMValidator/Classes/**/*"
+}

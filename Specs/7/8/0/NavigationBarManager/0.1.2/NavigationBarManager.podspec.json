@@ -1,0 +1,22 @@
+{
+  "name": "NavigationBarManager",
+  "version": "0.1.2",
+  "summary": "Manage navigation bar",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/NavigationBarManager",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Sarun Wongpatcharapakorn": "artwork.th@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/NavigationBarManager.git",
+    "tag": "0.1.2"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "NavigationBarManager/Classes/**/*",
+  "pushed_with_swift_version": "3.0"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "objc-geohash",
+  "version": "0.0.1",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/objc-geohash",
+  "license": "MIT",
+  "summary": "Objective-C GeoHash Library.",
+  "authors": {
+    "Lyo Kato": "lyo.kato@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/objc-geohash.git",
+    "commit": "f9be65bcba9b009429a13cae90cff9e10e1e11b7"
+  },
+  "source_files": "Classes/ARC/*",
+  "requires_arc": true
+}

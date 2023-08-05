@@ -1,0 +1,25 @@
+{
+  "name": "FBObjcSugar",
+  "version": "0.2.0",
+  "summary": "quick create code.",
+  "description": "quick create objc code",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/FBObjcSugar",
+  "license": "MIT",
+  "authors": {
+    "cocoazxy": "cocoazxy@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/FBObjcSugar.git",
+    "tag": "0.2.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "FBObjcSugar/Classes/**/*",
+  "frameworks": [
+    "Foundation",
+    "CoreGraphics",
+    "UIKit"
+  ]
+}

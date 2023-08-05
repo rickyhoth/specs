@@ -1,0 +1,20 @@
+{
+  "name": "Transitional",
+  "version": "0.0.1",
+  "summary": "Quick and easy custom transitions.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Transitional",
+  "license": "MIT",
+  "authors": {
+    "Imperiopolis": "me@trappdesign.net"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Transitional.git",
+    "tag": "0.0.1"
+  },
+  "social_media_url": "https://twitter.com/imperiopolis",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "Transitional/*.swift"
+}

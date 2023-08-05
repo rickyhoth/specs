@@ -1,0 +1,25 @@
+{
+  "name": "JCMomentsKit",
+  "version": "1.0.0",
+  "summary": "A marquee view used on iOS.",
+  "description": "It is a marquee view used on iOS, which implement by Objective-C.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JCMomentsKit",
+  "license": "MIT",
+  "authors": {
+    "郭吉成": "ji.chan@foxmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JCMomentsKit.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "4.3"
+  },
+  "requires_arc": true,
+  "source_files": "JCMomentsKit/*",
+  "frameworks": [
+    "Foundation",
+    "CoreGraphics",
+    "UIKit"
+  ]
+}

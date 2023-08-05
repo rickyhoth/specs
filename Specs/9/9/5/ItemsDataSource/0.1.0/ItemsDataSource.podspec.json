@@ -1,0 +1,24 @@
+{
+  "name": "ItemsDataSource",
+  "version": "0.1.0",
+  "summary": "Generic CollectionView Data Source",
+  "description": "Generic CollectionView Data Source for iOS",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ItemsDataSource",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Sasha Prokhorenko": "djminikin@gmail.com"
+  },
+  "social_media_url": "https://twitter.com/minikin",
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ItemsDataSource.git",
+    "tag": "0.1.0"
+  },
+  "source_files": "Sources/**/*",
+  "frameworks": "Foundation"
+}

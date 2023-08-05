@@ -1,0 +1,22 @@
+{
+  "name": "DFLabelSizeFit",
+  "version": "1.1.0",
+  "summary": "one line of code to fit label size.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DFLabelSizeFit",
+  "license": "MIT",
+  "authors": {
+    "ihoudf": "188816190@qq.com"
+  },
+  "platforms": {
+    "ios": "6.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DFLabelSizeFit.git",
+    "tag": "1.1.0"
+  },
+  "source_files": [
+    "DFLabelSizeFit",
+    "DFLabelSizeFit/**/*.{h,m}"
+  ],
+  "requires_arc": true
+}

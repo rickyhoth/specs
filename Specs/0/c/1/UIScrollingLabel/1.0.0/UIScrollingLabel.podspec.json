@@ -1,0 +1,27 @@
+{
+  "name": "UIScrollingLabel",
+  "version": "1.0.0",
+  "summary": "Automatically Scrolled Label",
+  "description": "Automatically Scrolled Label.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/UIScrollingLabel",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "author": "sulioppa@icloud.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/UIScrollingLabel.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "UIScrollingLabel/**/*",
+  "dependencies": {
+    "Masonry": [
+
+    ]
+  }
+}

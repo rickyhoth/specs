@@ -1,0 +1,24 @@
+{
+  "name": "glucose",
+  "version": "0.0.8",
+  "summary": "Glucose - Autolayout syntactic sugar",
+  "description": "Glucose is a set of methods for UIView that ease programmatic autolayout implementation.\nThe implementation was highly inspired by TinyConstraints.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/glucose",
+  "license": {
+    "type": "Apache",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "idomizrachi": "ido.mizrachi@jivesoftware.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/glucose.git",
+    "tag": "0.0.8"
+  },
+  "social_media_url": "https://twitter.com/idomizrachi",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "glucose/Classes/**/*",
+  "frameworks": "UIKit"
+}

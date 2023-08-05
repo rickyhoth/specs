@@ -1,0 +1,22 @@
+{
+  "name": "PSYUtility",
+  "version": "0.0.1",
+  "platforms": {
+    "ios": null
+  },
+  "summary": "a tools for psylife Project",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/PSYUtility",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yunxi": "1521274774@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/PSYUtility.git",
+    "tag": "0.0.1"
+  },
+  "requires_arc": true,
+  "source_files": "PSYUtility/*.*"
+}

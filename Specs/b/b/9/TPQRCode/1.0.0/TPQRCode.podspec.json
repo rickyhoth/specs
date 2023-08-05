@@ -1,0 +1,19 @@
+{
+  "name": "TPQRCode",
+  "version": "1.0.0",
+  "summary": "Tiny二维码扫描 of QRCode.",
+  "description": "Tiny二维码扫描 of QRCodeTiny二维码扫描 of QRCode",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TPQRCode",
+  "license": "MIT",
+  "authors": {
+    "TinySunline": "sunjf@sunline.cn"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TPQRCode.git"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*"
+}

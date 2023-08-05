@@ -1,0 +1,22 @@
+{
+  "name": "SohaLivePublic",
+  "version": "0.0.1",
+  "summary": "A short description of SohaLivePublic.",
+  "description": "SohaLivePublic",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SohaLivePublic",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "flamingo-suu": "flamingo.suu@gmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "http": "https://bitbucket.devops.nonprod.empf.local/scm/react/SohaLivePublic-0.1.0.zip"
+  },
+  "source_files": "SohaLivePublic.framework/Versions/A/Headers/*",
+  "deprecated": true
+}

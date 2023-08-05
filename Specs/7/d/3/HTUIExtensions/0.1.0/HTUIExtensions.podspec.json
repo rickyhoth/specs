@@ -1,0 +1,22 @@
+{
+  "name": "HTUIExtensions",
+  "version": "0.1.0",
+  "summary": "Simple Collection of UI Classes Extension",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HTUIExtensions",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ocean": "tomcat1991@126.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HTUIExtensions.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HTUIExtensions/Classes/**/*"
+}

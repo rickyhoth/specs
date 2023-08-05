@@ -1,0 +1,41 @@
+{
+  "name": "BeagleExtension",
+  "version": "0.0.5",
+  "summary": "This is an extension of beagle lib.",
+  "description": "This is an extension of beagle lib. It contains more widgets, more actions.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/BeagleExtension",
+  "license": "MIT",
+  "authors": {
+    "Minh Mon": "phivanminh10@gmail.com"
+  },
+  "platforms": {
+    "ios": "12.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/BeagleExtension.git",
+    "tag": "0.0.5"
+  },
+  "source_files": "BeagleExtension/**/*.{swift}",
+  "swift_versions": "5.0",
+  "dependencies": {
+    "Beagle": [
+
+    ],
+    "BeagleScaffold": [
+
+    ],
+    "MaterialComponents": [
+
+    ],
+    "SVProgressHUD": [
+
+    ],
+    "DropDown": [
+
+    ],
+    "MBCircularProgressBar": [
+
+    ]
+  },
+  "swift_version": "5.0"
+}

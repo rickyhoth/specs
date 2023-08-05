@@ -1,0 +1,21 @@
+{
+  "name": "ALWMediator",
+  "version": "0.1.1",
+  "summary": "A mediator used to invoke target and method, also remove coupled relationship.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ALWMediator",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lisong": "370381830@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ALWMediator.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ALWMediator/Classes/**/*"
+}

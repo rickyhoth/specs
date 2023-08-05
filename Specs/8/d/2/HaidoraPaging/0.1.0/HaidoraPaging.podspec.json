@@ -1,0 +1,24 @@
+{
+  "name": "HaidoraPaging",
+  "version": "0.1.0",
+  "summary": "通用分页配置.",
+  "description": "                        给NSObject扩展分页属性.\n",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HaidoraPaging",
+  "license": "MIT",
+  "authors": {
+    "mrdaios": "mrdaios@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HaidoraPaging.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "6.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ]
+}

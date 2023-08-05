@@ -1,0 +1,22 @@
+{
+  "name": "LZBarrage",
+  "version": "0.0.1",
+  "summary": "Barrage implementation",
+  "description": "Barrage implementation.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LZBarrage",
+  "license": {
+    "type": "MIT"
+  },
+  "authors": {
+    "zhiziZ": "Leehua_Zhou@163.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LZBarrage.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "LZBarrage/**/*.{h,m}",
+  "frameworks": "UIKit"
+}

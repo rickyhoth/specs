@@ -1,0 +1,23 @@
+{
+  "name": "GCViewPager",
+  "version": "1.5.4",
+  "summary": "GCViewPager",
+  "description": "GCViewPager.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ICViewPager.git",
+  "license": {
+    "type": "MIT"
+  },
+  "authors": {
+    "gooc": "gooc.mail@gmail.com"
+  },
+  "platforms": {
+    "ios": "6.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ICViewPager.git",
+    "tag": "1.5.4"
+  },
+  "source_files": "ICViewPager/ICViewPager/*.{h,m}",
+  "requires_arc": true,
+  "deprecated": true
+}

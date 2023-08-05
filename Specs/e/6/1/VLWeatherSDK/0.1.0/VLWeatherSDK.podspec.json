@@ -1,0 +1,22 @@
+{
+  "name": "VLWeatherSDK",
+  "version": "0.1.0",
+  "summary": "Getting real-time weather",
+  "description": "Provide the function of getting real-time weather,Weather information can be obtained by city name, zip code",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/VunWeatherSDK.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xietingsong9": "xietingsong3@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/VunWeatherSDK.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "VLWeatherSDK/Classes/**/*"
+}

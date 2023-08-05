@@ -1,0 +1,21 @@
+{
+  "name": "ElasticPullToRefresh",
+  "version": "1.3.1",
+  "summary": "A pull to refresh control that has a simple, elegant spinner",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ElasticPullToRefresh",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE.md"
+  },
+  "authors": {
+    "Joshua Tessier": "joshpc@gmail.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ElasticPullToRefresh.git",
+    "tag": "1.3.1"
+  },
+  "source_files": "ElasticPullToRefresh"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "JKUBSAspects",
+  "version": "0.1.0",
+  "summary": "https://bitbucket.devops.nonprod.empf.local/scm/react/JKUBSAspects.",
+  "description": "https://bitbucket.devops.nonprod.empf.local/scm/react/JKUBSAspects",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JKUBSAspects",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "HHL110120": "929097264@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JKUBSAspects.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source_files": "JKUBSAspects/Classes/**/*"
+}

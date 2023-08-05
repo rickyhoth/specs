@@ -1,0 +1,20 @@
+{
+  "name": "Alertift",
+  "version": "1.1",
+  "summary": "UIAlertControlelr wrapper for Swift.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Alertift",
+  "license": "MIT",
+  "authors": {
+    "Suguru Kishimoto": "melodydance.k.s@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Alertift.git",
+    "tag": "1.1"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "requires_arc": true,
+  "source_files": "Sources/**/*",
+  "pushed_with_swift_version": "3.1"
+}

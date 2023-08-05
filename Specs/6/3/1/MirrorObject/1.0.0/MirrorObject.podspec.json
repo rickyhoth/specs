@@ -1,0 +1,21 @@
+{
+  "name": "MirrorObject",
+  "version": "1.0.0",
+  "summary": "Mirroring dynamic properties automatically.",
+  "description": "Copy dynamic properties of objects that have same identifier.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MirrorObject",
+  "license": "MIT",
+  "authors": {
+    "Matzo": "ksk.matsuo@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MirrorObject.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "pushed_with_swift_version": "3.0"
+}

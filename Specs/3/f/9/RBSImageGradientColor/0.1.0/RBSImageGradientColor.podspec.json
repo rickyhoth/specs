@@ -1,0 +1,22 @@
+{
+  "name": "RBSImageGradientColor",
+  "version": "0.1.0",
+  "summary": "Custom gradient color on imageView of RBSImageGradientColor.",
+  "description": "Custom gradient color on imageView of RBSImageGradientColor.\nThat will supoort asynch.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/RBSImageGradientColor",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "rbbtsn0w": "hamiltonsnow@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/RBSImageGradientColor.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "RBSImageGradientColor/Classes/**/*"
+}

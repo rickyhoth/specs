@@ -1,0 +1,22 @@
+{
+  "name": "MJPSlider",
+  "version": "0.1.1",
+  "summary": "iOS Slider",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MJPSlider",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "mikeplatt": "mikeplatt@inboox.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MJPSlider.git",
+    "tag": "0.1.1"
+  },
+  "source_files": "Source/*.{m,h}",
+  "requires_arc": true,
+  "platforms": {
+    "ios": "7.0"
+  }
+}

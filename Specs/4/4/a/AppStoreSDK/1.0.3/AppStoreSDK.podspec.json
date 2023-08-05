@@ -1,0 +1,29 @@
+{
+  "name": "AppStoreSDK",
+  "version": "1.0.3",
+  "summary": "iOS分发平台 SDK",
+  "description": "\"iOS分发平台 SDK\"",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AppStoreSDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "石文文": "shiwenwendevelop@163.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AppStoreSDK.git",
+    "tag": "1.0.3"
+  },
+  "ios": {
+    "vendored_frameworks": "AppStoreSDK/AppUpdate.framework"
+  },
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ],
+  "requires_arc": true
+}

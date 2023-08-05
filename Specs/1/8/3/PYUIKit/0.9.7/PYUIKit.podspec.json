@@ -1,0 +1,31 @@
+{
+  "name": "PYUIKit",
+  "version": "0.9.7",
+  "summary": "Make create UI more easily in iOS application",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/PYUIKit",
+  "license": {
+    "type": "LGPLv3",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Push Chen": "littlepush@gmail.com"
+  },
+  "platforms": {
+    "ios": "5.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/PYUIKit.git",
+    "tag": "0.9.7"
+  },
+  "source_files": "PYUIKit/*.{h,m}",
+  "frameworks": [
+    "ImageIO",
+    "CoreImage"
+  ],
+  "requires_arc": true,
+  "dependencies": {
+    "PYCore": [
+      "~> 0.9"
+    ]
+  }
+}

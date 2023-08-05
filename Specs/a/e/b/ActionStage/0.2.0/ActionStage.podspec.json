@@ -1,0 +1,22 @@
+{
+  "name": "ActionStage",
+  "version": "0.2.0",
+  "summary": "A short description of ActionStage.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ActionStage",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "coderyi": "coderyi@foxmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ActionStage.git",
+    "tag": "0.2.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ActionStage/Classes/**/*"
+}

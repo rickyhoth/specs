@@ -1,0 +1,23 @@
+{
+  "name": "EMDatePicker",
+  "version": "1.0",
+  "license": "MIT",
+  "summary": "Custom Date Picker for iOS",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/EMDatePicker",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "authors": {
+    "Elliott Minns": "elliott.minns@me.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/EMDatePicker.git",
+    "tag": "1.0"
+  },
+  "source_files": "EMDatePicker/*.{h,m}",
+  "requires_arc": true,
+  "frameworks": [
+    "QuartzCore",
+    "UIKit"
+  ]
+}

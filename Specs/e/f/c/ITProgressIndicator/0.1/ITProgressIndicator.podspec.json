@@ -1,0 +1,20 @@
+{
+  "name": "ITProgressIndicator",
+  "version": "0.1",
+  "summary": "A replacement class for NSProgressIndicator driven by Core Animation.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ITProgressIndicator",
+  "social_media_url": "https://twitter.com/ilijatovilo",
+  "license": "Apache",
+  "authors": {
+    "Ilija Tovilo": "support@ilijatovilo.ch"
+  },
+  "platforms": {
+    "osx": null
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ITProgressIndicator.git",
+    "tag": "0.1"
+  },
+  "source_files": "ITProgressIndicator/Classes/*.{h,m}",
+  "requires_arc": true
+}

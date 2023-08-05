@@ -1,0 +1,20 @@
+{
+  "name": "SnailQuickMaskPopups",
+  "version": "0.0.3",
+  "summary": "A QuickMaskPopups For iOS",
+  "license": "MIT",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "frameworks": "UIKit",
+  "authors": {
+    "snail-z": "40460770@qq.com"
+  },
+  "source_files": "SnailQuickMaskPopups/**/*.{h,m}",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SnailQuickMaskPopups",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SnailQuickMaskPopups.git",
+    "tag": "0.0.3"
+  },
+  "requires_arc": true
+}

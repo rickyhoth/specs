@@ -1,0 +1,22 @@
+{
+  "name": "LHOpenURL",
+  "version": "1.0.2",
+  "summary": "iOS open url framework.Auto documentGenerate.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LHOpenURL",
+  "license": {
+    "type": "MIT"
+  },
+  "authors": {
+    "huji": "huji0624@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LHOpenURL.git",
+    "tag": "1.0.1"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source_files": "LHOpenURL/**/*.{m,h}",
+  "public_header_files": "LHOpenURL/**/*.h",
+  "requires_arc": true
+}

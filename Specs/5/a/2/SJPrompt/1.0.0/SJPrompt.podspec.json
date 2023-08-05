@@ -1,0 +1,28 @@
+{
+  "name": "SJPrompt",
+  "version": "1.0.0",
+  "summary": "current view present prompt.",
+  "description": "https://bitbucket.devops.nonprod.empf.local/scm/react/SJPrompt/blob/master/README.md",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SJPrompt",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE.md"
+  },
+  "authors": {
+    "SanJiang": "changsanjiang@gmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SJPrompt.git",
+    "tag": "v1.0.0"
+  },
+  "source_files": "SJPrompt/*.{h,m}",
+  "requires_arc": true,
+  "dependencies": {
+    "Masonry": [
+
+    ]
+  }
+}

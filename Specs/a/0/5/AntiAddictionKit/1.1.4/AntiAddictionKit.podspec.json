@@ -1,0 +1,18 @@
+{
+  "name": "AntiAddictionKit",
+  "version": "1.1.4",
+  "summary": "AntiAddictionKit for TGCenter.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TGCenter_iOS_Pub",
+  "license": {
+    "type": "MIT",
+    "file": "AntiAddictionKit_1.1.4/LICENSE"
+  },
+  "authors": "TGCenter",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "http": "https://bitbucket.devops.nonprod.empf.local/scm/react/AntiAddictionKit_1.1.4.zip"
+  },
+  "vendored_frameworks": "AntiAddictionKit_1.1.4/AntiAddictionKit.xcframework"
+}

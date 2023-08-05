@@ -1,0 +1,19 @@
+{
+  "name": "Umarell",
+  "version": "1.0.2",
+  "summary": "Umarell is a easy-to-use library that makes simple the implementation of the Publish-Subscribe pattern in Objective-C.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Umarell",
+  "license": "Apache 2.0",
+  "authors": {
+    "Sysdata Digital": "team.mobile@sysdata.it"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Umarell.git",
+    "tag": "1.0.2"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Umarell"
+}

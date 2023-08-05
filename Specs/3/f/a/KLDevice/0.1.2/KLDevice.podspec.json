@@ -1,0 +1,22 @@
+{
+  "name": "KLDevice",
+  "version": "0.1.2",
+  "summary": "Deviceinfo.",
+  "description": "TODO: Add long description of the pod here.\n设备信息",
+  "homepage": "hhttps://bitbucket.devops.nonprod.empf.local/scm/react/KLDevice",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ray_ios@163.com": "ray_ios@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/KLDevice.git",
+    "tag": "0.1.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "KLDevice/Classes/**/*"
+}

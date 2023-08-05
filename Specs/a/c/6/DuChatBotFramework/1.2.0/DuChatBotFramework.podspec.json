@@ -1,0 +1,30 @@
+{
+  "name": "DuChatBotFramework",
+  "version": "1.2.0",
+  "summary": "DuChatBotFramework",
+  "swift_versions": "5.0",
+  "description": "DuChatBotFramework that wraps around BSChatBotClient",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DuChatBotFramework",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Tarek Sabry": "tareqs@blackstoneeit.com"
+  },
+  "source": {
+    "http": "https://bitbucket.devops.nonprod.empf.local/scm/react/DuChatBot.zip"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "ios": {
+    "vendored_frameworks": "DuChatBot.xcframework"
+  },
+  "dependencies": {
+    "BSChatBotClientFramework": [
+      "1.2.0"
+    ]
+  },
+  "swift_version": "5.0"
+}

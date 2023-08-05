@@ -1,0 +1,27 @@
+{
+  "name": "AQSFacebookMessengerActivity",
+  "version": "0.1.0",
+  "summary": "[iOS] UIActivity Class for sharing with Facebook Messeger",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AQSFacebookMessengerActivity",
+  "license": "MIT",
+  "authors": {
+    "kaiinui": "lied.der.optik@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AQSFacebookMessengerActivity.git",
+    "tag": "v0.1.0"
+  },
+  "source_files": "AQSFacebookMessengerActivity/Classes/**/*.{h,m}",
+  "resources": [
+    "AQSFacebookMessengerActivity/Classes/**/*.png"
+  ],
+  "requires_arc": true,
+  "platforms": {
+    "ios": "7.0"
+  },
+  "dependencies": {
+    "Facebook-iOS-SDK": [
+
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "MGTestOne",
+  "version": "1.1.0",
+  "summary": "A short descripne.",
+  "description": "TODO: Add long description of the pod here, Add long description of the pod here",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MGTestOne",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "L-vinCent": "869270468@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MGTestOne.git",
+    "tag": "1.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "MGTestOne/**/Classes/**/*"
+}

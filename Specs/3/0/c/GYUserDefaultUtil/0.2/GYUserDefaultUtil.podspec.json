@@ -1,0 +1,19 @@
+{
+  "name": "GYUserDefaultUtil",
+  "version": "0.2",
+  "summary": "sssssssssss",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/GYDemo",
+  "license": "MIT",
+  "authors": {
+    "sai": "490436904@qq.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/GYDemo.git",
+    "tag": "0.2"
+  },
+  "source_files": "GYUserDefaultUtil/*.{h,m}",
+  "requires_arc": true
+}

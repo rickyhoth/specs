@@ -1,0 +1,23 @@
+{
+  "name": "LWZBasicTool",
+  "version": "0.0.1",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "summary": "这是一个基础的工具封装",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LWZBasicTool",
+  "social_media_url": "https://www.baidu.com",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "751185567@qq.com": "751185567@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LWZBasicTool.git",
+    "tag": "0.0.1"
+  },
+  "requires_arc": true,
+  "source_files": "LWZBasicToolAndController/**/*"
+}

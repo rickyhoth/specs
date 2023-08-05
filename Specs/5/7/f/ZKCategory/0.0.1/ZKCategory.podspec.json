@@ -1,0 +1,24 @@
+{
+  "name": "ZKCategory",
+  "version": "0.0.1",
+  "summary": "Category,MSC,ZK",
+  "description": "ios common/genetal category",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZKGeneralClass",
+  "license": "MIT",
+  "authors": {
+    "msc": "zk_msc@163.com"
+  },
+  "platforms": {
+    "ios": null
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZKGeneralClass.git",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "GeneralClass",
+    "GeneralClass/Category/*.{h,m}"
+  ],
+  "exclude_files": "Classes/Exclude",
+  "deprecated": true
+}

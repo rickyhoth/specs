@@ -1,0 +1,29 @@
+{
+  "name": "SNiOSDocumentsSDK",
+  "version": "0.2.21",
+  "summary": "iOS SDK to integrate signing flow by SignNow into your product.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SN_iOS_SDK",
+  "license": {
+    "type": "MIT",
+    "file": "License"
+  },
+  "authors": {
+    "Mykola Avilov": "avilov.mykola@pdffiller.team"
+  },
+  "platforms": {
+    "ios": "12.0"
+  },
+  "ios": {
+    "vendored_frameworks": "SNiOSDocumentsSDK.xcframework"
+  },
+  "source": {
+    "http": "https://bitbucket.devops.nonprod.empf.local/scm/react/SNiOSDocumentsSDK.zip"
+  },
+  "swift_versions": "5.0",
+  "dependencies": {
+    "Alamofire": [
+
+    ]
+  },
+  "swift_version": "5.0"
+}

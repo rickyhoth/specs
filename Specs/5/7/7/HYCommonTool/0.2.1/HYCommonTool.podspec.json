@@ -1,0 +1,22 @@
+{
+  "name": "HYCommonTool",
+  "version": "0.2.1",
+  "summary": "文件操作类封装",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HYCommonTool",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "captainlee123": "licheng@ihooyah.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HYCommonTool.git",
+    "tag": "0.2.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HYCommonTool/Classes/**/*"
+}

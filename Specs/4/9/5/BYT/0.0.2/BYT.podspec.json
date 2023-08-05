@@ -1,0 +1,24 @@
+{
+  "name": "BYT",
+  "version": "0.0.2",
+  "summary": "A Oneself iOS Category Framework.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/BYT",
+  "license": "MIT",
+  "authors": {
+    "Pikdays": "byt.quan@gmail.com"
+  },
+  "platforms": {
+    "ios": null
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/BYT.git",
+    "tag": "0.0.2"
+  },
+  "source_files": "*.{h,m}",
+  "public_header_files": "BYTHeader.h",
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ],
+  "requires_arc": true
+}

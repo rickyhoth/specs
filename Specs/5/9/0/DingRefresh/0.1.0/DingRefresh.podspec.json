@@ -1,0 +1,23 @@
+{
+  "name": "DingRefresh",
+  "version": "0.1.0",
+  "summary": "一些简单的介绍.",
+  "description": "一些详细的介绍，个我卡的大吼道德",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DDRefresh",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "herodys": "herodys@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DDRefresh.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DDRefresh/Classes/*.swift",
+  "pushed_with_swift_version": "3.0"
+}

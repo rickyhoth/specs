@@ -1,0 +1,21 @@
+{
+  "name": "FLPullUpViewController",
+  "version": "0.3.0",
+  "summary": "A pull up controller that appears from the bottom.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/FLPullUpViewController",
+  "license": "MIT",
+  "authors": {
+    "Felix Li": "li.felix162@gmail.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/FLPullUpViewController.git",
+    "tag": "0.3.0"
+  },
+  "source_files": [
+    "FLPullUpViewController.swift",
+    "DarkScreenView.swift"
+  ]
+}

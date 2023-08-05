@@ -1,0 +1,23 @@
+{
+  "name": "PTScreenView",
+  "version": "0.1.0",
+  "summary": "aaaa",
+  "description": "aaaaa",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/PTScreenView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ban nan": "pong.np1@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/PTScreenView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "PTScreenView/Classes/**/*",
+  "swift_version": "4.2"
+}

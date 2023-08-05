@@ -1,0 +1,31 @@
+{
+  "name": "FTAuthentication",
+  "version": "22.3",
+  "summary": "Authentication framework.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/FTAuthentication",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "PraveenP": "ppraveentr@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/FTAuthentication.git",
+    "tag": "22.3"
+  },
+  "weak_frameworks": "UIKit",
+  "platforms": {
+    "ios": "13.0"
+  },
+  "swift_versions": "5.0",
+  "default_subspecs": "FTAuthentication",
+  "subspecs": [
+    {
+      "name": "FTAuthentication",
+      "source_files": "FTAuthentication/Classes/**/*.{h,m,swift}",
+      "header_dir": "FTAuthentication"
+    }
+  ],
+  "swift_version": "5.0"
+}

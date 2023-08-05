@@ -1,0 +1,22 @@
+{
+  "name": "ANRLib",
+  "version": "0.1.0",
+  "summary": "ANRLib library to use utility methods.",
+  "description": "This is a sample Cocoapods Library to learn pods creation but used for utlity methods",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ANRLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "alenzalex": "alen.alexander@infosys.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ANRLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ANRLib/Classes/**/*"
+}

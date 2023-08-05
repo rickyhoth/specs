@@ -1,0 +1,17 @@
+{
+  "name": "SGImageLoader",
+  "version": "1.1.0",
+  "summary": "Image caching using NSCache",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SGImageLoader",
+  "license": "MIT",
+  "authors": "7 glyphs Ltd.",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SGImageLoader.git",
+    "tag": "1.1.0"
+  },
+  "platforms": {
+    "ios": "6.0"
+  },
+  "source_files": "SGImageLoader/*.{h,m}",
+  "requires_arc": true
+}

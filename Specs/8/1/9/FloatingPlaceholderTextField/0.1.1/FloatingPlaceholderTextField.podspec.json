@@ -1,0 +1,24 @@
+{
+  "name": "FloatingPlaceholderTextField",
+  "version": "0.1.1",
+  "summary": "Text field with animatable moving a placeholder",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/FloatingPlaceholderTextField",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Dmitry Shelonin": "cheisesu@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/FloatingPlaceholderTextField.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "12.0"
+  },
+  "swift_versions": "5",
+  "source_files": "Sources/FloatingPlaceholderTextField/Classes/**/*",
+  "frameworks": "UIKit",
+  "swift_version": "5"
+}

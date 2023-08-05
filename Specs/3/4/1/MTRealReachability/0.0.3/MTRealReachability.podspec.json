@@ -1,0 +1,30 @@
+{
+  "name": "MTRealReachability",
+  "version": "0.0.3",
+  "summary": "it is a little tools to monitor network",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MTRealReachability",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "martin": "martinwithxc@gmail.com"
+  },
+  "social_media_url": "http://martin.nnoffice.cn",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MTRealReachability.git",
+    "tag": "0.0.3"
+  },
+  "source_files": "MTRealReachability/**/*.{h,m}",
+  "public_header_files": "MTRealReachability/**/*.h",
+  "frameworks": [
+    "SystemConfiguration",
+    "QuartzCore",
+    "CoreGraphics",
+    "SystemConfiguration"
+  ],
+  "requires_arc": true
+}

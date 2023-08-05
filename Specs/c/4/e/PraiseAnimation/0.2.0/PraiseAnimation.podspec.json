@@ -1,0 +1,22 @@
+{
+  "name": "PraiseAnimation",
+  "version": "0.2.0",
+  "summary": "Like animation",
+  "description": "Like animation",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/PraiseAnimation",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "winterrain5": "913419042@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/PraiseAnimation.git",
+    "tag": "0.2.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "PraiseAnimation/Classes/**/*"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "TagWriteView",
+  "version": "1.2.2",
+  "summary": "The smart input custom view for Evernote app style tagging.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HKKTagWriteView",
+  "license": "MIT",
+  "authors": {
+    "kyokook": "fullc0de@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HKKTagWriteView.git",
+    "tag": "1.2.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "TagWriteViewTest/*.swift",
+  "pushed_with_swift_version": "3.0"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "StartButton",
+  "version": "1.1.4",
+  "summary": "This is a button with two actions and changing layout.",
+  "description": "You can use this if you need a button with multiple actions and which dynamically changes its layout when you tap on it.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ColoredButton",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE.txt"
+  },
+  "authors": {
+    "Diana Daia": "diana.daia@icloud.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ColoredButton.git",
+    "tag": "1.1.4"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source_files": "StartButton/ColoredButton.swift"
+}

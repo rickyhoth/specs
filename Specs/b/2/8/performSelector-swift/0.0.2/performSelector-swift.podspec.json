@@ -1,0 +1,19 @@
+{
+  "name": "performSelector-swift",
+  "version": "0.0.2",
+  "summary": "performSelector for Swift",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/performSelector-swift",
+  "license": "MIT",
+  "authors": {
+    "tokorom": "tokorom@gmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/performSelector-swift.git",
+    "tag": "0.0.2"
+  },
+  "source_files": "performSelector-swift/*",
+  "requires_arc": true
+}

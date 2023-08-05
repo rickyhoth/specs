@@ -1,0 +1,27 @@
+{
+  "name": "SYWaveformPlayer",
+  "version": "0.1.2",
+  "summary": "Wave Form",
+  "description": "Wave form handling and visualisation",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SYWaveformPlayer",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "willpowell8": "willpowell8@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SYWaveformPlayer.git",
+    "tag": "0.1.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SYWaveformPlayer/Classes/**/*",
+  "resource_bundles": {
+    "SYWaveformPlayer": [
+      "SYWaveformPlayer/Assets/*.png"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "HongshiLogin",
+  "version": "0.1.0",
+  "summary": "This module includes Login function and simple UI",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HongshiLogin",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "John": "gonghuan2020@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HongshiLogin.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HongshiLogin/Classes/**/*"
+}

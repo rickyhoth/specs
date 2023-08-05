@@ -1,0 +1,23 @@
+{
+  "name": "Elastomeric",
+  "version": "0.2.0",
+  "summary": "A simple Reactive mechanism intended to facilitate UI statefulness",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Elastomeric",
+  "license": {
+    "type": "Public",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Christopher Cohen": "chris@filmicpro.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Elastomeric.git",
+    "tag": "0.2.0"
+  },
+  "swift_versions": "5.1.3",
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source_files": "Sources/Elastomeric.swift",
+  "swift_version": "5.1.3"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "TOPasscodeViewController",
+  "version": "0.0.1",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "summary": "A view controller that prompts users to enter a passcode.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TOPasscodeViewController",
+  "authors": "Tim Oliver",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TOPasscodeViewController.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "8.3"
+  },
+  "source_files": "TOPasscodeViewController/**/*.{h,m}",
+  "requires_arc": true
+}

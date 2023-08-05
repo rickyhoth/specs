@@ -1,0 +1,23 @@
+{
+  "name": "ERTextlimit",
+  "version": "0.1.2",
+  "summary": "Popup for TextView",
+  "description": "Pop up for text limit.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ERTextlimit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "earlred": "earlmarv@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ERTextlimit.git",
+    "tag": "0.1.2"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "ERTextlimit/Classes/**/*",
+  "pushed_with_swift_version": "3.2"
+}

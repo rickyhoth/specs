@@ -1,0 +1,29 @@
+{
+  "name": "ZZCustomAlertView",
+  "version": "0.1.0",
+  "summary": "ZZCustomAlertView is an alert view that you can totally customize it.",
+  "description": "ZZCustomAlertView is an alert view that you can totally customize it.\n\nvisit https://bitbucket.devops.nonprod.empf.local/scm/react/ZZCustomAlertView for more details.\n",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZZCustomAlertView",
+  "screenshots": [
+    "https://bitbucket.devops.nonprod.empf.local/scm/react/ZZCustomAlertView/raw/master/ZZCustomeAlertView%20Customized.png",
+    "https://bitbucket.devops.nonprod.empf.local/scm/react/ZZCustomAlertView/raw/master/ZZCustomAlertView%20Plain.png"
+  ],
+  "license": "MIT",
+  "authors": {
+    "zzdjk6": "zzdjk6@126.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZZCustomAlertView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "ZZCustomAlertView": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}

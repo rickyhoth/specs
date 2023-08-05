@@ -1,0 +1,24 @@
+{
+  "name": "VCHKit",
+  "version": "0.0.1",
+  "summary": "this is summary",
+  "description": "this is description",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/VCHKit",
+  "license": "MIT",
+  "authors": {
+    "vhuichen": "vhuichen@163.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/VCHKit.git",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "VCHKit",
+    "VCHKit/*.{h,m}"
+  ],
+  "frameworks": "UIKit",
+  "requires_arc": true
+}

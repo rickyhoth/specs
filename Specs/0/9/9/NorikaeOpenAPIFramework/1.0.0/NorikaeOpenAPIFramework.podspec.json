@@ -1,0 +1,22 @@
+{
+  "name": "NorikaeOpenAPIFramework",
+  "version": "1.0.0",
+  "summary": "Urge the latest version to update for iOS.",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/NorikaeOpenAPIFramework.git",
+  "authors": {
+    "MasamiYamate": "yamate.inquiry@mail.yamatte.net"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/NorikaeOpenAPIFramework.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "NorikaeOpenAPIFramework/**/*.{swift}"
+}

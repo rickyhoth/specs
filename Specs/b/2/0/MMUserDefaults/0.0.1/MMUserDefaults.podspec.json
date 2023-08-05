@@ -1,0 +1,28 @@
+{
+  "name": "MMUserDefaults",
+  "version": "0.0.1",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "summary": "NSUserDefaults access via properties.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MMUserDefaults",
+  "authors": {
+    "SunnyX": "1031787148@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MMUserDefaults.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "MMUserDefaults/*.{h,m}",
+  "frameworks": "Foundation",
+  "requires_arc": true,
+  "dependencies": {
+    "GVUserDefaults": [
+      "~> 1.0.2"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "LGDLogining",
+  "version": "0.1.0",
+  "summary": "LGDLogining for demo",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ComponentLoginDemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "刘国栋": "guodong.liu@daddylab.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ComponentLoginDemo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "LGDLogining/Classes/**/*",
+  "dependencies": {
+    "LGDNetworking": [
+
+    ]
+  }
+}

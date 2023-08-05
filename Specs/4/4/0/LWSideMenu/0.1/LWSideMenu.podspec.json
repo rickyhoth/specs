@@ -1,0 +1,19 @@
+{
+  "name": "LWSideMenu",
+  "version": "0.1",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "license": "MIT",
+  "summary": "A simple slide in/out side menu using UIKitDynamics",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LWSideMenu",
+  "authors": {
+    "Lukas Welte": "ich@lukaswelte.de"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LWSideMenu.git",
+    "tag": "0.1"
+  },
+  "source_files": "LWSideMenu",
+  "requires_arc": true
+}

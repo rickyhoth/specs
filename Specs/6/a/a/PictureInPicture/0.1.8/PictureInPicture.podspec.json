@@ -1,0 +1,23 @@
+{
+  "name": "PictureInPicture",
+  "version": "0.1.8",
+  "summary": "Picture in Picture.",
+  "description": "Picture in Picture with your ViewController.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/PictureInPicture",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Koji Murata": "malt.koji@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/PictureInPicture.git",
+    "tag": "0.1.8"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PictureInPicture/Classes/**/*",
+  "pushed_with_swift_version": "3.0"
+}

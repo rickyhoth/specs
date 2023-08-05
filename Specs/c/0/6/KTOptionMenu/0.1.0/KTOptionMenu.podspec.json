@@ -1,0 +1,24 @@
+{
+  "name": "KTOptionMenu",
+  "version": "0.1.0",
+  "summary": "KTOptionMenu is a user-friendly framework to create attractive option menu",
+  "description": "A KTOptionMenu framework provies very interactive functionality to create easy to use option menu.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/KTOptionMenu",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "iOSDevKamal": "kamaltrapasiya@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/KTOptionMenu.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "swift_versions": "5.0",
+  "source_files": "Source/**/*",
+  "swift_version": "5.0"
+}

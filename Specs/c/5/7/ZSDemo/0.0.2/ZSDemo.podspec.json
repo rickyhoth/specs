@@ -1,0 +1,22 @@
+{
+  "name": "ZSDemo",
+  "version": "0.0.2",
+  "summary": "这是我的框架",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZSDemo",
+  "license": "MIT",
+  "authors": {
+    "xiaogege": "email@address.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZSDemo.git",
+    "tag": "0.0.2"
+  },
+  "source_files": [
+    "ZSDemo",
+    "MyTestProject/我的框架/*.{h,m}"
+  ],
+  "requires_arc": true
+}

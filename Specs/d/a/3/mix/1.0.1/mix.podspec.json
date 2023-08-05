@@ -1,0 +1,20 @@
+{
+  "name": "mix",
+  "version": "1.0.1",
+  "license": "MIT",
+  "summary": "mix audio",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/audio-mix",
+  "social_media_url": "http://weibo.com/in66com",
+  "authors": {
+    "yangguang": "yangguang@in66.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/audio-mix.git",
+    "tag": "1.0.1"
+  },
+  "requires_arc": true,
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source_files": "class/**/*.{h,m}"
+}

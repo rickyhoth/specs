@@ -1,0 +1,19 @@
+{
+  "name": "MSCollectionViewCalendarLayout",
+  "version": "0.1.5",
+  "license": "MIT",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "summary": "UICollectionViewLayout for displaying cells chronologically. Similar to the iOS Calendar app.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MSCollectionViewCalendarLayout",
+  "authors": {
+    "Eric Horacek": "eric@monospacecollective.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MSCollectionViewCalendarLayout.git",
+    "tag": "0.1.5"
+  },
+  "source_files": "MSCollectionViewCalendarLayout/*.{h,m}",
+  "requires_arc": true
+}

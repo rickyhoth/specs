@@ -1,0 +1,24 @@
+{
+  "name": "ZZOperationExtension",
+  "version": "0.4.0",
+  "summary": "An extension to NSOperation.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZZOperationExtension",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "sablib": "sablib.iak@gmail.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZZOperationExtension.git",
+    "tag": "0.4.0"
+  },
+  "source_files": [
+    "Classes",
+    "ZZOperationExtension/Classes/**/*.{h,m}"
+  ]
+}

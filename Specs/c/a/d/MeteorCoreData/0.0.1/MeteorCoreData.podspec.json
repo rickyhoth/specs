@@ -1,0 +1,29 @@
+{
+  "name": "MeteorCoreData",
+  "version": "0.0.1",
+  "summary": "A Core Data persistence layer for SwiftDDP & Meteor",
+  "description": "A Core Data persistence layer for SwiftDDP & Meteor, written in Swift",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MeteorCoreData",
+  "license": "MIT",
+  "authors": {
+    "Peter Siegesmund": "peter.siegesmund@icloud.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MeteorCoreData.git",
+    "tag": "0.0.1"
+  },
+  "social_media_url": "https://twitter.com/psiegesmund",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "MeteorCoreData/**/*",
+  "dependencies": {
+    "SwiftDDP": [
+
+    ],
+    "XCGLogger": [
+
+    ]
+  }
+}

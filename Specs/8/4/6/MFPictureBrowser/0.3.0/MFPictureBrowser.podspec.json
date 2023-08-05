@@ -1,0 +1,34 @@
+{
+  "name": "MFPictureBrowser",
+  "version": "0.3.0",
+  "summary": "Elegant Picture Browser",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MFPictureBrowser",
+  "license": "MIT",
+  "authors": {
+    "GodzzZZZ": "GodzzZZZ@qq.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MFPictureBrowser.git",
+    "tag": "0.3.0"
+  },
+  "source_files": [
+    "Classes",
+    "MFPictureBrowserDemo/MFPictureBrowserDemo/MFPictureBrowser/*.{h,m}"
+  ],
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ],
+  "requires_arc": true,
+  "dependencies": {
+    "PINRemoteImage": [
+
+    ],
+    "MFCategory": [
+
+    ]
+  }
+}

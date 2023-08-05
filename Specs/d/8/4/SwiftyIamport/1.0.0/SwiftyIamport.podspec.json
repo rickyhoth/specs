@@ -1,0 +1,23 @@
+{
+  "name": "SwiftyIamport",
+  "version": "1.0.0",
+  "summary": "I'mport in Swift",
+  "description": "Swift I'mport for iOS",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwiftyIamport",
+  "license": "MIT",
+  "authors": {
+    "JosephNK": "nkw0608@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwiftyIamport.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "SwiftyIamport/Source/*.swift",
+  "resources": "SwiftyIamport/Resource/*.{html}",
+  "frameworks": "UIKit",
+  "requires_arc": true,
+  "platforms": {
+    "ios": "8.0"
+  },
+  "pushed_with_swift_version": "3.0"
+}

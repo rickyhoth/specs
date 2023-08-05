@@ -1,0 +1,19 @@
+{
+  "name": "HTYTextField",
+  "version": "1.1",
+  "summary": "A UITextField with bouncy placeholder.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HTYTextField",
+  "license": "MIT",
+  "authors": {
+    "Hanton Yang": "hanton.yang@gmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HTYTextField.git",
+    "tag": "1.1"
+  },
+  "source_files": "HTYTextField/*.swift",
+  "requires_arc": true
+}

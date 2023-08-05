@@ -1,0 +1,24 @@
+{
+  "name": "LEOKit",
+  "version": "0.0.1",
+  "summary": "LEOKit is a concise and helpful kit. Support: http://LeoDev.me",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LEOKit",
+  "license": "MIT",
+  "authors": {
+    "Leo": "devtip@163.com"
+  },
+  "social_media_url": "http://LeoDev.me",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LEOKit.git",
+    "tag": "0.0.1"
+  },
+  "requires_arc": true,
+  "dependencies": {
+    "LEONetworkKit": [
+
+    ]
+  }
+}

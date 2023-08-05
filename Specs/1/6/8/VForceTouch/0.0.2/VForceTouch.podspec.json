@@ -1,0 +1,22 @@
+{
+  "name": "VForceTouch",
+  "version": "0.0.2",
+  "summary": "A custom gesture recongnizer for force touch.",
+  "description": "Use force touch as a gesture recognizer.\nIt works well with UITapGestureRecognizer.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ForceTouch",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": "vee",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ForceTouch.git",
+    "tag": "0.0.2"
+  },
+  "source_files": "ForceTouch/Class/*.{h,m}",
+  "frameworks": "UIKit",
+  "requires_arc": true
+}

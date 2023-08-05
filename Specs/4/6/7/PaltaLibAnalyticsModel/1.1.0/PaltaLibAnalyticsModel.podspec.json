@@ -1,0 +1,22 @@
+{
+  "name": "PaltaLibAnalyticsModel",
+  "version": "1.1.0",
+  "license": "MIT",
+  "summary": "PaltaLib iOS SDK - Analytics model",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/reactpaltalib-ios",
+  "authors": {
+    "Palta": "dev@palta.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/reactpaltalib-ios.git",
+    "tag": "analyticsmodel-v1.1.0"
+  },
+  "requires_arc": true,
+  "static_framework": true,
+  "platforms": {
+    "ios": "10.0"
+  },
+  "swift_versions": "5.3",
+  "source_files": "Sources/AnalyticsModel/**/*.swift",
+  "swift_version": "5.3"
+}

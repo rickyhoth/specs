@@ -1,0 +1,20 @@
+{
+  "name": "ZBPopMenuView",
+  "version": "0.0.1",
+  "summary": "气泡弹出框式的菜单列表",
+  "description": "气泡弹出框式的菜单列表",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZBPopMenuView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": "zhangzb",
+  "platforms": {
+    "ios": null
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZBPopMenuView.git",
+    "commit": "2c01547"
+  },
+  "source_files": "PopMenuView/PopMenuView/*.{h,m,xib}"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "JYJKeyBoard",
+  "version": "0.0.6",
+  "platforms": {
+    "ios": "6.0"
+  },
+  "summary": "The keyBoard of ID card",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JYJKeyBoard",
+  "license": "MIT",
+  "authors": {
+    "JYJ": "542829817@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JYJKeyBoard.git",
+    "tag": "0.0.6"
+  },
+  "source_files": "JYJKeyBoard/JYJKeyBoard/JYJKeyBoard",
+  "requires_arc": true
+}

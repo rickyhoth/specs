@@ -1,0 +1,31 @@
+{
+  "name": "MNCalendarView@aceontech",
+  "version": "0.0.3",
+  "summary": "Highly customizable calendar view for iOS apps.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MNCalendarView",
+  "screenshots": "https://bitbucket.devops.nonprod.empf.local/scm/react/Default@2x.png",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Min Kim": "me@mink.im"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MNCalendarView.git",
+    "branch": "master",
+    "tag": "v0.0.3"
+  },
+  "platforms": {
+    "ios": "6.0"
+  },
+  "frameworks": [
+    "UIKit",
+    "CoreGraphics"
+  ],
+  "source_files": [
+    "MNCalendarView",
+    "MNCalendarView/**/*.{h,m}"
+  ],
+  "requires_arc": true
+}

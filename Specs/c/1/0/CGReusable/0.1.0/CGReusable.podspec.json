@@ -1,0 +1,22 @@
+{
+  "name": "CGReusable",
+  "version": "0.1.0",
+  "summary": "A short description of CGReusable.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CGReusable",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "caoge9": "gw00212024@corp.gwm.cn"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CGReusable.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "CGReusable/Classes/**/*"
+}

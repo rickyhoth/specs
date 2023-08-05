@@ -1,0 +1,30 @@
+{
+  "name": "POSScheduling",
+  "version": "4.0.0",
+  "license": "MIT",
+  "summary": "Objective-C implementation of SchedulableObject pattern.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/POSScheduling",
+  "authors": {
+    "Pavel Osipov": "posipov84@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/POSScheduling.git",
+    "tag": "4.0.0"
+  },
+  "requires_arc": true,
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Classes/**/*.{h,m}",
+  "dependencies": {
+    "Aspects": [
+
+    ],
+    "ReactiveObjC": [
+
+    ],
+    "POSErrorHandling": [
+
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "SXStarView",
+  "version": "0.1.1",
+  "summary": "create a starView, later could tap",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SXStarView",
+  "license": "MIT",
+  "authors": {
+    "xiaoR": "bieshixuan@163.com"
+  },
+  "platforms": {
+    "ios": "7.1"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SXStarView.git",
+    "tag": "0.1.1"
+  },
+  "source_files": "SXStarView/**/*.{h,m,png}",
+  "requires_arc": true
+}

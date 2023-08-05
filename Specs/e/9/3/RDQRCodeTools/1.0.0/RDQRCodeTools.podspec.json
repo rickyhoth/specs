@@ -1,0 +1,22 @@
+{
+  "name": "RDQRCodeTools",
+  "version": "1.0.0",
+  "summary": "tools for create and scan qr code",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/RDQRCodeTools",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Radar": "imryd@163.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/RDQRCodeTools.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "RDQRCodeTools/*",
+  "requires_arc": true
+}

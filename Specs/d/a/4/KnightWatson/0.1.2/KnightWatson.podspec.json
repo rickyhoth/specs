@@ -1,0 +1,20 @@
+{
+  "name": "KnightWatson",
+  "version": "0.1.2",
+  "license": "MIT",
+  "summary": "An Objective-C library which can offer almost every object themes.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/KnightWatson",
+  "authors": {
+    "CopperCash": "coderdreamer@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/KnightWatson.git",
+    "tag": "0.1.2"
+  },
+  "source_files": "KNWTheme/*.{h,m}",
+  "exclude_files": "KNWTheme/KNWTheme.h",
+  "requires_arc": true,
+  "platforms": {
+    "ios": "7.0"
+  }
+}

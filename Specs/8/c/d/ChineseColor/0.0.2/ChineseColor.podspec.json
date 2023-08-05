@@ -1,0 +1,20 @@
+{
+  "name": "ChineseColor",
+  "version": "0.0.2",
+  "summary": "ChineseColor is a UIColor Catalog with custom traditional Chinese color",
+  "description": "ChineseColor is a UIColor Catalog with custom traditional Chinese color and provide UIColorFromRGB marco",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/UIColor-ChineseColor",
+  "license": "MIT",
+  "authors": {
+    "Linxiangyu": "lxyweb@gmail.com"
+  },
+  "platforms": {
+    "ios": null
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/UIColor-ChineseColor.git",
+    "tag": "0.0.2"
+  },
+  "source_files": "*.{h,m}",
+  "requires_arc": true
+}

@@ -1,0 +1,22 @@
+{
+  "name": "BJBPodTest",
+  "version": "1.0.0",
+  "summary": "asdasdasd",
+  "description": "test testtesttesttesttesttesttesttest",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/BJBPodTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "LionelMessiJianBo": "1907386312@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/BJBPodTest.git",
+    "tag": "v1.0.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "BJBPodTest/Classes/**/*"
+}

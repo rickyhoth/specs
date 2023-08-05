@@ -1,0 +1,31 @@
+{
+  "name": "LRClass",
+  "version": "0.0.4",
+  "summary": "A custom alertview.",
+  "description": "A custom alertview dd.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LRFirstCocoapods",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "李芮": "943175984@qq.com"
+  },
+  "platforms": {
+    "ios": null
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LRFirstCocoapods.git",
+    "tag": "0.0.4"
+  },
+  "source_files": [
+    "LRClass",
+    "LRClass/*.{h,m}"
+  ],
+  "resources": [
+    "LRClass/*.xib",
+    "resource/*.png"
+  ],
+  "frameworks": "UIKit",
+  "requires_arc": true
+}

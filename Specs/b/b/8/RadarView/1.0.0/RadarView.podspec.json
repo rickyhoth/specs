@@ -1,0 +1,20 @@
+{
+  "name": "RadarView",
+  "version": "1.0.0",
+  "summary": "A Radar view used on iOS.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/RadarView",
+  "license": "MIT",
+  "authors": {
+    "万涛": "wantao1993@vip.qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/RadarView.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "6.0"
+  },
+  "requires_arc": true,
+  "source_files": "RadarView/*",
+  "frameworks": "UIKit"
+}

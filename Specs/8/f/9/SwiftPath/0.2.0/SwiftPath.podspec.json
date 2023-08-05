@@ -1,0 +1,26 @@
+{
+  "name": "SwiftPath",
+  "version": "0.2.0",
+  "summary": "JSONPath for Swift",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwiftPath",
+  "license": "MIT",
+  "authors": {
+    "Steven Grosmark": "steve@g-mark.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwiftPath.git",
+    "tag": "0.2.0"
+  },
+  "source_files": [
+    "Sources",
+    "Sources/**/*.swift"
+  ],
+  "exclude_files": "Sources/Exclude",
+  "platforms": {
+    "ios": "9.0",
+    "osx": "10.12",
+    "tvos": "10.0"
+  },
+  "frameworks": "Foundation",
+  "pushed_with_swift_version": "4.0"
+}

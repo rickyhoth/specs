@@ -1,0 +1,22 @@
+{
+  "name": "YJExtension",
+  "version": "0.0.7",
+  "summary": "常用分类框架",
+  "description": "开发中常用的分类集合，协助你快速开发",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/YJExtension",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "odreamboy": "562925462@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YJExtension.git",
+    "tag": "0.0.7"
+  },
+  "source_files": "YJExtensionDemo/YJExtensionDemo/YJExtension/**/*.{h,m}"
+}

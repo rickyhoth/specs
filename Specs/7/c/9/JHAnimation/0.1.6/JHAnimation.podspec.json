@@ -1,0 +1,19 @@
+{
+  "name": "JHAnimation",
+  "version": "0.1.6",
+  "summary": "Animation libarary.",
+  "description": "Views and Layers with animation supports.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JHAnimation",
+  "license": "MIT",
+  "authors": {
+    "jianghuan": "seraphjiang@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JHAnimation.git",
+    "tag": "0.1.6"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "JHAnimation/Classes/**/*"
+}

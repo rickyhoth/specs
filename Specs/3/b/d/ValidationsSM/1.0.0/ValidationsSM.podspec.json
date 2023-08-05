@@ -1,0 +1,21 @@
+{
+  "name": "ValidationsSM",
+  "version": "1.0.0",
+  "summary": "Validations framework",
+  "description": "Validations framework to valid email and other",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ValidationsSM",
+  "license": "MIT",
+  "authors": {
+    "safaa": "safaam673@gmail.com"
+  },
+  "platforms": {
+    "ios": "12.1"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ValidationsSM.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "ValidationsSM/ValidationsSM/*.{swift}",
+  "swift_versions": "4.0",
+  "swift_version": "4.0"
+}

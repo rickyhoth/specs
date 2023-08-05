@@ -1,0 +1,27 @@
+{
+  "name": "YCLPodCode",
+  "version": "0.0.1",
+  "summary": "YCLPodCode file",
+  "description": "Custom TestPods description",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/YCLPodCode",
+  "license": "MIT",
+  "authors": {
+    "TomorrowY": "chuanlongY@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YCLPodCode.git",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "ToolClass/**/*.{h,m}",
+    "Classes/**/*.{h,m}"
+  ],
+  "exclude_files": "Classes/Exclude",
+  "frameworks": "Foundation",
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}

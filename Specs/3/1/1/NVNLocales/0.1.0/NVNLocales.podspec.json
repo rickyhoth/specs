@@ -1,0 +1,22 @@
+{
+  "name": "NVNLocales",
+  "version": "0.1.0",
+  "summary": "NVNLocales: it is used for localisation and formats using only one function",
+  "description": "It is used for localisation and formats.\nIt is initialised with [[NVNLocalisationManager sharedInstance] languageSetup];\nand then used with MIMTranslate(string)",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/NVNLocales",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Inigo Mato": "inigo333@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/NVNLocales.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "NVNLocales/Classes/**/*"
+}

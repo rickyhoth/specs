@@ -1,0 +1,19 @@
+{
+  "name": "JCCycleView",
+  "version": "1.0.1",
+  "license": "MIT",
+  "summary": "A cycle display view",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JCCycleView",
+  "authors": {
+    "henrychen88": "24129114@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JCCycleView.git",
+    "tag": "1.0.1"
+  },
+  "requires_arc": true,
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source_files": "JCCycleView/*.{h,m}"
+}

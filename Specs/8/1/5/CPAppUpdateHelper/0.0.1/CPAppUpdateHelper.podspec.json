@@ -1,0 +1,21 @@
+{
+  "name": "CPAppUpdateHelper",
+  "version": "0.0.1",
+  "summary": "A light tool for iOS App update.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CPAppUpdateHelper",
+  "license": {
+    "type": "MIT",
+    "text": ""
+  },
+  "authors": {
+    "mingweizhang": "mingweiz@foxmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CPAppUpdateHelper.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "CPAppUpdateHelper/Classes/**/*.{h,m}"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "WBAlamofire",
+  "version": "1.1.1",
+  "license": "MIT",
+  "summary": "Extend Alamofire, add the cache to result.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WBAlamofire",
+  "authors": {
+    "JsonBin": "enjoy_bin@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WBAlamofire.git",
+    "tag": "1.1.1"
+  },
+  "requires_arc": true,
+  "platforms": {
+    "ios": "8.0",
+    "osx": "10.10",
+    "tvos": "9.0",
+    "watchos": "2.0"
+  },
+  "source_files": "Source/*.swift",
+  "dependencies": {
+    "Alamofire": [
+
+    ]
+  }
+}

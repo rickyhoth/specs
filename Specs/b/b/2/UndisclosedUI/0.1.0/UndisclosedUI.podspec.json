@@ -1,0 +1,23 @@
+{
+  "name": "UndisclosedUI",
+  "version": "0.1.0",
+  "summary": "A collection of UI elements",
+  "description": "A collection of UI elements that can be made programmatically or in Interface Builder",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/UndisclosedUI",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "jevon718": "Jevoncharlesbuild@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/UndisclosedUI.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "12.0"
+  },
+  "source_files": "UndisclosedUI/Classes/**/*",
+  "swift_version": "5.0"
+}

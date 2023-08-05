@@ -1,0 +1,22 @@
+{
+  "name": "EMUIKits",
+  "version": "0.1.1",
+  "summary": "EMUIKits is a ui framework to use easily",
+  "description": "EMUIKits is a ui framework to use easily",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/EMUIKits",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xiangping": "xiangping165@sina.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/EMUIKits.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "EMUIKits/Classes/**/*"
+}

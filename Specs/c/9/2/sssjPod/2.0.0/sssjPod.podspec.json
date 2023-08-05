@@ -1,0 +1,22 @@
+{
+  "name": "sssjPod",
+  "version": "2.0.0",
+  "summary": "description of sssjPod.",
+  "description": "描述描述描述描述描述描述描述描述",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/sssjpod",
+  "license": "MIT",
+  "authors": {
+    "shengjie": "shengjie@163.com"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/sssjpod.git",
+    "tag": "2.0.0"
+  },
+  "source_files": [
+    "Class",
+    "**/*.{h,m}"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "LLLL",
+  "version": "1.0.1",
+  "license": "MIT",
+  "summary": "A delightful TextField of PhoneNumber",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/BYPhoneNumTF",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LLLL.git",
+    "tag": "1.0.1"
+  },
+  "source_files": "TEST/*.{h,m}",
+  "requires_arc": true,
+  "platforms": {
+    "ios": "7.0"
+  },
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ],
+  "authors": {
+    "BY": "qiubaiyingios@163.com"
+  },
+  "social_media_url": "http://qiubaiying.github.io"
+}

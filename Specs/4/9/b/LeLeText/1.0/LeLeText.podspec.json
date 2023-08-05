@@ -1,0 +1,24 @@
+{
+  "name": "LeLeText",
+  "version": "1.0",
+  "summary": "测试",
+  "description": "can be used in any iOS app",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LeLeText",
+  "license": "MIT",
+  "authors": {
+    "tianle": "603334504@qq.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LeLeText.git",
+    "tag": "1.0.0"
+  },
+  "source_files": [
+    "LeLeText",
+    "LeLeText/**/*.{h,m,swift}"
+  ],
+  "requires_arc": true,
+  "frameworks": "UIKit"
+}

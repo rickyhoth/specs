@@ -1,0 +1,19 @@
+{
+  "name": "Levenshtein",
+  "version": "1.1.0",
+  "summary": "levenshtein distance",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Levenshtein",
+  "license": "MIT",
+  "authors": {
+    "Naoki Morikubo": "django0820@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Levenshtein.git",
+    "tag": "1.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "Sources/*.swift"
+}

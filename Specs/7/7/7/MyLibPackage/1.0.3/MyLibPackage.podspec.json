@@ -1,0 +1,23 @@
+{
+  "name": "MyLibPackage",
+  "version": "1.0.3",
+  "summary": "A short description of MyLibPackage.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MyLibPackage",
+  "license": {
+    "type": "MIT",
+    "file": "License.md"
+  },
+  "authors": {
+    "sunkeeper316": "sunkeeper316@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MyLibPackage.git",
+    "tag": "1.0.3"
+  },
+  "platforms": {
+    "ios": "12.0"
+  },
+  "swift_versions": "5.0",
+  "source_files": "Sources/MyLib/**/*.swift",
+  "swift_version": "5.0"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "LCExtension",
+  "version": "1.1.0",
+  "summary": "The Commonly Used Swfit Extension",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LCExtension.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ApterKing": "leicunjie@126.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LCExtension.git",
+    "tag": "1.1.0"
+  },
+  "source_files": "Pod/Classes/*",
+  "frameworks": [
+    "Foundation",
+    "UIKit",
+    "CoreGraphics"
+  ],
+  "requires_arc": true
+}

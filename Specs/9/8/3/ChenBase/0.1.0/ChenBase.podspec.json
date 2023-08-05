@@ -1,0 +1,22 @@
+{
+  "name": "ChenBase",
+  "version": "0.1.0",
+  "summary": "my first cocoaPods project",
+  "description": "my first cocoapods chenbase",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ChenBase",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "LogicHao": "LogicHao@yeah.net"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ChenBase.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ChenBase/**/*"
+}

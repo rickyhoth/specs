@@ -1,0 +1,23 @@
+{
+  "name": "ZZBullet",
+  "version": "0.0.2",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "summary": "A BulletView framework.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/BulletDemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "814908848": "814908848@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/BulletDemo.git",
+    "tag": "0.0.2"
+  },
+  "source_files": "ZZBullet/*.{h,m}",
+  "resources": "ZZBullet/ZZBundle.bundle",
+  "requires_arc": true
+}

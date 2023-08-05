@@ -1,0 +1,30 @@
+{
+  "name": "QCKJTest",
+  "version": "0.2.0",
+  "summary": "yigejiandandsadad.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/QCKJTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "liyongfei12138": "lixin@uqian.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/QCKJTest.git",
+    "tag": "0.2.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "QCKJTest/Classes/**/*",
+  "dependencies": {
+    "WebViewJavascriptBridge": [
+
+    ],
+    "AVOSCloud": [
+
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "WolfGeometry",
+  "version": "2.1.0",
+  "summary": "Swift methods, types, and extensions for doing geometrical calculations.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WolfGeometry",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Wolf McNally": "wolf@wolfmcnally.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WolfGeometry.git",
+    "tag": "2.1.0"
+  },
+  "source_files": "WolfGeometry/Classes/**/*",
+  "swift_version": "4.2",
+  "platforms": {
+    "ios": "9.3",
+    "osx": "10.13",
+    "tvos": "11.0"
+  },
+  "module_name": "WolfGeometry",
+  "dependencies": {
+    "ExtensibleEnumeratedName": [
+
+    ],
+    "WolfNumerics": [
+
+    ],
+    "WolfStrings": [
+
+    ],
+    "WolfFoundation": [
+
+    ]
+  }
+}

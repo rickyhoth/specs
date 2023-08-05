@@ -1,0 +1,24 @@
+{
+  "name": "Satuh",
+  "version": "0.3.0",
+  "summary": "Lib for IOS apps.",
+  "description": "Satuh private lib for Pundi Mas Berjaya apps.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Satuh",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Denny": "Denny"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Satuh.git",
+    "tag": "0.3.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "Satuh/Classes/**/*",
+  "frameworks": "UIKit",
+  "pushed_with_swift_version": "3.0"
+}

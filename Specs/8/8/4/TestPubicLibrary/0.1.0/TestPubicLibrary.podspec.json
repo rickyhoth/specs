@@ -1,0 +1,22 @@
+{
+  "name": "TestPubicLibrary",
+  "version": "0.1.0",
+  "summary": "Just Test TestPubicLibrary.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TestPubicLibrary",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "277715243@qq.com": "277715243@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TestPubicLibrary.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "TestPubicLibrary/Classes/**/*"
+}

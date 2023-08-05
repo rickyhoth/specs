@@ -1,0 +1,20 @@
+{
+  "name": "FGWebImage",
+  "version": "1.0",
+  "summary": "FGWebImage is a Categoryension build in Swift 3.0 for UIImageView and A light-weight framework of async loading image like SDWebImage.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/FGWebImage",
+  "license": "MIT",
+  "authors": {
+    "CGPointZero": "newbox0512@yahoo.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/FGWebImage.git",
+    "tag": "1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FGWebImage/*.swift",
+  "requires_arc": true,
+  "pushed_with_swift_version": "3.0"
+}

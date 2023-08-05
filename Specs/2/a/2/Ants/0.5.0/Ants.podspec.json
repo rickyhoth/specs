@@ -1,0 +1,19 @@
+{
+  "name": "Ants",
+  "version": "0.5.0",
+  "license": "MIT",
+  "summary": "A swifty async/await!",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Ants",
+  "authors": {
+    "Johannes Starke": "johannesstarke@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Ants.git",
+    "tag": "0.5.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "Ants/Ants/*.swift",
+  "pushed_with_swift_version": "3.0"
+}

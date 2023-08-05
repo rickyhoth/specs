@@ -1,0 +1,21 @@
+{
+  "name": "BirdHUD",
+  "version": "1.0",
+  "summary": "A Custom hud and you can be text message when user is waiting",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/BirdHUD",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Orhan Özgün Ergen": "ergenozgun@gmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/BirdHUD.git",
+    "tag": "1.0"
+  },
+  "source_files": "BirdHUD/*.swift"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "XiaoDeKit-Swift",
+  "version": "0.0.7",
+  "summary": "XiaoDeKit written by TangXiaoDe in Swift",
+  "module_name": "XiaoDeKit",
+  "description": "Some Swift Package Collection Which was written by TangXiaoDe in Swift",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/XiaoDeKit-Swift",
+  "license": "MIT",
+  "authors": {
+    "TangXiaoDe": "xiaodehappy@foxmail.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/XiaoDeKit-Swift.git",
+    "tag": "0.0.7"
+  },
+  "source_files": [
+    "Pod/Classes",
+    "Pod/Classes/**/*.{h,m,swift}"
+  ],
+  "swift_version": "5.0"
+}

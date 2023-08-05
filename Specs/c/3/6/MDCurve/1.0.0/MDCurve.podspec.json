@@ -1,0 +1,22 @@
+{
+  "name": "MDCurve",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MDCurveKit",
+  "summary": "A resolution for curve calculation some views base on it",
+  "version": "1.0.0",
+  "license": "MIT",
+  "authors": {
+    "剑川道长": "yangchenlarkin@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MDCurveKit.git",
+    "tag": "1.0.0"
+  },
+  "requires_arc": true,
+  "platforms": {
+    "ios": "6.0"
+  },
+  "source_files": [
+    "MDCurveKit",
+    "MDCurveKit/**/*"
+  ]
+}

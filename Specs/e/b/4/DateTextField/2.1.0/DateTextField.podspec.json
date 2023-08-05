@@ -1,0 +1,23 @@
+{
+  "name": "DateTextField",
+  "version": "2.1.0",
+  "summary": "A date input textfield",
+  "swift_versions": "5.1",
+  "description": "A Swift UITextField subclass designed to make entering dates easier, faster and more flexible than the standard UIDatePicker.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DateTextField",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": "Beau Nouvelle",
+  "social_media_url": "http://twitter.com/BeauNouvelle",
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DateTextField.git",
+    "tag": "2.1.0"
+  },
+  "source_files": "DateTextField/*.{swift}",
+  "swift_version": "5.1"
+}

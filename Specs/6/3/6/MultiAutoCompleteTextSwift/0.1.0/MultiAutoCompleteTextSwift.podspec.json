@@ -1,0 +1,20 @@
+{
+  "name": "MultiAutoCompleteTextSwift",
+  "version": "0.1.0",
+  "summary": "TextField can suggest several words like Android's 'MultiAutoCompleteTextView'",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MultiAutoCompleteTextSwift",
+  "license": "MIT",
+  "authors": {
+    "shim0mura": "tatshimomura@gmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MultiAutoCompleteTextSwift.git",
+    "tag": "0.1.0"
+  },
+  "source_files": "MultiAutoCompleteTextSwift/*.{swift}",
+  "exclude_files": "Classes/Exclude",
+  "frameworks": "UIKit"
+}

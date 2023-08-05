@@ -1,0 +1,22 @@
+{
+  "name": "EFCircularSlider",
+  "version": "0.2.0",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Eliot Fowler": "eliot.fowler@gmail.com"
+  },
+  "summary": "An extensible circular slider for iOS applications",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/EFCircularSlider",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/EFCircularSlider.git",
+    "tag": "0.2.0"
+  },
+  "source_files": "EFCircularSlider/EFCircularSlider.{h,m}",
+  "requires_arc": true
+}

@@ -1,0 +1,19 @@
+{
+  "name": "DIPAppleLibrary",
+  "version": "0.0.1",
+  "license": "MIT",
+  "summary": "DIPLibrary in apple",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DIPAppleLibrary",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DIPAppleLibrary.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "DIPAppleLibrary/DIPAppleLibrary/DIPAppleLibrary/**/*.{h,m,metal}",
+  "requires_arc": true,
+  "platforms": {
+    "osx": "10.11"
+  },
+  "authors": {
+    "BY": "1149797129@qq.com"
+  }
+}

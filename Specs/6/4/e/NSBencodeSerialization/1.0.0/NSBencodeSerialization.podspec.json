@@ -1,0 +1,25 @@
+{
+  "name": "NSBencodeSerialization",
+  "version": "1.0.0",
+  "summary": "A bencoding decoder and serialiser for those who don't like crashes.",
+  "description": "https://bitbucket.devops.nonprod.empf.local/scm/react/NSBencodeSerialization",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/NSBencodeSerialization",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "caobo": "caobo56@sina.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/NSBencodeSerialization.git",
+    "tag": "1.0.0"
+  },
+  "source_files": [
+    "NSBencodeSerializationTest",
+    "NSBencodeSerializationTest/NSBencodeSerialization/*.{h,m}"
+  ]
+}

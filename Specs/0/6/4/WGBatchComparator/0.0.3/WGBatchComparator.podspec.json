@@ -1,0 +1,14 @@
+{
+  "name": "WGBatchComparator",
+  "version": "0.0.3",
+  "license": "MIT",
+  "summary": "Compare two array.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WGBatchComparator",
+  "authors": "7owen",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WGBatchComparator.git",
+    "tag": "0.0.3"
+  },
+  "source_files": "*.{h,m}",
+  "requires_arc": true
+}

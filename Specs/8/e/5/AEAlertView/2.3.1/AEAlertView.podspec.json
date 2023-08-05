@@ -1,0 +1,26 @@
+{
+  "name": "AEAlertView",
+  "version": "2.3.1",
+  "summary": "Correct typos for 2.3.1",
+  "description": "add alert base view maximum width",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AEAlertView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Allen": "allen.zhang0828@gmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AEAlertView.git",
+    "tag": "v2.3.1"
+  },
+  "source_files": "AEAlertView/Classes/**/*",
+  "frameworks": "UIKit",
+  "requires_arc": true,
+  "swift_versions": "5.0",
+  "swift_version": "5.0"
+}

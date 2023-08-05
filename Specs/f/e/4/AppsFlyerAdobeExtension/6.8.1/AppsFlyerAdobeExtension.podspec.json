@@ -1,0 +1,32 @@
+{
+  "name": "AppsFlyerAdobeExtension",
+  "version": "6.8.1",
+  "summary": "AppsFlyer iOS SDK Extension for Adobe Mobile SDK",
+  "description": "AppsFlyer iOS SDK Extension for Adobe Mobile SDK.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AppsFlyerAdobeExtension",
+  "license": {
+    "type": "proprietary",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "AppsFlyer": "paz.lavi@appsflyer.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AppsFlyerAdobeExtension.git",
+    "tag": "6.8.1"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "static_framework": true,
+  "public_header_files": "AppsFlyerAdobeExtension/Classes/**/*.h",
+  "source_files": "AppsFlyerAdobeExtension/Classes/**/*",
+  "dependencies": {
+    "AppsFlyerFramework": [
+      "6.8.1"
+    ],
+    "ACPCore": [
+
+    ]
+  }
+}

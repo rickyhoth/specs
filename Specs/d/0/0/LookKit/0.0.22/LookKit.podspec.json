@@ -1,0 +1,22 @@
+{
+  "name": "LookKit",
+  "version": "0.0.22",
+  "summary": "The world's simplest Computer Vision API for iOS and macOS developers.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LookKit",
+  "authors": {
+    "La-Labs": "lalabsproducts@gmail.com"
+  },
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "description": "The world's simplest Computer Vision API for iOS and macOS developers .",
+  "platforms": {
+    "ios": "13.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LookKit_Pod.git",
+    "tag": "0.0.22"
+  },
+  "vendored_frameworks": "LookKit.xcframework"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Pluralizer",
+  "version": "1.0",
+  "summary": "Simple string pluralization.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Pluralizer",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Elliot Chance": "elliotchance@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Pluralizer.git",
+    "tag": "1.0"
+  },
+  "source_files": "Pluralizer/*.{h,m}",
+  "requires_arc": false
+}

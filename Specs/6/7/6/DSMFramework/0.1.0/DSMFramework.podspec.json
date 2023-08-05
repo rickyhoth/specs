@@ -1,0 +1,22 @@
+{
+  "name": "DSMFramework",
+  "version": "0.1.0",
+  "summary": "By far the most fantastic view I have seen in my entire life. No joke.",
+  "description": "This fantastic view changes its color gradually makes your app look fantastic!",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DSMFramework.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "azizi": "mreza.azizi74@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DSMFramework.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "DSMFramework/DSMFramework.swift"
+}

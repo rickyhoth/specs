@@ -1,0 +1,27 @@
+{
+  "name": "RSImageLoader",
+  "version": "0.1.0",
+  "summary": "Library for downloading images. Contains categories for views.",
+  "description": "                   Library for downloading images. Contains categories for views.\n                   For examples see [Example Project](https://bitbucket.devops.nonprod.empf.local/scm/react/RSImageLoaderExample).\n",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/RSImageLoader",
+  "license": "Apache License, Version 2.0",
+  "authors": {
+    "Rishat Shamsutdinov": "dichat.dark@gmail.com"
+  },
+  "platforms": {
+    "ios": "7.1"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/RSImageLoader.git",
+    "tag": "v0.1.0"
+  },
+  "source_files": [
+    "RSImageLoader",
+    "RSImageLoader/**/*.{h,m}"
+  ],
+  "frameworks": [
+    "UIKit",
+    "ImageIO"
+  ],
+  "requires_arc": true
+}

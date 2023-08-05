@@ -1,0 +1,22 @@
+{
+  "name": "JSBridge",
+  "version": "0.2.2",
+  "summary": "Make iOS and Android work in a same way",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/0.2",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "cjfire": "cjfire@sina.cn"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JSBridge.git",
+    "tag": "0.2.2"
+  },
+  "platforms": {
+    "ios": "6.0"
+  },
+  "requires_arc": true,
+  "source_files": "JSBridge/JSBridge/**/*.{h,m}"
+}

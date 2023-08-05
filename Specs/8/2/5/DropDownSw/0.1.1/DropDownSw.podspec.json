@@ -1,0 +1,28 @@
+{
+  "name": "DropDownSw",
+  "version": "0.1.1",
+  "summary": "Simple DropDown implementaion View.",
+  "swift_versions": "5.0",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DropDownSw",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "motosw3600": "motosw3600@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DropDownSw.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "DropDownSw/Classes/**/*",
+  "resource_bundles": {
+    "DropDownSW": [
+      "DropDownSw/Assets/*.png"
+    ]
+  },
+  "swift_version": "5.0"
+}

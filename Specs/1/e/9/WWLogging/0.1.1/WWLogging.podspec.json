@@ -1,0 +1,22 @@
+{
+  "name": "WWLogging",
+  "version": "0.1.1",
+  "summary": "Test WWLogging.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WWLogging",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wangwei19900725": "wei.wang@niu.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WWLogging.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "WWLogging/Classes/**/*"
+}

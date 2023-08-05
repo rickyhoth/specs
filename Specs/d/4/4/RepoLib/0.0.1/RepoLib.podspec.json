@@ -1,0 +1,23 @@
+{
+  "name": "RepoLib",
+  "platforms": {
+    "ios": "13.0"
+  },
+  "summary": "RepoLib",
+  "version": "0.0.1",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Mauricio Mazzocco": "mauriciomazzocco@gmail.com"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/RepoLib",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/RepoLib.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "RepoLib/**/*.{swift}",
+  "swift_versions": "5.0",
+  "swift_version": "5.0"
+}

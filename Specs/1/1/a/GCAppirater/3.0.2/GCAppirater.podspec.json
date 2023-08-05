@@ -1,0 +1,27 @@
+{
+  "name": "GCAppirater",
+  "version": "3.0.2",
+  "summary": "GC fork of Appirater.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/gcappirater.git",
+  "authors": {
+    "Brian Bernberg": "brian@gc.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/gcappirater.git",
+    "tag": "3.0.2"
+  },
+  "source_files": "*.{h,m}",
+  "frameworks": [
+    "CFNetwork",
+    "SystemConfiguration"
+  ],
+  "weak_frameworks": "StoreKit",
+  "resources": "*.lproj",
+  "license": {
+    "type": "LICENSE"
+  },
+  "requires_arc": true,
+  "platforms": {
+    "ios": "8.0"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "SXRichViewEdit",
+  "version": "0.8.1",
+  "summary": "create a richView, can edit, upload html",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SXRichViewEdit",
+  "license": "MIT",
+  "authors": {
+    "xiaoR": "bieshixuan@163.com"
+  },
+  "platforms": {
+    "ios": "7.1"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SXRichViewEdit.git",
+    "tag": "0.8.1"
+  },
+  "source_files": "SXRichViewEdit/**/*.{h,m}",
+  "requires_arc": true
+}

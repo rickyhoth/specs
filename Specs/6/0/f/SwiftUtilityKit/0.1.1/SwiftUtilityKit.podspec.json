@@ -1,0 +1,24 @@
+{
+  "name": "SwiftUtilityKit",
+  "version": "0.1.1",
+  "summary": "Utility for Swift.",
+  "description": "Utility Classes/Extensions for Swift.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwiftUtility",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "James Lee": "jameslee@goodeffect.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwiftUtility.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "swift_versions": "5.0",
+  "source_files": "SwiftUtility/Classes/**/*",
+  "swift_version": "5.0"
+}

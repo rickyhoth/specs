@@ -1,0 +1,28 @@
+{
+  "name": "TQPlayer",
+  "version": "0.0.1",
+  "license": "MIT",
+  "summary": "A video player base on AVPlayer.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TQPlayer",
+  "authors": {
+    "qfu": "tinyqf@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TQPlayer.git",
+    "tag": "0.0.1"
+  },
+  "requires_arc": true,
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TQPlayer/*.{h,m}",
+  "public_header_files": "TQPlayer/*.{h}",
+  "resources": "TQPlayer/TQPlayer.bundle",
+  "frameworks": [
+    "UIKit",
+    "CoreFoundation",
+    "CoreTelephony",
+    "AVFoundation",
+    "QuartzCore"
+  ]
+}

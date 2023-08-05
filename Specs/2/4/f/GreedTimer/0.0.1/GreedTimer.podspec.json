@@ -1,0 +1,23 @@
+{
+  "name": "GreedTimer",
+  "version": "0.0.1",
+  "summary": "GCD timer for iOS.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/GreedTimer",
+  "license": "MIT",
+  "authors": {
+    "Bell": "bell@greedlab.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/GreedTimer.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "6.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*.{h,m}",
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ]
+}

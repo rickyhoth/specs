@@ -1,0 +1,19 @@
+{
+  "name": "GGUIKit",
+  "version": "1.0.1",
+  "summary": "GGKit for sdk",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/GGKit",
+  "license": "MIT",
+  "authors": {
+    "王会洲": "wanghuizhou21@163.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/GGKit.git",
+    "tag": "1.0.1"
+  },
+  "source_files": "GGKit/GGKit/**/*.{h,m}",
+  "requires_arc": true
+}

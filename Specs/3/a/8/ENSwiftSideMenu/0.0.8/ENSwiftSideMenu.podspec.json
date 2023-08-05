@@ -1,0 +1,25 @@
+{
+  "name": "ENSwiftSideMenu",
+  "version": "0.0.8",
+  "summary": "A simple side menu for iOS 8",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ENSwiftSideMenu",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Evgeny Nazarov": "e.nazarov@yahoo.com"
+  },
+  "requires_arc": true,
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ENSwiftSideMenu.git",
+    "tag": "0.0.8"
+  },
+  "source_files": [
+    "Library/ENSideMenu.swift",
+    "Library/ENSideMenuNavigationController.swift"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "SExtensions",
+  "version": "0.7.0",
+  "license": "MIT",
+  "summary": "Some handy extensions",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SExtensions",
+  "authors": {
+    "inSummertime": "therayfeng@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SExtensions.git",
+    "tag": "0.7.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "Sources/**/*.swift",
+  "swift_version": "4.0"
+}

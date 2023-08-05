@@ -1,0 +1,34 @@
+{
+  "name": "PHAssetResourceInputStream",
+  "version": "0.0.1",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE.md"
+  },
+  "summary": "PHAssetResourceInputStream is an NSInputStream implementation library for Photos Framework",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/PHAssetResourceInputStream",
+  "authors": {
+    "Aleksandr Dvornikov": "fromcelticpark@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/PHAssetResourceInputStream.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "PHAssetResourceInputStream/*.swift",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "requires_arc": true,
+  "frameworks": [
+    "Foundation",
+    "Photos"
+  ],
+  "dependencies": {
+    "POSInputStreamLibrary": [
+      "~> 2.3"
+    ],
+    "Safe": [
+      "~> 1.2"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "LYCocoaPodsUploadTest",
+  "version": "0.0.2",
+  "summary": "LYCocoaPodsUploadTest.",
+  "description": "LYCocoaPodsUploadTestLYCocoaPodsUploadTestLYCocoaPodsUploadTest1",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LYCocoaPodsUploadTest",
+  "license": "MIT",
+  "authors": {
+    "上天入地": "y123@qq.com"
+  },
+  "platforms": {
+    "tvos": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LYCocoaPodsUploadTest.git",
+    "tag": "0.0.2"
+  },
+  "source_files": "LYCocoaPodsUploadTest/**/*.{h,m}"
+}

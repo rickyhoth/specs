@@ -1,0 +1,20 @@
+{
+  "name": "YWaterfallFlowView",
+  "version": "1.0.7",
+  "license": "MIT",
+  "summary": "a YWaterfallFlowView.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/YWaterfallFlowView",
+  "authors": {
+    "yan qingshan": "iosscholar@sina.cn"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YWaterfallFlowView.git",
+    "tag": "v1.0.7"
+  },
+  "platforms": {
+    "ios": null
+  },
+  "source_files": "YWaterfallFlowView/*",
+  "frameworks": "UIKit",
+  "requires_arc": true
+}

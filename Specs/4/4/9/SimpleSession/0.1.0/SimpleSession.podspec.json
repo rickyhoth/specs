@@ -1,0 +1,21 @@
+{
+  "name": "SimpleSession",
+  "version": "0.1.0",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "summary": "Simple session written in Swift",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SimpleSession",
+  "authors": {
+    "Nicolas Molina": "comodinx@gmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SimpleSession.git",
+    "tag": "0.1.0"
+  },
+  "source_files": "Sources/*.swift"
+}

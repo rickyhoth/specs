@@ -1,0 +1,23 @@
+{
+  "name": "Auth",
+  "version": "0.1.2",
+  "summary": "Auth.",
+  "description": "Testing Auth",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Auth",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ansujain123": "ansu.jain@kuliza.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Auth.git",
+    "tag": "0.1.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Auth/Classes/**/*",
+  "pushed_with_swift_version": "3.0"
+}

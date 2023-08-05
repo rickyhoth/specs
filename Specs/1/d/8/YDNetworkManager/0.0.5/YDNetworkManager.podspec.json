@@ -1,0 +1,29 @@
+{
+  "name": "YDNetworkManager",
+  "version": "0.0.5",
+  "summary": "YD 的网络请求库，基于YTK、AF",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/YDNetwrokManager",
+  "license": "MIT",
+  "authors": {
+    "王远东": "chong2vv@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YDNetwrokManager.git",
+    "tag": "0.0.5"
+  },
+  "source_files": "YDNetworkManager/**/*",
+  "static_framework": true,
+  "requires_arc": true,
+  "frameworks": [
+    "Foundation",
+    "UIKit"
+  ],
+  "dependencies": {
+    "YTKNetwork": [
+
+    ]
+  }
+}

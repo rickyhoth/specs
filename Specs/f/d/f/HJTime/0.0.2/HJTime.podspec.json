@@ -1,0 +1,22 @@
+{
+  "name": "HJTime",
+  "version": "0.0.2",
+  "summary": "add a tool with date",
+  "description": "A short description of HJTime.111111",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HJTime",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Voke": "liusy@eyee.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HJTime.git",
+    "tag": "0.0.2"
+  },
+  "source_files": "HJTime/HJTime/*.{h,m}"
+}

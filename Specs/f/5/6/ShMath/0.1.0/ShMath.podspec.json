@@ -1,0 +1,24 @@
+{
+  "name": "ShMath",
+  "version": "0.1.0",
+  "summary": "Math lib",
+  "description": "This is simple library of basic mathematical functions",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ShMath",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "shruthirao515": "shruthirao515@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ShMath.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "swift_versions": "5.0",
+  "source_files": "Classes/**/*",
+  "swift_version": "5.0"
+}

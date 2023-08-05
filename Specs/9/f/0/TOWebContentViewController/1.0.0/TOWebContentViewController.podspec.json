@@ -1,0 +1,24 @@
+{
+  "name": "TOWebContentViewController",
+  "version": "1.0.0",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "summary": "A view controller for displaying arbitrary local HTML content.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TOWebContentViewController",
+  "authors": "Tim Oliver",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TOWebContentViewController.git",
+    "tag": "1.0.0"
+  },
+  "requires_arc": true,
+  "platforms": {
+    "ios": "8.0"
+  },
+  "resource_bundles": {
+    "TOWebContentViewControllerBundle": [
+      "TOWebContentViewController/**/*.lproj"
+    ]
+  }
+}

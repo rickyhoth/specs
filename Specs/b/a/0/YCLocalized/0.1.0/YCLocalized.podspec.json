@@ -1,0 +1,22 @@
+{
+  "name": "YCLocalized",
+  "version": "0.1.0",
+  "summary": "A tool for app Localized",
+  "description": "An APP switch language tool class, easy to use",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/YCLocalized",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Loveying": "xiayy3@sany.com.cn"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YCLocalized.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "YCLocalized/Classes/**/*"
+}

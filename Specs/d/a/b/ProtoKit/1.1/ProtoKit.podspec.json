@@ -1,0 +1,20 @@
+{
+  "name": "ProtoKit",
+  "version": "1.1",
+  "summary": "ProtoKit - Protocol oriented UIKit",
+  "authors": {
+    "Ritesh Gupta": "rg.riteshh@gmail.com"
+  },
+  "license": "MIT",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ProtoKit",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ProtoKit.git",
+    "tag": "1.1"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "requires_arc": true,
+  "source_files": "Source/**/*.swift",
+  "pushed_with_swift_version": "4.0"
+}

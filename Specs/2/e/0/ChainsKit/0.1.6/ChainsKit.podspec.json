@@ -1,0 +1,22 @@
+{
+  "name": "ChainsKit",
+  "version": "0.1.6",
+  "summary": "ChainsKit is a library that helps you easily set-up iOS UI components with builder pattern.",
+  "description": "ChainsKit is a library that helps you easily set-up iOS UI components with builder pattern.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ChainsKit.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "kuotinyen": "kuotinyen@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ChainsKit.git",
+    "tag": "0.1.6"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ChainsKit/Classes/**/*"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "WbMenu",
+  "version": "1.0.5",
+  "summary": "一个防网易首页的控件",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WbMenu",
+  "license": "MIT",
+  "authors": {
+    "博哥": "wangbo3919@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WbMenu.git",
+    "tag": "1.0.5"
+  },
+  "source_files": "WbMenu/*",
+  "requires_arc": true,
+  "platforms": {
+    "ios": "1.0.0"
+  },
+  "frameworks": [
+    "Foundation",
+    "UIKit"
+  ]
+}

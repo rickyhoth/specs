@@ -1,0 +1,24 @@
+{
+  "name": "MixRoute",
+  "version": "1.0.3",
+  "summary": "Mix Route",
+  "authors": {
+    "Eric Long": "longminxiang@163.com"
+  },
+  "license": "MIT",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MixRoute",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MixRoute.git",
+    "tag": "v1.0.3"
+  },
+  "requires_arc": true,
+  "platforms": {
+    "ios": "8.0"
+  },
+  "dependencies": {
+    "MixExtention": [
+      "~> 1.0"
+    ]
+  },
+  "source_files": "Classes/**/*.{h,m}"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "debugFileStore",
+  "version": "0.0.2",
+  "summary": "A short tool for debug.",
+  "description": "store your debug info to local file",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/debugFile",
+  "license": "MIT",
+  "authors": {
+    "yinyong": "yy_xuelangwang@sina.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/debugFile.git",
+    "tag": "0.0.2"
+  },
+  "source_files": "DebugFile/debug/*.{h,m,mm}",
+  "exclude_files": "Classes/Exclude"
+}

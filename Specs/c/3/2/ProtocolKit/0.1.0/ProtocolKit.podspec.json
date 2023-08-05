@@ -1,0 +1,22 @@
+{
+  "name": "ProtocolKit",
+  "version": "0.1.0",
+  "summary": "A short description of ProtocolKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ProtocolKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "forkingdog": "foxsofter@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ProtocolKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ProtocolKit/Classes/**/*"
+}

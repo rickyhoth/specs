@@ -1,0 +1,24 @@
+{
+  "name": "WJDeveloperTools",
+  "version": "2.1.1",
+  "summary": "开发常用的一些小东东",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WJDeveloperTools",
+  "license": "MIT",
+  "authors": {
+    "WJ Vijay": "wangjunnige@163.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WJDeveloperTools.git",
+    "tag": "2.1.1"
+  },
+  "source_files": "WJDeveloperTools/**/*.{h,m}",
+  "requires_arc": true,
+  "dependencies": {
+    "SVProgressHUD": [
+      "~> 2.2.5"
+    ]
+  }
+}

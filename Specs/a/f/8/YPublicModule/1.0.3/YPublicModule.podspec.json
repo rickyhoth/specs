@@ -1,0 +1,26 @@
+{
+  "name": "YPublicModule",
+  "version": "1.0.3",
+  "license": "MIT",
+  "summary": "PublicModule in Swift",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/YPublicModule",
+  "authors": {
+    "Alamofire Software Foundation": "info@alamofire.org"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YPublicModule.git",
+    "tag": "1.0.3"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Tools/*",
+  "dependencies": {
+    "Alamofire": [
+
+    ],
+    "Toast-Swift": [
+
+    ]
+  }
+}

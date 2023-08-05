@@ -1,0 +1,20 @@
+{
+  "name": "UIColor-Hex-Swift",
+  "version": "0.2.0",
+  "summary": "Create UIColor objects from CSS strings or hexadecimal numbers",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/UIColor-Hex-Swift",
+  "license": "MIT",
+  "authors": {
+    "Frederik Jacques": "frederik@the-nerd.be"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/UIColor-Hex-Swift.git",
+    "tag": "0.2.0"
+  },
+  "social_media_url": "https://twitter.com/thenerd_be",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*"
+}

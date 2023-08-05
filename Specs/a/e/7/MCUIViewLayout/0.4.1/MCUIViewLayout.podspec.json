@@ -1,0 +1,19 @@
+{
+  "name": "MCUIViewLayout",
+  "version": "0.4.1",
+  "license": "BSD 3-Clause",
+  "summary": "Layouting enhancements to UIView.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MCUIViewLayout",
+  "authors": {
+    "Mirego, Inc.": "info@mirego.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MCUIViewLayout.git",
+    "tag": "0.4.1"
+  },
+  "source_files": "MCUIViewLayout/*.{h,m}",
+  "requires_arc": true,
+  "platforms": {
+    "ios": "5.0"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "RxNetworkService",
+  "version": "1.2.0",
+  "swift_versions": "5.0",
+  "summary": "A short description of RxNetworkService.",
+  "requires_arc": true,
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/RxNetworkService",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "AdlibBeats": "adlibbeats@icloud.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/RxNetworkService.git",
+    "tag": "1.2.0"
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "source_files": "RxNetworkService/Classes/**/*.{swift}",
+  "dependencies": {
+    "RxSwift": [
+      "6.1.0"
+    ],
+    "RxCocoa": [
+      "6.1.0"
+    ],
+    "SWXMLHash": [
+      "6.0.0"
+    ]
+  },
+  "swift_version": "5.0"
+}

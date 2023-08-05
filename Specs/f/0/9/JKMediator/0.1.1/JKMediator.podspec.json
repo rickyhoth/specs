@@ -1,0 +1,19 @@
+{
+  "name": "JKMediator",
+  "version": "0.1.1",
+  "license": "MIT",
+  "summary": "Simple NetWorking Kit",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JKMediator",
+  "authors": {
+    "刘伟强": "718691587@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JKMediator.git",
+    "tag": "0.1.1"
+  },
+  "requires_arc": true,
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "JKMediator/**/*"
+}

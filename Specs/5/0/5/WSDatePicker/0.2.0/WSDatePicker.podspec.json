@@ -1,0 +1,22 @@
+{
+  "name": "WSDatePicker",
+  "version": "0.2.0",
+  "summary": "DatePicker for iOS",
+  "description": "DatePicker For iOS, You can use this freely.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WSDatePicker",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "王的世界": "wws19125@126.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WSDatePicker.git",
+    "tag": "0.2.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source_files": "WSDatePicker/WSDatePicker/**/*"
+}

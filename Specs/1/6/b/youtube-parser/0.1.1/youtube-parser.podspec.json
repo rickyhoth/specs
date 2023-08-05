@@ -1,0 +1,19 @@
+{
+  "name": "youtube-parser",
+  "version": "0.1.1",
+  "summary": "YouTube parser for swift",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/youtube-parser",
+  "license": "MIT",
+  "authors": {
+    "Toygar Dündaralp": "tdundaralp@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/youtube-parser.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "youtube-parser/*.swift"
+}

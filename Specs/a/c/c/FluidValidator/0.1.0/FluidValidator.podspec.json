@@ -1,0 +1,21 @@
+{
+  "name": "FluidValidator",
+  "version": "0.1.0",
+  "summary": "General purpose object validator",
+  "description": "FluidValidator is intended to encapsulate validation logic of objects in your project. The API was designed with FluentValidation as reference (https://bitbucket.devops.nonprod.empf.local/scm/react/or built your own reusable validation rules.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/FluidValidator",
+  "license": "MIT",
+  "authors": {
+    "FrogRain": "info@frograin.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/FluidValidator.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resources": "Pod/FluidValidator.bundle"
+}

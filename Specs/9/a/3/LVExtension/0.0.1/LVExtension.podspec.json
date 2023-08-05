@@ -1,0 +1,22 @@
+{
+  "name": "LVExtension",
+  "version": "0.0.1",
+  "summary": "A Extension Tools",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LVExtension.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "newhl": "lhy@011@foxmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LVExtension.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "LVExtension/Classes/**/*"
+}

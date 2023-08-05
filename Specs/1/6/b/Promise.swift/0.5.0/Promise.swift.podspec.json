@@ -1,0 +1,21 @@
+{
+  "name": "Promise.swift",
+  "version": "0.5.0",
+  "summary": "Promise.swift is fun project of next implementation promises.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Promise.swift",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "k-o-d-e-n": "koden.u8800@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Promise.swift.git",
+    "tag": "0.5.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Promise.swift/Classes/**/*"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "GroundControl",
+  "version": "0.0.1",
+  "license": "MIT",
+  "summary": "Remote configuration for iOS.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/GroundControl",
+  "authors": {
+    "Mattt Thompson": "m@mattt.me"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/GroundControl.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "GroundControl",
+  "dependencies": {
+    "AFNetworking": [
+      ">= 0.9"
+    ]
+  },
+  "requires_arc": false
+}

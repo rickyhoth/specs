@@ -1,0 +1,24 @@
+{
+  "name": "TestCocoaPodsWGJ",
+  "version": "0.2.0",
+  "summary": "A short description of TestCocoaPodsWGJ.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TestCocoaPodsWGJ",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wangaojie001": "gaojieapp@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TestCocoaPodsWGJ.git",
+    "tag": "0.2.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "TestCocoaPodsWGJ/Classes/**/*",
+  "swift_versions": "5.0",
+  "swift_version": "5.0"
+}

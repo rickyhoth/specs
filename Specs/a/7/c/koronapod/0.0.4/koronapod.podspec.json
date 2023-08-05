@@ -1,0 +1,23 @@
+{
+  "name": "koronapod",
+  "version": "0.0.4",
+  "summary": "My first cocoapod.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TestCocoapdsLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "koron4ik": "koronchik@icloud.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TestCocoapdsLib.git",
+    "tag": "0.0.4"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "swift_versions": "5.0",
+  "source_files": "koronapod/Classes/**/*",
+  "swift_version": "5.0"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "SuspendBall",
+  "version": "0.2",
+  "summary": "Just a ball",
+  "description": "just a ball",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SuspendBall.git",
+  "license": "MIT",
+  "authors": {
+    "pusswzy": "499272000@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SuspendBall.git",
+    "commit": "ff649fd2f76806f0246cf6a634318f352008e822"
+  },
+  "source_files": "lib",
+  "frameworks": "UIKit"
+}

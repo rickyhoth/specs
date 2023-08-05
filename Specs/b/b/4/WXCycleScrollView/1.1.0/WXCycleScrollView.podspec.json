@@ -1,0 +1,26 @@
+{
+  "name": "WXCycleScrollView",
+  "version": "1.1.0",
+  "summary": "a scrollable image banner using Swift.",
+  "description": "WXCycleScrollView is a scrollable image banner using Swift.first version uploaded.more detail in https://bitbucket.devops.nonprod.empf.local/scm/react/WXCycleScrollView.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WXCycleScrollView",
+  "license": "MIT",
+  "authors": {
+    "魏希": "352282612@qq.com"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WXCycleScrollView.git",
+    "tag": "1.1.0"
+  },
+  "source_files": "WXCycleScrollViewDemo/WXCycleScrollViewDemo/WXCycleScrollView/*",
+  "requires_arc": true,
+  "dependencies": {
+    "SDWebImage": [
+      "~> 4.0.0-beta2"
+    ]
+  },
+  "pushed_with_swift_version": "3.0"
+}

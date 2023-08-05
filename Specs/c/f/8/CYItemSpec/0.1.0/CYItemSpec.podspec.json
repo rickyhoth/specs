@@ -1,0 +1,22 @@
+{
+  "name": "CYItemSpec",
+  "version": "0.1.0",
+  "summary": "组件化",
+  "description": "组件化的使用",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CYItemSpec",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "chenyu9212": "2043217414@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CYItemSpec.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CYItemSpec/Classes/**/*"
+}

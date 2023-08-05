@@ -1,0 +1,25 @@
+{
+  "name": "TSNPeerNetworking",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "version": "1.0",
+  "license": {
+    "type": "MIT"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TSNPeerNetworking",
+  "authors": {
+    "Brian Lambert": "brianlambert@softwarenerd.org"
+  },
+  "summary": "Peer networking for iOS.",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TSNPeerNetworking.git",
+    "tag": "v1.0"
+  },
+  "source_files": "Source/*",
+  "frameworks": [
+    "Foundation",
+    "MultipeerConnectivity"
+  ],
+  "requires_arc": true
+}

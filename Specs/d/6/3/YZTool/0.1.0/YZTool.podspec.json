@@ -1,0 +1,22 @@
+{
+  "name": "YZTool",
+  "version": "0.1.0",
+  "summary": "YZTool.",
+  "description": "YZTool_Face",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/YZTools",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "huanongying": "huanongying@uxin.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YZTools.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "YZTool/Classes/**/*"
+}

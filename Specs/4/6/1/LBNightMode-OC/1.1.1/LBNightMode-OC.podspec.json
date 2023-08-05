@@ -1,0 +1,22 @@
+{
+  "name": "LBNightMode-OC",
+  "version": "1.1.1",
+  "summary": "夜间模式 OC版本",
+  "description": "详情请查看:https://bitbucket.devops.nonprod.empf.local/scm/react/NightMode",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/NightMode.git",
+  "license": "MIT",
+  "authors": {
+    "libcm": "lib_cm@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/NightMode.git",
+    "tag": "1.1.1"
+  },
+  "source_files": [
+    "LBNightMode",
+    "LBNightMode/OC/*.{h,m}"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "TestFlightLogger",
+  "version": "0.0.2",
+  "summary": "A CocoaLumberjack logger for TestFlight.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TestFlightLogger",
+  "license": "MIT",
+  "authors": {
+    "Alex Billingsley": "abillingsley@dyknow.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TestFlightLogger.git",
+    "tag": "0.0.2"
+  },
+  "source_files": "*.{h,m}",
+  "requires_arc": true,
+  "platforms": {
+    "ios": null
+  },
+  "dependencies": {
+    "CocoaLumberjack": [
+
+    ],
+    "TestFlightSDK": [
+
+    ]
+  }
+}

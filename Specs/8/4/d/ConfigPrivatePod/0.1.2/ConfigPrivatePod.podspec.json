@@ -1,0 +1,22 @@
+{
+  "name": "ConfigPrivatePod",
+  "version": "0.1.2",
+  "summary": "A short description of ConfigPrivatePod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ConfigPrivatePod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "IcefieldWolf": "15110235514@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ConfigPrivatePod.git",
+    "tag": "0.1.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ConfigPrivatePod/Classes/**/*"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "JLCategorys",
+  "version": "0.2.10",
+  "summary": "JLCategorys",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JLCategorys",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "hmhv": "jangsy7883@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JLCategorys.git",
+    "tag": "0.2.10"
+  },
+  "source_files": "JLCategorys/*.{h,m}",
+  "requires_arc": true,
+  "platforms": {
+    "ios": "7.0"
+  }
+}

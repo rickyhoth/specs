@@ -1,0 +1,24 @@
+{
+  "name": "BYBaseTool",
+  "version": "0.0.3",
+  "summary": "基类",
+  "description": "测试",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/BYBaseTool",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "sooncong": "sooncong_sz@163.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/BYBaseTool.git",
+    "tag": "v0.0.3"
+  },
+  "source_files": "BYBaseTool/*.{h,m}",
+  "requires_arc": true,
+  "frameworks": "UIKit"
+}

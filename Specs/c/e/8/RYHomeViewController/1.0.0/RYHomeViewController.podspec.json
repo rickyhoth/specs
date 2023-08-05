@@ -1,0 +1,23 @@
+{
+  "name": "RYHomeViewController",
+  "version": "1.0.0",
+  "summary": "组件化 首页板块",
+  "description": "组件化  首页板块",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/RYHomeViewController.git",
+  "license": "MIT",
+  "authors": {
+    "Ry_lsj": "runya_lsj@163.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/RYHomeViewController.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "RYHomeViewController/RYHomeViewController/*.{h,m}",
+  "exclude_files": [
+    "RYHomeViewController/RYHomeViewController/AppDelegate.{h,m}",
+    "RYHomeViewController/RYHomeViewController/main.m"
+  ]
+}

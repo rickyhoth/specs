@@ -1,0 +1,25 @@
+{
+  "name": "Feedlinx",
+  "version": "0.1.9",
+  "summary": "Feedly API Library for iOS.",
+  "description": "#Feedly API Library for iOS.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Feedlinx",
+  "license": "MIT",
+  "authors": {
+    "hirano_tomoya": "cromteria@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Feedlinx.git",
+    "tag": "0.1.9"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "Feedlinx": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}

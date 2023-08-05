@@ -1,0 +1,21 @@
+{
+  "name": "MyOtherPodss",
+  "version": "0.1.1",
+  "summary": "it is my test",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MyOtherPodss",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yuxiansheng": "zhangteng@allinmd.cn"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MyOtherPodss.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "MyOtherPodss/Classes/**/*"
+}

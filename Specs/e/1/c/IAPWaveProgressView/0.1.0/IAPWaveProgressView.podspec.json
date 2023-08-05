@@ -1,0 +1,37 @@
+{
+  "name": "IAPWaveProgressView",
+  "version": "0.1.0",
+  "summary": "内购水波过度动画.",
+  "description": "内购水波过度动画，分为三个过程，准备支付，支付中（验证中），支付完成，分别有对应的动画展示。",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/IAPWaveProgressView.git",
+  "swift_versions": "5.0",
+  "screenshots": [
+    "https://bitbucket.devops.nonprod.empf.local/scm/react/IAPWaveProgressView/raw/master/Images/prapare.png",
+    "https://bitbucket.devops.nonprod.empf.local/scm/react/IAPWaveProgressView/raw/master/Images/paying.png",
+    "https://bitbucket.devops.nonprod.empf.local/scm/react/IAPWaveProgressView/raw/master/Images/complate.png"
+  ],
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "fuyoufang@163.com": "fuyoufang@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/IAPWaveProgressView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "IAPWaveProgressView/Classes/**/*",
+  "dependencies": {
+    "Then": [
+
+    ],
+    "SnapKit": [
+
+    ]
+  },
+  "swift_version": "5.0"
+}

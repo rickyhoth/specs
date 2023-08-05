@@ -1,0 +1,27 @@
+{
+  "name": "commonSDK",
+  "version": "0.1.1",
+  "summary": "A short description of commonSDK.",
+  "description": "基础功能封装",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/commonSDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "15730898949": "15730898949@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/commonSDK.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "commonSDK/Classes/**/*",
+  "dependencies": {
+    "Masonry": [
+      "~> 1.1.0"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "LJWKit",
+  "version": "0.0.1",
+  "summary": "LJWKit.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LJWKit",
+  "license": "MIT",
+  "authors": {
+    "ljw": "xx.qq.com"
+  },
+  "platforms": {
+    "ios": "6.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LJWKit.git",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "Classes",
+    "Classes/**/*.*"
+  ],
+  "requires_arc": true
+}

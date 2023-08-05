@@ -1,0 +1,22 @@
+{
+  "name": "YHMapHelper",
+  "version": "0.1.0",
+  "summary": "A tool of Map.",
+  "description": "A tool of Map.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/YHMapHelper",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "liaojiangtu": "42318168@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YHMapHelper.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "YHMapHelper/Classes/**/*"
+}

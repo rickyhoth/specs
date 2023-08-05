@@ -1,0 +1,33 @@
+{
+  "name": "HeadStart",
+  "version": "0.0.30",
+  "summary": "Framework for users who would like to head start their project with high level structure.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HeadStart",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Ashfauck Thaminsali": "ashfauck@gmail.com"
+  },
+  "social_media_url": "https://bitbucket.devops.nonprod.empf.local/scm/react/HeadStart",
+  "platforms": {
+    "ios": "11.0"
+  },
+  "requires_arc": true,
+  "swift_version": "5.0",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HeadStart.git",
+    "tag": "0.0.30",
+    "submodules": false
+  },
+  "dependencies": {
+    "NVActivityIndicatorView": [
+
+    ],
+    "PINRemoteImage": [
+
+    ]
+  },
+  "source_files": "HeadStart/**/*.{h,swift}"
+}

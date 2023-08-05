@@ -1,0 +1,30 @@
+{
+  "name": "KSegmentControl",
+  "version": "0.1.0",
+  "summary": "A short description of KSegmentControl.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/KSegmentControl",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "KimLucky": "xin.zhao@yintech.cn"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/KSegmentControl.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "KSegmentControl/Classes/**/*",
+  "dependencies": {
+    "Masonry": [
+
+    ],
+    "ReactiveObjC": [
+
+    ]
+  }
+}

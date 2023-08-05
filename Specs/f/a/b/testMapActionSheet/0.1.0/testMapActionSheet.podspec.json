@@ -1,0 +1,27 @@
+{
+  "name": "testMapActionSheet",
+  "version": "0.1.0",
+  "summary": "Test.",
+  "description": "Just a test.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/testMapActionSheet",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wenjiyu": "microyulive@live.cn"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/testMapActionSheet.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "testMapActionSheet/Classes/**/*",
+  "frameworks": [
+    "UIKit",
+    "MapKit",
+    "CoreLocation"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "DPColorfulTags",
+  "version": "0.0.1",
+  "summary": "colorful tags",
+  "description": "tags with different colors in UITableview",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DPColorfulTags-Swift",
+  "license": "MIT",
+  "authors": {
+    "HongliYu": "yhlssdone@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DPColorfulTags-Swift.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "DPColorfulTags/",
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ],
+  "module_name": "DPColorfulTags"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "WMessage",
+  "version": "0.1.1",
+  "summary": "A short description of WMessage.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WMessage",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zzttwzq": "1076976262@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WMessage.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "WMessage/Classes/**/*",
+  "dependencies": {
+    "WBasicLibrary": [
+
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Tester",
+  "version": "1.0.0",
+  "summary": "Tester Framework",
+  "description": "Super Tester Framework",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/tester",
+  "license": "MIT",
+  "authors": {
+    "elelte": "ganalpratama@gmail.com"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/tester.git",
+    "branch": "master",
+    "tag": "1.0.0"
+  },
+  "source_files": "Tester/**/*.{h,m}"
+}

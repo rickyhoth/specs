@@ -1,0 +1,22 @@
+{
+  "name": "dblayer",
+  "version": "0.0.2",
+  "summary": "Database Layer",
+  "description": "Database Layer",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DatabaseLayer",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "username": "vladvvv278"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DatabaseLayer.git",
+    "tag": "0.0.2"
+  },
+  "platforms": {
+    "ios": "13.6"
+  },
+  "source_files": "DatabaseLayer/**/*.{swift}"
+}

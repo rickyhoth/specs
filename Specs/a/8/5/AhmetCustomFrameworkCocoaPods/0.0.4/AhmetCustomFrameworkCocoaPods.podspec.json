@@ -1,0 +1,19 @@
+{
+  "name": "AhmetCustomFrameworkCocoaPods",
+  "version": "0.0.4",
+  "summary": "Test framework for AhmetCustomFrameworkCocoaPods.",
+  "description": "Ahmet Custom Framework CocoaPods",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AhmetCustomFrameworkCocoaPods.git",
+  "license": "MIT",
+  "authors": {
+    "Ahmet BAKKAL": "ahmet.bakkal38@gmail.com"
+  },
+  "platforms": {
+    "ios": "14.1"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AhmetCustomFrameworkCocoaPods.git",
+    "branch": "master"
+  },
+  "source_files": "AhmetCustomFrameworkCocoaPods/**/*.{h,m,swift}"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "XBDialog",
+  "version": "1.6.0",
+  "summary": "Custom Dialog",
+  "description": "This is an Custom Dialog",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/XBDialog",
+  "license": "MIT",
+  "authors": {
+    "xiaobin liu": "327847390@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/XBDialog.git",
+    "tag": "1.6.0"
+  },
+  "swift_versions": "5.0",
+  "requires_arc": true,
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "XBDialog/Classes/**/*",
+  "frameworks": "UIKit"
+}

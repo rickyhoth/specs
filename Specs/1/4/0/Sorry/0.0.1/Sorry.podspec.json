@@ -1,0 +1,21 @@
+{
+  "name": "Sorry",
+  "version": "0.0.1",
+  "license": {
+    "type": "MIT"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Sorry",
+  "authors": {
+    "Damien": "damien@delba.io"
+  },
+  "summary": "The better way to ask for permission",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Sorry.git",
+    "tag": "v0.0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Source/*.swift",
+  "requires_arc": true
+}

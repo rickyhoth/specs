@@ -1,0 +1,22 @@
+{
+  "name": "DSPopup",
+  "version": "0.1.0",
+  "summary": "a api for popup.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DSPopup",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Dior-Stone": "mrdaios@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DSPopup.git",
+    "tag": "0.1.0"
+  },
+  "source_files": "Sources/**/*.{swift}",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "pushed_with_swift_version": "3.0"
+}

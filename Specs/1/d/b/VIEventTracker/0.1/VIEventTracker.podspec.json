@@ -1,0 +1,19 @@
+{
+  "name": "VIEventTracker",
+  "version": "0.1",
+  "platforms": {
+    "ios": "6.1"
+  },
+  "license": "https://bitbucket.devops.nonprod.empf.local/scm/react/VIEventTracker/blob/master/License",
+  "summary": "A simple way to handle special event at special time.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/VIEventTracker",
+  "authors": {
+    "Vito Zhang": "vvitozhang@gmail.com"
+  },
+  "requires_arc": true,
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/VIEventTracker.git",
+    "tag": "0.1"
+  },
+  "source_files": "VIEventTracker/*.{h,m}"
+}

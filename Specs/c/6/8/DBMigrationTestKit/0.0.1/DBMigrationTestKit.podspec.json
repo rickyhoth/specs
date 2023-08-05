@@ -1,0 +1,24 @@
+{
+  "name": "DBMigrationTestKit",
+  "version": "0.0.1",
+  "summary": "Testing CoreData migration library.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DBMigrationTestKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "azu": "info@efcl.info"
+  },
+  "platforms": {
+    "ios": null
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DBMigrationTestKit.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "Lib/**/*.{h,m}",
+  "prefix_header_contents": "#import <CoreData/CoreData.h>",
+  "frameworks": "CoreData",
+  "requires_arc": true
+}

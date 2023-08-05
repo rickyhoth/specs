@@ -1,0 +1,26 @@
+{
+  "name": "LSRootNavigationController",
+  "version": "1.1.2",
+  "summary": "LSRootNavigationController create by ArthurShuai",
+  "description": "LSRootNavigationController.framework create by ArthurShuai",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LSRootNavigationController.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Arthur-Coding": "zhixingui_liushuai@163com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LSRootNavigationController.git",
+    "tag": "1.1.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "vendored_frameworks": "LSRootNavigationController.framework",
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ]
+}

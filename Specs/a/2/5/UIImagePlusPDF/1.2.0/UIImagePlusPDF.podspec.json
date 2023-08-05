@@ -1,0 +1,24 @@
+{
+  "name": "UIImagePlusPDF",
+  "version": "1.2.0",
+  "summary": "UIImage PDF extensions",
+  "description": "UIImage PDF extensions.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/UIImagePlusPDF",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Dima Mishchenko": "narmdv5@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/UIImagePlusPDF.git",
+    "tag": "1.2.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "UIImage+PDF/*",
+  "swift_versions": "5.0",
+  "swift_version": "5.0"
+}

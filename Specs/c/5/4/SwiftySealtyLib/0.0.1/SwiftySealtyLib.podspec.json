@@ -1,0 +1,27 @@
+{
+  "name": "SwiftySealtyLib",
+  "version": "0.0.1",
+  "summary": "A short description of SwiftySealtyLib.",
+  "description": "This CocoaPods library helps you perform calculation.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwiftySealtyLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Vitalii Tonchak": "vitalii.tonchak@soprasteria.com"
+  },
+  "platforms": {
+    "ios": "15.0"
+  },
+  "swift_versions": "5.3",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwiftySealtyLib.git",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "SwiftySealtyLib",
+    "SwiftySealtyLib/**/*.{h,m}"
+  ],
+  "swift_version": "5.3"
+}

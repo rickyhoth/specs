@@ -1,0 +1,22 @@
+{
+  "name": "PSAWaterMarker",
+  "version": "0.0.3",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "homepage": "https://okaythis.com",
+  "authors": {
+    "Okay This": "hello@okaythis.com"
+  },
+  "summary": "PSA WaterMarker",
+  "source": {
+    "http": "https://bitbucket.devops.nonprod.empf.local/scm/react/Watermarker.zip"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "ios": {
+    "vendored_frameworks": "Watermarker.xcframework"
+  }
+}

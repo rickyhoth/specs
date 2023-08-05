@@ -1,0 +1,23 @@
+{
+  "name": "CPPickerView",
+  "version": "1.1.0",
+  "summary": "A custom, configurable, horizontal version of UIPickerView built to live in a UITableViewCell.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CPPickerView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Charles Powell": "cbpowell@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CPPickerView.git",
+    "tag": "1.1.0"
+  },
+  "platforms": {
+    "ios": "5.0"
+  },
+  "source_files": "CPPickerView/*.{h,m}",
+  "resources": "Resources/*.png",
+  "requires_arc": true
+}

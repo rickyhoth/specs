@@ -1,0 +1,24 @@
+{
+  "name": "IcePrivateCocoaPods",
+  "version": "1.2",
+  "summary": "IcePrivateCocoaPods is used to create one private cocoapods utility classes for Ice.",
+  "description": "IcePrivateCocoaPods is used to create one private cocoapods utility classes for Ice. and also can be shared for all iOS deveopers.",
+  "swift_versions": "4.0",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/IcePrivateCocoaPods",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yekai": "wangxiangbing@zhiyihealth.com.cn"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/IcePrivateCocoaPods.git",
+    "tag": "1.2"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "IcePrivateCocoaPods/Classes/**/*",
+  "swift_version": "4.0"
+}

@@ -1,0 +1,41 @@
+{
+  "name": "GeekCoSDK",
+  "version": "1.0.0",
+  "summary": "GeekMXSDK for clickwifi developer.",
+  "description": "GeekCoSDK for clickwifi developer.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/GeekCoSDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xiaowu": "735917654@qq.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/GeekCoSDK.git",
+    "tag": "1.0.0"
+  },
+  "ios": {
+    "vendored_frameworks": "GeekMXSDK.framework"
+  },
+  "pod_target_xcconfig": {
+    "VALID_ARCHS[sdk=iphonesimulator*]": ""
+  },
+  "frameworks": [
+    "UIKit",
+    "Foundation",
+    "AudioToolbox"
+  ],
+  "requires_arc": true,
+  "dependencies": {
+    "YYModel": [
+
+    ],
+    "AFNetworking": [
+
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "NBBaseTools",
+  "version": "1.0.2",
+  "summary": "基础功能组件",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/NBBaseTools",
+  "license": "MIT",
+  "authors": "djl",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/NBBaseTools",
+    "tag": "1.0.2"
+  },
+  "source_files": "*.{h,m}",
+  "frameworks": [
+    "Foundation",
+    "UIKit"
+  ],
+  "requires_arc": true
+}

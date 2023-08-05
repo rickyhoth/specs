@@ -1,0 +1,23 @@
+{
+  "name": "DHCShakeNotifier",
+  "version": "0.2.0",
+  "summary": "A very simple category that sends out an NSNotification whenever the device is shaken.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DHCShakeNotifier",
+  "license": "MIT",
+  "authors": {
+    "Daniel Haight": "confidence.designed@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DHCShakeNotifier.git",
+    "tag": "0.2.0"
+  },
+  "platforms": {
+    "ios": null
+  },
+  "source_files": "DHCShakeNotifier",
+  "frameworks": [
+    "Foundation",
+    "UIKit"
+  ],
+  "requires_arc": true
+}

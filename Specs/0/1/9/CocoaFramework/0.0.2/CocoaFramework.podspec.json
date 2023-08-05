@@ -1,0 +1,23 @@
+{
+  "name": "CocoaFramework",
+  "version": "0.0.2",
+  "summary": "a frame work for developers.",
+  "description": "this is a frame work create by cocoapod",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CocoaFramework",
+  "license": "MIT",
+  "authors": {
+    "bbx1209": "0weibo0@163.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CocoaFramework.git",
+    "tag": "0.0.2"
+  },
+  "source_files": [
+    "CocoaFramework",
+    "CocoaFramework/**/*.{h,m}"
+  ],
+  "exclude_files": "CocoaFramework/Exclude"
+}

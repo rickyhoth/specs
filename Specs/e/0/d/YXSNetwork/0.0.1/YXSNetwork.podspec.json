@@ -1,0 +1,30 @@
+{
+  "name": "YXSNetwork",
+  "version": "0.0.1",
+  "summary": "A short description of YXSNetwork.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/YXSNetwork",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "袁培超": "yuanpeichao@kaike.la"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YXSNetwork.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YXSNetwork/Classes/**/*",
+  "dependencies": {
+    "AFNetworking": [
+
+    ],
+    "YYModel": [
+
+    ]
+  }
+}

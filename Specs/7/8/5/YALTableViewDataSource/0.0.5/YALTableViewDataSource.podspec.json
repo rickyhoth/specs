@@ -1,0 +1,27 @@
+{
+  "name": "YALTableViewDataSource",
+  "version": "0.0.5",
+  "summary": "A pattern for tableViewDataSource protocol to reduce the codes in a large Controller",
+  "description": "YAL\nYALTableView\nTableViewDataSource\nYALTableViewDataSource\nYALTableViewDatasource\nYALTableViewdatasource\nYALTableviewdatasource\nYALtableviewdatasource\nyal",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/YALTableViewDataSource.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "于玮": "ywcoone@163.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YALTableViewDataSource.git",
+    "tag": "0.0.5"
+  },
+  "source_files": "Sources/*.{h,m}",
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ],
+  "requires_arc": true
+}

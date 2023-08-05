@@ -1,0 +1,22 @@
+{
+  "name": "YJSStockGridView",
+  "version": "0.1.1",
+  "summary": "股票水平垂直滚动库",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/YJSStockGridView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "YuanJiaShuai": "1361253662@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YJSStockGridView.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YJSStockGridView/Classes/**/*"
+}

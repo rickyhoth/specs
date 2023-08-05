@@ -1,0 +1,21 @@
+{
+  "name": "utopia",
+  "version": "0.1.0",
+  "summary": "Common utilities for Swift projects",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/utopia",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Ramotion": "igor.k@ramotion.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/utopia.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "utopia/Source/**/*"
+}

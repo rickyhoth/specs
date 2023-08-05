@@ -1,0 +1,23 @@
+{
+  "name": "weikaiLib",
+  "version": "0.0.2",
+  "summary": "weikaia",
+  "description": "weikaiadkfkqo",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/weikaiLib",
+  "license": "MIT",
+  "authors": {
+    "weikai": "137142588@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/weikaiLib.git",
+    "tag": "0.0.2"
+  },
+  "source_files": "weikaiLib/**/*.{h,m}",
+  "exclude_files": "weikaiLib/Exclude",
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}

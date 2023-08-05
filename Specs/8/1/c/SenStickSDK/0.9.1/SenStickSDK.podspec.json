@@ -1,0 +1,28 @@
+{
+  "name": "SenStickSDK",
+  "version": "0.9.1",
+  "summary": "SenStick software development kit.",
+  "description": "SenStickを操作するiOSのライブラリです。Swift3対応。iOS10以上で動作します。",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE.txt"
+  },
+  "authors": {
+    "Akihiro Uehara": "u-akihiro@reinfoce-lab.com"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SenStick.git",
+    "tag": "0.9.1"
+  },
+  "source_files": "**/SenStickSDK/*.{h,swift}",
+  "exclude_files": "**/*.playground/**",
+  "dependencies": {
+    "iOSDFULibrary": [
+
+    ]
+  }
+}

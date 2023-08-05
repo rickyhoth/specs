@@ -1,0 +1,25 @@
+{
+  "name": "HaidoraViewControllerConfig",
+  "version": "0.1.0",
+  "summary": "ViewController一些常用配置.",
+  "description": "                       ViewController一些常用配置.(背景,布局等)\n",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HaidoraViewControllerConfig",
+  "license": "MIT",
+  "authors": {
+    "mrdaios": "mrdaios@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HaidoraViewControllerConfig.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "dependencies": {
+    "Aspects": [
+
+    ]
+  }
+}

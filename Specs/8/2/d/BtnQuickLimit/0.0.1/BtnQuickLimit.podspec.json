@@ -1,0 +1,21 @@
+{
+  "name": "BtnQuickLimit",
+  "version": "0.0.1",
+  "summary": "使用runtime 防止按钮快速点击",
+  "description": "iOS 使用runtime 防止按钮快速点击封装库",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/BtnQuickLimit.git",
+  "license": "MIT",
+  "authors": {
+    "ruixiaoguo": "grx0917@sina.com"
+  },
+  "platforms": {
+    "ios": null
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/BtnQuickLimit.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "BtnQuickLimit/BtnQuickLimit/*.{h,m}",
+  "exclude_files": "",
+  "frameworks": "UIKit"
+}

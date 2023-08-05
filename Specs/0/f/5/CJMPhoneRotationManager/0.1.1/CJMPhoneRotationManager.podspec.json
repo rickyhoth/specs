@@ -1,0 +1,32 @@
+{
+  "name": "CJMPhoneRotationManager",
+  "version": "0.1.1",
+  "summary": "UIDevice extension to rotate the phone when upright using the vibration motor.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CJMPhoneRotationManager",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Chris Maddern": "chris@venmo.com"
+  },
+  "platforms": {
+    "ios": "5.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CJMPhoneRotationManager.git",
+    "tag": "v0.1.1"
+  },
+  "source_files": "CJMPhoneRotationManager/**/*.{h,m}",
+  "compiler_flags": "-ObjC",
+  "requires_arc": true,
+  "dependencies": {
+    "RNTimer": [
+
+    ]
+  },
+  "frameworks": [
+    "AudioToolbox",
+    "CoreLocation"
+  ]
+}

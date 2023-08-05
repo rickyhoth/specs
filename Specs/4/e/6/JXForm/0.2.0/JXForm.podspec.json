@@ -1,0 +1,19 @@
+{
+  "name": "JXForm",
+  "version": "0.2.0",
+  "summary": "A form view",
+  "description": "The form view you are looking for.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JXForm",
+  "license": "MIT",
+  "authors": {
+    "luqyluqe": "luqy.luqe@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JXForm.git",
+    "tag": "0.2.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source_files": "JXForm/Classes/**/*"
+}

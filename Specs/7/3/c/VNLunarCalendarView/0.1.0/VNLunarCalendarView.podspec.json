@@ -1,0 +1,22 @@
+{
+  "name": "VNLunarCalendarView",
+  "version": "0.1.0",
+  "summary": "Vietnam Lunar Calendar View",
+  "description": "This excellent view has provided a user-friendly lunar calendar view and its functions",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/VNLunarCalendarView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Hoang Anh Tuần": "ios.tuanha@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/VNLunarCalendarView",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "VNLunarCalendarView/***/**/*.swift"
+}

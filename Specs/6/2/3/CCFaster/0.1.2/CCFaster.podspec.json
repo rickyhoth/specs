@@ -1,0 +1,22 @@
+{
+  "name": "CCFaster",
+  "version": "0.1.2",
+  "summary": "A short description of CCFaster.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CCFaster",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Coloring": "751590012@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CCFaster.git",
+    "tag": "0.1.2"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "CCFaster/Classes/**/*"
+}

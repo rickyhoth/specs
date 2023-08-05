@@ -1,0 +1,73 @@
+{
+  "name": "MoyaModelMapper",
+  "version": "1.0.1",
+  "summary": "ModelMapper bindings for Moya. Includes RxSwift and ReactiveSwift bindings as well.",
+  "description": "[ModelMapper](https://bitbucket.devops.nonprod.empf.local/scm/react/MoyaModelMapper).",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MoyaModelMapper",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Gustavo Perdomo": "gperdomor@gmail.com"
+  },
+  "social_media_url": "",
+  "platforms": {
+    "ios": "8.0",
+    "osx": "10.12",
+    "watchos": "3.1",
+    "tvos": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MoyaModelMapper.git",
+    "tag": "1.0.1"
+  },
+  "requires_arc": true,
+  "default_subspecs": "Core",
+  "pushed_with_swift_version": "3.0",
+  "subspecs": [
+    {
+      "name": "Core",
+      "source_files": "Sources/MoyaModelMapper/*.swift",
+      "dependencies": {
+        "Moya": [
+          "~> 8.0"
+        ],
+        "ModelMapper": [
+          "~> 6.0"
+        ]
+      },
+      "frameworks": "Foundation"
+    },
+    {
+      "name": "RxSwift",
+      "source_files": "Sources/RxMoyaModelMapper/*.swift",
+      "dependencies": {
+        "MoyaModelMapper/Core": [
+
+        ],
+        "Moya/RxSwift": [
+
+        ],
+        "RxSwift": [
+          "~> 3.2"
+        ]
+      }
+    },
+    {
+      "name": "ReactiveSwift",
+      "source_files": "Sources/ReactiveMoyaModelMapper/*.swift",
+      "dependencies": {
+        "MoyaModelMapper/Core": [
+
+        ],
+        "Moya/ReactiveCocoa": [
+
+        ],
+        "ReactiveSwift": [
+          "~> 1.0"
+        ]
+      }
+    }
+  ]
+}

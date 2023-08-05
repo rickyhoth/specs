@@ -1,0 +1,20 @@
+{
+  "name": "KSURLValueTransformer",
+  "version": "1.0.0",
+  "summary": "A NSValueTransformer subclass for storing NSURLs in Core Data",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/KSURLValueTransformer",
+  "license": "MIT",
+  "authors": {
+    "Keith Smiley": "keithbsmiley@gmail.com"
+  },
+  "social_media_url": "http://twitter.com/SmileyKeith",
+  "platforms": {
+    "osx": null
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/KSURLValueTransformer.git",
+    "tag": "v1.0.0"
+  },
+  "source_files": "*.{h,m}",
+  "requires_arc": true
+}

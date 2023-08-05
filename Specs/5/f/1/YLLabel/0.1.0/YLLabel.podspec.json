@@ -1,0 +1,23 @@
+{
+  "name": "YLLabel",
+  "version": "0.1.0",
+  "summary": "A subclass for UILabel.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/YLLabel",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "feng654079": "417600039@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YLLabel.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YLLabel/Classes/**/*",
+  "pushed_with_swift_version": "3.0"
+}

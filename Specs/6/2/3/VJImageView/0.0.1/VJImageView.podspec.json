@@ -1,0 +1,22 @@
+{
+  "name": "VJImageView",
+  "version": "0.0.1",
+  "summary": "A short description of VJImageView.",
+  "description": "Imageview ui changes using storyboard.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/VJImageView",
+  "authors": {
+    "Vijay Vikram Singh": "svijayvikram00@gmail.com"
+  },
+  "platforms": {
+    "ios": "12.1.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/VJImageView.git",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "VJImageView",
+    "VJImageView/**/*.{h,m}"
+  ],
+  "exclude_files": "VJImageExample"
+}

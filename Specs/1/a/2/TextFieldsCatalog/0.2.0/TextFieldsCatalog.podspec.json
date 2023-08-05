@@ -1,0 +1,33 @@
+{
+  "name": "TextFieldsCatalog",
+  "version": "0.2.0",
+  "summary": "This is catalog of various input field with great opportunities for validation and formatting.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TextFieldsCatalog",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Alexander Chausov": "chausov@surfstudio.ru"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "swift_version": "4.2",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TextFieldsCatalog.git",
+    "tag": "0.2.0"
+  },
+  "source_files": "TextFieldsCatalog/**/*.{swift,xib,strings}",
+  "resource_bundles": {
+    "TextFieldsCatalog": [
+      "TextFieldsCatalog/Resources/Images/*.{png}"
+    ]
+  },
+  "frameworks": "UIKit",
+  "dependencies": {
+    "InputMask": [
+      "4.0.2"
+    ]
+  }
+}

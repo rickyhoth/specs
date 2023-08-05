@@ -1,0 +1,23 @@
+{
+  "name": "HDJCameraViewController",
+  "version": "1.0.2",
+  "platforms": {
+    "ios": null
+  },
+  "summary": "HDJCameraViewController —— 仿微信相机",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HDJCameraViewController",
+  "license": "MIT",
+  "authors": {
+    "洪冬介": "hongdongjie334@gmail.com"
+  },
+  "social_media_url": "https://weibo.com/1871979715",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HDJCameraViewController.git",
+    "tag": "1.0.2"
+  },
+  "source_files": [
+    "HDJCameraViewController/*",
+    "HDJCameraViewController/**/*"
+  ],
+  "frameworks": "AVFoundation"
+}

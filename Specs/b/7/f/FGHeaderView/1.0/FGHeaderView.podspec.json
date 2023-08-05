@@ -1,0 +1,20 @@
+{
+  "name": "FGHeaderView",
+  "version": "1.0",
+  "summary": "swift版本的一个方法实现表头部视图缩放",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/FGHeaderView",
+  "license": "MIT",
+  "authors": {
+    "CGPointZero": "newbox0512@yahoo.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/FGHeaderView.git",
+    "tag": "1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FGHeaderView/*.swift",
+  "requires_arc": true,
+  "pushed_with_swift_version": "3.0"
+}

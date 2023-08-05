@@ -1,0 +1,24 @@
+{
+  "name": "DrawPDF",
+  "version": "1.5",
+  "summary": "Draw PDF below of iOS 11",
+  "description": "Draw PDF below of iOS 11 you can use this to draw PDF",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DrawPDF.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "vishal patel": "vishalkalola196@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DrawPDF.git",
+    "branch": "master",
+    "tag": "1.5"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "VPDFTableCreation/*.swift",
+  "requires_arc": true
+}

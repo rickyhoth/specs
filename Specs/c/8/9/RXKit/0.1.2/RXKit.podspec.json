@@ -1,0 +1,32 @@
+{
+  "name": "RXKit",
+  "version": "0.1.2",
+  "summary": "RXExts.",
+  "description": "使用RxSwift提供一套完整开发工具。",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/RXKit",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/RXKit.git",
+    "tag": "0.1.2"
+  },
+  "license": {
+    "type": "MIT",
+    "text": "MIT"
+  },
+  "authors": {
+    "yaochenfeng": "chenfengyao@foxmail.com"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "swift_versions": "5.4",
+  "source_files": "Sources/RXKit/**/*.swift",
+  "dependencies": {
+    "RxCocoa": [
+      "~> 6.0"
+    ],
+    "SnapKit": [
+      "~> 5.0"
+    ]
+  },
+  "swift_version": "5.4"
+}

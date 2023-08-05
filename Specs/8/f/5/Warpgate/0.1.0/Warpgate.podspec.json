@@ -1,0 +1,22 @@
+{
+  "name": "Warpgate",
+  "version": "0.1.0",
+  "summary": "Warpgate.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Warpgate",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "吕浩轩": "lyuhaoxuan@aliyun.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Warpgate.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "Warpgate/Classes/**/*"
+}

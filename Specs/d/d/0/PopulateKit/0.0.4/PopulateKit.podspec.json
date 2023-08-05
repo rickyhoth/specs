@@ -1,0 +1,37 @@
+{
+  "name": "PopulateKit",
+  "version": "0.0.4",
+  "platforms": {
+    "ios": null
+  },
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "summary": "Randomly-generated contacts for the iOS address book",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Populate",
+  "authors": {
+    "Arnaud Coomans": "arnaud.coomans@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Populate.git",
+    "tag": "0.0.4"
+  },
+  "source_files": "PopulateKit/**/*.{h,m}",
+  "resource_bundles": {
+    "PopulateKit": "PopulateKit/PopulateKit.bundle/*"
+  },
+  "dependencies": {
+    "IGIdenticon": [
+      "~> 0.1"
+    ]
+  },
+  "frameworks": [
+    "UIKit",
+    "AddressBook"
+  ],
+  "xcconfig": {
+    "OTHER_LDFLAGS": "-lObjC"
+  },
+  "requires_arc": true
+}

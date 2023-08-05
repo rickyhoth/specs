@@ -1,0 +1,22 @@
+{
+  "name": "DPLocalization",
+  "version": "1.4.2",
+  "summary": "Provides way to change localization inside application",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DPLocalizationManager",
+  "license": "MIT",
+  "authors": {
+    "Dmitriy Petrusevich": "nullic@gmail.com"
+  },
+  "platforms": {
+    "ios": "5.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DPLocalizationManager.git",
+    "tag": "1.4.2"
+  },
+  "source_files": [
+    "DPLocalization",
+    "DPLocalization/*.{h,m}"
+  ],
+  "requires_arc": true
+}

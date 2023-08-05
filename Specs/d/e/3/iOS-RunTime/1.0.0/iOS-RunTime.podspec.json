@@ -1,0 +1,21 @@
+{
+  "name": "iOS-RunTime",
+  "version": "1.0.0",
+  "summary": "通过iOS RunTime时的一些特性",
+  "description": "通过iOS RunTime时的一些特性,获取类的properties,ivars,instance methods, class methods",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/iOS-RunTime",
+  "license": "MIT",
+  "authors": {
+    "pwf2006": "674423263@qq.com"
+  },
+  "platforms": {
+    "ios": null
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/iOS-RunTime.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "FirstGit/HomeController.*",
+  "exclude_files": "Classes/Exclude",
+  "frameworks": "Foundation"
+}

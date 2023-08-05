@@ -1,0 +1,25 @@
+{
+  "name": "MMComboBox",
+  "version": "0.1.1",
+  "summary": "A simple ComboBox implementation for iOS",
+  "description": "A dropdown menu with arbitrary UIView as element. Very simple integration in\nyour project.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MMComboBox",
+  "license": "MIT",
+  "authors": {
+    "Marco Mardegan": "mardegan.m@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MMComboBox.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "MMComboBox": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}

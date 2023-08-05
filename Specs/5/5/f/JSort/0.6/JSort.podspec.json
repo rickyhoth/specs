@@ -1,0 +1,23 @@
+{
+  "name": "JSort",
+  "version": "0.6",
+  "summary": "JSort is a simple framework for parsing JSON data in Swift.",
+  "description": "JSort is a simple framework for parsing JSON data in Swift, written by Zeke Abuhoff.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LogCountry",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Ezekiel Abuhoff": "zabuhoff@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JSort.git",
+    "tag": "0.6"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "JSort/*.{swift,plist,h}",
+  "pushed_with_swift_version": "3.0"
+}

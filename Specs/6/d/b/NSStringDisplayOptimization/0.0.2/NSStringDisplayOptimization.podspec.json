@@ -1,0 +1,19 @@
+{
+  "name": "NSStringDisplayOptimization",
+  "version": "0.0.2",
+  "summary": "NSStringDisplayOptimization summary",
+  "description": "NSStringDisplayOptimization description",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/NSStringDisplayOptimization",
+  "license": "MIT",
+  "authors": {
+    "sunchao": "su135113@163.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/NSStringDisplayOptimization.git",
+    "tag": "0.0.2"
+  },
+  "source_files": "NSStringDisplayOptimization/*.{h,m}"
+}

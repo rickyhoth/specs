@@ -1,0 +1,19 @@
+{
+  "name": "ChainableAlert-OC",
+  "version": "0.6",
+  "license": "MIT",
+  "summary": "Chainable use of Alert.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ChainableAlert-OC",
+  "authors": {
+    "DingHub": "love-nankai@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ChainableAlert-OC.git",
+    "tag": "0.6"
+  },
+  "source_files": "Source/*.{h,m}",
+  "platforms": {
+    "ios": "6.0"
+  },
+  "requires_arc": true
+}

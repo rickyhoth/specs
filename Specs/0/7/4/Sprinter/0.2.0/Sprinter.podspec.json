@@ -1,0 +1,24 @@
+{
+  "name": "Sprinter",
+  "version": "0.2.0",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE.md"
+  },
+  "summary": "Mac and iOS library for formatting strings.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Sprinter",
+  "authors": "Nick Lockwood",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Sprinter.git",
+    "tag": "0.2.0"
+  },
+  "source_files": "Sources",
+  "platforms": {
+    "ios": "9.0",
+    "tvos": "9.0",
+    "osx": "10.11",
+    "watchos": "2.0"
+  },
+  "requires_arc": true,
+  "pushed_with_swift_version": "4.0"
+}

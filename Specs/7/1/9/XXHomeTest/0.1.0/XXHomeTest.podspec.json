@@ -1,0 +1,22 @@
+{
+  "name": "XXHomeTest",
+  "version": "0.1.0",
+  "summary": "XXHomeTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/XXHomeTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xinxinzhao2006": "1350009686@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/XXHomeTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "XXHomeTest/Classes/**/*"
+}

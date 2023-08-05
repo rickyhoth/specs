@@ -1,0 +1,23 @@
+{
+  "name": "ZJKit",
+  "version": "0.1.1",
+  "summary": "convenience",
+  "description": "TODO: Just use conveniently",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZJKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yoimhere": "yoimhere2@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZJKit.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source_files": "ZJKit/Classes/**/*",
+  "frameworks": "UIKit"
+}

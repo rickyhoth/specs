@@ -1,0 +1,22 @@
+{
+  "name": "AttributedLib",
+  "version": "2.1.0",
+  "summary": "Modern Swift µframework for attributed strings.",
+  "description": "A Modern interface for attributed strings.\n\nMake working with attributed strings simple and safe. \nThis is a light-weight third party alternative to the \nexisting inconvinient and error prone programming interface\nto `NSAttributedString`.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Attributed",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Nicholas Maccharoli": "nmaccharoli@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Attributed.git",
+    "tag": "2.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "Attributed/*.swift"
+}

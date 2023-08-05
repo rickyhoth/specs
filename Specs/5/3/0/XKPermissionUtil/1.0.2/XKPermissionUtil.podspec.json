@@ -1,0 +1,22 @@
+{
+  "name": "XKPermissionUtil",
+  "version": "1.0.2",
+  "summary": "权限判断",
+  "description": "用于相机，相册等权限的判断",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/XKPermissionUtil",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "kunhum": "kunhum@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/XKPermissionUtil.git",
+    "tag": "1.0.2"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "XKPermissionUtil/Classes/XKPermissionUtil/*.{h,m}"
+}

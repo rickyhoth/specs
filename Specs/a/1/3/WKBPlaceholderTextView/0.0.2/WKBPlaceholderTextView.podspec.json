@@ -1,0 +1,21 @@
+{
+  "name": "WKBPlaceholderTextView",
+  "version": "0.0.2",
+  "summary": "WKBPlaceholderTextView.",
+  "description": "A TextView With Placeholder,suit remarkTextView",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WKBPlaceholderTextView",
+  "license": "MIT",
+  "authors": {
+    "iOSwkb": "18346668775m0@sina.cn"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WKBPlaceholderTextView.git",
+    "tag": "0.0.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "WKBPlaceholderTextView/Classes/**/*",
+  "frameworks": "UIKit"
+}

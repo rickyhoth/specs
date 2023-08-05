@@ -1,0 +1,21 @@
+{
+  "name": "YHDevLog",
+  "version": "1.0.1",
+  "summary": "一款iOS可视化Log集成工具",
+  "description": "一款iOS可视化Log集成工具，支持警告，错误等类型LOG",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/YHDevLog",
+  "license": "MIT",
+  "authors": "珲少",
+  "platforms": {
+    "ios": null
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YHDevLog.git",
+    "tag": "1.0.1"
+  },
+  "source_files": [
+    "Classes",
+    "Classes/**/*.{h,m}"
+  ],
+  "exclude_files": "Classes/Exclude"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "ADTiming",
+  "version": "3.6.3",
+  "summary": "AdTiming Atds",
+  "description": "AdTiming Framework",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AdTiming.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AdTiming.git",
+    "tag": "3.6.3"
+  },
+  "vendored_frameworks": "AdTiming.framework",
+  "authors": {
+    "wangdaoqi": "wangdaoqi@1tu1shu.com"
+  }
+}

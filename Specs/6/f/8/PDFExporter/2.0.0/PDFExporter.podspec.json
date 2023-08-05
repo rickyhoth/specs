@@ -1,0 +1,23 @@
+{
+  "name": "PDFExporter",
+  "version": "2.0.0",
+  "summary": "PDFExporter",
+  "description": "PDFExporter is a simple framework used to easily export PDF files.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ios-PDFexporter",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": "3Pillar Global",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ios-PDFexporter.git",
+    "tag": "2.0.0"
+  },
+  "source_files": [
+    "PDFExporter",
+    "PDFExporter/**/*.{h,m}"
+  ]
+}

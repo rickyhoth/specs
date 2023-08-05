@@ -1,0 +1,19 @@
+{
+  "name": "DMEBottomView",
+  "version": "0.2.0",
+  "license": "BSD",
+  "summary": "DMEBottomView is a simple view to put on bottom of other view",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DMEBottomView",
+  "authors": {
+    "David Martínez": "damarte86@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DMEBottomView.git",
+    "tag": "0.2.0"
+  },
+  "requires_arc": true,
+  "platforms": {
+    "ios": "6.0"
+  },
+  "source_files": "DMEBottomView/*.{h,m}"
+}

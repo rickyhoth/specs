@@ -1,0 +1,19 @@
+{
+  "name": "BCSimpleKeychain",
+  "version": "0.1.0",
+  "license": "MIT",
+  "summary": "Dead simple keychain wrapper for iOS.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/BCSimpleKeychain.git",
+  "authors": {
+    "Jaydeep": "jaydeep.patoliya@opusconsulting.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/BCSimpleKeychain.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": null
+  },
+  "requires_arc": true,
+  "source_files": "BCSimpleKeychain/**/*.{h,m}"
+}

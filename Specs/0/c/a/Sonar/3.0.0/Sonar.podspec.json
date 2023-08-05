@@ -1,0 +1,21 @@
+{
+  "name": "Sonar",
+  "version": "3.0.0",
+  "summary": "Radar style view written in swift",
+  "description": "Simple radar style view written in swift",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Sonar",
+  "license": "MIT",
+  "authors": {
+    "Aleš Kocur": "aleskocur@icloud.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Sonar.git",
+    "tag": "3.0.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "pushed_with_swift_version": "3.0"
+}

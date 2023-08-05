@@ -1,0 +1,19 @@
+{
+  "name": "zsmpppccc",
+  "version": "0.0.6",
+  "summary": "这是一个摘要",
+  "description": "描述",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/zsmpppccc.git",
+  "license": "MIT",
+  "authors": {
+    "shimminZ": "272110599@qq.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/zsmpppccc.git",
+    "tag": "0.0.6"
+  },
+  "source_files": "File/*"
+}

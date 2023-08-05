@@ -1,0 +1,27 @@
+{
+  "name": "SlateWebView",
+  "version": "3.4.2.1",
+  "summary": "A UIWebView intergrated SlateURI and SlateWebridge.",
+  "description": "A UIWebView intergrated SlateURI and SlateWebridge. And other helper functions.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SlateWebView",
+  "license": "Apache 2.0",
+  "authors": {
+    "linyize": "linyize@gmail.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SlateWebView.git",
+    "tag": "3.4.2.1"
+  },
+  "source_files": "SlateWebView/*.{h,m}",
+  "dependencies": {
+    "SlateWebridge": [
+
+    ],
+    "SlateURI": [
+
+    ]
+  }
+}

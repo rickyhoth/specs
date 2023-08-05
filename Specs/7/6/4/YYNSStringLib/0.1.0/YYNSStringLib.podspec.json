@@ -1,0 +1,22 @@
+{
+  "name": "YYNSStringLib",
+  "version": "0.1.0",
+  "summary": "YYNSStringLib of NSString",
+  "description": "YYNSStringLib is about OC NSString add extra extesion",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/iOS-OC-Public-YYNSStringLib.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "liyanyan33": "1143386318@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/iOS-OC-Public-YYNSStringLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "YYNSStringLib/Classes/**/*"
+}

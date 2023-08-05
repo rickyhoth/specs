@@ -1,0 +1,27 @@
+{
+  "name": "WTNetPart",
+  "version": "0.0.4",
+  "summary": "a part of net for app",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WTNetPart",
+  "license": "MIT",
+  "authors": {
+    "EnjoyWT": "576548368@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WTNetPart.git",
+    "tag": "0.0.4"
+  },
+  "source_files": [
+    "WTNetPart",
+    "WTNetPart/**/*.{h,m}"
+  ],
+  "dependencies": {
+    "AFNetworking": [
+
+    ]
+  },
+  "requires_arc": true
+}

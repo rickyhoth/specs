@@ -1,0 +1,21 @@
+{
+  "name": "PullToREfreshViewTest",
+  "version": "0.0.1",
+  "summary": "test PullToREfreshViewTest.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/reactPullToRefreshView",
+  "license": "MIT",
+  "authors": {
+    "zhuyinkai": "noah.zyk@gmail.com"
+  },
+  "platforms": {
+    "ios": "5.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/reactPullToRefreshView.git",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "HeaderRefreshView",
+    "HeaderRefreshView.{h,m}"
+  ]
+}

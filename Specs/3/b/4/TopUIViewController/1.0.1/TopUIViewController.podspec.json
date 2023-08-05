@@ -1,0 +1,18 @@
+{
+  "name": "TopUIViewController",
+  "version": "1.0.1",
+  "summary": "Find TopViewController.",
+  "description": "quickly find topviewcontroller",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TopViewController",
+  "license": "MIT",
+  "authors": "Leon",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TopViewController.git",
+    "tag": "1.0.1"
+  },
+  "source_files": "**/TopViewController/*.{h,m}",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "deprecated": true
+}

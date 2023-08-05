@@ -1,0 +1,22 @@
+{
+  "name": "iOS-Metal-Wrapper",
+  "version": "0.3.0",
+  "summary": "A lightweight wrapper class for iOS Metal API",
+  "description": "A lightweight wrapper class for iOS Metal API.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/iOS-Metal-Wrapper",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Keith Hon": "klausehon@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/iOS-Metal-Wrapper.git",
+    "tag": "0.3.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "iOS-Metal-Wrapper/Classes/**/*"
+}

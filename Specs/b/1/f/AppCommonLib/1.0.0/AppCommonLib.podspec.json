@@ -1,0 +1,19 @@
+{
+  "name": "AppCommonLib",
+  "version": "1.0.0",
+  "summary": "This is such a AppConfig Framwork",
+  "description": "This is some super AppConfig framwork...",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AppCommonLib",
+  "license": "MIT",
+  "authors": {
+    "Vasu Savaliya": "vasusavaliya0000@gmail.com"
+  },
+  "platforms": {
+    "ios": "14.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AppCommonLib.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "AppCommonLib"
+}

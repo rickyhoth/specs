@@ -1,0 +1,25 @@
+{
+  "name": "MMTransitionAnimator",
+  "version": "0.0.1",
+  "license": {
+    "type": "MIT",
+    "text": "copyright"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MMTransitionAnimator",
+  "authors": {
+    "mojun": "immojun@gmail.com"
+  },
+  "summary": "Custom transition & interactive transition animator for iOS. written in Objective-C.",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MMTransitionAnimator.git",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "Classes",
+    "Classes/MMTransitionAnimator/*.{h,m}"
+  ],
+  "requires_arc": true,
+  "platforms": {
+    "ios": "8.0"
+  }
+}

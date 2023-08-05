@@ -1,0 +1,26 @@
+{
+  "name": "FBRouter",
+  "version": "0.0.3",
+  "summary": "app",
+  "description": "app",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/FBRouter",
+  "license": "MIT",
+  "authors": {
+    "flywithbug": "flywithbug@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/FBRouter.git",
+    "tag": "0.0.3"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "subspecs": [
+    {
+      "name": "FBRouter",
+      "source_files": [
+        "FBRouter/Classes/**/*"
+      ]
+    }
+  ]
+}

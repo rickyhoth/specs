@@ -1,0 +1,24 @@
+{
+  "name": "GokoTableView",
+  "version": "0.1.0",
+  "summary": "A block supported UITableView",
+  "description": "It is a block supported UITableView, which implement by Objective-C.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/GokoTableView",
+  "license": "MIT",
+  "authors": {
+    "Goko": "gokotx@outlook.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/GokoTableView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "6.0"
+  },
+  "requires_arc": true,
+  "source_files": "GokoTableView/UITableView+Goko/*",
+  "frameworks": [
+    "Foundation",
+    "UIKit"
+  ]
+}

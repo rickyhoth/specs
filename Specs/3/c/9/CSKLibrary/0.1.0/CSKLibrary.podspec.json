@@ -1,0 +1,22 @@
+{
+  "name": "CSKLibrary",
+  "version": "0.1.0",
+  "summary": "A short description of CSKLibrary.",
+  "description": "For testing create and publish cocoapods library",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CSKLibrary",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "cskime": "kcsol1005@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CSKLibrary.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "CSKLibrary/Classes/**/*"
+}

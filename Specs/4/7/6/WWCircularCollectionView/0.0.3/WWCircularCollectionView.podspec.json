@@ -1,0 +1,24 @@
+{
+  "name": "WWCircularCollectionView",
+  "version": "0.0.3",
+  "summary": "WWCircularCollectionView is a infinite wheel. (一個可以無限滾動的滾輪)",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/reactWWCircularCollectionView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "翁禹斌(William.Weng)": "linuxice0609@gmail.com"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "ios": {
+    "vendored_frameworks": "WWCircularCollectionView.framework"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/reactWWCircularCollectionView.git",
+    "tag": "0.0.3"
+  },
+  "frameworks": "UIKit"
+}

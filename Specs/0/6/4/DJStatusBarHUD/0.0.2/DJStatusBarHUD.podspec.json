@@ -1,0 +1,20 @@
+{
+  "name": "DJStatusBarHUD",
+  "version": "0.0.2",
+  "summary": "The easily and conveniently use of statusBar",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DJStatusBarHUD",
+  "license": "MIT",
+  "authors": {
+    "dj_liu": "djliu328@126.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DJStatusBarHUD.git",
+    "tag": "0.0.2"
+  },
+  "source_files": "DJStatusBarHUD/**/*.{h,m}",
+  "resources": "DJStatusBarHUD/DJStatusBarHUD.bundle",
+  "requires_arc": true
+}

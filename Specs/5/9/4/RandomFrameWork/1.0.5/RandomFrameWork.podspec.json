@@ -1,0 +1,22 @@
+{
+  "name": "RandomFrameWork",
+  "version": "1.0.5",
+  "summary": "This is the RandomFrameWork.",
+  "description": "This is the RandomFrameWork which will help you to create random string and integer",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/RandomFrameWork",
+  "license": "MIT",
+  "authors": {
+    "Ayush Dayal": "ayushdayal@mapmyindia.com"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "swift_versions": "5.0",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/RandomFrameWork.git",
+    "tag": "1.0.5"
+  },
+  "source_files": "RandomFrameWork",
+  "requires_arc": true,
+  "swift_version": "5.0"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "SwChain",
+  "version": "1.0.0",
+  "summary": "Method chaining of queued closure (blocks) on GCD (Grand Central Dispatch)",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Chain",
+  "license": "MIT",
+  "authors": {
+    "Airin": "xl1138@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Chain.git",
+    "tag": "1.0.0"
+  },
+  "requires_arc": true,
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Source/*.swift"
+}

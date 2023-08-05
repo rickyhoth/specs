@@ -1,0 +1,27 @@
+{
+  "name": "NSStringALEmail",
+  "version": "0.2.1",
+  "summary": "NSStringALEmail: A basic regex e-mail validation and disposable email detection extension/category for String/NSString classes.",
+  "description": "Simple pod which combines following work:\n\nPlease check for disposable list source\nhttps://gist.github.com/michenriksen/8710649\nhttps://bitbucket.devops.nonprod.empf.local/scm/react/burner-email-providers\nhttps://gist.github.com/adamloving/4401361\n\nPlease check for implementation of disposable detection\nhttps://bitbucket.devops.nonprod.empf.local/scm/react/mailchecker",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/NSStringALEmail",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "aligermiyanoglu": "anibal23736@hotmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/NSStringALEmail.git",
+    "tag": "0.2.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "NSStringALEmail/Classes/**/*",
+  "resource_bundles": {
+    "NSStringALEmail": [
+      "NSStringALEmail/Assets/*.txt"
+    ]
+  }
+}

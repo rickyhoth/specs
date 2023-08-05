@@ -1,0 +1,21 @@
+{
+  "name": "DMLinkSDK",
+  "version": "1.1.0",
+  "summary": "造梦者设备配网SDK",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DMLinkSDK.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zyq": "zhouyunquan@dm-maker.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DMLinkSDK.git",
+    "tag": "1.1.0"
+  },
+  "vendored_frameworks": "Frameworks/DMLinkSDK.framework"
+}

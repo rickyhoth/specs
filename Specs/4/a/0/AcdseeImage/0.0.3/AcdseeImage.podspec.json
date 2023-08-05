@@ -1,0 +1,30 @@
+{
+  "name": "AcdseeImage",
+  "version": "0.0.3",
+  "summary": "A AcdseeImage.",
+  "description": "这个是一个Demo",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AcdseeImage",
+  "license": {
+    "type": "MIT",
+    "file": "FILE_LICENSE"
+  },
+  "authors": {
+    "lixz": "coolzhou@163.com"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AcdseeImage.git",
+    "tag": "0.0.3"
+  },
+  "source_files": [
+    "AcdseeImage",
+    "AcdseeImage/AcdseeImage/**/*.{h,m}"
+  ],
+  "dependencies": {
+    "SDWebImage": [
+
+    ]
+  }
+}

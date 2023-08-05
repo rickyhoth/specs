@@ -1,0 +1,27 @@
+{
+  "name": "BFPaperCheckbox",
+  "version": "1.2.3",
+  "summary": "iOS Checkboxes inspired by Google's Paper Material Design.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/BFPaperCheckbox",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE.md"
+  },
+  "authors": {
+    "Bence Feher": "ben.feher@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/BFPaperCheckbox.git",
+    "tag": "1.2.3"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "dependencies": {
+    "UIColor+BFPaperColors": [
+
+    ]
+  },
+  "source_files": "Classes/*.{h,m}",
+  "requires_arc": true
+}

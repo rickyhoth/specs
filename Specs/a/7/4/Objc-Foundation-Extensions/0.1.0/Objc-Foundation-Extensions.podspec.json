@@ -1,0 +1,19 @@
+{
+  "name": "Objc-Foundation-Extensions",
+  "version": "0.1.0",
+  "summary": "A few helpful extensions to some Foundation classes.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Objc-Foundation-Extensions",
+  "license": "MIT",
+  "authors": {
+    "ThePantsThief": "tannerbennett@me.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Objc-Foundation-Extensions.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "7.1"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*"
+}

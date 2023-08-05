@@ -1,0 +1,22 @@
+{
+  "name": "OTPBox",
+  "version": "0.0.6",
+  "summary": "OTPBox Project",
+  "description": "OTPBox Digipay Project",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/OTPBoxiOS.git",
+  "license": "MIT",
+  "authors": {
+    "tuledev": "tu.leanh@digitel.com.vn"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "ios": {
+    "vendored_frameworks": "Library/Frameworks/OTPBox.framework"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/OTPBoxiOS.git",
+    "tag": "0.0.6"
+  },
+  "exclude_files": "Classes/Exclude"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "QQQKit",
+  "version": "0.1.1",
+  "summary": "vision search of QQQKit.",
+  "description": "sdk provides face detection and object detection",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/QQQKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "leo1980": "leohwang@yahoo.com.sg"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/QQQKit.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "QQQKit/Classes/**/*",
+  "frameworks": [
+    "UIKit",
+    "MapKit"
+  ]
+}

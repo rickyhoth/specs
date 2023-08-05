@@ -1,0 +1,22 @@
+{
+  "name": "XSAlertView",
+  "version": "0.1.1",
+  "summary": "A simple Alert View of XSAlertView.",
+  "description": "A simple Alert View of XSAlertView.\nIt is very easy to use!",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/XSAlertView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "XaoflySho": "shaoxiaof@hotmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/XSAlertView.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "XSAlertView/Classes/**/*"
+}

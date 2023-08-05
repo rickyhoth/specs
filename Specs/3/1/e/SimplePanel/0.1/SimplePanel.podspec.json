@@ -1,0 +1,20 @@
+{
+  "name": "SimplePanel",
+  "version": "0.1",
+  "summary": "iOS: Simple modal panel(ViewController as a popup) library.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SimplePanel",
+  "license": "MIT",
+  "authors": {
+    "azu": "info@efcl.info"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SimplePanel.git",
+    "tag": "0.1"
+  },
+  "platforms": {
+    "ios": "5.0"
+  },
+  "source_files": "SimplePanel/**/*.{h,m}",
+  "frameworks": "QuartzCore",
+  "requires_arc": true
+}

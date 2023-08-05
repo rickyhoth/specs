@@ -1,0 +1,21 @@
+{
+  "name": "CCNNavigationController",
+  "version": "1.1.4",
+  "summary": "An Mac OS X Navigation Controller that acts mostly like the counter part on iOS - UINavigationController.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CCNNavigationController",
+  "authors": {
+    "Frank Gregor": "phranck@cocoanaut.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CCNNavigationController.git",
+    "tag": "1.1.4"
+  },
+  "source_files": "CCNNavigationController/**/*.{h,m}",
+  "requires_arc": true,
+  "platforms": {
+    "osx": "10.9"
+  },
+  "license": {
+    "type": "MIT"
+  }
+}

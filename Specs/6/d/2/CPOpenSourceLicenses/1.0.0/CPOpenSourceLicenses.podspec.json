@@ -1,0 +1,24 @@
+{
+  "name": "CPOpenSourceLicenses",
+  "version": "1.0.0",
+  "summary": "Opensource licenses viewer",
+  "description": "Opensource licenses viewer\nSet your opensource license by enum array",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CPOpenSourceLicenses",
+  "license": "MIT",
+  "authors": {
+    "Chope": "yoonhg2002@gmail.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CPOpenSourceLicenses.git",
+    "tag": "1.0.0"
+  },
+  "source_files": [
+    "Classes",
+    "CPOpenSourceLicenses/**/*.swift"
+  ],
+  "resources": "CPOpenSourceLicenses/Licenses/*.txt",
+  "pushed_with_swift_version": "3.0"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "LZBSegmentBar",
+  "version": "0.2.2",
+  "summary": "LZBSegmentBar.",
+  "description": "高仿今日头条选项卡LZBSegmentBar.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LZBSegmentBar",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lzbgithubcode": "1835064412@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LZBSegmentBar.git",
+    "tag": "0.2.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LZBSegmentBar/Classes/**/*"
+}

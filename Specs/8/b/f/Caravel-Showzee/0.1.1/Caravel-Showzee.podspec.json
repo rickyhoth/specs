@@ -1,0 +1,23 @@
+{
+  "name": "Caravel-Showzee",
+  "version": "0.1.1",
+  "summary": "A Swift event bus for UIWebView and JS forked from Caravel",
+  "description": "An event bus for sending messages between UIWebView and embedded JS. Made with pure Swift. Thank you https://bitbucket.devops.nonprod.empf.local/scm/react/caravel",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/caravel",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Showzee": "timbielawski@gmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/caravel.git",
+    "tag": "0.1.1"
+  },
+  "source_files": "caravel/**/*.{swift, h}",
+  "exclude_files": "Classes/Exclude"
+}

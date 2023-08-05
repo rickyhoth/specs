@@ -1,0 +1,24 @@
+{
+  "name": "UUKit",
+  "version": "0.0.5",
+  "summary": "iOS基础组件.",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/UUKit",
+  "authors": {
+    "uxiu.me": "mail@uxiu.me",
+    "UUKit": "uukit@uxiu.me"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/UUKit.git",
+    "tag": "0.0.5"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "swift_versions": "5.0",
+  "source_files": "Sources/UUKit/Classes/**/*",
+  "swift_version": "5.0"
+}

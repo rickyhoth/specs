@@ -1,0 +1,26 @@
+{
+  "name": "AutoCompletion",
+  "version": "1.2.1",
+  "summary": "Text auto completion framework.",
+  "description": "Library can be used via cocoapods in any project.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AutoCompleteFramework",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Bogdan Todea-Cristea": "bogdan.todea@3pillarglobal.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ios-autocomplete.git",
+    "tag": "1.2.1"
+  },
+  "source_files": [
+    "Framework/AutoCompletion/AutoCompletion",
+    "Framework/AutoCompletion/AutoCompletion/**/*.{h,m}"
+  ],
+  "exclude_files": "Classes/Exclude"
+}

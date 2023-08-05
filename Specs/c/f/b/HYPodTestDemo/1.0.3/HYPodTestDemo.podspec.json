@@ -1,0 +1,22 @@
+{
+  "name": "HYPodTestDemo",
+  "version": "1.0.3",
+  "summary": "RadarMap",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HYPodTestDemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ITHanYong": "1152829171@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HYPodTestDemo.git",
+    "tag": "1.0.3"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HYPodTestDemo/Classes/**/*"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "SRCountdownTimer",
+  "version": "1.2",
+  "summary": "This is the simple circle countdown with a configurable timer for iOS.",
+  "description": "You can simply start your countdown, pause and resume in just one line of code. Highly customizable control.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SRCountdownTimer",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE.txt"
+  },
+  "authors": {
+    "Ruslan Serebriakov": "rsrbk1@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SRCountdownTimer.git",
+    "tag": "1.2"
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "source_files": "SRCountdownTimer/*.swift",
+  "swift_versions": "5.0",
+  "swift_version": "5.0"
+}

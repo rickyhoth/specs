@@ -1,0 +1,32 @@
+{
+  "name": "GSKingfisherExtensions",
+  "version": "0.6.0",
+  "summary": "GSKingfisherExtensions BY GLOOMY.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/GSKingfisherExtensions",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "GloomySunday049": "121055230@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/GSKingfisherExtensions.git",
+    "tag": "0.6.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "GSKingfisherExtensions/Classes/**/*",
+  "dependencies": {
+    "Kingfisher": [
+      "~> 4.5.0"
+    ],
+    "GSUIKit": [
+
+    ]
+  },
+  "pushed_with_swift_version": "4",
+  "deprecated": true
+}

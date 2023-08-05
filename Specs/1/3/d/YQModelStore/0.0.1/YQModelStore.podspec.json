@@ -1,0 +1,23 @@
+{
+  "name": "YQModelStore",
+  "version": "0.0.1",
+  "summary": "基于coredata对数据持久化的简单封装.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/YQModelStore",
+  "license": "MIT",
+  "authors": {
+    "YiQuan": "770322699@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YQModelStore.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "YQModelStore/**/*.{h,m}",
+  "frameworks": [
+    "Foundation",
+    "CoreData"
+  ],
+  "requires_arc": true
+}

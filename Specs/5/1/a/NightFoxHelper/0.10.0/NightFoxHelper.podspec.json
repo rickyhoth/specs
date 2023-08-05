@@ -1,0 +1,23 @@
+{
+  "name": "NightFoxHelper",
+  "version": "0.10.0",
+  "summary": "extensions summary.",
+  "description": "Helper methods and extensions for development of my product.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/NightFoxHelper",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Tomoya Hirano": "cromteria@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/NightFoxHelper.git",
+    "tag": "0.10.0"
+  },
+  "social_media_url": "https://twitter.com/noppefoxwolf",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "NightFoxHelper/Classes/**/*"
+}

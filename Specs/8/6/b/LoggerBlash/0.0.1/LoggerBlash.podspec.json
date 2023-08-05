@@ -1,0 +1,27 @@
+{
+  "name": "LoggerBlash",
+  "version": "0.0.1",
+  "summary": "LoggerBlash",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LoggerBlash",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "YOURNAME": "Matan"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LoggerBlash.git",
+    "tag": "0.0.1"
+  },
+  "frameworks": "UIKit",
+  "source_files": [
+    "LoggerBlash*",
+    "Classes/*",
+    "Resource/*"
+  ],
+  "requires_arc": true
+}

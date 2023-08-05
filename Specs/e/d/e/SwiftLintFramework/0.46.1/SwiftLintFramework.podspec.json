@@ -1,0 +1,37 @@
+{
+  "name": "SwiftLintFramework",
+  "version": "0.46.1",
+  "summary": "A tool to enforce Swift style and conventions.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwiftLint",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwiftLint.git",
+    "tag": "0.46.1"
+  },
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "JP Simard": "jp@jpsim.com"
+  },
+  "platforms": {
+    "osx": "10.10"
+  },
+  "source_files": "Source/SwiftLintFramework/**/*.swift",
+  "swift_versions": [
+    "5.2",
+    "5.3"
+  ],
+  "pod_target_xcconfig": {
+    "APPLICATION_EXTENSION_API_ONLY": "YES"
+  },
+  "dependencies": {
+    "SourceKittenFramework": [
+      "~> 0.31.0"
+    ],
+    "Yams": [
+      "~> 4.0.2"
+    ]
+  },
+  "swift_version": "5.3"
+}

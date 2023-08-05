@@ -1,0 +1,21 @@
+{
+  "name": "KHAForm",
+  "version": "0.0.3",
+  "summary": "KHAForm is a simple swift library to build tableview form",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/KHAForm",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Kohei Hayakawa": "hayakawa.kohei@itolab.nitech.ac.jp"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/KHAForm.git",
+    "tag": "0.0.3"
+  },
+  "source_files": "KHAForm"
+}

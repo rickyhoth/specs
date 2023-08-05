@@ -1,0 +1,23 @@
+{
+  "name": "JHUIAlertView",
+  "summary": "A simple custom AlertView.",
+  "version": "1.0.3",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Haocold": "xjh093@126.com"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JHUIAlertView",
+  "platforms": {
+    "ios": null
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JHUIAlertView.git",
+    "tag": "1.0.3"
+  },
+  "source_files": "JHUIAlertView/JHUIAlertView/*.{h,m}",
+  "requires_arc": true,
+  "frameworks": "UIKit"
+}

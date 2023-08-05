@@ -1,0 +1,22 @@
+{
+  "name": "LVModule",
+  "version": "0.1.0",
+  "summary": "App basic module",
+  "description": "ANewConvenientAppBasicModuleWillStartHere.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LVModule",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "onlyver": "1072539675@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LVModule.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "LVModule/Classes/**/*"
+}

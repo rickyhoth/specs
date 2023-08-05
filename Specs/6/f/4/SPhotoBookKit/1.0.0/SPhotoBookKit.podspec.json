@@ -1,0 +1,29 @@
+{
+  "name": "SPhotoBookKit",
+  "version": "1.0.0",
+  "summary": "A simple library for show your photos.",
+  "description": "A simple library for show your photos as a photo book.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SPhotoBookKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Cyrex": "szwathub@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SPhotoBookKit.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "public_header_files": "SPhotoBookKit/**/*.h",
+  "source_files": "SPhotoBookKit/**/*.{h,m}",
+  "resources": "SPhotoBookKit/SPhotoBookKit.xcassets",
+  "dependencies": {
+    "Masonry": [
+
+    ]
+  }
+}

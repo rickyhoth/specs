@@ -1,0 +1,19 @@
+{
+  "name": "DHY_IOS",
+  "version": "0.1.0",
+  "summary": "model",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DHY_IOS.git",
+  "license": "MIT",
+  "authors": {
+    "ak47du": "2822523816@qq.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DHY_IOS.git",
+    "tag": "0.1.0"
+  },
+  "source_files": "DHY_IOS/**/*",
+  "requires_arc": true
+}

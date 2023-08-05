@@ -1,0 +1,25 @@
+{
+  "name": "YYLoginTextFeild",
+  "version": "0.1.8",
+  "license": "MIT",
+  "summary": "YYLoginTextFeild",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/YYLoginTextFeild",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YYLoginTextFeild.git",
+    "tag": "0.1.8"
+  },
+  "source_files": "YYLoginTextFeild/Classes/**/*",
+  "resources": "YYLoginTextFeild/Source.bundle",
+  "requires_arc": true,
+  "platforms": {
+    "ios": "9.0"
+  },
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ],
+  "authors": {
+    "BY": "houjianan_110@163.com"
+  },
+  "social_media_url": "https://github.com/kongzichixiangjiao"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "TestPodFrameWork",
+  "version": "2.1.3",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "summary": "TestPodFrameWork is test!",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TestPodFrameWork",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "chumo": "smallboy100415@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TestPodFrameWork.git",
+    "tag": "2.1.3"
+  },
+  "ios": {
+    "vendored_frameworks": [
+      "TestPodFrameWork.framework",
+      "AliyunVodPlayerSDK.framework",
+      "AliyunVodPlayerViewSDK.framework"
+    ]
+  },
+  "resources": "AliyunVodPlayerViewResource.bundle",
+  "frameworks": [
+    "VideoToolBox",
+    "MediaPlayer"
+  ],
+  "libraries": "z",
+  "requires_arc": true
+}

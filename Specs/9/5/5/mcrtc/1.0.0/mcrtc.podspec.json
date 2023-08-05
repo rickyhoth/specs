@@ -1,0 +1,23 @@
+{
+  "name": "mcrtc",
+  "version": "1.0.0",
+  "summary": "WebRTC iOS SDK",
+  "description": "Simply usable WebRTC SDK for iOS",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MCRtc-iOS-Example",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "bungabear": "bungabear6422@gmail.com"
+  },
+  "source": {
+    "http": "https://bitbucket.devops.nonprod.empf.local/scm/react/MCRtc-iOS-Example/releases/download/1.0.0/mcrtc.zip"
+  },
+  "vendored_frameworks": "mcrtc/mcrtc.framework",
+  "platforms": {
+    "ios": "11.0"
+  },
+  "swift_versions": "5",
+  "swift_version": "5"
+}

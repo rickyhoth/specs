@@ -1,0 +1,21 @@
+{
+  "name": "HYTool",
+  "version": "0.0.3",
+  "summary": "HYTool",
+  "description": "a tool of iOS",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HYTool",
+  "license": "MIT",
+  "authors": {
+    "oceanfive": "849638313@qq.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HYTool.git",
+    "tag": "0.0.3"
+  },
+  "source_files": "HYToolDemo/HYToolDemo/HYTool/*.{h,m}",
+  "exclude_files": "Classes/Exclude",
+  "requires_arc": true
+}

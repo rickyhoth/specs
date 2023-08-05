@@ -1,0 +1,23 @@
+{
+  "name": "QSToolKit",
+  "version": "0.0.1",
+  "summary": "some tools",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/QSToolKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "qs3673132": "791956776@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/QSToolKit.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "QSToolKit/**/*.{h,m}",
+  "public_header_files": "QSToolKit/**/*.{h}",
+  "requires_arc": true,
+  "platforms": {
+    "ios": "8.0"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "UINavigationItemMargin",
+  "version": "2.1.2",
+  "summary": "Margin for UINavigationItem.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/UINavigationItemMargin",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Suyeol Jeon": "devxoul@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/UINavigationItemMargin.git",
+    "tag": "2.1.2"
+  },
+  "source_files": "UINavigationItem+Margin/*.{h,m}",
+  "frameworks": "UIKit",
+  "requires_arc": true,
+  "platforms": {
+    "ios": "7.0"
+  }
+}

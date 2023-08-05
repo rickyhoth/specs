@@ -1,0 +1,22 @@
+{
+  "name": "XHBLanguageUtils",
+  "version": "0.1.0",
+  "summary": "A short description of XHBLanguageUtils.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/XHBLanguageUtils",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ccx19322": "chenchaoxu19322@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/XHBLanguageUtils.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "XHBLanguageUtils/Classes/**/*"
+}

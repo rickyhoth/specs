@@ -1,0 +1,23 @@
+{
+  "name": "ZYShimmer",
+  "version": "0.1.2",
+  "summary": "Shimmeringe View.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZYShimmering/",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yu zhou": "384986004@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZYShimmering.git",
+    "tag": "0.1.2"
+  },
+  "source_files": "Source/*.swift",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "swift_versions": "5.0",
+  "swift_version": "5.0"
+}

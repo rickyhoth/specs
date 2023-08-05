@@ -1,0 +1,22 @@
+{
+  "name": "MLPagerView",
+  "version": "0.1.2",
+  "summary": "MLPagerView.",
+  "description": "MLPagerView for Swift.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MLPagerView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "MrDML": "dml1630@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MLPagerView.git",
+    "tag": "0.1.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MLPagerView/Classes/**/*"
+}

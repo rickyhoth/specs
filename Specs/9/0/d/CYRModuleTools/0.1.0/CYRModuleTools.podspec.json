@@ -1,0 +1,22 @@
+{
+  "name": "CYRModuleTools",
+  "version": "0.1.0",
+  "summary": "A CYRModuleTools.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CYRModuleTool",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "986444785@qq.com": "986444785@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CYRModuleTool.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CYRModuleTools/Classes/**/*"
+}

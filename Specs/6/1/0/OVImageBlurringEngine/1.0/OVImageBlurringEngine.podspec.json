@@ -1,0 +1,23 @@
+{
+  "name": "OVImageBlurringEngine",
+  "version": "1.0",
+  "summary": "UIImage blurring engine",
+  "description": "OVImageBlurringEngine provides fast and non-deadlocking image blurring toolkit using Apple's CIFilter under the hood",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/OVImageBlurringEngine",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Ovrchk": "d@ovrchk.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/OVImageBlurringEngine.git",
+    "tag": "1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "OVImageBlurringEngine/Classes/**/*",
+  "deprecated_in_favor_of": "OVBlurKit"
+}

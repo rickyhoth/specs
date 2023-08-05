@@ -1,0 +1,21 @@
+{
+  "name": "SwiftyURLRouter",
+  "version": "2.0.0",
+  "summary": "A light weight router for swift",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwiftyRouter",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "iAllenC": "373381941@qq.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwiftyRouter.git",
+    "tag": "2.0.0"
+  },
+  "source_files": "Sources/*.{swift}"
+}

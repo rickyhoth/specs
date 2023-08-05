@@ -1,0 +1,28 @@
+{
+  "name": "SLMPatternLock",
+  "version": "0.0.2",
+  "summary": "SLMPatternLock",
+  "description": "SLMPatternLock 手势解锁",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SLMPatternLock",
+  "license": {
+    "type": "MIT",
+    "file": "FILE_LICENSE"
+  },
+  "authors": {
+    "myxc": "70953073@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SLMPatternLock.git",
+    "tag": "0.0.2"
+  },
+  "source_files": [
+    "Classes",
+    "Classes/**/*.{h}"
+  ],
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}

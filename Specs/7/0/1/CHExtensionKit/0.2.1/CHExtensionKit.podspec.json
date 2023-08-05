@@ -1,0 +1,21 @@
+{
+  "name": "CHExtensionKit",
+  "version": "0.2.1",
+  "summary": "ExtensionKit for easy code",
+  "description": "first open lib, be happy to code",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CHExtensionKit",
+  "license": "MIT",
+  "authors": {
+    "magiclroom": "magiclroom@126.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CHExtensionKit.git",
+    "tag": "0.2.1"
+  },
+  "source_files": "CHExtensionKit/**/*",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "swift_version": "4.0"
+}

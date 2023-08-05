@@ -1,0 +1,24 @@
+{
+  "name": "PluginCheckTouchId",
+  "version": "0.0.3",
+  "summary": "Use to Check Touch ID",
+  "description": "Check Touch ID",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/PluginCheckTouchId",
+  "license": "MIT",
+  "authors": {
+    "Duong Nguyen": "duong.nh@sutruxsolution.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/PluginCheckTouchId.git",
+    "tag": "0.0.3"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "swift_version": "4.2",
+  "source_files": [
+    "PluginCheckTouchId",
+    "PluginCheckTouchId/**/*.{h,m,swift}"
+  ],
+  "exclude_files": "Classes/Exclude"
+}

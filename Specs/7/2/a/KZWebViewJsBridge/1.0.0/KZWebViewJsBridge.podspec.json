@@ -1,0 +1,22 @@
+{
+  "name": "KZWebViewJsBridge",
+  "version": "1.0.0",
+  "summary": "A short description of KZWebViewJsBridge.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/KZWebViewJsBridge",
+  "license": "BSD 3-Clause \"New\" License",
+  "authors": {
+    "zhaotongkai": "zhaotonkgai@jianlc.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/KZWebViewJsBridge.git",
+    "tag": "1.0.0"
+  },
+  "source_files": [
+    "KZWebViewJsBridge",
+    "KZWebViewJsBridge/**/*.{h,m}"
+  ],
+  "exclude_files": "Classes/Exclude",
+  "platforms": {
+    "ios": "8.0"
+  }
+}

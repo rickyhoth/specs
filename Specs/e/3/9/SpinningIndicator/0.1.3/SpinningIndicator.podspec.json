@@ -1,0 +1,23 @@
+{
+  "name": "SpinningIndicator",
+  "version": "0.1.3",
+  "summary": "A loading indicator.",
+  "description": "An indicator which shows double spinning circles while loading.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SpinningIndicator",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Toshihiro Yamazaki": "yamazaki.toshihiro@icloud.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SpinningIndicator.git",
+    "tag": "0.1.3"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "swift_version": "4.0",
+  "source_files": "SpinningIndicator/Classes/**/*"
+}

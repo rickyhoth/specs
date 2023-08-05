@@ -1,0 +1,22 @@
+{
+  "name": "JSONMagic",
+  "version": "0.3",
+  "authors": {
+    "David Keegan": "me@davidkeegan.com"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JSONMagic",
+  "summary": "JSONMagic makes it easy to traverse and parse json in Swift.",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JSONMagic.git",
+    "tag": "v0.3"
+  },
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "Source/JSONMagic.swift"
+}

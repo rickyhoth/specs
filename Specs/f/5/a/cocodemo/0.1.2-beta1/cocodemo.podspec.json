@@ -1,0 +1,22 @@
+{
+  "name": "cocodemo",
+  "version": "0.1.2-beta1",
+  "summary": "A short description of cocodemo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/cocodemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "bharti": "bharti.sagar@skyflow.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/cocodemo.git",
+    "tag": "0.1.2-beta1"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "cocodemo/Classes/**/*"
+}

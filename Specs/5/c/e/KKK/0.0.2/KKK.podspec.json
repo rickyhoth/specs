@@ -1,0 +1,23 @@
+{
+  "name": "KKK",
+  "version": "0.0.2",
+  "summary": "kkkkkkkkk.",
+  "description": "aaaaaaaaadsajhjlahsdlasjdjalskjdlasjdlkasjdksaldkljlkjklasjdklasjdlksakljewijdaskjdkasjsa",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/KKK",
+  "license": "MIT",
+  "authors": {
+    "Cain": ""
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/KKK.git",
+    "tag": "0.0.2"
+  },
+  "source_files": "kkk/kkk/willpushDemo /*.{h,m}",
+  "exclude_files": "Classes/Exclude",
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "name": "KKBOXOpenAPI",
+  "version": "1.1.5",
+  "license": {
+    "type": "Apache 2.0",
+    "file": "LICENSE"
+  },
+  "summary": "KKBOX's Open API client for iOS, macOS, watchOS and tvOS.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/OpenAPI-ObjectiveC",
+  "authors": {
+    "zonble": "zonble@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/OpenAPI-ObjectiveC.git",
+    "tag": "1.1.5"
+  },
+  "platforms": {
+    "ios": "7.0",
+    "osx": "10.9"
+  },
+  "requires_arc": true,
+  "source_files": "KKBOXOpenAPI/*.{h,m}",
+  "ios": {
+    "frameworks": "UIKit"
+  },
+  "tvos": {
+    "frameworks": "UIKit"
+  },
+  "osx": {
+    "frameworks": "AppKit"
+  }
+}

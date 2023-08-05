@@ -1,0 +1,22 @@
+{
+  "name": "SocialLoginSwift",
+  "version": "0.0.2",
+  "summary": "Simple Social Login.",
+  "description": "Provides google login, apple login and facebook login with ease",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SocialLogin",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Umang": "umangmamtora4@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SocialLogin.git",
+    "tag": "0.0.2"
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "source_files": "Classes/**/*.swift"
+}

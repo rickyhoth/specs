@@ -1,0 +1,21 @@
+{
+  "name": "MainThreadLockChecker",
+  "version": "0.1.0",
+  "summary": "MainThreadLockChecker allows to monitor if the main thread is blocked by any long running task",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MainThreadLockChecker",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "panda254": "arpitp@zendrive.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MainThreadLockChecker.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MainThreadLockChecker/Classes/**/*"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "HWIM",
+  "version": "0.1.0",
+  "summary": "HWIM 是好屋app  经服管家 合伙人APP 通用聊天库",
+  "description": "HWIM 是好屋app  经服管家 合伙人APP 通用聊天库.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HWIM",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "clh2046@163.com": "caolianhua@haowu.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HWIM.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HWIM/Classes/**/*"
+}

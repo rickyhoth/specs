@@ -1,0 +1,22 @@
+{
+  "name": "SYInputKitDemo",
+  "version": "0.1.0",
+  "summary": "A short description of SYInputKitDemo.",
+  "description": "textField limit",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SYTextFieldLimit.git",
+  "license": "MIT",
+  "authors": {
+    "sy": "903712679@qq.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SYTextFieldLimit.git",
+    "tag": "0.1.0"
+  },
+  "source_files": [
+    "SYInputKitDemo/SYInputKit",
+    "SYInputKitDemo/SYInputKit/*.{h,m}"
+  ]
+}

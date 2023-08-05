@@ -1,0 +1,21 @@
+{
+  "name": "Valee",
+  "version": "0.0.4",
+  "summary": "'Valee' framework",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Valee",
+  "license": "MIT",
+  "authors": "Moses Ayankoya",
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Valee.git",
+    "tag": "0.0.4"
+  },
+  "source_files": [
+    "Valee",
+    "JojoCore/**/*.{h,m,swift}"
+  ],
+  "swift_versions": "4.2",
+  "swift_version": "4.2"
+}

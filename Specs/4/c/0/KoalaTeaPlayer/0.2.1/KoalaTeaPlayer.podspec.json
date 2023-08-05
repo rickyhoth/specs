@@ -1,0 +1,34 @@
+{
+  "name": "KoalaTeaPlayer",
+  "version": "0.2.1",
+  "summary": "A short description of KoalaTeaPlayer.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/KoalaTeaPlayer",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "themisterholliday": "themisterholliday@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/KoalaTeaPlayer.git",
+    "tag": "0.2.1"
+  },
+  "platforms": {
+    "ios": "9.3"
+  },
+  "source_files": "KoalaTeaPlayer/Classes/**/*",
+  "dependencies": {
+    "SnapKit": [
+
+    ],
+    "SwifterSwift": [
+
+    ],
+    "KTResponsiveUI": [
+
+    ]
+  },
+  "pushed_with_swift_version": "4.0"
+}

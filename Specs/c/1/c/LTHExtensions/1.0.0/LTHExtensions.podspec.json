@@ -1,0 +1,25 @@
+{
+  "name": "LTHExtensions",
+  "version": "1.0.0",
+  "summary": "Swift Extensions",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LTHMonthYearPickerView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE.txt"
+  },
+  "authors": {
+    "Roland Leth": "roland@rolandleth.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LTHExtensions.git",
+    "tag": "1.0.0"
+  },
+  "source_files": [
+    "LTHExtensions",
+    "LTHExtensions/*.{swift}"
+  ],
+  "requires_arc": true
+}

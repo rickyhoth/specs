@@ -1,0 +1,22 @@
+{
+  "name": "ICENewSecondPod",
+  "version": "0.1.0",
+  "summary": "My new Pod",
+  "description": "TODO: This is my second Pod , I use new cocoapods. I hope is success.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ICENewSecondPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "gumengxiao": "rare_ice@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ICENewSecondPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ICENewSecondPod/Classes/**/*"
+}

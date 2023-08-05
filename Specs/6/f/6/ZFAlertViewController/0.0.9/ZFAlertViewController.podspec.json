@@ -1,0 +1,25 @@
+{
+  "name": "ZFAlertViewController",
+  "version": "0.0.9",
+  "summary": "No short description of ZFAlertViewController.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZFAlertViewController",
+  "license": {
+    "type": "MIT"
+  },
+  "authors": {
+    "Pokeey": "zhangfan8080@gmail.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZFAlertViewController.git",
+    "tag": "0.0.9"
+  },
+  "source_files": "ZFAlertViewController/*.{h,m}",
+  "frameworks": [
+    "Foundation",
+    "UIKit"
+  ],
+  "requires_arc": true
+}

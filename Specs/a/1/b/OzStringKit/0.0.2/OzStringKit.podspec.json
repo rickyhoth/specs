@@ -1,0 +1,33 @@
+{
+  "name": "OzStringKit",
+  "version": "0.0.2",
+  "summary": "NSAttributedString creation with Swift 5 string interpolation.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/OzStringKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Konstantin Oznobikhin": "koznobikhin@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/OzStringKit.git",
+    "tag": "0.0.2"
+  },
+  "frameworks": [
+    "Foundation",
+    "UIKit"
+  ],
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "Sources/OzStringKit/**/*.swift",
+  "exclude_files": [
+    "iOS Example/**/*.*",
+    "Tests/**/*.swift"
+  ],
+  "swift_versions": "5.0",
+  "description": "OzStringKit leverages ExpressibleByStringInterpolation API from Swift 5\nto allow creation of NSAttributedString objects with simple and concise syntax.",
+  "screenshots": "https://bitbucket.devops.nonprod.empf.local/scm/react/demo.png",
+  "swift_version": "5.0"
+}

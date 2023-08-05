@@ -1,0 +1,30 @@
+{
+  "name": "LucasCoinAPI",
+  "version": "0.0.1",
+  "summary": "This module is responsible for  LucasCoinAPI calls as well as codable models",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LucasCoinAPI",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Lucas Werner Kuipers": "lucaswkuipers@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LucasCoinAPI.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "LucasCoinAPI/**/*",
+  "dependencies": {
+    "AlamofireImage": [
+
+    ],
+    "SwiftLint": [
+
+    ]
+  }
+}

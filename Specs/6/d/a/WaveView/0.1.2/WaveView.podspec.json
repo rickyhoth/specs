@@ -1,0 +1,23 @@
+{
+  "name": "WaveView",
+  "summary": "Create Wave View And Wave Progress View Easily.",
+  "version": "0.1.2",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "shangshanbin": "shangshanbin@gmail.com"
+  },
+  "social_media_url": "https://bitbucket.devops.nonprod.empf.local/scm/react/WaveView",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WaveView",
+  "platforms": {
+    "ios": "8.3"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WaveView.git",
+    "tag": "0.1.2"
+  },
+  "requires_arc": true,
+  "source_files": "WaveView/**/*.{h,m}"
+}

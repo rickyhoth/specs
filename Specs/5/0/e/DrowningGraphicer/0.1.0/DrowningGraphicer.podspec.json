@@ -1,0 +1,23 @@
+{
+  "name": "DrowningGraphicer",
+  "version": "0.1.0",
+  "summary": "CoreGraphics wrapper library - handling CGContextRef.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DrowningGraphicer",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "azu": "info@efcl.info"
+  },
+  "platforms": {
+    "ios": null
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DrowningGraphicer.git",
+    "tag": "0.1.0"
+  },
+  "source_files": "DrowningGraphicer/**/*.{h,m}",
+  "frameworks": "CoreGraphics",
+  "requires_arc": true
+}

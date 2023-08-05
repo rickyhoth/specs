@@ -1,0 +1,22 @@
+{
+  "name": "YBKeyboardTool",
+  "version": "0.1.0",
+  "summary": "manager the keyboard tool",
+  "description": "manager the keyboard tool,some methods",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/YBKeyboradToolSpec",
+  "license": "MIT",
+  "authors": {
+    "wangyingbo": "wangyingbo528@126.com"
+  },
+  "social_media_url": "http://wangyingbo.top/",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YBKeyboradToolSpec.git",
+    "tag": "0.1.0"
+  },
+  "source_files": "YBKeyboardTool/*",
+  "exclude_files": "Classes/Exclude",
+  "requires_arc": true
+}

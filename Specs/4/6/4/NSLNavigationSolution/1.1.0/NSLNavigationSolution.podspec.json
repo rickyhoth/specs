@@ -1,0 +1,19 @@
+{
+  "name": "NSLNavigationSolution",
+  "version": "1.1.0",
+  "summary": "A iOS navigation solution.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/NSLNavigationSolution",
+  "license": "MIT",
+  "authors": {
+    "Dennis Lee": "l1dan@hotmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/NSLNavigationSolution.git",
+    "tag": "1.1.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source_files": "NSLNavigationSolution/Source/*.{h,m}",
+  "deprecated": true
+}

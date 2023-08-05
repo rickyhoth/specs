@@ -1,0 +1,22 @@
+{
+  "name": "qValidator",
+  "version": "0.1.1",
+  "summary": "A lib for validating input data.",
+  "swift_version": "4.2",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/qValidator",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "caoquocquy": "quy.caoquoc@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/qValidator.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "qValidator/Classes/**/*"
+}

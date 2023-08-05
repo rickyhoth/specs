@@ -1,0 +1,19 @@
+{
+  "name": "HTCustomIndicator",
+  "version": "0.0.7",
+  "summary": "Custom Indicator",
+  "description": "Create some awesome indicators",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HTCustomIndicator",
+  "license": "MIT",
+  "authors": {
+    "HungTran": "hung.tgh95@gmail.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HTCustomIndicator.git",
+    "tag": "0.0.7"
+  },
+  "source_files": "HTCustomIndicator/**/*"
+}

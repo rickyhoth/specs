@@ -1,0 +1,19 @@
+{
+  "name": "FTWCache",
+  "version": "0.1.2.1",
+  "summary": "Dead simple caching for Mac and iOS.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/FTWCache",
+  "license": "MIT",
+  "authors": {
+    "Kiet Nguyen": "nguyenvankiet.teaching@gmail.com"
+  },
+  "social_media_url": "https://twitter.com/kietnv",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/FTWCache.git",
+    "tag": "0.1.2.1"
+  },
+  "source_files": "FTWCache/*"
+}

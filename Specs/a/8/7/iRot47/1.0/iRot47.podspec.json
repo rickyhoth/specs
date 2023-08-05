@@ -1,0 +1,23 @@
+{
+  "name": "iRot47",
+  "version": "1.0",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE.md"
+  },
+  "summary": "An Objective-C rot47 implementation",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/iRot47",
+  "authors": "Frank Poncelet",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/iRot47.git",
+    "tag": "v1.0"
+  },
+  "source_files": "iRot47/*",
+  "requires_arc": true,
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}

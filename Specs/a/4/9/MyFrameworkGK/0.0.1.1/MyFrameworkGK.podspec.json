@@ -1,0 +1,20 @@
+{
+  "name": "MyFrameworkGK",
+  "version": "0.0.1.1",
+  "summary": "MyFramework with a Car to track miles.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MyFramework",
+  "license": "MIT",
+  "authors": {
+    "Ganesh Kumar": "ganeshwidas@gmail.com"
+  },
+  "platforms": {
+    "ios": "8.0",
+    "osx": "10.9",
+    "tvos": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MyFramework.git",
+    "tag": "0.0.1.1"
+  },
+  "source_files": "Sources/*.swift"
+}

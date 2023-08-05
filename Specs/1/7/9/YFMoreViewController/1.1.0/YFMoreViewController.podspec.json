@@ -1,0 +1,20 @@
+{
+  "name": "YFMoreViewController",
+  "version": "1.1.0",
+  "summary": "Easy More Operation ViewController in swift.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/YFMoreViewController",
+  "license": "MIT",
+  "authors": {
+    "yeziahehe": "yeziahehe@gmail.com"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YFMoreViewController.git",
+    "tag": "1.1.0"
+  },
+  "source_files": "YFMoreViewController/Sources/*",
+  "requires_arc": true,
+  "pushed_with_swift_version": "4.0"
+}

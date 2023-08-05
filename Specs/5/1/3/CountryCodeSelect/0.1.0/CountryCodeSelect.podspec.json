@@ -1,0 +1,24 @@
+{
+  "name": "CountryCodeSelect",
+  "version": "0.1.0",
+  "summary": "UIPickerView for selecting country code for phone numbers.",
+  "description": "CountryCodeSelect is a UIPickerView for selecting country code for phone numbers.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CountryCodeSelect",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "KK Chen": "kk@bichenkk.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CountryCodeSelect.git",
+    "tag": "0.1.0"
+  },
+  "social_media_url": "https://twitter.com/bichenkk",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CountryCodeSelect/Classes/**/*",
+  "pushed_with_swift_version": "3.0"
+}

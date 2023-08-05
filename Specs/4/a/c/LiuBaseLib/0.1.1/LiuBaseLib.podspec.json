@@ -1,0 +1,22 @@
+{
+  "name": "LiuBaseLib",
+  "version": "0.1.1",
+  "summary": "公共基础库",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LiuBaseLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lxlnihao": "616231405@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LiuBaseLib.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "LiuBaseLib/Classes/**/*"
+}

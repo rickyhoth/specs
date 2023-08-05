@@ -1,0 +1,23 @@
+{
+  "name": "BeeJSBridgeKit",
+  "version": "1.0.6",
+  "summary": "A short description of JSBridgeKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JSBridgeKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "beemans@foxmail.com": "beemans@foxmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JSBridgeKit.git",
+    "tag": "1.0.6"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "JavascriptBridge/*",
+  "public_header_files": "JavascriptBridge/*.h"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "ProgressIndicator",
+  "version": "0.0.1",
+  "summary": "This library will let you show activity indicator by using just one variable.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ProgressIndicator",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "devanshvyas": "devansh.vyas@solutionanalysts.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ProgressIndicator.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ProgressIndicator/Classes/*",
+  "swift_versions": "4.0",
+  "swift_version": "4.0"
+}

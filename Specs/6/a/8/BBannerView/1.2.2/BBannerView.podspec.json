@@ -1,0 +1,25 @@
+{
+  "name": "BBannerView",
+  "version": "1.2.2",
+  "summary": "A cycle banner view by swift",
+  "description": "A cycle scrollView by swift, used in iOS",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/BBannerView",
+  "license": "MIT",
+  "authors": {
+    "chinabrant": "sjwu1234@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/BBannerView.git",
+    "tag": "1.2.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "BBannerView/Classes/**/*",
+  "frameworks": [
+    "Foundation",
+    "UIKit"
+  ],
+  "pushed_with_swift_version": "3"
+}

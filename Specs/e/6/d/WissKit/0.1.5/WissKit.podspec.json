@@ -1,0 +1,29 @@
+{
+  "name": "WissKit",
+  "version": "0.1.5",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WissKit",
+  "authors": {
+    "AlanQuarter": "the9thstar@naver.com"
+  },
+  "summary": "A Swift module for iOS to make your coding environment more convenient",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WissKit.git",
+    "tag": "0.1.5"
+  },
+  "swift_versions": "5.0",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "WissKit/Sources/**/*.swift",
+  "ios": {
+    "frameworks": [
+      "Foundation",
+      "UIKit"
+    ]
+  },
+  "swift_version": "5.0"
+}

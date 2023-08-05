@@ -1,0 +1,23 @@
+{
+  "name": "ProgressView",
+  "version": "0.0.2",
+  "summary": "ProgressView is a UIBezierPath draw progressView",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ProgressView",
+  "license": "MIT",
+  "authors": {
+    "PengSi": "1299625033@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ProgressView.git",
+    "tag": "0.0.2"
+  },
+  "source_files": "ProgressView/*.{h,m}",
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ],
+  "requires_arc": true,
+  "platforms": {
+    "ios": "7.0"
+  }
+}

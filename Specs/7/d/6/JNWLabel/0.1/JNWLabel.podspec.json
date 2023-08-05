@@ -1,0 +1,20 @@
+{
+  "name": "JNWLabel",
+  "version": "0.1",
+  "summary": "Light-weight CATextLayer wrapper for OS X.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JNWLabel",
+  "license": "MIT",
+  "authors": {
+    "Jonathan Willing": "hi@jwilling.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JNWLabel.git",
+    "tag": "0.1"
+  },
+  "platforms": {
+    "osx": "10.8"
+  },
+  "source_files": "JNWLabel*.{h,m}",
+  "frameworks": "QuartzCore",
+  "requires_arc": true
+}

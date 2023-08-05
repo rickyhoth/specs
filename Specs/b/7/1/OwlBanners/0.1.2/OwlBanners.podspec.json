@@ -1,0 +1,25 @@
+{
+  "name": "OwlBanners",
+  "version": "0.1.2",
+  "platforms": {
+    "ios": null
+  },
+  "summary": "OwlBanners is a simple Swift framework for displaying custom banners.",
+  "description": "OwlBanners is a simple framework for displaying custom banners on iOS.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/OwlBanners",
+  "license": {
+    "type": "Apache",
+    "file": "LICENSE.md"
+  },
+  "authors": {
+    "Brett Stover": "iPhone@hootsuite"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/OwlBanners.git",
+    "tag": "v0.1.2"
+  },
+  "source_files": "OwlBanners",
+  "resources": "OwlBanners/**/*.{png,bundle,xib,nib}",
+  "frameworks": "XCTest",
+  "requires_arc": true
+}

@@ -1,0 +1,23 @@
+{
+  "name": "MIKit",
+  "version": "0.2.0",
+  "swift_version": "4.0",
+  "summary": "A collection of common functionality and data structures",
+  "description": "A collection of common functionality and data structures.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MIKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Duc Minh": "ducminh1012@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MIKit.git",
+    "tag": "0.2.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MIKit/Classes/**/*"
+}

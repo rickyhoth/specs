@@ -1,0 +1,21 @@
+{
+  "name": "DOConverter",
+  "version": "0.0.1",
+  "summary": "Dictionary - object converter.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DOConverter",
+  "license": {
+    "type": "LGPL",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "basiliusic": "basiliusic@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DOConverter.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DOConverter/Classes/**/*"
+}

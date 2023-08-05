@@ -1,0 +1,25 @@
+{
+  "name": "ZSkin",
+  "version": "0.0.18",
+  "summary": "A iOS Kit For Skin",
+  "description": "You can us ZSkin to manage your app skins. dynamic skin loader of app.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZSkin",
+  "license": "MIT",
+  "authors": {
+    "peter.shi": "peter.m.shi@outlook.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZSkin.git",
+    "tag": "0.0.18"
+  },
+  "source_files": "ZSkin/**/*.{h,m}",
+  "requires_arc": true,
+  "platforms": {
+    "ios": "7.0"
+  },
+  "frameworks": [
+    "Foundation",
+    "CoreGraphics",
+    "UIKit"
+  ]
+}

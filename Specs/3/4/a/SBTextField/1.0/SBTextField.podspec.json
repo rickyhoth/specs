@@ -1,0 +1,22 @@
+{
+  "name": "SBTextField",
+  "version": "1.0",
+  "summary": "A UITextField drop-in replacement with support for setting a maximum length.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SBTextField",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Scott90": "my@fake.email"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SBTextField.git",
+    "tag": "v1.0"
+  },
+  "source_files": "SBTextField/SBTextField.*",
+  "platforms": {
+    "ios": "5.0"
+  },
+  "requires_arc": true
+}

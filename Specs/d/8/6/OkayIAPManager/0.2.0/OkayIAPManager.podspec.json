@@ -1,0 +1,22 @@
+{
+  "name": "OkayIAPManager",
+  "version": "0.2.0",
+  "summary": "A In-App Purchase Lib",
+  "description": "It's a easy In-App Purchase function Lib",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/OkayIAPManager",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhangguoliang": "zhangguoliang@okay.cn"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/OkayIAPManager.git",
+    "tag": "0.2.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "OkayIAPManager/Classes/**/*"
+}

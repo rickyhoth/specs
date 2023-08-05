@@ -1,0 +1,23 @@
+{
+  "name": "ZModalVC",
+  "version": "0.3.2",
+  "summary": "Awesome library to do stuff",
+  "description": "Description test. I' writing a long sentence to be sure lib lint will accept it",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZModalVC",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Alessio Zap Boerio": "boerioalessio@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZModalVC.git",
+    "tag": "0.3.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "swift_versions": "4.2",
+  "source_files": "ZModalVC/Classes/**/*"
+}

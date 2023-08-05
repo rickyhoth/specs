@@ -1,0 +1,22 @@
+{
+  "name": "TYTumblrHUD",
+  "version": "0.2.0",
+  "summary": "Progress HUD like Tumblr.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TYTumblrHUD",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "luckytianyiyan": "luckytianyiyan@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TYTumblrHUD.git",
+    "tag": "0.2.0"
+  },
+  "social_media_url": "https://twitter.com/luckytianyiyan",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source_files": "TYTumblrHUD/Classes/**/*"
+}

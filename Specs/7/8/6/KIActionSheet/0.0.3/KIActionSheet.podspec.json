@@ -1,0 +1,20 @@
+{
+  "name": "KIActionSheet",
+  "version": "0.0.3",
+  "summary": "KIActionSheet",
+  "description": "KIActionSheet.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/KIActionSheet",
+  "license": "MIT",
+  "authors": {
+    "SmartWalle": "smartwalle@gmail.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/KIActionSheet.git",
+    "tag": "0.0.3"
+  },
+  "source_files": "KIActionSheet/KIActionSheet/**/*.{h,m}",
+  "requires_arc": true
+}

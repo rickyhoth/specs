@@ -1,0 +1,27 @@
+{
+  "name": "Traffic",
+  "version": "0.2",
+  "summary": "Simple and powerful URL routing library to easily handle incoming URLs in your app.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Traffic",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "jldagon": "jldagon@cocoapps.fr"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Traffic.git",
+    "tag": "0.2"
+  },
+  "source_files": [
+    "Traffic",
+    "Traffic/**/*.{h,m}",
+    "Private/**/*.{h,m}"
+  ],
+  "public_header_files": "Traffic/**/*.h",
+  "requires_arc": true
+}

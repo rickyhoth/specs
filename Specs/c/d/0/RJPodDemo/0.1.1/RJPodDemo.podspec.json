@@ -1,0 +1,19 @@
+{
+  "name": "RJPodDemo",
+  "version": "0.1.1",
+  "summary": "Dependency setup for RJPodDemo.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/RJPodDemo",
+  "license": "MIT",
+  "authors": {
+    "Rahul Kumar Jain": "rahuljainmca21@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/RJPodDemo.git",
+    "tag": "0.1.1",
+    "submodules": true
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "RJPodDemo/Classes/**/*"
+}

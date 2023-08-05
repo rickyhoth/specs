@@ -1,0 +1,25 @@
+{
+  "name": "TBTools",
+  "version": "0.1.0",
+  "summary": "A develop tool.",
+  "description": "A development tool box that we use all the time",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TBTools",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Careyang": "mastercy919@hotmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TBTools.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": [
+    "TBTools/Classes/**/*",
+    "TBTools/Classes/*"
+  ]
+}

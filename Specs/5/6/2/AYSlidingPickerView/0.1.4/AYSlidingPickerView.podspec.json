@@ -1,0 +1,19 @@
+{
+  "name": "AYSlidingPickerView",
+  "version": "0.1.4",
+  "summary": "Implementation of a picker view that can be shown by either tapping on or panning the navigation bar",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AYSlidingPickerView",
+  "license": "MIT",
+  "authors": {
+    "Ayan Yenbekbay": "ayan.yenb@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AYSlidingPickerView.git",
+    "tag": "0.1.4"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*"
+}

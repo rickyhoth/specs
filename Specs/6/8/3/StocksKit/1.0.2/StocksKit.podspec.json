@@ -1,0 +1,20 @@
+{
+  "name": "StocksKit",
+  "version": "1.0.2",
+  "summary": "A framework for fetching stock information and exchange rates from the Yahoo API",
+  "description": "A framework for fetching stock information and exchange rates from the Yahoo API.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/StocksKit",
+  "license": "MIT",
+  "authors": {
+    "Alexander Edge": "alex@alexedge.co.uk"
+  },
+  "platforms": {
+    "ios": "8.0",
+    "osx": "10.10"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/StocksKit.git",
+    "tag": "1.0.2"
+  },
+  "source_files": "Sources/StocksKit/**/*.swift"
+}

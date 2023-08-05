@@ -1,0 +1,22 @@
+{
+  "name": "FrameworkTestable",
+  "version": "1.0.1",
+  "summary": "Demo for pod creation",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SDCatDog.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Saurabh": "saurabhliita007@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SDCatDog.git",
+    "tag": "v1.0.1"
+  },
+  "source_files": "FrameworkTestable/*.{h}",
+  "platforms": {
+    "ios": "5.0"
+  },
+  "requires_arc": true
+}

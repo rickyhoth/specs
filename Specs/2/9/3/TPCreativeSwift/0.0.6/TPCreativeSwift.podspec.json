@@ -1,0 +1,25 @@
+{
+  "name": "TPCreativeSwift",
+  "version": "0.0.6",
+  "swift_version": "4.1",
+  "summary": "Lightweight library for iOS",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "description": "TPCreativeSwift is small collections which libraries Popular",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TPCreativeSwift",
+  "license": {
+    "type": "MIT"
+  },
+  "authors": {
+    "tpcreative": "tpcreative.co@gmail.com"
+  },
+  "social_media_url": "http://tpcreative.co",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TPCreativeSwift.git",
+    "tag": "0.0.6"
+  },
+  "source_files": [
+    "TPCreativeSwift/Source/**/*.{swift,h,m}"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "XMLYSegmentBar",
+  "version": "0.1.0",
+  "summary": "XMLYSegmentBar",
+  "description": "XMLYSegmentBar: 分段控制器.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/XMLYSegmentBar",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "caiiiac": "caiiiac@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/XMLYSegmentBar.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "XMLYSegmentBar/Classes/**/*"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "KOAlertController",
+  "version": "1.0.2",
+  "license": "MIT",
+  "summary": "KOAlertController is an custom alert controller library written in Swift",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/KOAlertController",
+  "authors": {
+    "Oleksandr Khymych": "seth@khymych.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/KOAlertController.git",
+    "tag": "1.0.2"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "Source/*.swift"
+}

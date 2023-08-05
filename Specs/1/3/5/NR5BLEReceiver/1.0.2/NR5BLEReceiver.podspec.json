@@ -1,0 +1,22 @@
+{
+  "name": "NR5BLEReceiver",
+  "version": "1.0.2",
+  "license": "MIT",
+  "summary": "...",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/NR5BLEReceiver",
+  "authors": {
+    "yume190": "yume190@gmail.com"
+  },
+  "social_media_url": "https://www.facebook.com/yume190",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/NR5BLEReceiver.git",
+    "tag": "1.0.2"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "ios": {
+    "vendored_frameworks": "NR5BLEReceiver.framework"
+  },
+  "swift_version": "4.1"
+}

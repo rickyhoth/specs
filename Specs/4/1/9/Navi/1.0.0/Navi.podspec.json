@@ -1,0 +1,24 @@
+{
+  "name": "Navi",
+  "version": "1.0.0",
+  "summary": "Focus on avatar caching.",
+  "description": "Navi is designed for avatar caching, with style.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Navi",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "nixzhu": "zhuhongxu@gmail.com"
+  },
+  "social_media_url": "https://twitter.com/nixzhu",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Navi.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "Navi/*.swift",
+  "requires_arc": true
+}

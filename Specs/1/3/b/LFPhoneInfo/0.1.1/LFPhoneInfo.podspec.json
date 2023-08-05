@@ -1,0 +1,22 @@
+{
+  "name": "LFPhoneInfo",
+  "version": "0.1.1",
+  "summary": "iOS 获取设备信息",
+  "description": "iOS 获取设备信息、网络信息、系统信息。",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LFPhoneInfo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lifei": "lifei_zdjl@126.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LFPhoneInfo.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LFPhoneInfo/Classes/**/*"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "YHHello",
+  "version": "1.1.0",
+  "summary": "sdlkfjsdklfj sdlkfjsdlkfj s slkdjflksdjf lsdkfjslkdfjsldkj",
+  "description": "sdlkfjsdklfj sdlkfjsdlkfj s slkdjflksdjf lsdkfjslkdfjsldkjsdlkfjsdklfj sdlkfjsdlkfj s slkdjflksdjf lsdkfjslkdfjsldkjsdlkfjsdklfj sdlkfjsdlkfj s slkdjflksdjf lsdkfjslkdfjsldkjsdlkfjsdklfj sdlkfjsdlkfj s slkdjflksdjf lsdkfjslkdfjsldkjsdlkfjsdklfj sdlkfjsdlkfj s slkdjflksdjf lsdkfjslkdfjsldkj",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/YHCocoaTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yonghwinam": "yonghwinam@smtown.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YHCocoaTest.git",
+    "tag": "1.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YHHello/YHHello/Classes/*.*"
+}

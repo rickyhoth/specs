@@ -1,0 +1,27 @@
+{
+  "name": "Requesto",
+  "version": "0.0.3",
+  "authors": {
+    "Pavlo Dumiak": "pavlo.dumiak@gmail.com"
+  },
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwiftRequesto",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwiftRequesto.git",
+    "branch": "master",
+    "tag": "0.0.3"
+  },
+  "summary": "Elegant network layer",
+  "source_files": [
+    "**/*.swift",
+    "*.swift"
+  ],
+  "swift_versions": "5.1",
+  "platforms": {
+    "ios": "11.0"
+  },
+  "swift_version": "5.1"
+}

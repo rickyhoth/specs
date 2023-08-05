@@ -1,0 +1,24 @@
+{
+  "name": "ZHCategory",
+  "version": "1.0.2",
+  "summary": "this is iOS common category tools",
+  "description": "ZHCategory",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZHCategory.git",
+  "license": "MIT",
+  "authors": {
+    "zhl": "z779215878@gmail.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZHCategory.git",
+    "tag": "v1.0.2"
+  },
+  "source_files": "ZHCategory/*",
+  "frameworks": [
+    "Foundation",
+    "UIKit"
+  ],
+  "requires_arc": true
+}

@@ -1,0 +1,24 @@
+{
+  "name": "RequestRepeatCheck",
+  "version": "0.0.1",
+  "license": "MIT",
+  "summary": "RequestRepeatCheck Project",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "description": "RequestRepeatCheck Project RequestRepeatCheck Project",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/RequestRepeatCheck",
+  "authors": {
+    "QF": "fengzhiyinxiang@foxmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/RequestRepeatCheck.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "RequestRepeatCheck",
+  "exclude_files": "Classes/Exclude",
+  "frameworks": [
+    "Foundation",
+    "UIKit"
+  ]
+}

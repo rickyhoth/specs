@@ -1,0 +1,19 @@
+{
+  "name": "APTools",
+  "version": "0.1.0",
+  "summary": "A Sample tools for ios Devlope",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/APTools",
+  "license": "MIT",
+  "authors": {
+    "AresPeng": "jue2yin81991@163.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/APTools.git",
+    "tag": "0.1.0"
+  },
+  "source_files": "APTools/*"
+}

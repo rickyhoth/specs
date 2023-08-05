@@ -1,0 +1,20 @@
+{
+  "name": "RSAutoWebView",
+  "version": "0.1.0",
+  "summary": "Auto-adapted WebView package.",
+  "description": "Automatically select webview type based on system version.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/RSAutoWebViewLib",
+  "license": "MIT",
+  "authors": {
+    "ReverseScale": "reversescale@icloud.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/RSAutoWebViewLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "RSAutoWebView/Classes/**/*",
+  "requires_arc": true
+}

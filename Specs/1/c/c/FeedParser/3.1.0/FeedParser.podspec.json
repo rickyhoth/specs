@@ -1,0 +1,21 @@
+{
+  "name": "FeedParser",
+  "version": "3.1.0",
+  "license": "MIT",
+  "summary": "An RSS and Atom feed parser written in Swift",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/FeedParser",
+  "authors": {
+    "Nuno Manuel Dias": "nmdias.pt@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/FeedParser.git",
+    "tag": "3.1.0"
+  },
+  "platforms": {
+    "ios": "8.0",
+    "osx": "10.9",
+    "tvos": "9.0",
+    "watchos": "2.0"
+  },
+  "source_files": "Sources/**/*.swift"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "WSCycleScrollView",
+  "version": "0.1.0",
+  "summary": "WSCycleScrollView, a cycle scroll view control that displays components. You can switch them by gesture or automatically",
+  "description": "WSCycleScrollView, a cycle scroll view control that displays components. You can switch them by gesture or automatically\nIt's implemented by UICollectionView internal, written in Swift and elegant enough.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WSCycleScrollView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Wilson": "xue_minghao@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WSCycleScrollView.git",
+    "tag": "V0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "WSCycleScrollView/Classes/**/*",
+  "frameworks": "UIKit"
+}

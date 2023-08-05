@@ -1,0 +1,22 @@
+{
+  "name": "JXTestKit",
+  "version": "0.0.4",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "summary": "CocoaPods测试",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JXTestKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "cooperAjx": "cooper_jx@126.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JXTestKit.git",
+    "tag": "0.0.4"
+  },
+  "source_files": "JXKit/*",
+  "requires_arc": true
+}

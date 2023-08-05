@@ -1,0 +1,21 @@
+{
+  "name": "JZCalendarWeekView",
+  "version": "0.2.1",
+  "summary": "Calendar Week & Day View in iOS Swift",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JZCalendarWeekView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Jeff Zhang": "zekejeff@gmail.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JZCalendarWeekView.git",
+    "tag": "0.2.1"
+  },
+  "source_files": "JZCalendarWeekView/**/*.swift"
+}

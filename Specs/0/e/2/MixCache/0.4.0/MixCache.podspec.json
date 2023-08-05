@@ -1,0 +1,21 @@
+{
+  "name": "MixCache",
+  "version": "0.4.0",
+  "summary": "easy cache object",
+  "description": "easy cache object for iOS in swift",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MixCache",
+  "license": "MIT",
+  "authors": {
+    "Eric Lung": "longminxiang@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MixCache.git",
+    "tag": "v0.4.0"
+  },
+  "requires_arc": true,
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MixCache/MixCache/*.{swift}",
+  "pushed_with_swift_version": "3.0"
+}

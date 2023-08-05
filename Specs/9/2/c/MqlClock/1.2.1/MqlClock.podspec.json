@@ -1,0 +1,23 @@
+{
+  "name": "MqlClock",
+  "version": "1.2.1",
+  "summary": "一行代码显示实时时间.",
+  "description": "Real-time dynamic display time.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MqlClock",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "MQL": "https://github.com/MQL9011"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MqlClock",
+    "tag": "1.2.1"
+  },
+  "source_files": "MqlClock/*.{h,m}",
+  "requires_arc": true
+}

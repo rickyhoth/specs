@@ -1,0 +1,22 @@
+{
+  "name": "ZRCardView",
+  "version": "0.0.2",
+  "summary": "A short description of ZRCardView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZRCardView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "MartinChristopher": "519483040@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZRCardView.git",
+    "tag": "0.0.2"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "ZRCardView/**/*"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Bumbo",
+  "version": "1.1.2",
+  "summary": "A swifty client for Thumbor",
+  "description": "Bumbo is a client for [Thumbor](https://bitbucket.devops.nonprod.empf.local/scm/react/thumbor) written in Swift.\nIt helps you adding filters to images without worries.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Bumbo",
+  "documentation_url": "http://guilhermearaujo.me/Bumbo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Guilherme Araújo": "guilhermeama@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Bumbo.git",
+    "tag": "1.1.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Bumbo/**/*.swift",
+  "dependencies": {
+    "CryptoSwift": [
+      "~> 1.0"
+    ]
+  }
+}

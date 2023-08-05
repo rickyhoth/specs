@@ -1,0 +1,22 @@
+{
+  "name": "LMDeviceInfoCollector",
+  "version": "1.0.0",
+  "summary": "一个采集iOS设备信息以及SIM卡信息的工具类",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LMDeviceInfoCollector",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "545390087@qq.com": "codebulucck@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LMDeviceInfoCollector.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LMDeviceInfoCollector/Classes/**/*"
+}

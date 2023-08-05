@@ -1,0 +1,16 @@
+{
+  "name": "isFull",
+  "version": "0.0.2",
+  "license": "MIT",
+  "summary": "An NSObject category. Adds a method to verify that object contains data.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/isFull",
+  "authors": {
+    "Alexander Kozin": "al.kozin@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/isFull.git",
+    "tag": "0.0.2"
+  },
+  "requires_arc": true,
+  "source_files": "isFull/*.{h,m}"
+}

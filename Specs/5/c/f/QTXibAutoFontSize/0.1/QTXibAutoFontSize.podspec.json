@@ -1,0 +1,22 @@
+{
+  "name": "QTXibAutoFontSize",
+  "version": "0.1",
+  "summary": "QTXibAutoFontSize",
+  "description": "QTXibAutoFontSize",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/QTXibAutoFontSize.git",
+  "license": "MIT",
+  "authors": {
+    "不不不紧张": "1005903848@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/QTXibAutoFontSize.git",
+    "tag": "0.1"
+  },
+  "ios": {
+    "frameworks": "Foundation"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "QTXibAutoFontSize/QTXibAutoFontSize/QTXibAutoFontSize/*"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "DYCommonNetwork",
+  "version": "0.1.2",
+  "summary": "这是一个网络库",
+  "description": "基于AFNetworking封装的网络库",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DYCommonNetwork",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "dingyonggang": "dingyonggang@dayyc.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DYCommonNetwork.git",
+    "tag": "0.1.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DYCommonNetwork/Classes/**/*",
+  "public_header_files": "Pod/Classes/**/*.h",
+  "dependencies": {
+    "AFNetworking": [
+      "~> 2.3"
+    ]
+  }
+}

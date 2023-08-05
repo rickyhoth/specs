@@ -1,0 +1,19 @@
+{
+  "name": "newCocoapod",
+  "version": "1.0.0",
+  "summary": "This is my first cocoapod created!",
+  "description": "This is some super loco framework made by me",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/newCocoapod",
+  "license": "MIT",
+  "authors": {
+    "Meghaj": "meghajppatil@gmail.com"
+  },
+  "platforms": {
+    "ios": "11.4"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/newCocoapod.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "newCocoapod/**/*"
+}

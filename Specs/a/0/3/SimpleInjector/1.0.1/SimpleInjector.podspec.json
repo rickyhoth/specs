@@ -1,0 +1,24 @@
+{
+  "name": "SimpleInjector",
+  "version": "1.0.1",
+  "summary": "A lightweight dependency injection mechanism in swift.",
+  "description": "SimpleInjector is a lightweight dependency injection mechanism written in Swift it carries your dependencies for you in a single object and deliver them where needed in one call.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Injector",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Tancrede Chazallet": "tancredechazallet@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Injector.git",
+    "tag": "1.0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "swift_versions": "5.1.2",
+  "source_files": "SimpleInjector/Classes/**/*",
+  "swift_version": "5.1.2"
+}

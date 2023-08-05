@@ -1,0 +1,23 @@
+{
+  "name": "VK",
+  "version": "0.1.1",
+  "summary": "vk.com api on swift",
+  "description": "vk.com api on swift ++",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/VK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "iWheelBuy": "iwheelbuy@protonmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/VK.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "VK/Classes/**/*",
+  "pushed_with_swift_version": "3.0"
+}

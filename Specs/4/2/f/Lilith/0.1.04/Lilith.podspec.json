@@ -1,0 +1,22 @@
+{
+  "name": "Lilith",
+  "version": "0.1.04",
+  "summary": "Develope Swift UI, faster.",
+  "description": "Lilith is an elegant framework for making tedious code, beautiful.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Lilith",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Josh Arnold": "josharnold997@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Lilith.git",
+    "tag": "0.1.04"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Lilith/Classes/**/*"
+}

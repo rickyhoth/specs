@@ -1,0 +1,22 @@
+{
+  "name": "KanaConv",
+  "version": "0.1.0",
+  "summary": "Useful extensions for Japanese Kana.",
+  "description": "Useful extensions for Japanese Kana.\n'String' is extended.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/KanaConv",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "tailup0": ""
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/KanaConv.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "KanaConv/Classes/**/*"
+}

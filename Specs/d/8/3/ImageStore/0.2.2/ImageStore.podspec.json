@@ -1,0 +1,27 @@
+{
+  "name": "ImageStore",
+  "version": "0.2.2",
+  "summary": "Image downloader with memory cache supporting.",
+  "description": "Image downloader with memory cache supporting.\nIf you want more info, look https://bitbucket.devops.nonprod.empf.local/scm/react/ImageStore.git",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ImageStore",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "miup": "contact@miup.blue"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ImageStore.git",
+    "tag": "0.2.2"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "ImageStore/Classes/**/*",
+  "dependencies": {
+    "Firebase/Storage": [
+
+    ]
+  }
+}

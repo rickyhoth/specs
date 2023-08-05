@@ -1,0 +1,19 @@
+{
+  "name": "WSTableKit",
+  "version": "0.2.3",
+  "license": "MIT",
+  "authors": {
+    "Alex Nikishin": "wisdoomer@gmail.com"
+  },
+  "summary": "Simple table framework.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WSTableKit",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WSTableKit.git",
+    "tag": "0.2.3"
+  },
+  "source_files": "WSTableKit/*.{h,m}",
+  "requires_arc": true,
+  "platforms": {
+    "ios": "7.0"
+  }
+}

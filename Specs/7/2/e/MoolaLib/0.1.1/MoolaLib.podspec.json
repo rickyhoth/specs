@@ -1,0 +1,22 @@
+{
+  "name": "MoolaLib",
+  "version": "0.1.1",
+  "summary": "This is library are using in Moola apps.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MoolaLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Henry": "hunglv@moolapp.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MoolaLib.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MoolaLib/Classes/**/*"
+}

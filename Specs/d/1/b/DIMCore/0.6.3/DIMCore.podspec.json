@@ -1,0 +1,34 @@
+{
+  "name": "DIMCore",
+  "version": "0.6.3",
+  "summary": "Decentralized Instant Messaging Protocol",
+  "description": "Decentralized Instant Messaging Protocol (Objective-C)",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/core-objc",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Albert Moky": "albert.moky@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/core-objc.git",
+    "tag": "0.6.3"
+  },
+  "platforms": {
+    "ios": "12.0"
+  },
+  "source_files": [
+    "Classes",
+    "Classes/**/*.{h,m}"
+  ],
+  "public_header_files": "Classes/**/*.h",
+  "dependencies": {
+    "DaoKeDao": [
+      "~> 0.6.3"
+    ],
+    "MingKeMing": [
+      "~> 0.6.3"
+    ]
+  }
+}

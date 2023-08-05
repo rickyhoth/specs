@@ -1,0 +1,22 @@
+{
+  "name": "flutterPodGuy",
+  "version": "0.1.1",
+  "summary": "A test for flutter_pod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/flutterpodguy.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "jeffery": "379675320@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/flutterpodguy.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "flutterPod/Classes/**/*"
+}

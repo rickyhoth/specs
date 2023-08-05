@@ -1,0 +1,26 @@
+{
+  "name": "LNFloatingActionButton",
+  "version": "0.4.1",
+  "summary": "Easy to customize Floating Action Button",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LNFloatingActionButton",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "akaimo": "kawashu0723@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LNFloatingActionButton.git",
+    "tag": "0.4.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LNFloatingActionButton/*.{swift,h,m}",
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ],
+  "requires_arc": true
+}

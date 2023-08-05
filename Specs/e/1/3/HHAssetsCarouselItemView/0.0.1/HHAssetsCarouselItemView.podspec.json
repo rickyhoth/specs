@@ -1,0 +1,39 @@
+{
+  "name": "HHAssetsCarouselItemView",
+  "version": "0.0.1",
+  "authors": {
+    "Herui": "heruicross@gmail.com"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HHAssetsCarouselItemView",
+  "summary": "HHAssetsCarouselItemView enables you to pick a assets in your Photo Library like Messages app.",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HHAssetsCarouselItemView.git",
+    "tag": "0.0.1"
+  },
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source_files": "HHAssetsCarouselItemView/*",
+  "requires_arc": true,
+  "dependencies": {
+    "TGMediaAssets": [
+
+    ],
+    "HHCheckboxButton": [
+
+    ],
+    "HHAttachmentSheetView": [
+
+    ]
+  },
+  "ios": {
+    "frameworks": [
+      "UIKit",
+      "Foundation"
+    ]
+  }
+}

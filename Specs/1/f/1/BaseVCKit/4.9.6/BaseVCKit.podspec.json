@@ -1,0 +1,31 @@
+{
+  "name": "BaseVCKit",
+  "version": "4.9.6",
+  "summary": "Useful utils for UIViewController",
+  "description": "BaseVCKit has potocols & extensions",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/BaseVCKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "seongkyu-sim": "seongkyu.sim@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/BaseVCKit.git",
+    "tag": "4.9.6"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "BaseVCKit/Classes/**/*",
+  "frameworks": "UIKit",
+  "dependencies": {
+    "SnapKit": [
+
+    ],
+    "Kingfisher": [
+
+    ]
+  }
+}

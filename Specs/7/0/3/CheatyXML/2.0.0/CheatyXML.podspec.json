@@ -1,0 +1,24 @@
+{
+  "name": "CheatyXML",
+  "version": "2.0.0",
+  "summary": "CheatyXML",
+  "description": "CheatyXML is a Swift framework designed to manage XML easily.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CheatyXML",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": "Louis Bodart",
+  "social_media_url": "https://twitter.com/lobodart",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CheatyXML.git",
+    "tag": "v2.0.0"
+  },
+  "source_files": [
+    "Classes",
+    "CheatyXML/*.{swift}"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "ANProgressHUD",
+  "version": "1.2.4",
+  "license": "MIT",
+  "summary": "ANProgressHUD",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ANProgressHUD",
+  "authors": {
+    "anotheren": "liudong.edward@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ANProgressHUD.git",
+    "tag": "1.2.4"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "swift_versions": [
+    "5.0",
+    "5.1"
+  ],
+  "source_files": "Sources/**/*.swift",
+  "frameworks": "Foundation",
+  "swift_version": "5.1"
+}

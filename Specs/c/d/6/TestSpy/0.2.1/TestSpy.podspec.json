@@ -1,0 +1,23 @@
+{
+  "name": "TestSpy",
+  "version": "0.2.1",
+  "license": "MIT",
+  "summary": "Swift Framework for Spy Objects",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TestSpy",
+  "authors": {
+    "Franco Meloni": "franco.meloni91@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TestSpy.git",
+    "tag": "0.2.1"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "TestSpy/**/*.swift",
+  "dependencies": {
+    "Nimble": [
+      "~> 7.1"
+    ]
+  }
+}

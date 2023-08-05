@@ -1,0 +1,24 @@
+{
+  "name": "Cambo",
+  "version": "0.1.1",
+  "summary": "Best way to initialize in Swift.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Cambo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "chhaysotheara": "chhaysotheara11@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Cambo.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Cambo/Classes/**/*",
+  "frameworks": "UIKit",
+  "pushed_with_swift_version": "3.0"
+}

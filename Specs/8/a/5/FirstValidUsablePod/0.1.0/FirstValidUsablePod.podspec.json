@@ -1,0 +1,22 @@
+{
+  "name": "FirstValidUsablePod",
+  "version": "0.1.0",
+  "summary": "This is my first Pod",
+  "description": "This is my first self created cocoa pod",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/FirstValidUsablePod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Molnar Kristian": "krisztian.molnar@azinec.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/FirstValidUsablePod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "FirstValidUsablePod/Classes/**/*"
+}

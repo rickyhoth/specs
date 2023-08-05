@@ -1,0 +1,22 @@
+{
+  "name": "ZJCustomTools",
+  "version": "0.1.0",
+  "summary": "custom tools",
+  "description": "this is project tool when project init",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZJCustomTools",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "jiaforios@163.com": "jiaforios@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZJCustomTools.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "ZJCustomTools/Classes/**/*"
+}

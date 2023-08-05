@@ -1,0 +1,23 @@
+{
+  "name": "EasySideMenuController",
+  "version": "0.1.0",
+  "summary": "this lib make it easy to show sideMenu.",
+  "description": "- you can implement sideMenu.\n- this library will make it possible to show SideMenu with ease.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/EasySideMenuController",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "fummicc1": "fumiya.tennis1@gmail.com"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/EasySideMenuController.git",
+    "tag": "0.1.0"
+  },
+  "source_files": "EasySideMenuController/**/*.swift",
+  "exclude_files": "Classes/Exclude"
+}

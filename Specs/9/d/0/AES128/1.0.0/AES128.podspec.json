@@ -1,0 +1,23 @@
+{
+  "name": "AES128",
+  "version": "1.0.0",
+  "summary": "AES 128 ECB PKCS7Padding.",
+  "description": "AES 128 ECB PKCS7Padding...",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AES",
+  "license": "MIT",
+  "authors": {
+    "dd2333": "ice.phoenix.zh@gmail.com"
+  },
+  "platforms": {
+    "ios": null
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AES.git",
+    "tag": "1.0.0"
+  },
+  "source_files": [
+    "AES",
+    "AES/AESCrypt/**/*.{h,m}"
+  ],
+  "requires_arc": true
+}

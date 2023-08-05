@@ -1,0 +1,22 @@
+{
+  "name": "LLNavgationBar",
+  "version": "0.0.5",
+  "summary": "LLNavgationBar",
+  "description": "\"iOS\"\n\"navigation\"\n\"自定义导航栏\"\n\"LLNavgationBar\"",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LLNavgationBar",
+  "license": {
+    "type": "MIT"
+  },
+  "authors": {
+    "longlz": "643824979@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LLNavgationBar.git",
+    "tag": "0.0.5"
+  },
+  "source_files": "LLNavgationBar/LLNavgationBar/**/*.{h,m}",
+  "requires_arc": true
+}

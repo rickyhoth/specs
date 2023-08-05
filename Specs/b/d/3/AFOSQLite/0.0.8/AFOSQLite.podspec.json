@@ -1,0 +1,21 @@
+{
+  "name": "AFOSQLite",
+  "version": "0.0.8",
+  "summary": "This library is for extending UIKit libraries.",
+  "description": "Inherit and system classes, compile extensions, and reuse.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AFOSQLite.git",
+  "license": "MIT",
+  "authors": {
+    "PangDu": "xian312117@gmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AFOSQLite.git",
+    "tag": "0.0.8"
+  },
+  "source_files": "AFOSQLite/*.{h,m}",
+  "public_header_files": "AFOSQLite/*.h",
+  "requires_arc": true
+}

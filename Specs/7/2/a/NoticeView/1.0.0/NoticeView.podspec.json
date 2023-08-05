@@ -1,0 +1,26 @@
+{
+  "name": "NoticeView",
+  "version": "1.0.0",
+  "license": "MIT",
+  "summary": "A TweetBot-like notice component for iOS.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/",
+  "authors": {
+    "Tito Ciuro": "tciuro@mac.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/NoticeView.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": null
+  },
+  "source_files": "NoticeView/WBNoticeView/*.{m,h}",
+  "frameworks": [
+    "Foundation",
+    "UIKit",
+    "CoreGraphics",
+    "QuartzCore"
+  ],
+  "resources": "NoticeView/WBNoticeView/NoticeView.bundle",
+  "requires_arc": false
+}

@@ -1,0 +1,23 @@
+{
+  "name": "ARNCoreDataAccessor",
+  "version": "0.1.0",
+  "summary": "Compact CoreData Access Class.",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ARNCoreDataAccessor",
+  "authors": {
+    "xxxAIRINxxx": "xl1138@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ARNCoreDataAccessor.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "5.0"
+  },
+  "requires_arc": true,
+  "frameworks": "CoreData",
+  "source_files": "ARNCoreDataAccessor/*.{h,m}"
+}

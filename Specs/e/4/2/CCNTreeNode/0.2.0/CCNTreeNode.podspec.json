@@ -1,0 +1,23 @@
+{
+  "name": "CCNTreeNode",
+  "version": "0.2.0",
+  "summary": "Using CCNTreeNode is a convenient and easy way to build a tree of nested objects.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CCNTreeNode",
+  "authors": {
+    "Frank Gregor": "phranck@cocoanaut.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CCNTreeNode.git",
+    "tag": "0.2.0"
+  },
+  "platforms": {
+    "osx": "10.7",
+    "ios": "6.0"
+  },
+  "requires_arc": true,
+  "source_files": "CCNTreeNode/*.{h,m}",
+  "license": {
+    "type": "MIT",
+    "file": "ReadMe.md"
+  }
+}

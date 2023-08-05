@@ -1,0 +1,43 @@
+{
+  "name": "RxVIPKit",
+  "version": "0.1.2",
+  "summary": "Vip Architecture with RxSwift helper tools",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/RxVipKit",
+  "authors": {
+    "Scott Moon": "interactord@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/RxVipKit.git",
+    "tag": "0.1.2"
+  },
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "source_files": "RxVipKit/Foundation/**/*",
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ],
+  "requires_arc": true,
+  "dependencies": {
+    "RxSwift": [
+      ">= 4.4.0"
+    ],
+    "RxCocoa": [
+      ">= 4.4.0"
+    ],
+    "SwiftyBeaver": [
+
+    ],
+    "Swinject": [
+
+    ]
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "pod_target_xcconfig": {
+    "SWIFT_VERSION": "4.2"
+  }
+}

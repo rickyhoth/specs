@@ -1,0 +1,17 @@
+{
+  "name": "SwiftKick",
+  "version": "0.0.1",
+  "license": "MIT",
+  "summary": "Useful classes for use with the Swift programming language",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/swiftkick",
+  "social_media_url": "http://about.me/jasondudash",
+  "authors": {
+    "Jason Dudash": "jason.dudash@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/swiftkick.git",
+    "tag": "0.0.1"
+  },
+  "requires_arc": true,
+  "source_files": "Source/*"
+}

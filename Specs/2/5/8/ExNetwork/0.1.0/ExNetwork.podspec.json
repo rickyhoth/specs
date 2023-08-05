@@ -1,0 +1,27 @@
+{
+  "name": "ExNetwork",
+  "version": "0.1.0",
+  "summary": "网络组件",
+  "description": "TODO:  用于组件网络通信",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ExNetwork",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "a289458845": "289458845@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ExNetwork.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "ExNetwork/Classes/**/*",
+  "dependencies": {
+    "AFNetworking": [
+      "~> 2.6.3"
+    ]
+  }
+}

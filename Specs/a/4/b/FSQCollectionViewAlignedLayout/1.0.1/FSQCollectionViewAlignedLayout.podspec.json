@@ -1,0 +1,22 @@
+{
+  "name": "FSQCollectionViewAlignedLayout",
+  "version": "1.0.1",
+  "platforms": {
+    "ios": null
+  },
+  "summary": "A centralized location manager for your app",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/FSQCollectionViewAlignedLayout",
+  "license": {
+    "type": "Apache",
+    "file": "LICENSE.txt"
+  },
+  "authors": {
+    "Brian Dorfman": "https://twitter.com/bdorfman"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/FSQCollectionViewAlignedLayout.git",
+    "tag": "v1.0.1"
+  },
+  "source_files": "*.{h,m}",
+  "requires_arc": true
+}

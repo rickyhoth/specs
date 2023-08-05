@@ -1,0 +1,33 @@
+{
+  "name": "KinderAlertView",
+  "swift_versions": "5",
+  "version": "0.0.2.3",
+  "summary": "AlertView.",
+  "description": "KinderAlertView\n기본얼럿 외 토스트팝업,뷰팝업의 기능 제공",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/KinderAlertView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "kin": "south.kin@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/KinderAlertView.git",
+    "tag": "0.0.2.3"
+  },
+  "source_files": [
+    "Classes",
+    "KinderAlertView/*.{swift}"
+  ],
+  "exclude_files": "Classes/Exclude",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "dependencies": {
+    "KinderProcessQueue": [
+
+    ]
+  },
+  "swift_version": "5"
+}

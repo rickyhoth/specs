@@ -1,0 +1,30 @@
+{
+  "name": "FRKeyboardManager",
+  "version": "1.0.1",
+  "summary": "Very useful Keyboard Manager Object.",
+  "description": "Very useful Keyboard Manager Object. Abstraction is the key.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/KeyboardManager.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Felipe Ricieri": "felipericieri@icloud.com"
+  },
+  "social_media_url": "http://twitter.com/felipericieri",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/KeyboardManager.git",
+    "tag": "1.0.1"
+  },
+  "source_files": "KeyboardManager/**/*.{swift}",
+  "exclude_files": "Classes/Exclude",
+  "frameworks": [
+    "Foundation",
+    "UIKit"
+  ],
+  "requires_arc": true,
+  "pushed_with_swift_version": "3.0"
+}

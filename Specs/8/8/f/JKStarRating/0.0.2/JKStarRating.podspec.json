@@ -1,0 +1,22 @@
+{
+  "name": "JKStarRating",
+  "version": "0.0.2",
+  "summary": "An easy way to use frame",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JKStarRating",
+  "license": "MIT",
+  "authors": {
+    "JokerKin": "weijoker_king@163.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JKStarRating.git",
+    "tag": "0.0.2"
+  },
+  "source_files": [
+    "JKStarRating",
+    "JKStarRating/**/*.{h,m}"
+  ],
+  "requires_arc": true
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Emmlytics",
+  "version": "0.1.1",
+  "summary": "Mobile App Analytics for Enterprises",
+  "description": "Built with love in the UK. We are Emmlytics. Tell us what you need",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/pod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Emmlytics": "team@emmlytics.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/pod.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "Emmlytics/Classes/**/*",
+  "resource_bundles": {
+    "Emmlytics": [
+      "Emmlytics/Assets/*.*"
+    ]
+  },
+  "pushed_with_swift_version": "3.0"
+}

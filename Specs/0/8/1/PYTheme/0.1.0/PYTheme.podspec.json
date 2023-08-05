@@ -1,0 +1,19 @@
+{
+  "name": "PYTheme",
+  "version": "0.1.0",
+  "summary": "An easy way to change theme through NSObject category for iOS.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/PYTheme",
+  "license": "MIT",
+  "authors": {
+    "CoderKo1o": "499491531@qq.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/PYTheme.git",
+    "tag": "0.1.0"
+  },
+  "source_files": "PYTheme/**/*.{h,m}",
+  "requires_arc": true
+}

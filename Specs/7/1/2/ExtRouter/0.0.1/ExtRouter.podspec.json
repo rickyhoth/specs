@@ -1,0 +1,23 @@
+{
+  "name": "ExtRouter",
+  "version": "0.0.1",
+  "summary": "A lightweight router library",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ExtRouter",
+  "license": "MIT",
+  "authors": {
+    "hang.pan": "pannetez@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ExtRouter.git",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "Classes",
+    "Classes/**/*"
+  ],
+  "exclude_files": "Classes/Exclude",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "swift_version": "5.0"
+}

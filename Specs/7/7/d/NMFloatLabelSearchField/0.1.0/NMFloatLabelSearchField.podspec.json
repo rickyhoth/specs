@@ -1,0 +1,29 @@
+{
+  "name": "NMFloatLabelSearchField",
+  "version": "0.1.0",
+  "summary": "A lightweight subclass of UITextField to display floating hints and suggestion list as you type.",
+  "description": "A lightweight subclass of SkyFloatingLabelTextField to display dynamic floating hints and suggestion list as you type text in the text field. Combination of https://bitbucket.devops.nonprod.empf.local/scm/react/SearchTextField pods.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/NMFloatLabelSearchField",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Noor ul Ain Ali": "noor.ali@namshi.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/NMFloatLabelSearchField.git",
+    "tag": "0.1.0"
+  },
+  "social_media_url": "https://twitter.com/namshidotcom",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "NMFloatLabelSearchField/Classes/**/*",
+  "frameworks": "UIKit",
+  "dependencies": {
+    "SkyFloatingLabelTextField": [
+      "~> 3.4.0"
+    ]
+  }
+}

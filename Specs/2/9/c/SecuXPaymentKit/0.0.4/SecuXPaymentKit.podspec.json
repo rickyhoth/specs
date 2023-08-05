@@ -1,0 +1,28 @@
+{
+  "name": "SecuXPaymentKit",
+  "version": "0.0.4",
+  "summary": "SecuX Payment SDK amd sample.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SecuXPaymentKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "SecuX": "maochunsun@secuxtech.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SecuXPaymentKit.git",
+    "tag": "0.0.4"
+  },
+  "platforms": {
+    "ios": "12.0"
+  },
+  "source_files": "SecuXPaymentKit/Classes/**/*",
+  "static_framework": true,
+  "dependencies": {
+    "SPManager": [
+
+    ]
+  }
+}

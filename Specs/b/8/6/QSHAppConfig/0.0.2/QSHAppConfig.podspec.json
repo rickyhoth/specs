@@ -1,0 +1,23 @@
+{
+  "name": "QSHAppConfig",
+  "version": "0.0.2",
+  "summary": "QSHAppConfig.",
+  "description": "this is QSHAppConfig",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/QSHAppConfig",
+  "license": {
+    "type": "MIT",
+    "file": "FILE_LICENSE"
+  },
+  "authors": {
+    "NoryCao": "norycao_us@hotmail.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/QSHAppConfig.git",
+    "tag": "0.0.2"
+  },
+  "source_files": "QSHAppConfig/**/*.{h,m}",
+  "requires_arc": true
+}

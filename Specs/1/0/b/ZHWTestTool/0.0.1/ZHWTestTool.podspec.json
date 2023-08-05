@@ -1,0 +1,26 @@
+{
+  "name": "ZHWTestTool",
+  "version": "0.0.1",
+  "summary": "练习制作cocoapods",
+  "description": "制作自己的cocoapods , 第一次练习，制作自己的cocoapods , 第一次练习",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZHWTestTool",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhanghongwei": "hongwei.zhang@langlive.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZHWTestTool.git",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "Tools",
+    "ZHWTestTool/Tools/**/*.{h,m}"
+  ],
+  "requires_arc": true
+}

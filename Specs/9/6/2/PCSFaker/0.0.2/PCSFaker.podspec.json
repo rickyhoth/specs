@@ -1,0 +1,20 @@
+{
+  "name": "PCSFaker",
+  "version": "0.0.2",
+  "summary": "Fake data for your CoreData models.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/PCSFaker",
+  "license": "MIT",
+  "authors": {
+    "Romain Pouclet": "palleas@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/PCSFaker.git",
+    "tag": "0.0.2"
+  },
+  "source_files": [
+    "PCSFaker",
+    "PCSFaker/Classes"
+  ],
+  "frameworks": "CoreData",
+  "requires_arc": true
+}

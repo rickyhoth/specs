@@ -1,0 +1,22 @@
+{
+  "name": "PokeDexLib",
+  "version": "0.1.0",
+  "summary": "A lib to find info about some pokemosn",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/PokeDexLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Gabriel Villarreal": "gabriel@paybook.me"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/PokeDexLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PokeDexLib/Classes/**/*"
+}

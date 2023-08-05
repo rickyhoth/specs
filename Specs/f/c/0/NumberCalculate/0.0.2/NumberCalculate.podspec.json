@@ -1,0 +1,20 @@
+{
+  "name": "NumberCalculate",
+  "version": "0.0.2",
+  "summary": "数值加减小控件",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/NumberCalculate",
+  "license": "MIT",
+  "authors": {
+    "Singularity_Lee": "496736912@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/NumberCalculate.git",
+    "tag": "0.0.2"
+  },
+  "source_files": "NumberCalculate/NumberCalculate/*.{h,m}",
+  "resources": "NumberCalculate/NumberCalculate/resource/*.png",
+  "requires_arc": true
+}

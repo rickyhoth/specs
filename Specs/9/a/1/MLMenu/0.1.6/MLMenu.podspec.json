@@ -1,0 +1,22 @@
+{
+  "name": "MLMenu",
+  "version": "0.1.6",
+  "summary": "A Simple MLMenu.",
+  "description": "WeChat QQ top right menu option function.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MLMenu",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "MrDML": "dml1630@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MLMenu.git",
+    "tag": "0.1.6"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MLMenu/Classes/**/*"
+}

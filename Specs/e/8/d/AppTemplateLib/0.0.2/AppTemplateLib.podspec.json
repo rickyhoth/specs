@@ -1,0 +1,21 @@
+{
+  "name": "AppTemplateLib",
+  "version": "0.0.2",
+  "summary": "AppTemplateLib for quick start.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AppTemplateLib",
+  "license": "MIT",
+  "authors": {
+    "linzhiman": "154298785@qq.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AppTemplateLib.git",
+    "tag": "0.0.2"
+  },
+  "source_files": [
+    "AppTemplateLib",
+    "AppTemplateLib/**/*.{h,m}"
+  ]
+}

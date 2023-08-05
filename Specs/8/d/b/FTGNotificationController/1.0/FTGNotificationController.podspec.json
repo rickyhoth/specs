@@ -1,0 +1,24 @@
+{
+  "name": "FTGNotificationController",
+  "version": "1.0",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/FTGNotificationController",
+  "authors": {
+    "Khoa Pham": "onmyway133@gmail.com"
+  },
+  "summary": "Similar to KVOController, but for NSNotification .",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/FTGNotificationController.git",
+    "tag": "1.0"
+  },
+  "source_files": "FTGNotificationController/FTGNotificationController.{h,m}",
+  "requires_arc": true,
+  "platforms": {
+    "ios": "6.0",
+    "osx": "10.7"
+  },
+  "social_media_url": "https://twitter.com/onmyway133"
+}

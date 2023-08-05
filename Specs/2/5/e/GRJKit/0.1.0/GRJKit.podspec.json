@@ -1,0 +1,25 @@
+{
+  "name": "GRJKit",
+  "version": "0.1.0",
+  "summary": "GRJ gogogo",
+  "description": "this project provide all kinds of categories for iOS developer",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/GRJKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": "GRJ",
+  "platforms": {
+    "ios": "6.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/GRJKit.git",
+    "tag": "0.1.0"
+  },
+  "source_files": [
+    "GRJKit",
+    "GRJKit/GRJCategoryKit/**/*.{h,m}"
+  ],
+  "exclude_files": "GRJKit/Exclude",
+  "frameworks": "UIKit"
+}

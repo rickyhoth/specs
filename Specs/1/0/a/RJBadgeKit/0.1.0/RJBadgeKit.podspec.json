@@ -1,0 +1,22 @@
+{
+  "name": "RJBadgeKit",
+  "version": "0.1.0",
+  "summary": "A short description of RJBadgeKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/RJBadgeKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "RylanJIN": "xiaojun.jin@outlook.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/RJBadgeKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "RJBadgeKit/Classes/**/*"
+}

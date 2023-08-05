@@ -1,0 +1,23 @@
+{
+  "name": "FakeMouseEvent",
+  "version": "0.1.1",
+  "summary": "A framework for generating mouse events.",
+  "description": "A framework for generating mouse events. Using IOKit(HID library) and CGEvent.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/FakeMouseEvent",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "raxcat": "raxcat@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/FakeMouseEvent.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "osx": "10.10"
+  },
+  "requires_arc": true,
+  "source_files": "FakeMouseEvent/Classes/**/*"
+}

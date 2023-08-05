@@ -1,0 +1,23 @@
+{
+  "name": "ZMRatingBarView",
+  "version": "0.1.1",
+  "summary": "A simple Rating Bar library by Swift",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZMRatingBarView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Tom.Huang": "hzlhu.dargon@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZMRatingBarView.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "requires_arc": true,
+  "source_files": "Source/*.swift",
+  "pushed_with_swift_version": "3.0"
+}

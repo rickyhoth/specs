@@ -1,0 +1,23 @@
+{
+  "name": "WQSTestZuJian",
+  "version": "0.0.2",
+  "summary": "组件",
+  "description": "组件化测试",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WQSTestZuJian",
+  "license": "MIT",
+  "authors": {
+    "ALexTun": "398967541@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WQSTestZuJian.git",
+    "tag": "0.0.2"
+  },
+  "source_files": "ZuJianFile/*",
+  "requires_arc": true,
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}

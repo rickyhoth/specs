@@ -1,0 +1,23 @@
+{
+  "name": "TYMActivityIndicatorView",
+  "version": "0.3.0",
+  "summary": "A simple activity indicator view which you can customize with images.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TYMActivityIndicatorView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Yiming Tang": "yimingnju@gmail.com"
+  },
+  "platforms": {
+    "ios": null
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TYMActivityIndicatorView.git",
+    "tag": "v0.3.0"
+  },
+  "source_files": "TYMActivityIndicatorView/*.{h,m}",
+  "resources": "TYMActivityIndicatorView/TYMActivityIndicatorView.bundle",
+  "requires_arc": true
+}

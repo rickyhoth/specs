@@ -1,0 +1,20 @@
+{
+  "name": "BMAutoLayout",
+  "version": "1.0",
+  "summary": "Autolayout based on anchor",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/BMAutoLayout",
+  "license": "MIT",
+  "platforms": {
+    "ios": "11.0"
+  },
+  "authors": {
+    "ACommonChinese": "liuxing8807@126.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/BMAutoLayout.git",
+    "tag": "1.0"
+  },
+  "source_files": "BMAutoLayout/*.{h,m}",
+  "frameworks": "UIKit",
+  "requires_arc": true
+}

@@ -1,0 +1,22 @@
+{
+  "name": "FMNavBtnsView",
+  "version": "0.3.0",
+  "summary": "A short description of FMNavBtnsView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/FMNavBtnsView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "CoderFM": "zhoufaming251@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/FMNavBtnsView.git",
+    "tag": "0.3.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "FMNavBtnsView/Classes/**/*"
+}

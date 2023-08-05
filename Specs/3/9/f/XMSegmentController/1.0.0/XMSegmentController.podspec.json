@@ -1,0 +1,22 @@
+{
+  "name": "XMSegmentController",
+  "version": "1.0.0",
+  "summary": "A menu controller.",
+  "description": "A menu controller which can contain many subViewControllers",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/XMSegmentController",
+  "license": "MIT",
+  "authors": {
+    "Justming": "949018545@qq.com"
+  },
+  "platforms": {
+    "ios": null
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/XMSegmentController.git",
+    "tag": "1.0.0"
+  },
+  "source_files": [
+    "XMSegmentController",
+    "XMSegmentController/*.{h,m}"
+  ]
+}

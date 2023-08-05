@@ -1,0 +1,19 @@
+{
+  "name": "DVDGitPod",
+  "version": "1.0.0",
+  "license": "MIT",
+  "summary": "这是一个测试",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DVDGitPod",
+  "authors": {
+    "jiadeYu": "13521864217@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DVDGitPod.git",
+    "tag": "1.0.0"
+  },
+  "requires_arc": true,
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source_files": "DVDGitPod/**/*.{h,m}"
+}

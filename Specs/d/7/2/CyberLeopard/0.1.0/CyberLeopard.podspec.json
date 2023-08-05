@@ -1,0 +1,22 @@
+{
+  "name": "CyberLeopard",
+  "version": "0.1.0",
+  "summary": "CyberLeopard is a Utility",
+  "description": "It is a Utility this is used to perform basic Operation Like Json serilization",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CyberLeopard",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Shubham Kaliyar": "shubhamkaliyar255@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CyberLeopard.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CyberLeopard/Classes/**/*"
+}

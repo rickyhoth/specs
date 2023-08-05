@@ -1,0 +1,28 @@
+{
+  "name": "CLExtensions",
+  "version": "1.1.4",
+  "summary": "iOS of CLExtensions.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CLExtensions",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "CainLuo": "350116542@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CLExtensions.git",
+    "tag": "1.1.4"
+  },
+  "documentation_url": "https://bitbucket.devops.nonprod.empf.local/scm/react/CLExtensions",
+  "source_files": "Source/*.swift",
+  "platforms": {
+    "ios": "10.0"
+  },
+  "swift_versions": [
+    "5.0",
+    "5.1",
+    "5.2"
+  ],
+  "swift_version": "5.2"
+}

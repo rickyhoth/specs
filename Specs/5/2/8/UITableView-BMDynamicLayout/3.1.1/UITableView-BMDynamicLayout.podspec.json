@@ -1,0 +1,19 @@
+{
+  "name": "UITableView-BMDynamicLayout",
+  "version": "3.1.1",
+  "summary": "🖖 Template auto layout cell for automatically UITableViewCell UITableViewHeaderFooterView calculating and cache height framework.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/UITableView-BMDynamicLayout",
+  "license": "MIT",
+  "authors": {
+    "liangdahong": "ios@liangdahong.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/UITableView-BMDynamicLayout.git",
+    "tag": "3.1.1"
+  },
+  "requires_arc": true,
+  "source_files": "UITableView-BMDynamicLayout/Sources/UITableView-BMDynamicLayout/**/*.{h,m}"
+}

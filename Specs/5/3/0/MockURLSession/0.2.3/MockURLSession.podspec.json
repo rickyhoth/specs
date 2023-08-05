@@ -1,0 +1,22 @@
+{
+  "name": "MockURLSession",
+  "version": "0.2.3",
+  "summary": "MockURLSession provides a way to mock NSURLSession.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MockURLSession",
+  "license": {
+    "type": "MIT"
+  },
+  "authors": {
+    "Kenta Yamamoto": "http://twitter.com/i05"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MockURLSession.git",
+    "tag": "0.2.3"
+  },
+  "source_files": "MockURLSession/*.swift",
+  "requires_arc": true,
+  "platforms": {
+    "osx": "10.9",
+    "ios": "8.0"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "DDHWCocoaPodsDemo",
+  "version": "0.2.0",
+  "summary": "A short description of CocoaPodsDemo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CocoaPodsDemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "2382890750@qq.com": ""
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CocoaPodsDemo.git",
+    "tag": "0.2.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CocoaPodsDemo/Classes/**/*",
+  "resource_bundles": {
+    "CocoaPodsDemo": [
+      "CocoaPodsDemo/Assets/*.png"
+    ]
+  }
+}

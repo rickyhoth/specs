@@ -1,0 +1,22 @@
+{
+  "name": "KGNGradientView",
+  "version": "0.0.3",
+  "authors": {
+    "David Keegan": "git@davidkeegan.com"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/KGNGradientView",
+  "summary": "CAGradientLayer backed UIView",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/KGNGradientView.git",
+    "tag": "v0.0.3"
+  },
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "platforms": {
+    "ios": null
+  },
+  "requires_arc": true,
+  "source_files": "KGNGradientView"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "RunsCamera",
+  "version": "1.0.3",
+  "summary": "A custom camera, the core function a little click to take pictures, long press the video.",
+  "description": "A custom camera, the core function a little click to take pictures, long press the video.which implement by Objective-C.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Camera",
+  "license": "MIT",
+  "authors": {
+    "dev_wang": "dev_wang@foxmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Camera.git",
+    "tag": "1.0.3"
+  },
+  "source_files": "RunsCamera/Classes/**/*.{h,m}",
+  "resources": "RunsCamera/Classes/camera.xcassets",
+  "frameworks": [
+    "Foundation",
+    "UIKit"
+  ],
+  "requires_arc": true
+}

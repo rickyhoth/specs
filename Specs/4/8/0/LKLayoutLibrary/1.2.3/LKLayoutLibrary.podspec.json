@@ -1,0 +1,29 @@
+{
+  "name": "LKLayoutLibrary",
+  "version": "1.2.3",
+  "summary": "The layouting library for iOS",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LKLayoutLibrary",
+  "license": "MIT",
+  "authors": {
+    "mkloeppner": "mkloeppner@me.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LKLayoutLibrary.git",
+    "tag": "1.2.3"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source_files": [
+    "LKLayoutLibrary",
+    "**/*.{h,m}"
+  ],
+  "exclude_files": [
+    "LKLayoutLibraryTests"
+  ],
+  "frameworks": [
+    "Foundation",
+    "UIKit"
+  ],
+  "requires_arc": true
+}

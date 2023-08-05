@@ -1,0 +1,25 @@
+{
+  "name": "ShapeScript",
+  "version": "1.0.0",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE.md"
+  },
+  "summary": "Scripting language for creating and manipulating 3D geometry",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ShapeScript",
+  "authors": "Nick Lockwood",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ShapeScript.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "ShapeScript",
+  "requires_arc": true,
+  "dependencies": {
+    "Euclid": [
+
+    ]
+  },
+  "platforms": {
+    "osx": "10.13"
+  }
+}

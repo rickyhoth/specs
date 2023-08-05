@@ -1,0 +1,22 @@
+{
+  "name": "SundeedSpotlight",
+  "version": "0.0.1",
+  "license": "MIT",
+  "summary": "An easily implemented spotlight library to walk the user through the features",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SundeedSpotlight/",
+  "authors": {
+    "Nour Sandid": "noursandid@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SundeedSpotlight.git",
+    "tag": "0.0.1"
+  },
+  "documentation_url": "https://bitbucket.devops.nonprod.empf.local/scm/react/SundeedSpotlight/",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "swift_versions": "5.0",
+  "source_files": "Library/**/*.swift",
+  "frameworks": "SystemConfiguration",
+  "swift_version": "5.0"
+}

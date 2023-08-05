@@ -1,0 +1,23 @@
+{
+  "name": "SKPanoramaView",
+  "version": "0.1.1",
+  "summary": "Create beautiful animated panorama views. Inspired by the intro view on the LinkedIn iOS app. ",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SKPanoramaView",
+  "license": {
+    "type": "MIT",
+    "text": "Copyright 2014 Sachin Kesiraju"
+  },
+  "authors": {
+    "Sachin Kesiraju": "me@sachinkesiraju.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SKPanoramaView.git",
+    "tag": "0.1.1"
+  },
+  "social_media_url": "https://twitter.com/sachinkesiraju",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "SKPanoramaView"
+}

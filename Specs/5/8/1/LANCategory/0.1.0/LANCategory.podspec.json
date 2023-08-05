@@ -1,0 +1,22 @@
+{
+  "name": "LANCategory",
+  "version": "0.1.0",
+  "summary": "A very useful category for iOS developer.",
+  "description": "A very useful Objective-C category for iOS developer. Mainly extending UIKit.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LANCategory",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lanvsblue": "lanvsblue@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LANCategory.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LANCategory/Classes/**/*"
+}

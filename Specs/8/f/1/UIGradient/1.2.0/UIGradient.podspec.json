@@ -1,0 +1,21 @@
+{
+  "name": "UIGradient",
+  "version": "1.2.0",
+  "summary": "A simple and powerful library for using gradient image, color",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/UIGradient",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Đinh Quang Hiếu": "dqhieu13@gmail.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/UIGradient.git",
+    "tag": "1.2.0"
+  },
+  "source_files": "Sources/*.swift"
+}

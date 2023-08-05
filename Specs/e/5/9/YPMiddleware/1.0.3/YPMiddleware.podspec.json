@@ -1,0 +1,22 @@
+{
+  "name": "YPMiddleware",
+  "version": "1.0.3",
+  "summary": "Middleware.",
+  "description": "OC Runtime Middleware",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/YPMiddleware/blob/master/README.md",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "huyp": "406468133@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YPMiddleware.git",
+    "tag": "1.0.3"
+  },
+  "source_files": "YPMiddleware/*.{h,m}"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Tempry",
+  "version": "0.1.1",
+  "summary": "get a random temporary directory path",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Tempry",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Yasuharu Yanamura": "yanamura3@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Tempry.git",
+    "tag": "0.1.1"
+  },
+  "source_files": "Sources/Tempry/*",
+  "platforms": {
+    "ios": "10.0"
+  }
+}

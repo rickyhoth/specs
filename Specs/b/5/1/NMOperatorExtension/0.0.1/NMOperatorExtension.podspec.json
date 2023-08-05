@@ -1,0 +1,23 @@
+{
+  "name": "NMOperatorExtension",
+  "version": "0.0.1",
+  "summary": "Usefull operators",
+  "description": "New operators to make coding with swift easier.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/NMOperatorExtension",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "NicolasMahe": "nicolas@mahe.me"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/NMOperatorExtension.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "NMOperatorExtension/**/*",
+  "pushed_with_swift_version": "3.0"
+}

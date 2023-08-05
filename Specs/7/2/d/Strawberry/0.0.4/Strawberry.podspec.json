@@ -1,0 +1,22 @@
+{
+  "name": "Strawberry",
+  "version": "0.0.4",
+  "summary": "A delicious API and model framework for Objective-C",
+  "authors": "Adrian Kashivskyy",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE.md"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/strawberry",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/strawberry.git",
+    "tag": "0.0.4",
+    "submodules": true
+  },
+  "requires_arc": true,
+  "platforms": {
+    "ios": "7.0",
+    "osx": "10.9"
+  },
+  "source_files": "Source/**/**.{h,m}"
+}

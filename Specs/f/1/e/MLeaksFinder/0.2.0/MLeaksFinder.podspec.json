@@ -1,0 +1,27 @@
+{
+  "name": "MLeaksFinder",
+  "version": "0.2.0",
+  "summary": "Find memory leaks in your iOS app at develop time.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MLeaksFinder",
+  "license": "MIT",
+  "authors": {
+    "Zeposhe": "zeposhe@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MLeaksFinder.git",
+    "tag": "0.2.0"
+  },
+  "platforms": {
+    "ios": "6.0"
+  },
+  "source_files": "MLeaksFinder/**/*",
+  "public_header_files": [
+    "MLeaksFinder/MLeaksFinder.h",
+    "MLeaksFinder/NSObject+MemoryLeak.h"
+  ],
+  "dependencies": {
+    "FBRetainCycleDetector": [
+
+    ]
+  }
+}

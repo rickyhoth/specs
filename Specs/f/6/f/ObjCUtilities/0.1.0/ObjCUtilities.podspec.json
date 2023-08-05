@@ -1,0 +1,22 @@
+{
+  "name": "ObjCUtilities",
+  "version": "0.1.0",
+  "summary": "Objective C Data Structures and Utilities not provided by Cocoa by default",
+  "description": "A collection of Data Strcutures and utilities that we often need while writing with Objective C but are not provided by Cocoa iself. Some of the examples are a Concurrent NSDictionary and a Atomic NSInteger.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ObjCUtils",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "iamprabal": "iamprabal@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ObjCUtils.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ObjCUtils/Classes/**/*"
+}

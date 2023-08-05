@@ -1,0 +1,22 @@
+{
+  "name": "WJDebugBar",
+  "version": "0.1.0",
+  "summary": "WJDebugBar.",
+  "description": "Used to detect CPU usage and memeory usage and change net base url from list.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WJDebugBar",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "adwardgc": "zgsddzwj@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WJDebugBar.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "WJDebugBar/Classes/**/*"
+}

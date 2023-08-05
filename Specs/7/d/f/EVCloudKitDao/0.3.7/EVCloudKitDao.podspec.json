@@ -1,0 +1,28 @@
+{
+  "name": "EVCloudKitDao",
+  "version": "0.3.7",
+  "summary": "iOS: Simplified access to Apple’s CloudKit",
+  "description": "Simplified access to Apple’s CloudKit using reflection and generics",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/EVCloudKitDao",
+  "screenshots": "https://bitbucket.devops.nonprod.empf.local/scm/react/Screenshot.png",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": "evermeer",
+  "social_media_url": "http://twitter.com/evermeer",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/EVCloudKitDao.git",
+    "tag": "0.3.7"
+  },
+  "source_files": "AppMessage/AppMessage/CloudKit/*",
+  "frameworks": [
+    "Foundation",
+    "UIKit",
+    "CloudKit"
+  ],
+  "requires_arc": true
+}

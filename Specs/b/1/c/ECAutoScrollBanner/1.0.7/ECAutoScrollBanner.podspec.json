@@ -1,0 +1,22 @@
+{
+  "name": "ECAutoScrollBanner",
+  "version": "1.0.7",
+  "summary": "https://bitbucket.devops.nonprod.empf.local/scm/react/ECAutoScrollBanner",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ECAutoScrollBanner",
+  "license": "MIT",
+  "authors": {
+    "EchoZuo": "zuoqianheng@foxmail.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ECAutoScrollBanner.git",
+    "tag": "1.0.7"
+  },
+  "requires_arc": true,
+  "source_files": [
+    "ECAutoScrollBanner",
+    "ECAutoScrollBanner/**/*.{h,m}"
+  ]
+}

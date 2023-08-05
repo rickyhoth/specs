@@ -1,0 +1,22 @@
+{
+  "name": "testFramework_eldhojohnson",
+  "version": "0.0.2",
+  "summary": "Lenddo SDK is used for company testing purposes.",
+  "description": "Lenddo SDK is used for company testing purposes. Find more details at https://bitbucket.devops.nonprod.empf.local/scm/react/testFramework",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/testFramework",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "eldho": "eldhojohnson@gmail.com"
+  },
+  "platforms": {
+    "ios": null
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/testFramework.git",
+    "tag": "0.0.2"
+  },
+  "source_files": "lenddoSDK/**/*.{h,m}"
+}

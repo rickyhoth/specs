@@ -1,0 +1,21 @@
+{
+  "name": "MoSpeaker",
+  "version": "1.0.0",
+  "summary": "voice recognition player",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MoSpeaker",
+  "license": "MIT",
+  "authors": {
+    "Lmoling": "lmoling@yeah.net"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MoSpeaker.git",
+    "tag": "1.0.0"
+  },
+  "source_files": [
+    "MoSpeaker",
+    "_moSpeaker/**/*.{h,m}"
+  ]
+}

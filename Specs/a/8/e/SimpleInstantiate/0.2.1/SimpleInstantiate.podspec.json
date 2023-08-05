@@ -1,0 +1,23 @@
+{
+  "name": "SimpleInstantiate",
+  "version": "0.2.1",
+  "summary": "Simple way to instantiate in Swift.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SimpleInstantiate",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "takecian": "takecian@gmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SimpleInstantiate.git",
+    "tag": "0.2.1"
+  },
+  "source_files": "SimpleInstantiate/*.swift",
+  "social_media_url": "https://twitter.com/takecian",
+  "swift_version": "4.2"
+}

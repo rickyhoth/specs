@@ -1,0 +1,25 @@
+{
+  "name": "GSLCommonImages",
+  "version": "0.0.1",
+  "summary": "General picture application library.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/GSLCommonImages",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "郭树磊": "guoshulei@gaokaofun.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/GSLCommonImages.git",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "Classes",
+    "Classes/**/*.{h,m}"
+  ],
+  "exclude_files": "Classes/Exclude"
+}

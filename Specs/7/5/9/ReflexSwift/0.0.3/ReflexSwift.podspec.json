@@ -1,0 +1,30 @@
+{
+  "name": "ReflexSwift",
+  "version": "0.0.3",
+  "summary": "Unidirectional data flow architecture for RxSwift",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ReflexSwift.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Nate Kim": "glwithu06@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ReflexSwift.git",
+    "tag": "0.0.3"
+  },
+  "source_files": "Sources/*.{swift,h,m}",
+  "frameworks": "Foundation",
+  "dependencies": {
+    "RxSwift": [
+      ">= 4.0.0"
+    ]
+  },
+  "platforms": {
+    "ios": "8.0",
+    "osx": "10.10",
+    "tvos": "9.0",
+    "watchos": "2.0"
+  }
+}

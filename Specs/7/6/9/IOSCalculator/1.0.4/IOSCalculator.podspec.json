@@ -1,0 +1,19 @@
+{
+  "name": "IOSCalculator",
+  "version": "1.0.4",
+  "summary": "IOSCalculator",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/IOSCalculator",
+  "license": "MIT",
+  "authors": "Luis Cruz",
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/IOSCalculator.git",
+    "tag": "1.0.4"
+  },
+  "source_files": [
+    "IOSCalculator",
+    "IOSCalculator/**/*.{h,m,swift}"
+  ]
+}

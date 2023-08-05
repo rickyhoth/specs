@@ -1,0 +1,27 @@
+{
+  "name": "RxExternalAccessory",
+  "version": "1.0.0",
+  "summary": "RxSwift wrapper around ExternalAccessory framework",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/RxExternalAccessory",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Kamil Harasimowicz": "kamil.harasimowicz@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/RxExternalAccessory.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "RxExternalAccessory/Sources/**/*.swift",
+  "frameworks": "ExternalAccessory",
+  "dependencies": {
+    "RxSwift": [
+      "~> 4.0"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "VPPReachability",
+  "version": "0.1.0",
+  "license": "MIT",
+  "summary": "VPPReachability Library for iOS simplifies access to the status of a given hostname.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/VPPReachability",
+  "authors": {
+    "Victor Pena": "contact@victorpena.es"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/VPPReachability.git",
+    "tag": "0.1.0"
+  },
+  "source_files": "VPPReachability/",
+  "frameworks": "SystemConfiguration",
+  "requires_arc": false
+}

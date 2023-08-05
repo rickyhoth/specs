@@ -1,0 +1,25 @@
+{
+  "name": "OptionControl",
+  "version": "1.1.0",
+  "summary": "OptionControl for SingleOption and MutilOption",
+  "description": "OptionControl for SingleOption and MutilOption that helps you",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/OptionControl",
+  "license": "MIT",
+  "authors": {
+    "luosai": "luosai19910103@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/OptionControl.git",
+    "tag": "1.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "OptionControl/Classes/**/*",
+  "resource_bundles": {
+    "OptionControl": [
+      "OptionControl/Assets/*.png"
+    ]
+  },
+  "frameworks": "UIKit"
+}

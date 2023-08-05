@@ -1,0 +1,21 @@
+{
+  "name": "ROThumbnailGenerator",
+  "version": "2.1.1",
+  "license": {
+    "type": "MIT"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ROThumbnailGenerator",
+  "authors": {
+    "Robin Oster": "prine.dev@gmail.com"
+  },
+  "summary": "Creates thumbnails of different file types very easily",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ROThumbnailGenerator.git",
+    "tag": "2.1.1"
+  },
+  "source_files": "Source/**/*",
+  "frameworks": "SystemConfiguration",
+  "platforms": {
+    "ios": "8.4"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "GroupModules",
+  "version": "1.0.1",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "summary": "Welcome to use.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/GroupsModules",
+  "license": "MIT",
+  "authors": {
+    "Zero": ""
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/GroupsModules.git",
+    "tag": "1.0.0"
+  },
+  "frameworks": [
+    "Foundation",
+    "UIKit"
+  ],
+  "source_files": "GroupViewController/GroupModules/*.{h,m}",
+  "requires_arc": true,
+  "dependencies": {
+    "Masonry": [
+
+    ]
+  }
+}

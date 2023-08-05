@@ -1,0 +1,32 @@
+{
+  "name": "YYURLRequest",
+  "version": "0.2.2",
+  "summary": "A Objective-C network library based on AFNetworking/YYModel/YYCache.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/YYURLRequest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Pircate": "gao497868860@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YYURLRequest.git",
+    "tag": "0.2.2"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "YYURLRequest/Classes/**/*",
+  "dependencies": {
+    "AFNetworking": [
+
+    ],
+    "YYModel": [
+
+    ],
+    "YYCache": [
+
+    ]
+  }
+}

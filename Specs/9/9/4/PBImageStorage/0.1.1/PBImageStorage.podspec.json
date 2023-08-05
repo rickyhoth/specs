@@ -1,0 +1,19 @@
+{
+  "name": "PBImageStorage",
+  "version": "0.1.1",
+  "license": "MIT",
+  "summary": "Key-value image storage with memory cache, thumbnails support and on-disk persistence.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/PBImageStorage",
+  "authors": {
+    "Andrej Mihajlov": "and@codeispoetry.ru"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/PBImageStorage.git",
+    "tag": "0.1.1"
+  },
+  "source_files": "*.{h,m}",
+  "requires_arc": true,
+  "platforms": {
+    "ios": "7.0"
+  }
+}

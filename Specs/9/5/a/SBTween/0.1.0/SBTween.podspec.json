@@ -1,0 +1,19 @@
+{
+  "name": "SBTween",
+  "version": "0.1.0",
+  "summary": "Tweening library for iOS",
+  "description": "A functional, but work in progress tweening library for iOS. Allows for scrubbable animations.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SBTween",
+  "license": "MIT",
+  "authors": {
+    "Steve Barnegren": "steve.barnegren@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SBTween.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source_files": "SBTween/Classes/**/*"
+}

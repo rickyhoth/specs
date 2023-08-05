@@ -1,0 +1,29 @@
+{
+  "name": "BasiqKit",
+  "version": "0.0.3",
+  "summary": "BasiqKit for basiq.io",
+  "description": "BasiqKit allows to use Basiq API and choose banks, fetch transaction with native way on iOS",
+  "dependencies": {
+    "PromisesSwift": [
+      "= 1.2.3"
+    ]
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/BasiqKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "swift_version": "4.2",
+  "authors": {
+    "Eugene Velizhenkov": "tredasaibot@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/BasiqKit.git",
+    "tag": "0.0.3"
+  },
+  "source_files": "BasiqKit/**/*.{swift}",
+  "exclude_files": "Classes/Exclude"
+}

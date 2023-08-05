@@ -1,0 +1,19 @@
+{
+  "name": "WXMComponentManager",
+  "version": "1.4.0",
+  "license": "MIT",
+  "summary": "组件中间层",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WXMComponentManager",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WXMComponentManager.git",
+    "tag": "1.4.0"
+  },
+  "source_files": "Class",
+  "requires_arc": true,
+  "platforms": {
+    "ios": "9.0"
+  },
+  "authors": {
+    "wq": "347511109@qq.com"
+  }
+}

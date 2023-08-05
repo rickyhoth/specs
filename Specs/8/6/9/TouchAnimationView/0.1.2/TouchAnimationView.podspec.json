@@ -1,0 +1,21 @@
+{
+  "name": "TouchAnimationView",
+  "version": "0.1.2",
+  "summary": "Beautiful Touch Animation View.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TouchAnimationView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Jonghyun Kim": "filmhomage@hotmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TouchAnimationView.git",
+    "tag": "0.1.2"
+  },
+  "source_files": "TouchAnimationView/Classes/**/*",
+  "platforms": {
+    "ios": "8.0"
+  }
+}

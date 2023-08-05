@@ -1,0 +1,29 @@
+{
+  "name": "YCBase",
+  "version": "0.1.0",
+  "summary": "easy to imp",
+  "description": "-YCItem\n-YCViewController\n-YCTableViewController\n-YCNavigationController",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/YCBase",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ungacy": "ungacy@126.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YCBase.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "YCBase/Classes/**/*",
+  "public_header_files": "YCBase/Classes/**/*.h",
+  "frameworks": "UIKit",
+  "dependencies": {
+    "Masonry": [
+
+    ]
+  }
+}

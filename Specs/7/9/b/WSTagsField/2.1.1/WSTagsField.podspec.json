@@ -1,0 +1,25 @@
+{
+  "name": "WSTagsField",
+  "version": "2.1.1",
+  "summary": "An iOS text field that represents different Tags",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WSTagsField",
+  "license": "MIT",
+  "authors": {
+    "Ricardo Pereira": "m@ricardopereira.eu"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WSTagsField.git",
+    "tag": "2.1.1"
+  },
+  "social_media_url": "https://twitter.com/whitesmithco",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": [
+    "WSTagsField/*.{h}",
+    "Source/**/*.{h,swift}"
+  ],
+  "frameworks": "UIKit",
+  "pushed_with_swift_version": "3.0"
+}

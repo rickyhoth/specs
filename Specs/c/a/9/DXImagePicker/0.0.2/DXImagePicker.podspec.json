@@ -1,0 +1,36 @@
+{
+  "name": "DXImagePicker",
+  "version": "0.0.2",
+  "summary": "Easy way to pick image",
+  "description": "`Easy way to pick image`",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DXImagePicker",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Eric": "15110426342@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DXImagePicker.git",
+    "tag": "0.0.2"
+  },
+  "swift_versions": "5.0",
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source_files": "DXImagePicker/Classes/**/*",
+  "frameworks": [
+    "UIKit",
+    "Photos"
+  ],
+  "dependencies": {
+    "TZImagePickerController": [
+      "~> 3.6.6"
+    ],
+    "CropViewController": [
+      "~> 2.6.0"
+    ]
+  },
+  "swift_version": "5.0"
+}

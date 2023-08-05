@@ -1,0 +1,26 @@
+{
+  "name": "AuthenticationKit",
+  "version": "0.2.0",
+  "summary": "Simplify Authentication",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AuthenticationKit",
+  "license": "MIT",
+  "authors": {
+    "Pierre-Marc Airoldi": "pierremarcairoldi@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AuthenticationKit.git",
+    "tag": "0.2.0"
+  },
+  "platforms": {
+    "ios": "8.0",
+    "osx": "10.10"
+  },
+  "requires_arc": true,
+  "source_files": "AuthenticationKit/Core/*",
+  "ios": {
+    "source_files": "AuthenticationKit/iOS/*"
+  },
+  "osx": {
+    "source_files": "AuthenticationKit/Mac/*"
+  }
+}

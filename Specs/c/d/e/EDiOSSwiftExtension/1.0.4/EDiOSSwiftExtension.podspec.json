@@ -1,0 +1,22 @@
+{
+  "name": "EDiOSSwiftExtension",
+  "version": "1.0.4",
+  "summary": "UIKit and Foundation framework extensions",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/EDiOSSwiftExtension",
+  "license": "MIT",
+  "authors": {
+    "Amit Chowdhury": "amit.chowdhury@bjitgroup.com"
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/EDiOSSwiftExtension.git",
+    "tag": "1.0.4"
+  },
+  "source_files": "**/*.swift",
+  "swift_versions": [
+    "5.0"
+  ],
+  "swift_version": "5.0"
+}

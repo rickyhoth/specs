@@ -1,0 +1,28 @@
+{
+  "name": "BFDisplayEvent",
+  "version": "2.0.1",
+  "summary": "基于MVVM模式的轻量级解耦框架",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/BFDisplayEvent",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wans": "wanslm@foxmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/BFDisplayEvent.git",
+    "tag": "2.0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "BFDisplayEvent/Classes/**/*",
+  "prefix_header_contents": "#import <BFDisplayEvent/BFDisplayEvent.h>",
+  "dependencies": {
+    "CTObjectiveCRuntimeAdditions": [
+
+    ]
+  }
+}

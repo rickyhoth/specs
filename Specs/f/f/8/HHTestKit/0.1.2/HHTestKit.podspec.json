@@ -1,0 +1,27 @@
+{
+  "name": "HHTestKit",
+  "version": "0.1.2",
+  "summary": "A short description of HHTestKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HHTestKit.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "chh": "chh@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HHTestKit.git",
+    "tag": "0.1.2"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "HHTestKit/Classes/**/*",
+  "dependencies": {
+    "SnapKit": [
+      "~> 4.2.0"
+    ]
+  }
+}

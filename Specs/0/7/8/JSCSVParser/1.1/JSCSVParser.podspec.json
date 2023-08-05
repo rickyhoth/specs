@@ -1,0 +1,29 @@
+{
+  "name": "JSCSVParser",
+  "version": "1.1",
+  "license": "MIT",
+  "summary": "An efficient CSV parser implementing RFC 4180",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JSCSVParser",
+  "authors": {
+    "jsloop": "jsloop42@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JSCSVParser.git",
+    "tag": "1.1"
+  },
+  "documentation_url": "https://bitbucket.devops.nonprod.empf.local/scm/react/JSCSVParser",
+  "platforms": {
+    "osx": "10.9",
+    "ios": "8.0"
+  },
+  "source_files": "CSVParser/*.swift",
+  "swift_versions": [
+    "4.2",
+    "5.0"
+  ],
+  "dependencies": {
+    "JSLogger": [
+
+    ]
+  }
+}

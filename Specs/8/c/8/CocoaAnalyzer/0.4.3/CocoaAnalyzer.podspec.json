@@ -1,0 +1,21 @@
+{
+  "name": "CocoaAnalyzer",
+  "version": "0.4.3",
+  "summary": "Tool for finding xib and storyboard-related issues at the build time.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CocoaAnalyzer",
+  "license": "MIT",
+  "authors": {
+    "James Lee": "jameslee@goodeffect.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CocoaAnalyzer.git",
+    "tag": "0.4.3"
+  },
+  "preserve_paths": "*",
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}

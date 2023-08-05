@@ -1,0 +1,31 @@
+{
+  "name": "spark-sdk",
+  "version": "0.1.0",
+  "summary": "Cocoapod library of Spark mobile SDK for iOS",
+  "description": "                       Cocoapod library of Spark mobile SDK for iOS\n                       Longer description to follow\n",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/spark-sdk-ios",
+  "license": "LGPL v3",
+  "authors": {
+    "Ido Kleinman": "idokleinman@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/spark-sdk-ios.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "spark-sdk": [
+      "Pod/Assets/*.png"
+    ]
+  },
+  "public_header_files": "Pod/Classes/**/*.h",
+  "dependencies": {
+    "AFNetworking": [
+
+    ]
+  }
+}

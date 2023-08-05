@@ -1,0 +1,21 @@
+{
+  "name": "WXQCategory",
+  "version": "0.1.1",
+  "summary": "一些常用扩展类",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WXQCategory",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xiaoqiCloud": "xiaoqi9302@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WXQCategory.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source_files": "WXQCategory/Classes/**/*"
+}

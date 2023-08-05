@@ -1,0 +1,21 @@
+{
+  "name": "IndicatorButton",
+  "version": "0.1.0",
+  "summary": "Easily manage state values with UIButton with UIActivityIndicatorView (UIButtons include simple animation)",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/IndicatorButton",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "gwangyonglee": "gwangyonglee92@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/IndicatorButton.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "12.0"
+  },
+  "source_files": "IndicatorButton/Classes/**/*"
+}

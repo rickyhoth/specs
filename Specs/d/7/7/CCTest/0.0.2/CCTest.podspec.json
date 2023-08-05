@@ -1,0 +1,19 @@
+{
+  "name": "CCTest",
+  "version": "0.0.2",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CCTest",
+  "license": "MIT",
+  "authors": {
+    "": "yanguangbi805@emao.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "summary": "A TEST Demo",
+  "swift_version": "3.0",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CCTest.git",
+    "tag": "0.0.2"
+  },
+  "source_files": "CCTest/*"
+}

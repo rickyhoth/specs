@@ -1,0 +1,22 @@
+{
+  "name": "MKSpinner",
+  "version": "1.1.0",
+  "summary": "A beautiful activity indicator written in Swift",
+  "description": "Same of SwidtSpinner 'https://bitbucket.devops.nonprod.empf.local/scm/react/SwiftSpinner' with changing spin animations",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MKSpinner",
+  "license": "None",
+  "authors": {
+    "Moayad Al kouz": "moayad_kouz9@hotmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MKSpinner.git",
+    "tag": "1.1.0"
+  },
+  "social_media_url": "https://twitter.com/malkouz",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "MKSpinner/Classes/*",
+  "frameworks": "UIKit"
+}

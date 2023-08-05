@@ -1,0 +1,21 @@
+{
+  "name": "IGValidator",
+  "version": "0.0.2",
+  "summary": "ios text validator.",
+  "description": "\"ios text validator.\"",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/iOS-Validator",
+  "license": "MIT",
+  "authors": {
+    "itgoo": "https://bitbucket.devops.nonprod.empf.local/scm/react/iOS-Validator"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/iOS-Validator.git",
+    "tag": "0.0.2"
+  },
+  "source_files": "IGValidator/**/*.{h,m}",
+  "public_header_files": "IGValidator/**/*.h",
+  "frameworks": "UIKit"
+}

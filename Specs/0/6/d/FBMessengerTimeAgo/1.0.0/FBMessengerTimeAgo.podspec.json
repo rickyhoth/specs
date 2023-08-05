@@ -1,0 +1,21 @@
+{
+  "name": "FBMessengerTimeAgo",
+  "version": "1.0.0",
+  "summary": "Facebook Messenger time ago style format",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/FBMessengerTimeAgo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Royce Dy": "rady182@me.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/FBMessengerTimeAgo.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FBMessengerTimeAgo/*"
+}

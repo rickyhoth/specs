@@ -1,0 +1,22 @@
+{
+  "name": "OWPhotoBrowser",
+  "version": "0.1.0",
+  "summary": "Light-weight photo browser for iOS.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/OWPhotoBrowser",
+  "authors": {
+    "Jianjun Wu": "jxjstony@gmail.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/OWPhotoBrowser.git",
+    "tag": "0.1.0"
+  },
+  "source_files": "PhotoBrowser/**/*.{h,m}",
+  "requires_arc": true,
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "CLTools",
+  "version": "1.0.3",
+  "summary": "CLTools contains some tool classes",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CLTools",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ClaudeLi": "claudeli@yeah.net"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CLTools.git",
+    "tag": "1.0.3"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CLTools/Classes/**/*"
+}

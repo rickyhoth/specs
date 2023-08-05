@@ -1,0 +1,23 @@
+{
+  "name": "SplittableViewKit",
+  "version": "0.1.1",
+  "summary": "UITableView based splittable view.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/reactSplittableViewKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "marty-suzuki": "s1180183@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/reactSplittableViewKit.git",
+    "tag": "0.1.1"
+  },
+  "social_media_url": "https://twitter.com/marty_suzuki",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "Sources/**/*.{swift,h,m}",
+  "swift_version": "4.2"
+}

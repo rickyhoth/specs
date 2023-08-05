@@ -1,0 +1,22 @@
+{
+  "name": "Differentiator",
+  "version": "4.0.1",
+  "summary": "Diff algorithm for UITableView and UICollectionView.",
+  "description": "Diff algorithm for UITableView and UICollectionView.\nRxDataSources is powered by Differentiator.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/RxDataSources",
+  "license": "MIT",
+  "authors": {
+    "Krunoslav Zaher": "krunoslav.zaher@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/RxDataSources.git",
+    "tag": "4.0.1"
+  },
+  "requires_arc": true,
+  "swift_versions": "5.0",
+  "source_files": "Sources/Differentiator/**/*.swift",
+  "platforms": {
+    "ios": "8.0",
+    "tvos": "9.0"
+  }
+}

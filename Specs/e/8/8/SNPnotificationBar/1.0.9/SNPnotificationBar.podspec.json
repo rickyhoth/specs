@@ -1,0 +1,23 @@
+{
+  "name": "SNPnotificationBar",
+  "version": "1.0.9",
+  "swift_version": "4.2",
+  "summary": "SNPnotificationBar for iOS apps.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SNPnotificationBar",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ahmedAlmasri": "ahmed.almasri@ymail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SNPnotificationBar.git",
+    "tag": "1.0.9"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "SNPnotificationBar/Classes/**/*"
+}

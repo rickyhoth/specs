@@ -1,0 +1,23 @@
+{
+  "name": "Atbot43-BlinkingLabel",
+  "version": "0.1.1",
+  "summary": "A subclass on UILabel that provides a blink.",
+  "description": "This CocoaPod provides the ability to use a UILabel that may be started and stopped blinking.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/BlinkingLabel",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "mrsomphop.dev@gmail.com": "mrsomphop.dev@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/BlinkingLabel.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "BlinkingLabel/Classes/**/*",
+  "pushed_with_swift_version": "4.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "OMTLibs",
+  "version": "1.0.0",
+  "summary": "OMT ios private libs",
+  "description": "private libs create by OMT",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/OMTLibs",
+  "license": "MIT",
+  "authors": {
+    "liuf": "zglf1986@126.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/OMTLibs.git",
+    "tag": "1.0.0"
+  },
+  "ios": {
+    "vendored_frameworks": "OMTLibs/**/*.{framework}"
+  },
+  "resources": "OMTLibs/**/*.{bundle}",
+  "requires_arc": true
+}

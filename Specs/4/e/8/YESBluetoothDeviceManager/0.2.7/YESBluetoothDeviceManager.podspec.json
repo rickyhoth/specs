@@ -1,0 +1,28 @@
+{
+  "name": "YESBluetoothDeviceManager",
+  "platforms": {
+    "ios": "12.0"
+  },
+  "summary": "YESBluetoothDeviceManager helps to interact with BLE devices",
+  "requires_arc": true,
+  "version": "0.2.7",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Yevgen Sagidulin": "protspace@gmail.com"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/YESBluetoothDeviceManager",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YESBluetoothDeviceManager.git",
+    "tag": "0.2.7"
+  },
+  "source_files": [
+    "YESBluetoothDeviceManager/*.swift",
+    "YESBluetoothDeviceManager",
+    "YESBluetoothDeviceManager/*.{swift}",
+    "YESBluetoothDeviceManager/YESBluetoothDeviceManager/*.swift"
+  ],
+  "swift_version": "4.2"
+}

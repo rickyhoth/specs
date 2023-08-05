@@ -1,0 +1,22 @@
+{
+  "name": "BNRSDKLib",
+  "version": "0.1.0",
+  "summary": "A short description of BNRSDKLib.",
+  "description": "Utility , Category in BNRSDKLib",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/BNRSDK.git",
+  "license": "MIT",
+  "authors": {
+    "JustinYang": "ityangjing@gmail.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/BNRSDK.git"
+  },
+  "source_files": [
+    "BNRSDKLib/BNRSDKLib/*.{h,m}",
+    "BNRSDKLib/BNRSDKLib/**/*.{m,h}"
+  ],
+  "exclude_files": "Classes/Exclude"
+}

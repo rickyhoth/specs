@@ -1,0 +1,23 @@
+{
+  "name": "MediaKeyTap",
+  "version": "2.2.1",
+  "summary": "Access the Mac's media keys in Swift",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MediaKeyTap",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Nicholas Hurden": "git@nhurden.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MediaKeyTap.git",
+    "tag": "2.2.1"
+  },
+  "platforms": {
+    "osx": "10.10"
+  },
+  "requires_arc": true,
+  "source_files": "MediaKeyTap/*.{swift}",
+  "frameworks": "CoreGraphics"
+}

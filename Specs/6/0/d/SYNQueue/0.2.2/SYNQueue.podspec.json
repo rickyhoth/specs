@@ -1,0 +1,21 @@
+{
+  "name": "SYNQueue",
+  "version": "0.2.2",
+  "summary": "SYNQueue",
+  "description": "A simple yet powerful queueing system for iOS (with persistence)",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SYNQueue",
+  "license": "MIT",
+  "authors": {
+    "John Hurliman": "johnh@thredhq.com",
+    "Sidhant Gandhi": "sidhant.gandhi@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SYNQueue.git",
+    "tag": "0.2.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "SYNQueue/SYNQueue/**.swift"
+}

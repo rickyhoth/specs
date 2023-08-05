@@ -1,0 +1,17 @@
+{
+  "name": "PodsSecond",
+  "version": "0.0.2",
+  "summary": "测试pods私有库二",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/PodsSecond",
+  "license": "MIT",
+  "authors": {
+    "scorpion": "1016667005@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/PodsSecond.git"
+  },
+  "platforms": {
+    "ios": null
+  },
+  "source_files": "PodsSecond/PodsSecond/Utils/*"
+}

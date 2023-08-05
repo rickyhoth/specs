@@ -1,0 +1,19 @@
+{
+  "name": "MGTools",
+  "version": "0.0.3",
+  "summary": "一些oc 常用的工具类.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Tools",
+  "license": "MIT",
+  "authors": {
+    "xiaomage": "martin1478@163.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Tools.git",
+    "tag": "0.0.3"
+  },
+  "source_files": "MGTools/Tools/*.{h,m}",
+  "requires_arc": true
+}

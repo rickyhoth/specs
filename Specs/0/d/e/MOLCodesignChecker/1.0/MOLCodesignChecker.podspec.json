@@ -1,0 +1,24 @@
+{
+  "name": "MOLCodesignChecker",
+  "version": "1.0",
+  "platforms": {
+    "osx": null
+  },
+  "license": "Apache",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/macops-molcodesignchecker",
+  "authors": {
+    "Google Macops": "macops-external@google.com"
+  },
+  "summary": "Perform codesign validation simply in Objective-C",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/macops-molcodesignchecker.git",
+    "tag": "v1.0"
+  },
+  "source_files": "Source/MOLCodesignChecker.{h,m}",
+  "frameworks": "Security",
+  "dependencies": {
+    "MOLCertificate": [
+      "~> 1.0"
+    ]
+  }
+}

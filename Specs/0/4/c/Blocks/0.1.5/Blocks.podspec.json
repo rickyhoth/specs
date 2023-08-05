@@ -1,0 +1,23 @@
+{
+  "name": "Blocks",
+  "version": "0.1.5",
+  "summary": "Blocks has a few helper library for iOS App.",
+  "description": "* this is first release.\n* don't use anyone yet.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/blocks",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "pi": "pimail31@gmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/blocks-swift.git",
+    "tag": "0.1.5"
+  },
+  "source_files": "Blocks/**/*.{swift}",
+  "pushed_with_swift_version": "3.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "TinyLayout",
+  "version": "1.1",
+  "summary": "Human-friendly autolayout. So sweet!",
+  "description": "With Tiny Constraints you will forget about ugly view.firstBaselineAnchor.constraint(blah-blah-blah)",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TinyLayout",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "SinetGroup": "office@yaknet.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TinyLayout.git",
+    "tag": "1.1"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "TinyLayout/Classes/**/*",
+  "swift_version": "4"
+}

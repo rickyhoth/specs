@@ -1,0 +1,24 @@
+{
+  "name": "nb-ios-maps",
+  "version": "0.0.5",
+  "summary": "iOS Maps SDK by Nextbillion AI.",
+  "description": "iOS Maps SDK, Directions, DistanceMatrix and Matching APIs that provided by Nextbillion AI,",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/reactnb-ios-maps",
+  "license": ":git => 'https://bitbucket.devops.nonprod.empf.local/scm/reactLICENSE'",
+  "authors": {
+    "Dan": "dan@nextbillion.ai"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "http": "https://bitbucket.devops.nonprod.empf.local/scm/reactNbmaps.zip"
+  },
+  "pod_target_xcconfig": {
+    "EXCLUDED_ARCHS[sdk=iphonesimulator*]": "arm64"
+  },
+  "user_target_xcconfig": {
+    "EXCLUDED_ARCHS[sdk=iphonesimulator*]": "arm64"
+  },
+  "vendored_frameworks": "Nbmap.framework"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "URIDrumKit",
+  "version": "0.2.2",
+  "summary": "Library to easily handle Universal Links in iOS app",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/URIDrumKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "pencildrummer": "info@pencildrummer.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/URIDrumKit.git",
+    "tag": "0.2.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "URIDrumKit/Classes/**/*",
+  "pushed_with_swift_version": "3.0"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "GWTool",
+  "version": "0.0.1",
+  "summary": "A small tool collection",
+  "description": "GWTool provides some small function,I will Continually updated",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/GWTool",
+  "license": "MIT",
+  "authors": {
+    "zhaoguowei": "529670074@qq.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/GWTool.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "demo/demo/gwtools/*.{h,m}",
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ],
+  "requires_arc": true
+}

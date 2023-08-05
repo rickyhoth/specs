@@ -1,0 +1,25 @@
+{
+  "name": "CheckMarkView",
+  "version": "0.2",
+  "summary": "Simple checkmark for UICollectionViewCell",
+  "description": "Just simple view which draws programmatically checkmark with some styles",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CheckMarkView",
+  "license": {
+    "type": "MIT"
+  },
+  "authors": {
+    "Maxim Bilan": "maximb.mail@gmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CheckMarkView.git",
+    "tag": "0.2"
+  },
+  "source_files": [
+    "Classes",
+    "CheckMarkView/Sources/**/*.{swift}"
+  ],
+  "requires_arc": true
+}

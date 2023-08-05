@@ -1,0 +1,28 @@
+{
+  "name": "FGHUD",
+  "version": "3.0.2",
+  "summary": "FGHUD is a simple and pretty siwft HUD",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/FGHUD",
+  "license": "MIT",
+  "authors": {
+    "CGPointZero": "newbox0512@yahoo.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/FGHUD.git",
+    "tag": "3.0.2"
+  },
+  "frameworks": [
+    "Foundation",
+    "UIKit"
+  ],
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "FGHUD/*.swift",
+  "requires_arc": true,
+  "dependencies": {
+    "SnapKit": [
+
+    ]
+  }
+}

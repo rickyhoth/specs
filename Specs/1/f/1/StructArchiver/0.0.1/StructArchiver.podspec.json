@@ -1,0 +1,21 @@
+{
+  "name": "StructArchiver",
+  "version": "0.0.1",
+  "summary": "Archive struct into NSData and unarchive in Swift.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/struct-archiver",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE.txt"
+  },
+  "authors": {
+    "naru-jpn": "tus.naru@gmail.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/struct-archiver.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "Sources/*.swift"
+}

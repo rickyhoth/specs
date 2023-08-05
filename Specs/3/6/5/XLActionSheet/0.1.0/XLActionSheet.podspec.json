@@ -1,0 +1,27 @@
+{
+  "name": "XLActionSheet",
+  "version": "0.1.0",
+  "summary": "User-defined Action SheetView.",
+  "description": "TODO: User-defined ActionSheetView, data support dictionary, text color customization, scrollable beyond the screen, adapted to various models of the iPhone.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/XLActionSheetView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "HeXiuLian": "xiulian.he@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/XLActionSheetView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "XLActionSheet/Classes/**/*",
+  "dependencies": {
+    "Masonry": [
+
+    ]
+  }
+}

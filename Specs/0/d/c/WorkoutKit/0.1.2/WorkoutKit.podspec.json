@@ -1,0 +1,45 @@
+{
+  "name": "WorkoutKit",
+  "version": "0.1.2",
+  "summary": "Mostly used in training Apps like 7 mins workout, and HIIT workout.",
+  "description": "In 7 Mins workout and HIIT workout Apps, we need same iCloud functions, this is why I created it.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WorkoutKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "liuwanwei@gmail.com": "liuwanwei@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WorkoutKit.git",
+    "tag": "0.1.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": [
+    "WorkoutKit/Classes/*.{h,m}",
+    "WorkoutKit/Classes/**/*.{h,m}"
+  ],
+  "dependencies": {
+    "DateTools": [
+
+    ],
+    "FFGlobalAlertController": [
+
+    ],
+    "BDBaseKit": [
+
+    ],
+    "TMCache": [
+
+    ],
+    "MJExtension": [
+
+    ],
+    "libextobjc": [
+
+    ]
+  }
+}

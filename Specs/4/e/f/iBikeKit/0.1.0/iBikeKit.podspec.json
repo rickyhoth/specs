@@ -1,0 +1,22 @@
+{
+  "name": "iBikeKit",
+  "version": "0.1.0",
+  "summary": "iBikeKit init!",
+  "description": "“测试iBikeKit demo”",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/iBikeKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "943980293@qq.com": "pujunxiao@changhongit.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/iBikeKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "iBikeKit/Classes/**/*"
+}

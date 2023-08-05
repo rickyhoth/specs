@@ -1,0 +1,18 @@
+{
+  "name": "Gecco",
+  "version": "2.0.0",
+  "license": "MIT",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/",
+  "summary": "Simply highlight items for your tutorial walkthrough, written in Swift",
+  "authors": {
+    "yukiasai": "yukiasai@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Gecco.git",
+    "tag": "2.0.0"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source_files": "Classes/*.swift"
+}

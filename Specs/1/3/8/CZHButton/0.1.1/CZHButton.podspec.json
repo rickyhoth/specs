@@ -1,0 +1,22 @@
+{
+  "name": "CZHButton",
+  "version": "0.1.1",
+  "summary": "A short description of CZHButton.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CZHButton",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "luckyczh": "766479200@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CZHButton.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CZHButton/Classes/**/*"
+}

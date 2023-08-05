@@ -1,0 +1,20 @@
+{
+  "name": "EmitterKit",
+  "version": "3.2.1",
+  "license": "MIT",
+  "summary": "Type-safe event handling for Swift",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/emitter-kit",
+  "authors": {
+    "Alec Larson": ""
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/emitter-kit.git",
+    "tag": "3.2.1"
+  },
+  "platforms": {
+    "ios": "8.0",
+    "osx": "10.9"
+  },
+  "source_files": "src/*.swift",
+  "requires_arc": true
+}

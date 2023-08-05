@@ -1,0 +1,22 @@
+{
+  "name": "BYCURLHandler",
+  "version": "0.1.2",
+  "summary": "A short description of BYCURLHandler.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/BYCURLHandler",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "BYC810": "188580770@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/BYCURLHandler.git",
+    "tag": "0.1.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "BYCURLHandler/Classes/**/*"
+}

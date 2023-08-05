@@ -1,0 +1,33 @@
+{
+  "name": "ssocketoc",
+  "version": "1.0.1",
+  "summary": "对应 ssocket node 后端而写的 客户端框架",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ssocket-oc",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "summer.li": "asd995633088@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ssocket-oc.git",
+    "tag": "1.0.1"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "ssocketoc/Classes/**/*",
+  "dependencies": {
+    "GZIP": [
+
+    ],
+    "YYModel": [
+
+    ],
+    "SocketRocket": [
+
+    ]
+  }
+}

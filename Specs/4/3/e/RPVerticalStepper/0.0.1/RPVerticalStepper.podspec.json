@@ -1,0 +1,21 @@
+{
+  "name": "RPVerticalStepper",
+  "version": "0.0.1",
+  "summary": "A simple vertical stepper control for iOS that is similar in function to the UIStepper control.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/RPVerticalStepper",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": "Rob Phillips",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/RPVerticalStepper.git",
+    "tag": "v0.0.1"
+  },
+  "platforms": {
+    "ios": "5.0"
+  },
+  "source_files": "RPVerticalStepper",
+  "resources": "RPVerticalStepper/Stepper Images/*.png",
+  "requires_arc": true
+}

@@ -1,0 +1,24 @@
+{
+  "name": "PFTestEat",
+  "version": "1.0.0",
+  "summary": "asdasfafafa",
+  "description": "asdsadsafdsklwqekml",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/PFTestEat",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Flly": "fllyguo@163.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/PFTestEat.git",
+    "tag": "v1.0.0"
+  },
+  "frameworks": "Foundation",
+  "vendored_frameworks": "PFTestEat/*.{framework}",
+  "requires_arc": true
+}

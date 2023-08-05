@@ -1,0 +1,25 @@
+{
+  "name": "WGURLRequestKit",
+  "version": "1.0.5",
+  "summary": "AFNetworking wrapper.",
+  "description": "AFNetworking wrapper. work for me.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WGURLRequestKit",
+  "license": "MIT",
+  "authors": {
+    "7owen": "lgw52@hotmail.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WGURLRequestKit.git",
+    "tag": "1.0.5"
+  },
+  "source_files": "WGURLRequestKit/*.{h,m}",
+  "requires_arc": true,
+  "dependencies": {
+    "AFNetworking": [
+
+    ]
+  }
+}

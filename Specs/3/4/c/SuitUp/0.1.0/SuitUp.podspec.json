@@ -1,0 +1,23 @@
+{
+  "name": "SuitUp",
+  "version": "0.1.0",
+  "summary": "Easy to use and lightweight theme manager.",
+  "description": "Easy to use and lightweight theme manager for iOS applications written in Swift with UIKit, but taking advantages of Objective-C reflection capabilities.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SuitUp",
+  "screenshots": "https://bitbucket.devops.nonprod.empf.local/scm/react/SuitUp/blob/master/Example/SuitUp.gif?raw=true",
+  "license": {
+    "type": "Apache License, Version 2.0",
+    "text": "LICENSE"
+  },
+  "authors": "W.UP",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SuitUp.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "SuitUp/SuitUp/**/*.swift",
+  "swift_versions": "5.1",
+  "swift_version": "5.1"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "ObjectMapperCacheManager",
+  "version": "1.1",
+  "summary": "A Light Tool For Cache Of ObjectMapper.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ObjectMapperCacheManager",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zzjzz9266a": "uestczzj@163.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ObjectMapperCacheManager.git",
+    "tag": "v1.1"
+  },
+  "source_files": "Sources/*.swift",
+  "dependencies": {
+    "ObjectMapper": [
+
+    ]
+  },
+  "requires_arc": true,
+  "swift_version": "4.0"
+}

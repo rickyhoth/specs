@@ -1,0 +1,24 @@
+{
+  "name": "ABLoadingView",
+  "version": "0.1.1",
+  "summary": "Simple Loading view screen with customisation",
+  "description": "This is a library that uses a singleton to create a loading view screen that can be customisable",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ABLoadingView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "andreasbagias": "andreasbagias@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ABLoadingView.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "swift_version": "4.1",
+  "source_files": "ABLoadingView/Classes/**/*",
+  "frameworks": "UIKit"
+}

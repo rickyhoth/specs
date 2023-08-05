@@ -1,0 +1,19 @@
+{
+  "name": "RBCommander",
+  "version": "0.0.2",
+  "license": "MIT",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "summary": "Commander to leverage the power of commands in iOS projects",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/RBCommander",
+  "authors": {
+    "Roshan Balaji": "roshan.nindrai@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/RBCommander.git",
+    "tag": "0.0.2"
+  },
+  "source_files": "RBCommander/*.{h,m}",
+  "requires_arc": true
+}

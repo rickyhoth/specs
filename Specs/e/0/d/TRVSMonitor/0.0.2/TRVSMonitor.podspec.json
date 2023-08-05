@@ -1,0 +1,23 @@
+{
+  "name": "TRVSMonitor",
+  "version": "0.0.2",
+  "summary": "A synchronization construct with the ability to wait until signalled that a condition has been met.",
+  "description": "                      A synchronization construct with the ability to wait\n                      until signalled that a condition has been met.\n\n                      Test framework agnostic.\n",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TRVSMonitor",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE.md"
+  },
+  "authors": {
+    "Travis Jeffery": "tj@travisjeffery.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TRVSMonitor.git",
+    "tag": "0.0.2"
+  },
+  "source_files": [
+    "TRVSMonitor",
+    "TRVSMonitor/**/*.{h,m}"
+  ],
+  "requires_arc": true
+}

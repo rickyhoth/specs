@@ -1,0 +1,24 @@
+{
+  "name": "KnockoutMatch",
+  "version": "0.0.1",
+  "summary": "KnockoutMatch is used to layout Knockout Match",
+  "description": "KnockoutMatch is used to layout Knockout Match,",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/KnockoutMatch",
+  "license": "MIT",
+  "authors": {
+    "jay.he": "1054134542@qq.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/KnockoutMatch.git",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "Classes",
+    "Classes/**/*.{h,m}"
+  ],
+  "exclude_files": "Classes/Exclude",
+  "requires_arc": true
+}

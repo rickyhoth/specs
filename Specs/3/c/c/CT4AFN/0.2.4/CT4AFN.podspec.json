@@ -1,0 +1,28 @@
+{
+  "name": "CT4AFN",
+  "version": "0.2.4",
+  "summary": "Code encapsulation for AFNetworking",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CT4AFNetworking",
+  "authors": "CT4 => 284766710@qq.com",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CT4AFNetworking.git",
+    "tag": "0.2.4"
+  },
+  "source_files": "CT4AFN/**/*.{h,m}",
+  "requires_arc": true,
+  "libraries": "z",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "dependencies": {
+    "AFNetworking": [
+      "~> 3"
+    ]
+  },
+  "license": "MIT",
+  "frameworks": [
+    "UIKit",
+    "AssetsLibrary",
+    "AVFoundation"
+  ]
+}

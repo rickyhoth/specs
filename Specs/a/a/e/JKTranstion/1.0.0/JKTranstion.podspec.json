@@ -1,0 +1,23 @@
+{
+  "name": "JKTranstion",
+  "version": "1.0.0",
+  "summary": "JKTranstionCustomPresent",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JKTranstionDemo",
+  "license": "MIT",
+  "authors": {
+    "Jessica": "15804253933@163.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JKTranstionDemo.git",
+    "tag": "1.0.0"
+  },
+  "source_files": [
+    "JKTranstion",
+    "JKTranstion/**/*.{h,m}"
+  ],
+  "frameworks": "UIKit",
+  "requires_arc": true
+}

@@ -1,0 +1,34 @@
+{
+  "name": "SilentRunnerEngine",
+  "version": "0.0.9",
+  "summary": "SilentRunnerEngine",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SilentRunner",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "andrewBatutin": "abatutin@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SilentRunner.git",
+    "tag": "0.0.9"
+  },
+  "source_files": "SilentRunner/SilentRunnerEngine/**/*",
+  "frameworks": "Foundation",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "requires_arc": true,
+  "dependencies": {
+    "JSONRPCom": [
+
+    ],
+    "SocketRocket": [
+
+    ],
+    "OCMockito": [
+
+    ]
+  }
+}

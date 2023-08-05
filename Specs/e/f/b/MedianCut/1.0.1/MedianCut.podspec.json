@@ -1,0 +1,24 @@
+{
+  "name": "MedianCut",
+  "version": "1.0.1",
+  "summary": "A image color extract library based on Median Cut algorithm",
+  "description": "Median Cut\nA image color extract library based on Median Cut algorithm.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MedianCut",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "junseok_lee": "kyounh12@snu.ac.kr"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MedianCut.git",
+    "tag": "1.0.1"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "swift_versions": "5.0",
+  "source_files": "MedianCut/Classes/**/*",
+  "swift_version": "5.0"
+}

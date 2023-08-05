@@ -1,0 +1,22 @@
+{
+  "name": "Lexic",
+  "version": "0.1.1",
+  "summary": "Lexic Test Demo",
+  "description": "LexicLexicLexicLexicLexicLexicLexicLexicLexicLexicLexicLexic",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Lexic.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Ju Liaoyuan": "juliaoyuan@bixin.cn"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Lexic.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "Lexic/Classes/**/*"
+}

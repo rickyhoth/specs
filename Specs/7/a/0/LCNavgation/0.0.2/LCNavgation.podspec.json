@@ -1,0 +1,23 @@
+{
+  "name": "LCNavgation",
+  "version": "0.0.2",
+  "summary": "LCNavgation.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LCNavgation",
+  "license": "MIT",
+  "authors": {
+    "luca": "luca@cocoaluca.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "frameworks": [
+    "Foundation",
+    "UIKit"
+  ],
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LCNavgation.git",
+    "tag": "0.0.2"
+  },
+  "source_files": "LCNavgation/LCNavgation/LCNavgation/**/*.{h,m}",
+  "requires_arc": true
+}

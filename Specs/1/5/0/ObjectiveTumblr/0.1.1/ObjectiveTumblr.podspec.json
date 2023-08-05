@@ -1,0 +1,30 @@
+{
+  "name": "ObjectiveTumblr",
+  "version": "0.1.1",
+  "license": "MIT",
+  "summary": "Tumblr API Client for Objective-C with minimal features, based on Tumblr API v2 (OAuth).",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ObjectiveTumblr",
+  "authors": {
+    "Francis Chong": "francis@ignition.hk"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ObjectiveTumblr.git",
+    "tag": "0.1.1"
+  },
+  "source_files": "ObjectiveTumblr/Classes/*.{h,m}",
+  "requires_arc": true,
+  "dependencies": {
+    "MKNetworkKit": [
+
+    ],
+    "RSOAuthEngine": [
+
+    ],
+    "JTObjectMapping": [
+
+    ],
+    "JSONKit": [
+
+    ]
+  }
+}

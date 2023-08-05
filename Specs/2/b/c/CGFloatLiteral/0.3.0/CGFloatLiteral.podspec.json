@@ -1,0 +1,26 @@
+{
+  "name": "CGFloatLiteral",
+  "version": "0.3.0",
+  "summary": "Simple CGFloat initializer.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CGFloatLiteral",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Suyeol Jeon": "devxoul@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CGFloatLiteral.git",
+    "tag": "0.3.0"
+  },
+  "source_files": "Sources/*.swift",
+  "requires_arc": true,
+  "platforms": {
+    "ios": "8.0",
+    "osx": "10.9",
+    "tvos": "9.0",
+    "watchos": "2.0"
+  },
+  "pushed_with_swift_version": "3.0"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "KeychainUDID",
+  "version": "0.1.0",
+  "summary": "A easy way get UDID",
+  "description": "A easy way get UDID With Keychain",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/KeychainUDID",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Silence": "374619540@qq.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/KeychainUDID",
+    "tag": "0.1.0"
+  },
+  "source_files": [
+    "KeychainUDID",
+    "KeychainUDID/**/*.{h,m}"
+  ],
+  "exclude_files": "KeychainUDID/Exclude"
+}

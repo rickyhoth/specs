@@ -1,0 +1,22 @@
+{
+  "name": "libcaculator",
+  "version": "1.0.0",
+  "summary": "library caculation by nghia",
+  "description": "'library caculation by nghia'",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/libcaculator",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "pvnghia123": "34206875+pvnghia123@users.noreply.github.com"
+  },
+  "source": {
+    "http": "https://bitbucket.devops.nonprod.empf.local/scm/react/libCalculator-ver1.00.zip"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "calculib.framework/Versions/A/Headers/*.{h,m,c,mm}",
+  "public_header_files": "calculib.framework/Versions/A/Headers/*.h"
+}

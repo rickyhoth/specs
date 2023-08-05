@@ -1,0 +1,26 @@
+{
+  "name": "QFBaseUtil",
+  "version": "1.0.1",
+  "summary": "some base util for mine project",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/QFBaseUtil",
+  "license": "MIT",
+  "authors": {
+    "风7cheng": "cqf_qifeng@163.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/QFBaseUtil.git",
+    "tag": "1.0.1"
+  },
+  "source_files": [
+    "QFBaseUtil",
+    "QFBaseUtil/**/*.{h,m}"
+  ],
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ],
+  "requires_arc": true
+}

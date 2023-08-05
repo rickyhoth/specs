@@ -1,0 +1,32 @@
+{
+  "name": "HKCommonModule",
+  "version": "0.1.2",
+  "summary": "一个项目通用组件module",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HKCommonModule",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "inoryshu": "inoryxun@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HKCommonModule.git",
+    "tag": "0.1.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HKCommonModule/Classes/HKCommonModuleHeader.h",
+  "subspecs": [
+    {
+      "name": "HKCategory",
+      "source_files": "HKCommonModule/Classes/HKCategory/**/*"
+    },
+    {
+      "name": "HKCommon",
+      "source_files": "HKCommonModule/Classes/HKCommon/**/*"
+    }
+  ]
+}

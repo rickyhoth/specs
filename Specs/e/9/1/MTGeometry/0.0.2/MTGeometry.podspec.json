@@ -1,0 +1,17 @@
+{
+  "name": "MTGeometry",
+  "version": "0.0.2",
+  "summary": "An extension to Core Graphics Geometry. Intersections, scaling, etc.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MTGeometry",
+  "license": "BSD",
+  "authors": {
+    "Adam Kirk": "atomkirk@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MTGeometry.git",
+    "tag": "0.0.2"
+  },
+  "source_files": "MTGeometry/*.{h,c}",
+  "frameworks": "CoreGraphics",
+  "requires_arc": false
+}

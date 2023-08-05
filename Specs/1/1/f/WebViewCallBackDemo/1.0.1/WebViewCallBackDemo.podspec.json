@@ -1,0 +1,25 @@
+{
+  "name": "WebViewCallBackDemo",
+  "version": "1.0.1",
+  "license": "MIT",
+  "summary": "Fast encryption string used on iOS, which implement by Objective-C.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WebViewInteraction",
+  "authors": {
+    "d2space": "d2space@126.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WebViewInteraction.git",
+    "tag": "1.0.1"
+  },
+  "requires_arc": true,
+  "description": "Fast encryption string, the current support for MD5 (16, 32), Sha1, Base64",
+  "source_files": "NSDateHelper/*",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "frameworks": [
+    "Foundation",
+    "JavaScriptCore",
+    "UIKit"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "HXRequestState",
+  "version": "0.0.5",
+  "summary": "HXRequestState.",
+  "description": "this is HXRequestState.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HXRequestState",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Destiny": "770493410@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HXRequestState.git",
+    "tag": "0.0.5"
+  },
+  "source_files": "HXRequestState/**/*.{h,m}",
+  "platforms": {
+    "ios": "10.0"
+  }
+}

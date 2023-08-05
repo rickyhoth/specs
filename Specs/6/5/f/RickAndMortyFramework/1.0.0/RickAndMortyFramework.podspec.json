@@ -1,0 +1,22 @@
+{
+  "name": "RickAndMortyFramework",
+  "version": "1.0.0",
+  "summary": "A really cool SDK that logs stuff.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/RickAndMorty",
+  "authors": {
+    "Name": "sdk@example.com"
+  },
+  "license": {
+    "type": "Apache-2.0",
+    "file": "LICENSE"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source": {
+    "http": "https://bitbucket.devops.nonprod.empf.local/scm/react/RickAndMorty/blob/multipltform/RickAndMortyFramework.zip?raw=true"
+  },
+  "ios": {
+    "vendored_frameworks": "RickAndMortyFramework.framework"
+  }
+}

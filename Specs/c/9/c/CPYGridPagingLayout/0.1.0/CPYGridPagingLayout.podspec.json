@@ -1,0 +1,22 @@
+{
+  "name": "CPYGridPagingLayout",
+  "version": "0.1.0",
+  "summary": "A UICollectionViewLayout subclass used to show list like a grid view.",
+  "description": "A UICollectionViewLayout subclass used to show list like a grid view. Something can be costomized.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CPYGridPagingLayout",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Cielpy": "beijiu572@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CPYGridPagingLayout.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CPYGridPagingLayout/Classes/**/*"
+}

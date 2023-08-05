@@ -1,0 +1,19 @@
+{
+  "name": "FCEventManager",
+  "version": "0.0.1",
+  "license": "MIT",
+  "summary": "Elegant Event Manager in Swift",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/FCEventManager",
+  "authors": {
+    "Fabian Celdeiro": "celdeiro@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/FCEventManager.git",
+    "tag": "v0.0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FCEventManager/src/*.swift",
+  "requires_arc": true
+}

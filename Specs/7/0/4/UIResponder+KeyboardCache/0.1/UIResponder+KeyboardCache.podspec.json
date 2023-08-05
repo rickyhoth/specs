@@ -1,0 +1,19 @@
+{
+  "name": "UIResponder+KeyboardCache",
+  "version": "0.1",
+  "license": "MIT",
+  "summary": "A simple workaround to the annoying problem of keyboard lag.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/UIResponder-KeyboardCache",
+  "authors": {
+    "Brandon Williams": "brandon@opetopic.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/UIResponder-KeyboardCache.git",
+    "commit": "2374177b071bad5fb332d7f900f45842f579f960"
+  },
+  "platforms": {
+    "ios": null
+  },
+  "source_files": "*.{h,m}",
+  "requires_arc": true
+}

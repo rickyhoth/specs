@@ -1,0 +1,23 @@
+{
+  "name": "MXHUD",
+  "version": "1.0.0",
+  "summary": "A clean and lightweight progress HUD for your iOS app.",
+  "description": "The first stable version of MXHUD, a clean and lightweight progress HUD for your iOS app.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MXHUD-in-Objective-C",
+  "license": "MIT",
+  "authors": "Elias Abel",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MXHUD-in-Objective-C.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "MXHUD-OC/*",
+  "resources": "MXHUD-OC/MXHUD.bundle",
+  "frameworks": [
+    "Foundation",
+    "UIKit"
+  ],
+  "requires_arc": true
+}

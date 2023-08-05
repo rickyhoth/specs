@@ -1,0 +1,28 @@
+{
+  "name": "SnappingStepper",
+  "version": "3.0.0",
+  "license": "MIT",
+  "summary": "An elegant alternative to the UIStepper written in Swift",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SnappingStepper.git",
+  "social_media_url": "https://twitter.com/yannickloriot",
+  "authors": {
+    "Yannick Loriot": "contact@yannickloriot.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SnappingStepper.git",
+    "tag": "3.0.0"
+  },
+  "screenshots": "http://yannickloriot.com/resources/snappingstepper-screenshot.png",
+  "swift_version": "4.2",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "dependencies": {
+    "DynamicColor": [
+      "~> 4.0"
+    ]
+  },
+  "frameworks": "UIKit",
+  "source_files": "Sources/*.swift",
+  "requires_arc": true
+}

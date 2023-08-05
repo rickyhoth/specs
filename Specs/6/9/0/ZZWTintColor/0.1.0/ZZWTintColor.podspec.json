@@ -1,0 +1,24 @@
+{
+  "name": "ZZWTintColor",
+  "version": "0.1.0",
+  "summary": "custom",
+  "description": "testPods",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZZWTintColor",
+  "license": "MIT",
+  "authors": {
+    "xiaoweiFive": "email@address.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZZWTintColor.git",
+    "tag": "0.1.0"
+  },
+  "source_files": [
+    "ZZWTintColor",
+    "Category/**/*.{h,m}"
+  ],
+  "exclude_files": "Classes/Exclude",
+  "frameworks": "UIkit"
+}

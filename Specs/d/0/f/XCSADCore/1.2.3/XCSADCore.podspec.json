@@ -1,0 +1,24 @@
+{
+  "name": "XCSADCore",
+  "version": "1.2.3",
+  "summary": "A short description of XCSADCore.",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "HWZSS": "maodou@ecook.cn"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/XCSAdCore.git",
+  "description": "TODO: Add long description of the pod here.",
+  "frameworks": "UIKit",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/XCSAdCore.git"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "ios": {
+    "vendored_frameworks": "ios/XCSADCore.framework"
+  }
+}

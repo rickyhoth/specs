@@ -1,0 +1,24 @@
+{
+  "name": "NilTabbarAnimator",
+  "version": "0.1.4",
+  "summary": "Make UITabbarVC switching animate.",
+  "description": "Switching UITabbarViewController with animation.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/NilTabbarAnimator",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "NilNilNil": "nilc.nolan@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/NilTabbarAnimator.git",
+    "branch": "master",
+    "tag": "0.1.4"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "*.{h,m,swift}",
+  "pushed_with_swift_version": "3.0"
+}

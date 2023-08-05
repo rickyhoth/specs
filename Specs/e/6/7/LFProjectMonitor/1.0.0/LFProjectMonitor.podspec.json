@@ -1,0 +1,24 @@
+{
+  "name": "LFProjectMonitor",
+  "version": "1.0.0",
+  "summary": "Monitor Project",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LFProjectMonitor",
+  "license": "MIT",
+  "authors": {
+    "lincf0912": "dayflyking@163.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LFProjectMonitor.git",
+    "tag": "1.0.0",
+    "submodules": true
+  },
+  "requires_arc": true,
+  "source_files": "LFProjectMonitor/class/**/*.{h,m,c}",
+  "public_header_files": [
+    "LFProjectMonitor/class/ProjectMonitorExtension/*.h",
+    "LFProjectMonitor/class/ProjectMonitorProtocol/ProjectMonitorProtocol.h"
+  ]
+}

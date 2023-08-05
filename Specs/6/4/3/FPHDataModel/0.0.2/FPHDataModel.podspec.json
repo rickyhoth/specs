@@ -1,0 +1,22 @@
+{
+  "name": "FPHDataModel",
+  "version": "0.0.2",
+  "summary": "Data model.",
+  "description": "data model for data parsing.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/FPHDataModel",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "fupenghua": "390908980@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/FPHDataModel.git",
+    "tag": "0.0.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FPHDataModel/*.{h,m}"
+}

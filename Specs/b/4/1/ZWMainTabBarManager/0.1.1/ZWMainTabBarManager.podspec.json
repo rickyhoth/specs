@@ -1,0 +1,32 @@
+{
+  "name": "ZWMainTabBarManager",
+  "version": "0.1.1",
+  "summary": "APP Main ZWMainTabBarManager.",
+  "description": "TODO: APP Main ZWMainTabBarManager.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZWMainTabBarManager",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "weizhangCoder": "zhang.wei5@jyall.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZWMainTabBarManager.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZWMainTabBarManager/Classes/**/*",
+  "resource_bundles": {
+    "ZWMainTabBarManager": [
+      "ZWMainTabBarManager/Assets/*.png"
+    ]
+  },
+  "dependencies": {
+    "ZWBaseManager": [
+
+    ]
+  }
+}

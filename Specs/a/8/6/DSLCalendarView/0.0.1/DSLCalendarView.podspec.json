@@ -1,0 +1,32 @@
+{
+  "name": "DSLCalendarView",
+  "version": "0.0.1",
+  "summary": "Simple calendar view for iOS.",
+  "description": "DSLCalendar view is an iOS control that displays a calendar similar to the system calendar. It allows the user to select a single date or a date range.",
+  "authors": {
+    "Pete": "pete@dativestudios.com"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DSLCalendarView",
+  "screenshots": "https://bitbucket.devops.nonprod.empf.local/scm/react/Screenshot.png",
+  "license": {
+    "type": "BSD 3-Clause License",
+    "file": "README.markdown"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DSLCalendarView.git",
+    "commit": "cd64b97529fd25c3b610c1681e1cfbf301a07cc0"
+  },
+  "requires_arc": true,
+  "platforms": {
+    "ios": "5.0"
+  },
+  "frameworks": [
+    "UIKit",
+    "CoreGraphics"
+  ],
+  "source_files": "DSLCalendarView/*.{h,m}",
+  "resources": [
+    "DSLCalendarView/Images/*.png",
+    "DSLCalendarView/*.xib"
+  ]
+}

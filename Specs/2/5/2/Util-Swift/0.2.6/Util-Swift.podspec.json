@@ -1,0 +1,19 @@
+{
+  "name": "Util-Swift",
+  "version": "0.2.6",
+  "summary": "This is UtilSwift",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Util-Swift",
+  "license": "MIT",
+  "authors": {
+    "devgster": "devgster@gmail.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Util-Swift.git",
+    "tag": "0.2.6"
+  },
+  "source_files": "Util-Swift/**/*",
+  "frameworks": "CoreTelephony"
+}

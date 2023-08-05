@@ -1,0 +1,33 @@
+{
+  "name": "CSPopKit",
+  "version": "0.1.0",
+  "summary": "A short description of CSPopKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CSPopKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "dormitory219": "289067005@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CSPopKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CSPopKit/Classes/**/*.{h,m}",
+  "resource_bundles": {
+    "CSPopKit": [
+      "CSPopKit/Classes/CSCustomPopManage/Basic/*.xib"
+    ]
+  },
+  "public_header_files": "CSPopKit/Classes/**/*.h",
+  "dependencies": {
+    "Masonry": [
+
+    ]
+  }
+}

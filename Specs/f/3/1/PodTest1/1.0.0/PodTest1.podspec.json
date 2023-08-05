@@ -1,0 +1,18 @@
+{
+  "name": "PodTest1",
+  "version": "1.0.0",
+  "license": "MIT",
+  "summary": "CustomView for login and logout",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/PodTest.git",
+  "authors": {
+    "CaesarWang": "wanglei@bingkongtech.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/PodTest.git"
+  },
+  "source_files": "PodTest/PodTest/*.swift",
+  "requires_arc": true,
+  "platforms": {
+    "ios": "8.0"
+  }
+}

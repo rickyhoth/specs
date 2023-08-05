@@ -1,0 +1,26 @@
+{
+  "name": "SCAlert",
+  "version": "0.1.0",
+  "summary": "SCAlert is a private library",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SCAlert",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "jinyuisme": "EX-ZHANGJINYU001@pingan.com.cn"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SCAlert.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SCAlert/Classes/**/*",
+  "dependencies": {
+    "SPAlertController": [
+      "~> 2.1.0"
+    ]
+  }
+}

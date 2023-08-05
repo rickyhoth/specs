@@ -1,0 +1,20 @@
+{
+  "name": "ContainerManager",
+  "version": "2.0.0",
+  "summary": "Helper classes to ContainerView usage with IE in Swift.",
+  "description": "ContainerManager helps you with linking more than one ViewController to the same ContainerView with segues in the Interface Builder in Swift.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ContainerManager",
+  "license": "MIT",
+  "authors": {
+    "brurend": "brurend@hotmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ContainerManager.git",
+    "tag": "2.0.0"
+  },
+  "platforms": {
+    "ios": "8.3"
+  },
+  "requires_arc": true,
+  "source_files": "ContainerManager/*"
+}

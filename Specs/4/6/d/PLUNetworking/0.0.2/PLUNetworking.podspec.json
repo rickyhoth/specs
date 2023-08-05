@@ -1,0 +1,26 @@
+{
+  "name": "PLUNetworking",
+  "version": "0.0.2",
+  "summary": "PLUNetworking",
+  "description": "龙珠直播的PLUNetworking",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/PLUNetworking",
+  "license": "MIT",
+  "authors": {
+    "DarrenYau": "jiqiu@pptv.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/PLUNetworking.git",
+    "tag": "0.0.2"
+  },
+  "ios": {
+    "vendored_frameworks": "PLUNetworking.framework"
+  },
+  "dependencies": {
+    "PLUFoundation": [
+      "~> 0.0.1"
+    ]
+  }
+}

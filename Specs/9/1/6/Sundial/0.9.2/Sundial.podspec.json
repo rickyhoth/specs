@@ -1,0 +1,26 @@
+{
+  "name": "Sundial",
+  "version": "0.9.2",
+  "summary": "Collection view layout for pager header",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Sundial",
+  "license": {
+    "type": "MIT"
+  },
+  "authors": {
+    "Sergei Mikhan": "sergei@netcosports.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Sundial.git",
+    "tag": "0.9.2"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "dependencies": {
+    "Astrolabe/Core": [
+
+    ]
+  },
+  "source_files": "Sources/*.swift",
+  "pushed_with_swift_version": "4.0"
+}

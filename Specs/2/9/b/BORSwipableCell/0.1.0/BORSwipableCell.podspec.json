@@ -1,0 +1,19 @@
+{
+  "name": "BORSwipableCell",
+  "version": "0.1.0",
+  "summary": "UITableViewCell and UIView that support swipe to reveal left and right hidden views",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/BORSwipableCell",
+  "license": "MIT",
+  "authors": {
+    "BohdanOrlov": "Bohdan.Orlov@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/BORSwipableCell.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "6.0"
+  },
+  "requires_arc": true,
+  "source_files": "Classes/**/*.{h,m}"
+}

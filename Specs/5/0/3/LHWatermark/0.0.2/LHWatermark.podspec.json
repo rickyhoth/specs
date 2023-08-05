@@ -1,0 +1,26 @@
+{
+  "name": "LHWatermark",
+  "version": "0.0.2",
+  "summary": "Add watermark on your Image.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LHWatermark",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "LeonHwa": "hwestseacoast@163.com"
+  },
+  "social_media_url": "http://leonhwa.com",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LHWatermark.git",
+    "tag": "0.0.2"
+  },
+  "source_files": [
+    "LHWatermark",
+    "LHWatermark/*.{h,m}"
+  ],
+  "requires_arc": true
+}

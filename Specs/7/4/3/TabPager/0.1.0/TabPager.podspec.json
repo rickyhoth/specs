@@ -1,0 +1,22 @@
+{
+  "name": "TabPager",
+  "version": "0.1.0",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/",
+  "summary": "Paging viewcontroller with top tab bar.",
+  "authors": {
+    "bannzai": "kingkong999yhirose@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TabPager.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Classes/*.swift",
+  "resources": "Classes/*.xib"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "BMThrottleDebounce",
+  "version": "0.0.1",
+  "license": {
+    "type": "MIT"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/BMThrottleDebounce",
+  "authors": {
+    "zhengbomo": "zhengbomo@hotmail.com"
+  },
+  "summary": "throttle and debounce trigger",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/BMThrottleDebounce.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "Sources/BMThrottleDebounce/ThrottleDebounce/*.{h,m}",
+  "platforms": {
+    "ios": "9.0"
+  }
+}

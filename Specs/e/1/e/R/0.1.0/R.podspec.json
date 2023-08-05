@@ -1,0 +1,20 @@
+{
+  "name": "R",
+  "version": "0.1.0",
+  "summary": "a tool to generate resources.",
+  "description": "a tools to generate resources.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/R",
+  "license": "MIT",
+  "authors": {
+    "mrdaios": "mrdaios@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/R.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "preserve_paths": "tools/*"
+}

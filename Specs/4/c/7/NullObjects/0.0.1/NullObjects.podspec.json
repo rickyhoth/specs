@@ -1,0 +1,19 @@
+{
+  "name": "NullObjects",
+  "version": "0.0.1",
+  "summary": "A library for building Null Objects in Objective-C.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/NullObjects",
+  "license": "BSD",
+  "authors": {
+    "Endika Gutiérrez Salas": "me@endika.net"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/NullObjects.git",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "NullObjects",
+    "NullObjects/**/*.{h,m}"
+  ],
+  "requires_arc": true
+}

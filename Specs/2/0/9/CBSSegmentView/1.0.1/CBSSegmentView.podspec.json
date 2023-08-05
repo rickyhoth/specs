@@ -1,0 +1,20 @@
+{
+  "name": "CBSSegmentView",
+  "version": "1.0.1",
+  "summary": "segmentview in iOS",
+  "description": "this is a segmentview in iOS.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CBSSegmentView",
+  "license": "MIT",
+  "authors": {
+    "cbsfly": "cbs_950320@qq.com"
+  },
+  "platforms": {
+    "ios": "6.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CBSSegmentView.git",
+    "tag": "1.0.1"
+  },
+  "source_files": "cbsSegmentView/Source/**/*.{h,m}",
+  "frameworks": "UIKit"
+}

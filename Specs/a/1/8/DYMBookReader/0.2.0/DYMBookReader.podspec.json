@@ -1,0 +1,25 @@
+{
+  "name": "DYMBookReader",
+  "version": "0.2.0",
+  "summary": "A Shiny Reader for e-book, still under development.",
+  "description": "A Shiny Reader for e-book, free to use, still under development.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DYMBookReader",
+  "license": "MIT",
+  "authors": {
+    "Daniel Dong": "dymx101@hotmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DYMBookReader.git",
+    "tag": "0.2.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "DYMBookReader": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}

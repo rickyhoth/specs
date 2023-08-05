@@ -1,0 +1,22 @@
+{
+  "name": "NSObject-ObjectIO",
+  "version": "1.0.0",
+  "summary": "ObjectIO is an NSObject Category for writing and reading objects to and from files, with encryption support.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/NSObject-ObjectIO",
+  "license": {
+    "type": "UA",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "uacaps": "care@cs.ua.edu"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/NSObject-ObjectIO.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "5.0"
+  },
+  "source_files": "NSObject-ObjectIO/*.{h,m}",
+  "requires_arc": true
+}

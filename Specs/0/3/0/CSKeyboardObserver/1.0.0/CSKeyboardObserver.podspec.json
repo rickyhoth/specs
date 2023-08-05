@@ -1,0 +1,24 @@
+{
+  "name": "CSKeyboardObserver",
+  "version": "1.0.0",
+  "summary": "Library to handle show and hide states of keyboard.",
+  "description": "Library to handle show and hide states of keyboard in convinient way.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CSKeyboardObserver",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ClappStudio": "info@clapp.studio"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CSKeyboardObserver.git",
+    "tag": "1.0.0"
+  },
+  "swift_versions": "5.0",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "Source/**/*",
+  "swift_version": "5.0"
+}

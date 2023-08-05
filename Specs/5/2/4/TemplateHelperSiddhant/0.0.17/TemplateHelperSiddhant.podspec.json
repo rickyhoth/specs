@@ -1,0 +1,21 @@
+{
+  "name": "TemplateHelperSiddhant",
+  "version": "0.0.17",
+  "summary": "siddhant demo frame work for something good yo it will be good",
+  "description": "siddhant demo frame work for something good yo it will be good warmane lovers",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TemplateHelperSiddhant",
+  "license": "MIT",
+  "authors": {
+    "siddhant nigam": "siddhant.n@vmax.com"
+  },
+  "platforms": {
+    "ios": "12.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TemplateHelperSiddhant.git",
+    "tag": "0.0.17"
+  },
+  "ios": {
+    "vendored_frameworks": "TemplateHelperSiddhant/TemplateHelperSiddhant.framework"
+  }
+}

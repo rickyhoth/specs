@@ -1,0 +1,19 @@
+{
+  "name": "TJLSessionManager",
+  "version": "1.0.1",
+  "license": "MIT",
+  "summary": "A manager class for the new MultipeerConnectivity framework.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TJLSessionManager",
+  "authors": {
+    "Terry Lewis II": "terry@ploverproductions.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TJLSessionManager.git",
+    "tag": "v1.0.1"
+  },
+  "source_files": "TJLSessionManager/Source/*.{h,m}",
+  "requires_arc": true,
+  "platforms": {
+    "ios": "7.0"
+  }
+}

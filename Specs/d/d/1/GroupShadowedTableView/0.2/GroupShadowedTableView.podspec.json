@@ -1,0 +1,24 @@
+{
+  "name": "GroupShadowedTableView",
+  "version": "0.2",
+  "summary": "A GroupShadowedTableView for iOS.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/GroupShadowedTableView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "chouheiwa": "849131492@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/GroupShadowedTableView.git",
+    "tag": "0.2"
+  },
+  "swift_version": "4.2",
+  "frameworks": "UIKit",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "GroupShadowedTableView/Classes/**/*.swift"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "SFScrollableNumberAnimatedView",
+  "version": "0.1.0",
+  "summary": "A vertical scroll animation view for display math numbers for iOS.",
+  "description": "animated scroll number view. integer, float and negative number are surpported, easy to use",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SFScrollableNumberAnimatedView.git",
+  "screenshots": "https://bitbucket.devops.nonprod.empf.local/scm/react/SFScrollableNumberAnimatedView/blob/master/demo.gif",
+  "license": "MIT",
+  "authors": {
+    "Fernando": "sucrezhang@qq.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SFScrollableNumberAnimatedView.git",
+    "tag": "0.1.0"
+  },
+  "source_files": "SFScrollableNumberAnimatedView/SFScrollableNumberAnimatedView/Source/*.{h,m}",
+  "exclude_files": "SFScrollableNumberAnimatedView/SFScrollableNumberAnimatedView.h"
+}

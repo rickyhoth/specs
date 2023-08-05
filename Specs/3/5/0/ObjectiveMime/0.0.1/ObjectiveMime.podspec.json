@@ -1,0 +1,20 @@
+{
+  "name": "ObjectiveMime",
+  "version": "0.0.1",
+  "summary": "inspired from node-mime.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ObjectiveMime",
+  "license": "MIT",
+  "authors": {
+    "di wu": "di.wu@me.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ObjectiveMime.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/*.swift",
+  "resources": "Pod/Assets/*.types"
+}

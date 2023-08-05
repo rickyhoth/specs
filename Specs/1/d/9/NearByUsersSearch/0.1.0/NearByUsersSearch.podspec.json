@@ -1,0 +1,38 @@
+{
+  "name": "NearByUsersSearch",
+  "version": "0.1.0",
+  "summary": "To find people nearby you.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/NearByUsersSearch",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "KalandarB": "kalandarbabu@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/NearByUsersSearch.git",
+    "tag": "0.1.0"
+  },
+  "static_framework": true,
+  "platforms": {
+    "ios": "8.0"
+  },
+  "swift_version": "3.2",
+  "source_files": "NearByUsersSearch/Classes/**/*",
+  "dependencies": {
+    "GoogleMaps": [
+
+    ],
+    "GooglePlaces": [
+
+    ],
+    "Alamofire": [
+
+    ],
+    "SDWebImage": [
+      "~> 4.0"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "LiteRoute",
+  "version": "2.1.21",
+  "summary": "LiteRoute is easy transition between view controllers and support many popylar arhitectures",
+  "description": "LiteRoute is easy transition between view controllers and support many popylar arhitectures. This framework very flow for settings your transition and have userfriendly API.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LiteRoute",
+  "documentation_url": "https://bitbucket.devops.nonprod.empf.local/scm/react/LiteRoute",
+  "license": "MIT",
+  "authors": {
+    "Vladislav Prusakov": "hipsterknights@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LiteRoute.git",
+    "tag": "2.1.21",
+    "submodules": false
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": [
+    "Sources/*.swift",
+    "Sources/TransitionNodes/*.swift",
+    "Sources/Protocols/*.swift"
+  ]
+}

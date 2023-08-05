@@ -1,0 +1,24 @@
+{
+  "name": "JKCKit",
+  "version": "0.0.3",
+  "summary": "Utils for iOS Coding",
+  "description": "...",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JKCKit",
+  "license": "MIT",
+  "authors": {
+    "Kopus": "421183082@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JKCKit.git",
+    "tag": "0.0.3"
+  },
+  "source_files": "JKCKit/**/*.{h,m}",
+  "requires_arc": true,
+  "frameworks": [
+    "Foundation",
+    "UIKit"
+  ],
+  "platforms": {
+    "ios": "8.0"
+  }
+}

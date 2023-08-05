@@ -1,0 +1,20 @@
+{
+  "name": "MDCFocusView",
+  "version": "0.1.0",
+  "summary": "Apply a \"tutorial screen\" overlay to your application window.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MDCFocusView",
+  "license": "MIT",
+  "authors": {
+    "modocache": "modocache@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MDCFocusView.git",
+    "tag": "v0.1.0"
+  },
+  "source_files": "MDCFocusView/*.{h,m}",
+  "requires_arc": true,
+  "platforms": {
+    "ios": "5.0"
+  },
+  "frameworks": "UIKit"
+}

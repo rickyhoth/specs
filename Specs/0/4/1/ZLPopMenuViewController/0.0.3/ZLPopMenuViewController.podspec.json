@@ -1,0 +1,19 @@
+{
+  "name": "ZLPopMenuViewController",
+  "version": "0.0.3",
+  "summary": "一个自定义弹出框",
+  "description": "一个自定义弹出 框",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZLPopMenuViewController",
+  "license": "MIT",
+  "authors": "zhilin.hu",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZLPopMenuViewController.git",
+    "tag": "0.0.3"
+  },
+  "source_files": "Code/*.swift",
+  "frameworks": "UIKit",
+  "requires_arc": true
+}

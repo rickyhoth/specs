@@ -1,0 +1,22 @@
+{
+  "name": "LBAlertKit",
+  "version": "0.0.3",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "summary": "a kit for kinds of alerts.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LBAlertKit",
+  "authors": {
+    "s2eker": "294842586@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LBAlertKit.git",
+    "tag": "0.0.3"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LBAlertKit/Classes/**/*",
+  "swift_version": "3.2"
+}

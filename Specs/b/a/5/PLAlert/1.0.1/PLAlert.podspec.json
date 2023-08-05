@@ -1,0 +1,23 @@
+{
+  "name": "PLAlert",
+  "version": "1.0.1",
+  "summary": "Simple Interactive Transitionable Alert.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/PLAlert",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE.md"
+  },
+  "authors": {
+    "Baris Cakmak": "bariscakmak26@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/PLAlert.git",
+    "tag": "1.0.1"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "swift_versions": "5.0",
+  "source_files": "Sources/PLAlert/**/*",
+  "swift_version": "5.0"
+}

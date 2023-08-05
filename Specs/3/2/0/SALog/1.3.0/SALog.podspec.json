@@ -1,0 +1,22 @@
+{
+  "name": "SALog",
+  "version": "1.3.0",
+  "summary": "An elegant log tool.",
+  "description": "An elegant log tool writen by Objective-C.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SALog",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": "Smart-AI",
+  "platforms": {
+    "ios": "5.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SALog.git",
+    "tag": "1.3.0"
+  },
+  "source_files": "SALog/*.{h,m}",
+  "frameworks": "Foundation",
+  "requires_arc": true
+}

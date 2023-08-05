@@ -1,0 +1,19 @@
+{
+  "name": "IASearchKit",
+  "version": "1.0.3",
+  "summary": "search kit for iOS write by Objective-C",
+  "description": "SearchKit support Chinese search, pinyin initials, full spelling.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/IASearchKit.git",
+  "license": "MIT",
+  "authors": {
+    "Alter": "1154941292@qq.com"
+  },
+  "platforms": {
+    "ios": null
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/IASearchKit.git",
+    "tag": "1.0.3"
+  },
+  "source_files": "SearchKit/SearchKit/**/*"
+}

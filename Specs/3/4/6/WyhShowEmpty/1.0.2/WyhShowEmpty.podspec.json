@@ -1,0 +1,21 @@
+{
+  "name": "WyhShowEmpty",
+  "version": "1.0.2",
+  "summary": "Quick to show empty-view in anywhere.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WyhShowEmpty.git",
+  "license": "MIT",
+  "authors": {
+    "wyh": "609223770@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WyhShowEmpty.git",
+    "tag": "v1.0.2"
+  },
+  "source_files": [
+    "WyhShowEmpty",
+    "WyhShowEmpty/*.{h,m}"
+  ]
+}

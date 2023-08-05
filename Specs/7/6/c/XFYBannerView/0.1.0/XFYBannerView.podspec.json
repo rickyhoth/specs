@@ -1,0 +1,22 @@
+{
+  "name": "XFYBannerView",
+  "version": "0.1.0",
+  "summary": "A banner view used on iOS.",
+  "description": "A view Play Pictures in endless cycles",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/XFYBannerView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xufengyuan@vip.qq.com": "xufengyuan@vip.qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/XFYBannerView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "XFYBannerView/Classes/**/*"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "AppVersionMonitor",
+  "version": "1.4.0",
+  "summary": "Monitor iOS app version easily.",
+  "description": "Monitor iOS app version easily!",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AppVersionMonitor",
+  "license": "MIT",
+  "authors": {
+    "muukii": "m@muukii.me"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AppVersionMonitor.git",
+    "tag": "1.4.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "Sources/AppVersionMonitor/**/*.swift"
+}

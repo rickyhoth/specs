@@ -1,0 +1,21 @@
+{
+  "name": "ATZAlertController",
+  "version": "1.2.1",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "license": {
+    "type": "MIT"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ATZAlertController",
+  "authors": {
+    "Shashank Pali": "shank.pali@gmail.com"
+  },
+  "summary": "Show alert without dependency on ViewController",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ATZAlertController.git",
+    "tag": "1.2.1"
+  },
+  "requires_arc": true,
+  "source_files": "ATZAlertController/*.{swift}"
+}

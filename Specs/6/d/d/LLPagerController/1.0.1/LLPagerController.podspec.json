@@ -1,0 +1,21 @@
+{
+  "name": "LLPagerController",
+  "version": "1.0.1",
+  "summary": "仿今日头条标题pageController",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LLPagerController",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhaoyulong": "1432039807@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LLPagerController.git",
+    "tag": "1.0.1"
+  },
+  "source_files": "LLPagerController/Classes/*.{h,m}"
+}

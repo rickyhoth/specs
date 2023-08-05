@@ -1,0 +1,23 @@
+{
+  "name": "YSLTransitionAnimator",
+  "version": "0.0.2",
+  "summary": "a pinterest style transition animation",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/YSLTransitionAnimator",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "y-hryk": "dev.hy630823@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YSLTransitionAnimator.git",
+    "tag": "0.0.2"
+  },
+  "source_files": "YSLTransitionAnimator/**/*.{h,m}",
+  "resources": "YSLTransitionAnimator/Resources/*.png",
+  "requires_arc": true,
+  "platforms": {
+    "ios": "7.0"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "HWKeyboardManager",
+  "version": "0.0.3",
+  "summary": "HWKeyboardManager.",
+  "description": "HWKeyboardManagerHWKeyboardManagerHWKeyboardManager",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HWKeyboardManager",
+  "license": "MIT",
+  "authors": {
+    "ihomway": "ihomway@live.com"
+  },
+  "social_media_url": "https://twitter.com/ihomway",
+  "platforms": {
+    "ios": null
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HWKeyboardManager.git",
+    "tag": "0.0.3"
+  },
+  "source_files": "keyboardman/HWKeyboardManager/*",
+  "exclude_files": "Classes/Exclude",
+  "frameworks": "UIKit",
+  "requires_arc": true
+}

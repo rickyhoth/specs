@@ -1,0 +1,33 @@
+{
+  "name": "MAFHXTool",
+  "version": "0.0.3",
+  "summary": "对环信sdk的封装,主要监听消息",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HXTool",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "高赛": "395765302@qq.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HXTool.git",
+    "tag": "0.0.3"
+  },
+  "source_files": [
+    "MAFHXTool",
+    "MAFHXTool/**/*.{h,m}"
+  ],
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ],
+  "dependencies": {
+    "Hyphenate": [
+
+    ]
+  }
+}

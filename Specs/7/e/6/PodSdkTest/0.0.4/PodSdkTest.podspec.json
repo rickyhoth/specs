@@ -1,0 +1,25 @@
+{
+  "name": "PodSdkTest",
+  "version": "0.0.4",
+  "summary": "zhong hua ren min gong he guo wan sui",
+  "description": "zhong hua ren min gong he guo wan sui.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/PodSdkTest",
+  "license": "MIT",
+  "authors": {
+    "zhutaofeng": "shmxybfq@163.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/PodSdkTest.git",
+    "tag": "0.0.4"
+  },
+  "source_files": "PodSdkTest/*.{h,m}",
+  "requires_arc": true,
+  "dependencies": {
+    "Masonry": [
+
+    ]
+  }
+}

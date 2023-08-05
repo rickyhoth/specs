@@ -1,0 +1,28 @@
+{
+  "name": "CCTips",
+  "version": "0.0.1",
+  "summary": "CCTips tips for log view window debug.",
+  "description": "CCTips tips for log view window debug, Simple and lightweight.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CCTips",
+  "screenshots": "https://raw.githubusercontent.com/ccworld1000/CCTips/master/screenshot/tipsDemo.gif",
+  "license": "GNU2",
+  "authors": {
+    "CC": "ccworld1000@gmail.com"
+  },
+  "social_media_url": "https://bitbucket.devops.nonprod.empf.local/scm/react/CCTips",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CCTips.git",
+    "tag": "0.0.1"
+  },
+  "exclude_files": "Classes/Exclude",
+  "source_files": "src",
+  "requires_arc": true,
+  "dependencies": {
+    "Toast": [
+
+    ]
+  }
+}

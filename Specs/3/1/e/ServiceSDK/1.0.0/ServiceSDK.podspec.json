@@ -1,0 +1,28 @@
+{
+  "name": "ServiceSDK",
+  "version": "1.0.0",
+  "summary": "ServiceSDK",
+  "description": "ServiceSDK support for ios",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DemoSDK",
+  "license": "MIT",
+  "authors": {
+    "NinhNM": "ninhnm91@gmail.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DemoSDK.git",
+    "tag": "1.0.0"
+  },
+  "source_files": [
+    "ServiceSDK",
+    "ServiceSDK/**/*.{h,m}"
+  ],
+  "requires_arc": true,
+  "dependencies": {
+    "Alamofire": [
+
+    ]
+  }
+}

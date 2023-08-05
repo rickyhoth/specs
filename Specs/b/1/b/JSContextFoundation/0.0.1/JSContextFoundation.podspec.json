@@ -1,0 +1,19 @@
+{
+  "name": "JSContextFoundation",
+  "module_name": "JSContextFoundation",
+  "version": "0.0.1",
+  "license": "MIT",
+  "summary": "JSContextFoundation is a Swift adapter for the JavaScriptCore Framework to build up the JavaScript runtime environment.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JSContextFoundation",
+  "authors": {
+    "Zheng-Xiang Ke": "https://www.facebook.com/zhengxiang.ke"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JSContextFoundation.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "JSContextFoundation/*.swift"
+}

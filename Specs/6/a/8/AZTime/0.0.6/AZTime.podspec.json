@@ -1,0 +1,22 @@
+{
+  "name": "AZTime",
+  "version": "0.0.6",
+  "summary": "Global countdown manager (support reuse view) + Get local and server time offset",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AZTime",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Alfred Zhang": "AlfredZhang@foxmail.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AZTime.git",
+    "tag": "0.0.6"
+  },
+  "source_files": "AZTime/*.{h,m}",
+  "requires_arc": true
+}

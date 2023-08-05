@@ -1,0 +1,22 @@
+{
+  "name": "WaitBlock",
+  "version": "0.2",
+  "authors": {
+    "Rémi ROBERT": "http://remirobert.github.io"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WaitBlock",
+  "summary": "Simple utility for only executing code when you want.",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WaitBlock.git",
+    "tag": "0.2"
+  },
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "frameworks": "Foundation",
+  "source_files": "WaitBlock/**/*.{swift}"
+}

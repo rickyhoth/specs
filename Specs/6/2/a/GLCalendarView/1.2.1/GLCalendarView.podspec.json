@@ -1,0 +1,23 @@
+{
+  "name": "GLCalendarView",
+  "version": "1.2.1",
+  "summary": "Fully customizable date range picker",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/GLCalendarView",
+  "license": "MIT",
+  "authors": {
+    "leo": "leo@glowing.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/GLCalendarView.git",
+    "tag": "v1.2.1"
+  },
+  "source_files": "GLCalendarView/Sources/**/*.{h,m}",
+  "resources": [
+    "GLCalendarView/Sources/**/*.{png}",
+    "GLCalendarView/Sources/**/*.{storyboard,xib}"
+  ],
+  "requires_arc": true,
+  "platforms": {
+    "ios": "7.0"
+  }
+}

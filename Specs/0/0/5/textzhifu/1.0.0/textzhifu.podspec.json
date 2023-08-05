@@ -1,0 +1,20 @@
+{
+  "name": "textzhifu",
+  "version": "1.0.0",
+  "summary": "i am text.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/YTPodDemo",
+  "license": "MIT",
+  "authors": {
+    "wangyutaoheihei": "963554461@qq.com"
+  },
+  "platforms": {
+    "ios": null
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YTPodDemo.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "textzhifu/textzhifu/*.{h,m}",
+  "exclude_files": "Classes/Exclude",
+  "requires_arc": true
+}

@@ -1,0 +1,25 @@
+{
+  "name": "SRMonthPicker",
+  "version": "0.2.5",
+  "summary": "Like UIDatePicker, but without the days.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SRMonthPicker",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Simon Rice": "im@simonrice.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SRMonthPicker.git",
+    "tag": "0.2.5"
+  },
+  "platforms": {
+    "ios": null
+  },
+  "source_files": [
+    "Classes",
+    "*.{h,m}"
+  ],
+  "requires_arc": true
+}

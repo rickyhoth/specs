@@ -1,0 +1,22 @@
+{
+  "name": "ios-byteBuffer",
+  "version": "0.2",
+  "summary": "A class re-write in objective-c",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ios-byteBuffer",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Billy Lee": "lchb1988@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ios-byteBuffer.git",
+    "tag": "0.2"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Classes/*"
+}

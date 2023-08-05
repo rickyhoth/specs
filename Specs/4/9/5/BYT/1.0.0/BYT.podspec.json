@@ -1,0 +1,20 @@
+{
+  "name": "BYT",
+  "version": "1.0.0",
+  "summary": "A sample iOS Framework",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/BYT",
+  "license": "MIT",
+  "authors": {
+    "Pikdays": "byt.quan@gmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/BYT.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "BYT/**/*.{h,m}",
+  "public_header_files": "BYT/**/*.h",
+  "requires_arc": true
+}

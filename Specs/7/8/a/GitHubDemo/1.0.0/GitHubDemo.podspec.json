@@ -1,0 +1,20 @@
+{
+  "name": "GitHubDemo",
+  "version": "1.0.0",
+  "summary": "a component of photo browser on iOS",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/GitHubDemo",
+  "description": "It is a component for ios photo browser,written by Objective-C.",
+  "license": "MIT",
+  "authors": {
+    "SL": "412499326@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/GitHubDemo.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "GitHubDemo/GitHubDemo/TimerLabel/*.{h,m}",
+  "requires_arc": true
+}

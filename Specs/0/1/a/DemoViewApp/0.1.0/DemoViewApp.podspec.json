@@ -1,0 +1,22 @@
+{
+  "name": "DemoViewApp",
+  "version": "0.1.0",
+  "summary": "By far the most fantastic view I have seen in my entire life. No joke.",
+  "description": "This fantastic view changes its color gradually makes your app look fantastic!",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DemoViewApp",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ambarchavan": "chavanambar@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DemoViewApp.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "12.1"
+  },
+  "source_files": "DemoViewApp/*.swift"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "SwiftUIWebView",
+  "version": "1.0.7",
+  "summary": "Fully functional, SwiftUI-ready WebView for iOS 13+ and MacOS 10.15+.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/swiftui-webview",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Gordan Glavaš": "gordan.glavas@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/swiftui-webview.git",
+    "tag": "1.0.7"
+  },
+  "platforms": {
+    "ios": "13.0",
+    "osx": "10.15"
+  },
+  "swift_versions": "4.0",
+  "source_files": "Sources/SwiftUIWebView/**/*",
+  "swift_version": "4.0"
+}

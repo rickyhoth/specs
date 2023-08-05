@@ -1,0 +1,27 @@
+{
+  "name": "JWLibraryDemo",
+  "version": "0.0.1",
+  "summary": "That is a study create pod demo.",
+  "description": "That is a study create pod -- you can use the lib to show guide view.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JWLibraryDemo",
+  "license": "MIT",
+  "authors": {
+    "JessieWu": "jessiewu0921@gmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JWLibraryDemo.git",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "JWLibraryDemo",
+    "JWLibraryDemo/**/*.{h,m}"
+  ],
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ],
+  "requires_arc": true
+}

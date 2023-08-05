@@ -1,0 +1,22 @@
+{
+  "name": "WYYKVO",
+  "version": "0.1.0",
+  "summary": "框架WYYKVOm.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WYYKVO/tree/v0.1.0",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wangyaoyao": "wangyaoyao@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WYYKVO.git",
+    "tag": "v0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "WYYKVO/Classes/**/*"
+}

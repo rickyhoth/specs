@@ -1,0 +1,36 @@
+{
+  "name": "YDQComapnyManangerTool",
+  "version": "0.1.0",
+  "summary": "公司类",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/YDQComapnyManangerTool",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Dongqing123": "705882260@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YDQCompanyManangerTool.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "YDQComapnyManangerTool/Classes/**/*",
+  "dependencies": {
+    "PHBase": [
+
+    ],
+    "SwiftyJSON": [
+
+    ],
+    "YDQProtocol": [
+
+    ],
+    "YDQRouter": [
+
+    ]
+  }
+}

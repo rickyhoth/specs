@@ -1,0 +1,22 @@
+{
+  "name": "HXSuspensionWindow",
+  "version": "0.0.2",
+  "summary": "Suspension Window.",
+  "description": "this is Suspension Window.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HXSuspensionWindow",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Huangxuan": "770493410@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HXSuspensionWindow.git",
+    "tag": "0.0.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HXSuspensionWindow/**/*.{h,m}"
+}

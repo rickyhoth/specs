@@ -1,0 +1,27 @@
+{
+  "name": "CCDebug",
+  "version": "2.0.2",
+  "summary": "CCDebug : A flexible, lightweight, scalable, customizable log debugging",
+  "description": "CCDebug : A flexible, lightweight, scalable, customizable log debugging",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CCDebug",
+  "license": {
+    "type": "MIT",
+    "file": "CCDebug.LICENSE.txt"
+  },
+  "authors": {
+    "cc": "ccworld1000@gmail.com"
+  },
+  "platforms": {
+    "ios": "4.0",
+    "osx": "10.7"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CCDebug.git",
+    "tag": "2.0.2"
+  },
+  "source_files": "CCDebug/*.{h,m}",
+  "exclude_files": "Classes/Exclude",
+  "resources": "CCDebug.LICENSE.txt",
+  "frameworks": "Foundation",
+  "requires_arc": true
+}

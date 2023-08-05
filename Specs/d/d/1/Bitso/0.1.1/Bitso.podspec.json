@@ -1,0 +1,30 @@
+{
+  "name": "Bitso",
+  "version": "0.1.1",
+  "summary": "Bitso iOS SDK",
+  "description": "Bitcoin Wallet and Exchange integration for iOS apps with Bitso.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/bitso-ios-sdk",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Mario Romero": "mario@bitso.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/bitso-ios-sdk.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Bitso/Classes/**/*",
+  "dependencies": {
+    "AFNetworking": [
+
+    ],
+    "Mantle": [
+
+    ]
+  }
+}

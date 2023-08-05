@@ -1,0 +1,22 @@
+{
+  "name": "JFLinearLayout",
+  "version": "0.1.1",
+  "summary": "A simple linear layout",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JFLinearLayout",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Li Junfeng": "jfl913@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JFLinearLayout.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "JFLinearLayout/Classes/**/*"
+}

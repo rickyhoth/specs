@@ -1,0 +1,19 @@
+{
+  "name": "StringTool",
+  "version": "0.0.4",
+  "authors": {
+    "yuyedaidao": "wyqpadding@gmail.com"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/StringTool",
+  "summary": "a string util",
+  "license": "MIT",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/StringTool.git",
+    "tag": "0.0.4"
+  },
+  "source_files": "Classes/*.{h,m}",
+  "platforms": {
+    "ios": "6.0"
+  },
+  "requires_arc": true
+}

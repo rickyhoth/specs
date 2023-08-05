@@ -1,0 +1,22 @@
+{
+  "name": "SupremeGolfHorizontalDatePicker",
+  "version": "0.1.4",
+  "summary": "HorizontalDatePicker is library to support SupremeGolf Project.",
+  "description": "<<-DESC TODO: Add long description of the pod here.DESC <<-DESC TODO: Add long description of the pod here.DESC",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HorizontalDatePicker",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lrodriguezcds": "lrodriguez@codigodelsur.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HorizontalDatePicker.git",
+    "tag": "0.1.4"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HorizontalDatePicker/Classes/**/*"
+}

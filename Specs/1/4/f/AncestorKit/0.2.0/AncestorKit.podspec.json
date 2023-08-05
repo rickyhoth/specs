@@ -1,0 +1,19 @@
+{
+  "name": "AncestorKit",
+  "version": "0.2.0",
+  "summary": "Inherit properties from ancestors instances for fun and profit!",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AncestorKit",
+  "license": "MIT",
+  "authors": {
+    "Zach Radke": "zach.radke@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AncestorKit.git",
+    "tag": "0.2.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*"
+}

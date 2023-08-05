@@ -1,0 +1,23 @@
+{
+  "name": "BSSwipeTableView",
+  "version": "0.0.1",
+  "summary": "a swipeTableView Demo",
+  "description": "haoyong",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/BSSwipeTableView",
+  "license": {
+    "type": "MIT",
+    "file": "FILE_LICENSE"
+  },
+  "authors": {
+    "BShun": ""
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/BSSwipeTableView.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "SwipeTableView/**/*.{h,m}",
+  "requires_arc": true
+}

@@ -1,0 +1,21 @@
+{
+  "name": "JXHumble",
+  "version": "0.0.1",
+  "summary": "JXHumble",
+  "description": "JXHumble by CoderJX",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JXHumble",
+  "license": {
+    "type": "MIT"
+  },
+  "authors": {
+    "CoderJX": "jxyou.ki@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JXHumble.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "JXHumble/**/*.{h,m}",
+  "platforms": {
+    "ios": "10.0"
+  }
+}

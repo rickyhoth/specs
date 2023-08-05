@@ -1,0 +1,22 @@
+{
+  "name": "ETBlockValueTransformer",
+  "version": "1.0",
+  "summary": "Easy-to-use block value transformer.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ETBlockValueTransformer",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Evgeniy": "evgeniytka4enko@gmail.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ETBlockValueTransformer.git",
+    "tag": "1.0"
+  },
+  "source_files": "Classes/*.{h,m}",
+  "requires_arc": true
+}

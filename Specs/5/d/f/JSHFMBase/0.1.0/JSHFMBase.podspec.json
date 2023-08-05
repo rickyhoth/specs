@@ -1,0 +1,33 @@
+{
+  "name": "JSHFMBase",
+  "version": "0.1.0",
+  "summary": "JSHFMBase.",
+  "description": "JSHFMBase.包含了基本的配置文件,分类,工具",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JSHFMBase",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "李春慧": "414046674@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JSHFMBase.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "vendored_frameworks": "JSHFMBase/Products/JSHFMBase.framework",
+  "dependencies": {
+    "MBProgressHUD": [
+
+    ],
+    "MJRefresh": [
+
+    ],
+    "Masonry": [
+
+    ]
+  }
+}

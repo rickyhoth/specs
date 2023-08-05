@@ -1,0 +1,21 @@
+{
+  "name": "PNAObjectC",
+  "version": "0.0.2",
+  "summary": "A short description of PNAObjectC.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/PNAObjectC",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "phamngocanit82": "ngocanphamit271082@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/PNAObjectC.git",
+    "tag": "0.0.2"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "PNAObjectC/Classes/**/*"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "ZSYFramework",
+  "version": "0.1.4",
+  "summary": "ZSYFramework 测试",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZSYFramework",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ZSY": "zhusy@anchnet.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZSYFramework.git",
+    "tag": "0.1.4"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZSYFramework/Classes/**/*.swift"
+}

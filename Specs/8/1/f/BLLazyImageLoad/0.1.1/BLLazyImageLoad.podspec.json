@@ -1,0 +1,24 @@
+{
+  "name": "BLLazyImageLoad",
+  "version": "0.1.1",
+  "license": "MIT",
+  "summary": "CableView/CollectionView images Lazy load.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/BLLazyImageLoad",
+  "authors": {
+    "tianfire": "libotian9999@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/BLLazyImageLoad.git",
+    "tag": "0.1.1"
+  },
+  "requires_arc": true,
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "BLLazyImageLoad/LazyImageLoad/*.{h,m}",
+  "dependencies": {
+    "SDWebImage": [
+
+    ]
+  }
+}

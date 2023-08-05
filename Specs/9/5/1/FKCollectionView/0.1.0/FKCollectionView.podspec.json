@@ -1,0 +1,27 @@
+{
+  "name": "FKCollectionView",
+  "version": "0.1.0",
+  "summary": "A short description of FKCollectionView.",
+  "description": "UICollectionView友好扩展",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/FKCollectionView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "chatv5": "312163862@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/FKCollectionView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FKCollectionView/Classes/**/*",
+  "dependencies": {
+    "FKTableCollectionExtensionBase": [
+
+    ]
+  }
+}

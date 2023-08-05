@@ -1,0 +1,22 @@
+{
+  "name": "MLPageViewController",
+  "version": "1.5.3",
+  "summary": "MLPageViewController",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MLPageViewController",
+  "license": {
+    "type": "MIT"
+  },
+  "authors": {
+    "molon": "dudl@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MLPageViewController.git",
+    "tag": "1.5.3"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "public_header_files": "Classes/**/*.h",
+  "source_files": "Classes/**/*.{h,m}",
+  "requires_arc": true
+}

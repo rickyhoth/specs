@@ -1,0 +1,24 @@
+{
+  "name": "AlamofireNetworkActivityIndicator",
+  "version": "2.2.1",
+  "license": "MIT",
+  "summary": "Controls the visibility of the network activity indicator on iOS using Alamofire",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AlamofireNetworkActivityIndicator",
+  "social_media_url": "http://twitter.com/AlamofireSF",
+  "authors": {
+    "Alamofire Software Foundation": "info@alamofire.org"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AlamofireNetworkActivityIndicator.git",
+    "tag": "2.2.1"
+  },
+  "source_files": "Source/*.swift",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "dependencies": {
+    "Alamofire": [
+      "~> 4.7"
+    ]
+  }
+}

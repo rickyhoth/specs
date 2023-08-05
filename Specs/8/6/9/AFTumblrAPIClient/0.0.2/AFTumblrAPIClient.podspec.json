@@ -1,0 +1,27 @@
+{
+  "name": "AFTumblrAPIClient",
+  "version": "0.0.2",
+  "summary": "AFOAuth1Client for Tumblr.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AFTumblrAPIClient",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "PJ Gray": "pj4533@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AFTumblrAPIClient.git",
+    "tag": "0.0.2"
+  },
+  "platforms": {
+    "ios": "5.0"
+  },
+  "source_files": "AFTumblrAPIClient",
+  "requires_arc": true,
+  "dependencies": {
+    "AFOAuth1Client": [
+      ">= 0.1.1"
+    ]
+  }
+}

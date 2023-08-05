@@ -1,0 +1,16 @@
+{
+  "name": "TestFrameworkWithoutAnySense",
+  "version": "0.0.1",
+  "license": "MIT",
+  "summary": "My useless framework",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TestFrameworkWithoutAnySense",
+  "authors": "Ihor Malovanyi",
+  "platforms": {
+    "ios": "16"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TestFrameworkWithoutAnySense.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "Sources/TestFrameworkWithoutAnySense/*"
+}

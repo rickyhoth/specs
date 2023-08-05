@@ -1,0 +1,23 @@
+{
+  "name": "InfySwiftExtension",
+  "version": "0.1.0",
+  "summary": "A short description of InfySwiftExtension.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/InfySwiftExtension",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "common-infyom": "hiren.bharodia@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/InfySwiftExtension.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "InfySwiftExtension/Classes/**/*",
+  "pushed_with_swift_version": "3.0"
+}

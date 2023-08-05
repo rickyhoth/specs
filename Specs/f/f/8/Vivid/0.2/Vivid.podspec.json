@@ -1,0 +1,24 @@
+{
+  "name": "Vivid",
+  "version": "0.2",
+  "authors": {
+    "YuAo": "me@imyuao.com"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Vivid",
+  "summary": "Filters and utilities for Core Image",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Vivid.git",
+    "tag": "0.2"
+  },
+  "requires_arc": true,
+  "platforms": {
+    "ios": "8.0",
+    "osx": "10.11"
+  },
+  "source_files": "Sources/**/*.{h,m}",
+  "resources": "Sources/**/*.{png,cikernel}"
+}

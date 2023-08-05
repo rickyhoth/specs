@@ -1,0 +1,19 @@
+{
+  "name": "IPTool",
+  "version": "1.0.0",
+  "summary": "A simple library for iOS to use for getting IP Address.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/IP_Test",
+  "license": "MIT",
+  "authors": {
+    "xiayuanquan": "13718037163@163.com"
+  },
+  "platforms": {
+    "ios": null
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/IP_Test.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "IPTool/*.{h,m}",
+  "requires_arc": true
+}

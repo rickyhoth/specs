@@ -1,0 +1,22 @@
+{
+  "name": "TPP",
+  "version": "0.1.6",
+  "summary": "A short description of TPP.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TPP",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Lix": "278510832@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TPP.git",
+    "tag": "0.1.6"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TPP/Classes/**/*"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Lorikeet",
+  "version": "0.2.26",
+  "summary": "Lightweight framework for generating visually aesthetic color-schemes in Swift",
+  "description": "Lightweight framework for generating visually aesthetic color-schemes in Swift",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Lorikeet",
+  "license": "MIT",
+  "authors": {
+    "valdirunars": "valdirunars@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Lorikeet.git",
+    "tag": "0.2.26"
+  },
+  "platforms": {
+    "ios": "9.1"
+  },
+  "requires_arc": true,
+  "source_files": "Lorikeet/*",
+  "pushed_with_swift_version": "3.x"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "BQNetworking",
+  "version": "0.3.0",
+  "summary": "A short description of BQNetworking.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/BQNetworking",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yaqiangbi": "yaqiangbi@wholeeprime.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/BQNetworking.git",
+    "tag": "0.3.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "BQNetworking/Classes/**/*",
+  "dependencies": {
+    "AFNetworking": [
+
+    ]
+  }
+}

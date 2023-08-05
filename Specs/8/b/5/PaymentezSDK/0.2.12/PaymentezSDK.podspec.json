@@ -1,0 +1,25 @@
+{
+  "name": "PaymentezSDK",
+  "version": "0.2.12",
+  "summary": "Paymentez SDK",
+  "description": "'Paymentez SDK'",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/PaymentezSDK-iOS",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "sdkspaymentez": "sdks@paymentez.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/PaymentezSDK-iOS",
+    "tag": "0.2.12"
+  },
+  "platforms": {
+    "ios": "12.4"
+  },
+  "source_files": "Source/**/*.{swift,xib,xcassets}",
+  "resources": "Source/Controllers/Resources/**/*.xcassets",
+  "swift_versions": "5.0",
+  "swift_version": "5.0"
+}

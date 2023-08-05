@@ -1,0 +1,26 @@
+{
+  "name": "PickyPodWe",
+  "version": "0.3.0",
+  "summary": "this is my first cocoapod",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/PickyPodWe",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "luismendo95za@gmail.com": "lmendore@everis.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/PickyPodWe.git",
+    "tag": "0.3.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PickyPodWe/Classes/**/*",
+  "dependencies": {
+    "Alamofire": [
+
+    ]
+  }
+}

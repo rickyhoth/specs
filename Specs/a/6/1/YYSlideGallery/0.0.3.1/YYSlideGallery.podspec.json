@@ -1,0 +1,19 @@
+{
+  "name": "YYSlideGallery",
+  "version": "0.0.3.1",
+  "authors": {
+    "ryan": "czwen1993@gmail.com"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/YYSlideGallery",
+  "summary": "a gallery",
+  "license": "MIT",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YYSlideGallery.git",
+    "tag": "0.0.3.1"
+  },
+  "source_files": "YYSlideGallery/YYSlideGallery/Classes/*.{h,m}",
+  "platforms": {
+    "ios": "6.0"
+  },
+  "requires_arc": true
+}

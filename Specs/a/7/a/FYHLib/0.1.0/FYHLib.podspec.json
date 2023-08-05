@@ -1,0 +1,22 @@
+{
+  "name": "FYHLib",
+  "version": "0.1.0",
+  "summary": "xxxxxxxxxxxx",
+  "description": "放假拉大锯法拉利福利局sssssssssssss",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/FYHFYHLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "fyh11": "fyh_4576@126.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/FYHFYHLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FYHLib/Classes/**/*"
+}

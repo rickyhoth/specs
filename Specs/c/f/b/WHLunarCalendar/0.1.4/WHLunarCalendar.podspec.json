@@ -1,0 +1,23 @@
+{
+  "name": "WHLunarCalendar",
+  "version": "0.1.4",
+  "summary": "A Korea Lunar Calendar",
+  "swift_version": "3.2",
+  "description": "A swift libray Korea lunar calendar",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WHLunarCalendar",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "kimwoohyun": "dngus242@naver.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WHLunarCalendar.git",
+    "tag": "0.1.4"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "WHLunarCalendar/Classes/**/*"
+}

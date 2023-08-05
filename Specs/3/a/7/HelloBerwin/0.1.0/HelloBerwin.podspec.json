@@ -1,0 +1,22 @@
+{
+  "name": "HelloBerwin",
+  "version": "0.1.0",
+  "summary": "A short description of HelloBerwin.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HelloBerwin",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "BerwinZheng": "berwinzheng@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HelloBerwin.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HelloBerwin/Classes/**/*"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "HMStreamingSDK",
+  "version": "0.1.2",
+  "summary": "A short description of HMStreamingSDK.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HMStreamingSDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Pircate": "gao497868860@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HMStreamingSDK.git",
+    "tag": "0.1.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "vendored_frameworks": "HMStreamingSDK/Classes/NvStreamingSdkCore.framework"
+}

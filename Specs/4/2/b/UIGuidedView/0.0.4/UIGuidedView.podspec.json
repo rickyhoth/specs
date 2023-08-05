@@ -1,0 +1,22 @@
+{
+  "name": "UIGuidedView",
+  "version": "0.0.4",
+  "summary": "A simple control designed for guiding a user through a controlled flow",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/UIGuidedView",
+  "license": "MIT",
+  "authors": {
+    "Mitch Malleo": "mitchellmalleo@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/UIGuidedView.git",
+    "tag": "0.0.4"
+  },
+  "platforms": {
+    "ios": "5.0"
+  },
+  "requires_arc": true,
+  "source_files": [
+    "Classes",
+    "Classes/**/*.{h,m}"
+  ]
+}

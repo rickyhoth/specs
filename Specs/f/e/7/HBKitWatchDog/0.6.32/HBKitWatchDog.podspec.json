@@ -1,0 +1,24 @@
+{
+  "name": "HBKitWatchDog",
+  "version": "0.6.32",
+  "summary": "refresh view for hbkit.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HBFastTableViewCotroller",
+  "license": "MIT",
+  "authors": {
+    "nonato ": "787038442@qq.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HBFastTableViewCotroller.git",
+    "tag": "0.6.32"
+  },
+  "source_files": "tools/HBKitWatchDog/**/*.{h,m}",
+  "requires_arc": true,
+  "dependencies": {
+    "HBKit": [
+
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "AAA",
+  "version": "1.0.6",
+  "authors": {
+    "Mayu Laierlence": "minacle@live.com"
+  },
+  "license": {
+    "type": "MIT"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AAA",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AAA.git",
+    "tag": "v1.0.6"
+  },
+  "source_files": "Sources/**/*.swift",
+  "summary": "An Any Accessory",
+  "platforms": {
+    "ios": "8.0",
+    "osx": "10.10",
+    "tvos": "9.0",
+    "watchos": "2.0"
+  },
+  "pushed_with_swift_version": "3.0"
+}

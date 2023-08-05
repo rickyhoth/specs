@@ -1,0 +1,22 @@
+{
+  "name": "HYLocationKit",
+  "version": "0.1.0",
+  "summary": "A short description of HYLocationKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HYLocationKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "captainlee123": "licheng@ihooyah.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HYLocationKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HYLocationKit/Classes/**/*"
+}

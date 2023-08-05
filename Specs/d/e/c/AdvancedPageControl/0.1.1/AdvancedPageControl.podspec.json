@@ -1,0 +1,22 @@
+{
+  "name": "AdvancedPageControl",
+  "version": "0.1.1",
+  "summary": "A simple yet powerful page control indicator animations library.",
+  "description": "TA simple yet powerful page control indicator animations library.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AdvancedPageControl.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Mohanned Binmiskeen": "mohn93@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AdvancedPageControl.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "AdvancedPageControl/Classes/**/*"
+}

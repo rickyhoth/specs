@@ -1,0 +1,19 @@
+{
+  "name": "SCDropDownMenu",
+  "version": "0.0.3",
+  "summary": "Simple and customizable swift dropdown menu.",
+  "description": "Simple and customizable swift dropdown menu.\nMore information is coming soon...",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SCDropDownMenu",
+  "license": "MIT",
+  "authors": {
+    "r-kaga": "ryokagaya0624@gmail.com"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SCDropDownMenu.git",
+    "tag": "0.0.3"
+  },
+  "source_files": "SCDropDownMenu/*.swift"
+}

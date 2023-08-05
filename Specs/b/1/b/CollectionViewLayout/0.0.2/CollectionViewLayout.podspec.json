@@ -1,0 +1,19 @@
+{
+  "name": "CollectionViewLayout",
+  "version": "0.0.2",
+  "summary": "A spring collectionView layout,it's very handy",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LSYCocoapodsDemo",
+  "license": "MIT",
+  "authors": {
+    "allsome": "oraclelsy@163.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LSYCocoapodsDemo.git",
+    "tag": "0.0.2"
+  },
+  "source_files": "layout/*.{swift}",
+  "requires_arc": true
+}

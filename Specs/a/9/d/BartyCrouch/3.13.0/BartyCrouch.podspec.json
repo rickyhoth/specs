@@ -1,0 +1,23 @@
+{
+  "name": "BartyCrouch",
+  "version": "3.13.0",
+  "summary": "Localization/I18n: Incrementally update your Strings files from .swift, .h, .m(m), .storyboard or .xib files and/or use machine-translation.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/BartyCrouch",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE.md"
+  },
+  "authors": {
+    "Dschee": "github@dschee.com"
+  },
+  "source": {
+    "http": "https://bitbucket.devops.nonprod.empf.local/scm/react/portable_bartycrouch.zip"
+  },
+  "preserve_paths": "*",
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}

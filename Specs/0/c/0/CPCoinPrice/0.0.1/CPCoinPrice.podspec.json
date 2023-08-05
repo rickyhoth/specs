@@ -1,0 +1,28 @@
+{
+  "name": "CPCoinPrice",
+  "version": "0.0.1",
+  "summary": "Fetch blockchain coin price",
+  "description": "Fetch blockchain coin price from exchange (binance, upbit etc)",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CPCoinPrice",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Chope": "yoonhg2002@gmail.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CPCoinPrice.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "Source/**/*.swift",
+  "requires_arc": true,
+  "dependencies": {
+    "Alamofire": [
+      "~> 4.5.1"
+    ]
+  }
+}

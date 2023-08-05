@@ -1,0 +1,30 @@
+{
+  "name": "ProximiioProcessor",
+  "version": "0.21.0",
+  "summary": "Proximi.io position processors.",
+  "description": "Proximi.io position processors.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ProximiioProcessorPod",
+  "license": {
+    "type": "commercial",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Matteo Crippa": "matteocrippa@users.noreply.github.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ProximiioProcessorPod.git",
+    "tag": "0.21.0"
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "dependencies": {
+    "Proximiio": [
+
+    ],
+    "SwiftyJSON": [
+
+    ]
+  },
+  "vendored_frameworks": "ProximiioProcessor.xcframework"
+}

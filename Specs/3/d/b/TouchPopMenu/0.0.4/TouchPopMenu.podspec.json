@@ -1,0 +1,25 @@
+{
+  "name": "TouchPopMenu",
+  "version": "0.0.4",
+  "summary": "A touchable popover menu for iOS made in Swift.",
+  "description": "A touchable popover menu for iOS made in Swift (still alpha).",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TouchPopMenu",
+  "license": "MIT",
+  "authors": {
+    "mixable": "dev@mixable.de"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "swift_version": "5.0",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TouchPopMenu.git",
+    "branch": "develop",
+    "tag": "0.0.4"
+  },
+  "source_files": [
+    "TouchPopMenu",
+    "TouchPopMenu/**/*.{swift}"
+  ],
+  "exclude_files": "TouchPopMenu/Exclude"
+}

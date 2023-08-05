@@ -1,0 +1,22 @@
+{
+  "name": "BTTransition",
+  "version": "0.1.0",
+  "summary": "a custom view controller transition animation",
+  "description": "A custom view controller transition animation ,container any transition",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/BTTransition",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "biostome": "453816118@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/BTTransition.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "BTTransition/Classes/**/*"
+}

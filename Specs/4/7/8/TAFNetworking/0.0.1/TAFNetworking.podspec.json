@@ -1,0 +1,27 @@
+{
+  "name": "TAFNetworking",
+  "version": "0.0.1",
+  "summary": "summary of TAFNetworking.",
+  "description": "description of TAFNetworking.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TAFNetwroking",
+  "license": "MIT",
+  "authors": "HeiHuaBaiHua",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TAFNetwroking.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "TAFNetworking",
+  "frameworks": [
+    "Foundation",
+    "UIKit"
+  ],
+  "requires_arc": true,
+  "dependencies": {
+    "AFNetworking": [
+      "~> 3.1.0"
+    ]
+  }
+}

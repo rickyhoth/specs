@@ -1,0 +1,66 @@
+{
+  "name": "Moya-ModelMapper",
+  "version": "4.0.0-beta.1",
+  "summary": "ModelMapper bindings for Moya.",
+  "description": "[ModelMapper](https://bitbucket.devops.nonprod.empf.local/scm/react/Moya-ModelMapper).",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Moya-ModelMapper",
+  "license": "MIT",
+  "authors": {
+    "Łukasz Mróz": "thesunshinejr@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Moya-ModelMapper.git",
+    "tag": "4.0.0-beta.1"
+  },
+  "social_media_url": "https://twitter.com/thesunshinejr",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "requires_arc": true,
+  "default_subspecs": "Core",
+  "subspecs": [
+    {
+      "name": "Core",
+      "source_files": "Source/*.swift",
+      "dependencies": {
+        "Moya": [
+          "8.0.0-beta.2"
+        ],
+        "ModelMapper": [
+          "5.0.0"
+        ]
+      },
+      "frameworks": "Foundation"
+    },
+    {
+      "name": "RxSwift",
+      "source_files": "Source/RxSwift/*.swift",
+      "dependencies": {
+        "Moya/RxSwift": [
+          "8.0.0-beta.2"
+        ],
+        "Moya-ModelMapper/Core": [
+
+        ],
+        "RxSwift": [
+          "3.0.0-beta.2"
+        ]
+      }
+    },
+    {
+      "name": "ReactiveCocoa",
+      "source_files": "Source/ReactiveCocoa/*.swift",
+      "dependencies": {
+        "Moya/ReactiveCocoa": [
+          "8.0.0-beta.2"
+        ],
+        "Moya-ModelMapper/Core": [
+
+        ],
+        "ReactiveSwift": [
+          "1.0.0-alpha.2"
+        ]
+      }
+    }
+  ]
+}

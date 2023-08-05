@@ -1,0 +1,26 @@
+{
+  "name": "PoporOrientation",
+  "version": "0.0.2",
+  "summary": "Support a simple rotation framework.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/PoporOrientation",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "popor": "908891024@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/PoporOrientation.git",
+    "tag": "0.0.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PoporOrientation/Classes/*.{h,m}",
+  "dependencies": {
+    "PoporFoundation/NSObject": [
+
+    ]
+  }
+}

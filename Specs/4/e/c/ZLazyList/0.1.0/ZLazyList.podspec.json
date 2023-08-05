@@ -1,0 +1,22 @@
+{
+  "name": "ZLazyList",
+  "version": "0.1.0",
+  "summary": "ZLazyList is just a functional programming test.",
+  "description": "ZLazyList is just a functional programming test.\nTo show what is lazily calculate。",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZLazyList",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "WilliamZang": "chengwei.zang.1985@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZLazyList.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZLazyList/Classes/**/*"
+}

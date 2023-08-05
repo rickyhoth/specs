@@ -1,0 +1,29 @@
+{
+  "name": "AWSSNSSubscriptor",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "summary": "AWS's manager that handle subscription of sns's service.",
+  "requires_arc": true,
+  "version": "0.0.2",
+  "authors": {
+    "alfredolucomav": "alfredo.luco@mavericks"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AWSSNSSubscriptor",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AWSSNSSubscriptor",
+    "tag": "0.0.2"
+  },
+  "ios": {
+    "frameworks": [
+      "UIKit",
+      "Foundation"
+    ],
+    "source_files": "Sources/**/*.swift"
+  },
+  "dependencies": {
+    "AWSSNS": [
+
+    ]
+  }
+}

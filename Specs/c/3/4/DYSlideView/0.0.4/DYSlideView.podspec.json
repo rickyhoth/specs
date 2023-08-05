@@ -1,0 +1,21 @@
+{
+  "name": "DYSlideView",
+  "version": "0.0.4",
+  "summary": "An iOS tabbed slide view.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DYSlideView",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Dwarven": "prison.yang@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DYSlideView.git",
+    "tag": "0.0.4"
+  },
+  "source_files": "Class/*.{h,m}"
+}

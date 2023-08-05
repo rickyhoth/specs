@@ -1,0 +1,22 @@
+{
+  "name": "WGPodBaseTool",
+  "version": "0.1.1",
+  "summary": "A short description of WGPodBaseTool.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WGPodBaseTool",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "1587337963@qq.com": "1587337963@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WGPodBaseTool.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "WGPodBaseTool/Classes/**/*"
+}

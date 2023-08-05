@@ -1,0 +1,20 @@
+{
+  "name": "AdobeSdk-iOS",
+  "version": "4.18.5",
+  "summary": "Adobe Mobile SDK for iOS platform",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/adobesdk-ios",
+  "source": {
+    "http": "https://bitbucket.devops.nonprod.empf.local/scm/react/adobesdk-ios/releases/download/4.18.5/library.zip"
+  },
+  "preserve_paths": "*",
+  "authors": "Szymon Mrozek",
+  "license": {
+    "type": "MIT"
+  },
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}

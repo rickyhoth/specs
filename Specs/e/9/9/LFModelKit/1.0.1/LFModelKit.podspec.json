@@ -1,0 +1,21 @@
+{
+  "name": "LFModelKit",
+  "version": "1.0.1",
+  "license": "MIT",
+  "summary": "JSON object to model",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LFModelKit",
+  "authors": {
+    "wangxiaoxiang": "wangxiaoxiang@youku.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LFModelKit.git",
+    "tag": "1.0.1",
+    "submodules": true
+  },
+  "requires_arc": true,
+  "platforms": {
+    "ios": "7.0"
+  },
+  "preserve_paths": "releases/iOS/LFModelKit.framework",
+  "vendored_frameworks": "releases/iOS/LFModelKit.framework"
+}

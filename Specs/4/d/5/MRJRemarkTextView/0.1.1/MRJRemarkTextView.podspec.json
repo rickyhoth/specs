@@ -1,0 +1,27 @@
+{
+  "name": "MRJRemarkTextView",
+  "version": "0.1.1",
+  "summary": "备注框封装.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MRJRemarkTextView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "mrjlovetian@gmail.com": "mrjlovetian@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MRJRemarkTextView.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MRJRemarkTextView/Classes/**/*",
+  "dependencies": {
+    "UIViewMRJFrame": [
+
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "AnimatedBlurLabel",
+  "version": "1.0.1",
+  "summary": "Subclass of UILabel for animating the blurring and unblurring of text in iOS",
+  "description": "Label for animating the blurring and unblurring of text in iOS — written in Swift",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AnimatedBlurLabel",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": "Mathias Köhnke",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AnimatedBlurLabel.git",
+    "tag": "1.0.1"
+  },
+  "source_files": [
+    "AnimatedBlurLabel",
+    "AnimatedBlurLabel/**/*.{swift}"
+  ],
+  "exclude_files": "Classes/Exclude",
+  "requires_arc": true
+}

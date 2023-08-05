@@ -1,0 +1,22 @@
+{
+  "name": "CommonlyUsedBtn",
+  "version": "0.0.2",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "summary": "A Button",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CommonlyUsedBtn",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhangzhen": "ZZ814908848@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CommonlyUsedBtn.git",
+    "tag": "0.0.2"
+  },
+  "source_files": "CommonButton/*.{h,m}",
+  "requires_arc": true
+}

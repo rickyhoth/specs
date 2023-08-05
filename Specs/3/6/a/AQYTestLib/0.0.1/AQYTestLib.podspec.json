@@ -1,0 +1,22 @@
+{
+  "name": "AQYTestLib",
+  "version": "0.0.1",
+  "summary": "AQYTestLib",
+  "description": "AQYTestLib仅仅是用来进行测试的",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AQYTestLib",
+  "license": "MIT",
+  "authors": {
+    "JiangHong": "1828803865@qq.com"
+  },
+  "platforms": {
+    "ios": null
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AQYTestLib.git",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "Classes",
+    "Classes/**/*.{h,m}"
+  ]
+}

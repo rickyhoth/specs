@@ -1,0 +1,22 @@
+{
+  "name": "IrregularCollectionUIKit",
+  "version": "2.0.1",
+  "summary": "Irregular Collection View Layout and Controller.",
+  "description": "Irregular Collection View Layout and Controller",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/IrregularCollectionUIKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Steve Kim": "hh963103@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/IrregularCollectionUIKit.git",
+    "tag": "2.0.1"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source_files": "IrregularCollectionUIKit/Classes/**/*"
+}

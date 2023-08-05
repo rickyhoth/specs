@@ -1,0 +1,23 @@
+{
+  "name": "AirSandbox",
+  "version": "0.0.2",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AirSandbox",
+  "authors": {
+    "Joe": "joesir7@foxmail.com"
+  },
+  "summary": "view iOS app sandbox file system on real device, share files via airdrop.",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AirSandbox.git",
+    "tag": "0.0.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "AirSandboxExample/AirSandbox/*.swift",
+  "requires_arc": true,
+  "pushed_with_swift_version": "3.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "HHUtility",
+  "version": "0.1.0",
+  "summary": "Utility Class for common methods",
+  "description": "This class is used for common methods. It contains all the common used methods.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HHUtility",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "hardik99": "hardik.halani14@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HHUtility.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HHUtility/Classes/**/*",
+  "pushed_with_swift_version": "3.0"
+}

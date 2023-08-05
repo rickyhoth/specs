@@ -1,0 +1,19 @@
+{
+  "name": "MTShow",
+  "version": "0.0.1",
+  "summary": "A short description of MTShow.",
+  "description": "Hello world!",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MTShow",
+  "license": "MIT",
+  "authors": {
+    "Mortar": "yan_yan.vip@foxmail.com"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MTShow.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "MTShow/*.swift"
+}

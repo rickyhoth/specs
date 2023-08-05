@@ -1,0 +1,25 @@
+{
+  "name": "UsefulPickerView",
+  "version": "0.1.0",
+  "summary": "UsefulPickerView is written in Swift and it is useful.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/UsefulPickerView",
+  "license": {
+    "type": "MIT"
+  },
+  "authors": {
+    "ZeroJ": "854136959@qq.com"
+  },
+  "requires_arc": true,
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/UsefulPickerView.git",
+    "tag": "0.1.0"
+  },
+  "frameworks": "UIKit",
+  "source_files": [
+    "Source/*.swift",
+    "Source/*.plist"
+  ]
+}

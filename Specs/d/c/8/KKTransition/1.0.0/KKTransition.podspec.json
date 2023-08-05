@@ -1,0 +1,24 @@
+{
+  "name": "KKTransition",
+  "version": "1.0.0",
+  "summary": "UIViewController transition on iOS.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/KKTransition",
+  "license": "MIT",
+  "authors": {
+    "huangkaizhan": "huangkaizhan@mama.cn"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/KKTransition.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "KKTransition/*",
+  "frameworks": [
+    "Foundation",
+    "CoreGraphics",
+    "UIKit"
+  ]
+}

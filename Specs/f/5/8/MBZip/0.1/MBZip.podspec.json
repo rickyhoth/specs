@@ -1,0 +1,22 @@
+{
+  "name": "MBZip",
+  "version": "0.1",
+  "summary": "Zip For NSString.",
+  "description": "Zip For NSString and NSData.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MBZip/",
+  "license": {
+    "type": "MIT",
+    "file": "FILE_LICENSE"
+  },
+  "authors": {
+    "benyao": "yao.h@163.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MBZip.git",
+    "tag": "0.1"
+  },
+  "source_files": "MBZip/*.{h,m}"
+}

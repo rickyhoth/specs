@@ -1,0 +1,26 @@
+{
+  "name": "LetsPod",
+  "version": "0.1.2",
+  "summary": "LetsNurture Framwork",
+  "description": "These are Private classes for only LetsNurture team and Developers",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LetsPod",
+  "license": "LetsNurture",
+  "authors": {
+    "LetsNurture": "lokesh.letsnurture@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LetsPod.git",
+    "branch": "master",
+    "tag": "0.1.2"
+  },
+  "social_media_url": "https://twitter.com/LetsNurture",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LetsPod/*.swift",
+  "frameworks": [
+    "UIKit",
+    "Foundation",
+    "CoreGraphics"
+  ]
+}

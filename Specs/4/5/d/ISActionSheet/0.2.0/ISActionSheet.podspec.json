@@ -1,0 +1,22 @@
+{
+  "name": "ISActionSheet",
+  "version": "0.2.0",
+  "summary": "自定义弹框.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ISActionSheet",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "LeoAiolia": "a936381813@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ISActionSheet.git",
+    "tag": "0.2.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ISActionSheet/Classes/*.h"
+}

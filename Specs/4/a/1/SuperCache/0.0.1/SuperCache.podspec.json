@@ -1,0 +1,24 @@
+{
+  "name": "SuperCache",
+  "version": "0.0.1",
+  "summary": "Extremely fast cache written in Swift.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SuperCache",
+  "license": {
+    "type": "MIT",
+    "file": "FILE_LICENSE"
+  },
+  "authors": {
+    "QuentinJin": "jianstm@gmail.com"
+  },
+  "platforms": {
+    "ios": "10.0",
+    "osx": "10.12"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SuperCache.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "Sources/SuperCache/*.swift",
+  "requires_arc": true,
+  "swift_version": "4.0"
+}

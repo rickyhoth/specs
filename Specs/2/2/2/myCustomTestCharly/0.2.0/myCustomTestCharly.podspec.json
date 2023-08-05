@@ -1,0 +1,23 @@
+{
+  "name": "myCustomTestCharly",
+  "version": "0.2.0",
+  "summary": "Its a pod test and will get updated with things.",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "swift_version": "4.2",
+  "description": "TODO: Add long description of the pod here. its just a description to avoid warnings jeje",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/myCustomTestCharly",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "carlosRodriguezGonzalez": "carlos.rodriguez@live.u-tad.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/myCustomTestCharly.git",
+    "tag": "0.2.0"
+  },
+  "source_files": "myCustomTestCharly/Classes/**/*"
+}

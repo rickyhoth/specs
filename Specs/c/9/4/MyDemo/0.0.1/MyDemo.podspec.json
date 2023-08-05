@@ -1,0 +1,22 @@
+{
+  "name": "MyDemo",
+  "version": "0.0.1",
+  "summary": "一个简历pod仓库的简单demo.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MyDemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "sdscx": "11095033639@qq.com"
+  },
+  "platforms": {
+    "ios": "6.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MyDemo.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "MyDemo/MyDemo/*.{h,m}",
+  "requires_arc": true
+}

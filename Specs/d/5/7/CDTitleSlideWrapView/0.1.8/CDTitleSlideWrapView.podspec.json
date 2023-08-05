@@ -1,0 +1,27 @@
+{
+  "name": "CDTitleSlideWrapView",
+  "version": "0.1.8",
+  "summary": "CDTitleSlideWrapView",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CDTitleSlideWrapView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lyluoyuan@126.com": "lyluoyuan@126.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CDTitleSlideWrapView.git",
+    "tag": "0.1.8"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CDTitleSlideWrapView1/CDTitleSlideWrapView.framework/**/*.{h,m}",
+  "dependencies": {
+    "Masonry": [
+      "~> 1.1.0"
+    ]
+  }
+}

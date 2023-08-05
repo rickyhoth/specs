@@ -1,0 +1,27 @@
+{
+  "name": "NSDictionaryAsURLQuery",
+  "version": "0.1.0",
+  "summary": "URLQueryBuilder convert NSDictionary to URL query string.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/NSDictionaryAsURLQuery",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "azu": "info@efcl.info"
+  },
+  "platforms": {
+    "ios": "6.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/NSDictionaryAsURLQuery.git",
+    "tag": "0.1.0"
+  },
+  "source_files": "lib/**/*.{h,m}",
+  "requires_arc": true,
+  "dependencies": {
+    "AZEncodeURIComponent": [
+
+    ]
+  }
+}

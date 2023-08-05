@@ -1,0 +1,23 @@
+{
+  "name": "FlexibleSteppedProgressBar",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "summary": "FlexibleSteppedProgressBar provides a customisable progress bar for IOS.",
+  "requires_arc": true,
+  "version": "0.6.2",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Amrata Baghel": "amrata.baghel@gmail.com"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/FlexibleSteppedProgressBar",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/FlexibleSteppedProgressBar.git",
+    "tag": "0.6.2"
+  },
+  "frameworks": "UIKit",
+  "source_files": "FlexibleSteppedProgressBar/**/*.{swift}"
+}

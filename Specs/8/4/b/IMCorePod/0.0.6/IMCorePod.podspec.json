@@ -1,0 +1,20 @@
+{
+  "name": "IMCorePod",
+  "version": "0.0.6",
+  "summary": "IM Core framework",
+  "description": "IM Core framework helps in IM apps using the OpenIMSDK",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/PeakIMCore",
+  "license": {
+    "type": "MIT",
+    "file": "MIT license"
+  },
+  "authors": "Abubaker",
+  "platforms": {
+    "ios": "13.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/PeakIMCore.git",
+    "tag": "0.0.6"
+  },
+  "source_files": "PeakCoreIM/**/*.{h,m,swift}"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "TDSwift",
+  "version": "0.1.0",
+  "summary": "Swift common, utils...",
+  "description": "Swift common, utils. Install library to your project, never have to write this generic code again.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TDSwift",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "thuydao": "daoduythuy@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TDSwift.git",
+    "branch": "master"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TDSwift/Classes/**/*"
+}

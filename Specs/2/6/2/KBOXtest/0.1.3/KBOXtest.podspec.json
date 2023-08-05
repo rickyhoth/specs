@@ -1,0 +1,22 @@
+{
+  "name": "KBOXtest",
+  "version": "0.1.3",
+  "summary": "A short ddddddddddddddddddddddddescription of KBOXtest.",
+  "description": "TODO: Add long descripddddddddddddddddtion of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/KBOXtest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lailibo8": "lailibo2009@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/KBOXtest.git",
+    "tag": "0.1.3"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "KBOXtest/Classes/**/*"
+}

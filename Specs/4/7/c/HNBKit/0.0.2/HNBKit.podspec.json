@@ -1,0 +1,25 @@
+{
+  "name": "HNBKit",
+  "version": "0.0.2",
+  "summary": "A kit for obect-c",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HNBKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "chengkang": "chengkang_boy@163.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HNBKit.git",
+    "tag": "0.0.2"
+  },
+  "source_files": [
+    "HNBKit",
+    "HNBKit/**/*.{h,m}"
+  ],
+  "exclude_files": "Classes/Exclude"
+}

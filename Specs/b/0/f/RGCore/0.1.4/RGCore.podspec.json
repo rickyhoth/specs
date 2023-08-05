@@ -1,0 +1,25 @@
+{
+  "name": "RGCore",
+  "version": "0.1.4",
+  "license": "MIT",
+  "summary": "This is a test project",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/RGCore",
+  "authors": {
+    "XXXXXX": "XXXXXX"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/RGCore.git",
+    "tag": "0.1.4"
+  },
+  "documentation_url": "https://bitbucket.devops.nonprod.empf.local/scm/react/RGCore",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "swift_version": "4.0",
+  "source_files": "RGCore/*.swift",
+  "dependencies": {
+    "RGURLRouter": [
+
+    ]
+  }
+}

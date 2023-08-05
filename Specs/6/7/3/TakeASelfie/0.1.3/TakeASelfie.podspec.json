@@ -1,0 +1,22 @@
+{
+  "name": "TakeASelfie",
+  "version": "0.1.3",
+  "summary": "An iOS framework that uses the front camera, detects your face and takes a selfie.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TakeASelfie",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Abdullah Selek": "abdullahselek@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TakeASelfie.git",
+    "tag": "0.1.3"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source_files": "TakeASelfie/*.{h,m,swift}",
+  "requires_arc": true
+}

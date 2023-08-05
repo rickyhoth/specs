@@ -1,0 +1,23 @@
+{
+  "name": "MIADefine",
+  "version": "0.0.2",
+  "summary": "MIADefine.",
+  "description": "*use fo commom operation define macro",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MIADefine",
+  "license": "MIT",
+  "authors": {
+    "tianjackyang": "919548782@qq.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MIADefine.git",
+    "tag": "0.0.2"
+  },
+  "source_files": [
+    "Pod",
+    "Pod/**/*.{h,m}"
+  ],
+  "requires_arc": true
+}

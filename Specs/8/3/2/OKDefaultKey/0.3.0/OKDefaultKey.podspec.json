@@ -1,0 +1,25 @@
+{
+  "name": "OKDefaultKey",
+  "version": "0.3.0",
+  "summary": "Extendable Keyboard Extension, that is very similar to the native keyboard",
+  "description": "Extendable Keyboard Extension, that is very similar to the native iOS keyboard.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/OKDefaultKey",
+  "license": "MIT",
+  "authors": {
+    "kirkbyo": "ozzie@kirkbyo.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/OKDefaultKey.git",
+    "tag": "0.3.0"
+  },
+  "social_media_url": "https://twitter.com/kirkbyo_",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "OKDefaultKey/Classes/**/*",
+  "resource_bundles": {
+    "OKDefaultKey": [
+      "OKDefaultKey/Assets/*.png"
+    ]
+  }
+}

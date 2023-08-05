@@ -1,0 +1,23 @@
+{
+  "name": "SwiftJsonUI",
+  "version": "0.7.11",
+  "summary": "A short description of SwiftJsonUI.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/reactSwiftJsonUI",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "kimura@tanosys.com": "kimura@tanosys.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/reactSwiftJsonUI.git",
+    "tag": "0.7.11"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "swift_version": "4.0",
+  "source_files": "SwiftJsonUI/Classes/**/*"
+}

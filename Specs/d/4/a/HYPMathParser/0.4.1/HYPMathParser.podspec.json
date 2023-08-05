@@ -1,0 +1,24 @@
+{
+  "name": "HYPMathParser",
+  "version": "0.4.1",
+  "summary": "A fork of DDMathParser but with a Podfile",
+  "description": "                    A fork of DDMathParser but with a Podfile,\n                    more info in https://bitbucket.devops.nonprod.empf.local/scm/react/DDMathParser\n",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HYPMathParser",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE.md"
+  },
+  "authors": {
+    "Hyper": "teknologi@hyper.no"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HYPMathParser.git",
+    "tag": "0.4.1"
+  },
+  "source_files": "DDMathParser/*.{h,m}",
+  "frameworks": "Foundation",
+  "requires_arc": true
+}

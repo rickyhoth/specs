@@ -1,0 +1,26 @@
+{
+  "name": "TesseractSwift",
+  "version": "1.0.1",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "summary": "A collection of independent utility classes for iOS projects in Swift.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/tesseract-swift",
+  "authors": {
+    "acilot": "actilot@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/tesseract-swift.git",
+    "tag": "1.0.1"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "requires_arc": true,
+  "frameworks": "UIKit",
+  "source_files": "Source/**/*.{swift,h}",
+  "preserve_paths": "*",
+  "swift_versions": "4.2",
+  "swift_version": "4.2"
+}

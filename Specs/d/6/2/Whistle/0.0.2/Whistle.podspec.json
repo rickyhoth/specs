@@ -1,0 +1,27 @@
+{
+  "name": "Whistle",
+  "summary": "Whisper is a component that will make the task of display messages and in-app notifications simple.",
+  "version": "0.0.2",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Whisper",
+  "license": "MIT",
+  "authors": {
+    "Hyper Interaktiv AS": "me@marcelo.cc"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Whisper.git",
+    "tag": "0.0.2"
+  },
+  "social_media_url": "https://twitter.com/marcelloreis",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "requires_arc": true,
+  "source_files": "Source/**/*",
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ],
+  "pod_target_xcconfig": {
+    "SWIFT_VERSION": "4.2"
+  }
+}

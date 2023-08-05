@@ -1,0 +1,22 @@
+{
+  "name": "AppCarry",
+  "version": "0.3.0",
+  "summary": "AppCarry IOS SDK",
+  "description": "AppCarry is IOS SDK for Mobile events tracking.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AppCarry",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Rehan Manzoor": "rehan_manzoor@outlook.com"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AppCarry.git",
+    "tag": "0.3.0"
+  },
+  "vendored_frameworks": "AppCarry.framework"
+}

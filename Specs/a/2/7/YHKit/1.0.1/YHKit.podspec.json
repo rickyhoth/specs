@@ -1,0 +1,31 @@
+{
+  "name": "YHKit",
+  "version": "1.0.1",
+  "summary": "BaseKit",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/YHKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "nilhy": "coderhaiyang@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YHKit.git",
+    "tag": "1.0.1"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "swift_version": "4.0",
+  "source_files": "YHKit/Classes/**/*",
+  "dependencies": {
+    "MJRefresh": [
+
+    ],
+    "SnapKit": [
+
+    ]
+  }
+}

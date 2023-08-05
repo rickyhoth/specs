@@ -1,0 +1,24 @@
+{
+  "name": "HorizontalTableView",
+  "version": "1.0.0",
+  "summary": "A UITableView that scrolls horizontally / sideways",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HorizontalTableView",
+  "license": "MIT",
+  "authors": {
+    "Jamie Riley Evans": "jamie.riley.evans@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HorizontalTableView.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "dependencies": {
+    "UIKitPlus": [
+      "~> 1.0.0"
+    ]
+  }
+}

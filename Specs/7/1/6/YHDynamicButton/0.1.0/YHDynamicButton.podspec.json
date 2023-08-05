@@ -1,0 +1,20 @@
+{
+  "name": "YHDynamicButton",
+  "version": "0.1.0",
+  "summary": "A dynamic width button",
+  "description": "Change a button title, button's width changed automatically.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/YHDynamicButton",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": "HaoXianSen",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YHDynamicButton.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YHDynamicButton/Classes/**/*"
+}

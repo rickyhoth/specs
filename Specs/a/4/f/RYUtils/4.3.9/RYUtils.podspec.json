@@ -1,0 +1,27 @@
+{
+  "name": "RYUtils",
+  "version": "4.3.9",
+  "summary": "Ryan Yuan's private library for Objective-C.",
+  "description": "It is Ryan Yuan's private library, which implement by Objective-C.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/RYUtils",
+  "license": "MIT",
+  "authors": {
+    "sudotamm": "sudotamm@hotmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/RYUtils.git",
+    "tag": "4.3.9"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "RYUtils/RYUtils/*.{h,m}",
+  "frameworks": [
+    "QuartzCore",
+    "AssetsLibrary",
+    "CoreLocation",
+    "Accelerate",
+    "CoreImage"
+  ]
+}

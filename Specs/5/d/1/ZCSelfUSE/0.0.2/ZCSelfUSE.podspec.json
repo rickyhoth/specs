@@ -1,0 +1,25 @@
+{
+  "name": "ZCSelfUSE",
+  "version": "0.0.2",
+  "summary": "自用小工具",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZCSelfUSE",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhangchao": "942777491@qq.com"
+  },
+  "platforms": {
+    "ios": null
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZCSelfUSE.git",
+    "tag": "0.0.2"
+  },
+  "source_files": [
+    "Classes",
+    "ZCSelfUSE/Tools/**/*.{h,m}"
+  ],
+  "requires_arc": true
+}

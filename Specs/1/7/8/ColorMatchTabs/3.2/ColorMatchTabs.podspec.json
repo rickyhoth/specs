@@ -1,0 +1,21 @@
+{
+  "name": "ColorMatchTabs",
+  "version": "3.2",
+  "summary": "UI animation concept fo review apps.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ColorMatchTabs",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": "Yalantis",
+  "social_media_url": "http://twitter.com/yalantis",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ColorMatchTabs.git",
+    "tag": "3.2"
+  },
+  "source_files": "ColorMatchTabs/Classes/**/*.{swift}",
+  "resources": "ColorMatchTabs/Resources/MenuAssets.xcassets"
+}

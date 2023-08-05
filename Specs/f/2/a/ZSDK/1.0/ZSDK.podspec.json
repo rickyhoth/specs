@@ -1,0 +1,21 @@
+{
+  "name": "ZSDK",
+  "version": "1.0",
+  "summary": "A short description of ZSDK.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/zsyfPod",
+  "license": "MIT",
+  "authors": "zsyf",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/zsyfPod.git",
+    "tag": "1.0"
+  },
+  "requires_arc": true,
+  "vendored_frameworks": "ZSDK.framework",
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ]
+}

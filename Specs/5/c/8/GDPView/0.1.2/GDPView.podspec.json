@@ -1,0 +1,22 @@
+{
+  "name": "GDPView",
+  "version": "0.1.2",
+  "summary": "Its GDPView.",
+  "description": "Help you customize your view!",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/GDPView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yuyuan": "yuyuan@gaoding.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/GDPView.git",
+    "tag": "0.1.2"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "GDPView/Classes/**/*"
+}

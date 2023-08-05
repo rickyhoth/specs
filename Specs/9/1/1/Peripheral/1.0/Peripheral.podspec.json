@@ -1,0 +1,27 @@
+{
+  "name": "Peripheral",
+  "version": "1.0",
+  "summary": "The way to launch apps on iOS.",
+  "description": "This framework brings a new, clear and extendable way to launch apps on iOS.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Peripheral",
+  "screenshots": "https://bitbucket.devops.nonprod.empf.local/scm/react/logo-1024-400.png",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Igor Matyushkin": "igormatyushkin014@gmail.com"
+  },
+  "social_media_url": "https://twitter.com/igormatyushkin1",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Peripheral.git",
+    "tag": "1.0"
+  },
+  "source_files": [
+    "Source",
+    "Source/**/*"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "BOString",
+  "version": "0.0.1",
+  "summary": "Create NSAttributedString like a boss!",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/BOString",
+  "authors": {
+    "Pavel Mazurin": "kovpas@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/BOString.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "6.0"
+  },
+  "license": "MIT",
+  "source_files": "BOString/*.{h,m}",
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ],
+  "requires_arc": true
+}

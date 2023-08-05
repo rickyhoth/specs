@@ -1,0 +1,19 @@
+{
+  "name": "IQInteracWallet",
+  "version": "1.0.0",
+  "summary": "An awesome wallet framework for Interac",
+  "description": "A brilliant framework of a wallet with Interac option.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/IQInteracWallet",
+  "license": "MIT",
+  "authors": "JettySoft",
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/IQInteracWallet.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "IQInteracWallet/**/*.{h,m,swift}",
+  "swift_versions": "5",
+  "swift_version": "5"
+}

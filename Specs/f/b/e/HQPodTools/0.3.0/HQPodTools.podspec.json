@@ -1,0 +1,22 @@
+{
+  "name": "HQPodTools",
+  "version": "0.3.0",
+  "summary": "测试",
+  "description": "我的pod库",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HQPodTools",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "327635328": "327635328@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HQPodTools.git",
+    "tag": "0.3.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HQPodTools/Classes/**/*"
+}

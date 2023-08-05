@@ -1,0 +1,24 @@
+{
+  "name": "SDKBdika",
+  "version": "0.0.2",
+  "summary": "A really cool SDK that logs stuff.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SDKBdika",
+  "authors": {
+    "Name": "omerm@inmanage.net"
+  },
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SDKBdika.git",
+    "tag": "0.0.2"
+  },
+  "vendored_frameworks": "SDKBdika/SDKBdika.framework",
+  "source_files": "SDKBdika/**/*.{swift}",
+  "swift_versions": "4.0",
+  "swift_version": "4.0"
+}

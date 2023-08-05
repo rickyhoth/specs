@@ -1,0 +1,19 @@
+{
+  "name": "XFReusedScrollView",
+  "version": "1.6.0",
+  "license": "MIT",
+  "summary": "Powerful reused scrollView for IOS. Support custom extension layout.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/XFReusedScrollView",
+  "authors": {
+    "yizzuide": "fu837014586@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/XFReusedScrollView.git",
+    "tag": "1.6.0"
+  },
+  "requires_arc": true,
+  "platforms": {
+    "ios": "6.0"
+  },
+  "source_files": "XFReusedScrollView/**/*.{h,m}"
+}

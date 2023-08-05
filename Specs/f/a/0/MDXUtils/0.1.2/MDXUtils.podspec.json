@@ -1,0 +1,22 @@
+{
+  "name": "MDXUtils",
+  "version": "0.1.2",
+  "summary": "A short description of MDXUtils.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MDXUtils",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "mjl": "2994355324@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MDXUtils.git",
+    "tag": "0.1.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MDXUtils/Classes/**/*"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "SKCollectionViewDataSource",
+  "version": "0.0.2",
+  "license": "MIT",
+  "summary": "An easier to configure data source for UICollectionView.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SKCollectionViewDataSource",
+  "authors": {
+    "Sean Kladek": "skladek@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SKCollectionViewDataSource.git",
+    "tag": "0.0.2"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "Source/*.swift",
+  "pushed_with_swift_version": "3.0"
+}

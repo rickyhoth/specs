@@ -1,0 +1,22 @@
+{
+  "name": "PDSnackbar",
+  "version": "0.1.2",
+  "license": "MIT",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "summary": "An Objective-C version material snackbar",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/PDSnackbar",
+  "authors": "Prime Digital",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/PDSnackbar.git",
+    "tag": "v.0.1.2"
+  },
+  "source_files": "PDSnackbar/Classes/*.{h,m}",
+  "requires_arc": true,
+  "dependencies": {
+    "PureLayout": [
+
+    ]
+  }
+}

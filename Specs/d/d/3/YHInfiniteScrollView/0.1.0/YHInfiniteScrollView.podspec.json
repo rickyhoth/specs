@@ -1,0 +1,23 @@
+{
+  "name": "YHInfiniteScrollView",
+  "version": "0.1.0",
+  "summary": "Infinite scroll view for Swift",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/YHInfiniteScrollView.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Yonghwi": "yonghwi.nam@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YHInfiniteScrollView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "YHInfiniteScrollView/Classes/**/*",
+  "pushed_with_swift_version": "3.2"
+}

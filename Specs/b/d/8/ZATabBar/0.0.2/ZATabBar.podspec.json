@@ -1,0 +1,23 @@
+{
+  "name": "ZATabBar",
+  "version": "0.0.2",
+  "platforms": {
+    "ios": "5.0"
+  },
+  "summary": "Tabbar without labels.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZATabBar",
+  "license": "MIT",
+  "authors": {
+    "Istergul": "istergul@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZATabBar.git",
+    "tag": "0.0.2"
+  },
+  "source_files": "Classes",
+  "exclude_files": "Classes/Exclude",
+  "requires_arc": true,
+  "ios": {
+    "frameworks": "QuartzCore"
+  }
+}

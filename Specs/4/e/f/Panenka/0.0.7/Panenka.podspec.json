@@ -1,0 +1,24 @@
+{
+  "name": "Panenka",
+  "version": "0.0.7",
+  "summary": "Penenka",
+  "description": "The Panenka provides ..",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Panenka",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Beomseok Seo": "predle@me.com"
+  },
+  "social_media_url": "http://twitter.com/predle",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Panenka.git",
+    "tag": "0.0.7"
+  },
+  "source_files": "Panenka",
+  "requires_arc": true
+}

@@ -1,0 +1,25 @@
+{
+  "name": "JBChartView",
+  "version": "2.1.0",
+  "summary": "Jawbone's iOS-based charting library for both line and bar graphs.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JBChartView",
+  "license": {
+    "type": "Apache",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Terry Worona": "tworona@jawbone.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JBChartView.git",
+    "tag": "v2.1.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source_files": [
+    "Classes",
+    "Classes/**/*.{h,m}"
+  ],
+  "requires_arc": true
+}

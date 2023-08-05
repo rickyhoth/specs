@@ -1,0 +1,23 @@
+{
+  "name": "NSString+Judgment",
+  "version": "0.0.1",
+  "summary": "A category of NSString",
+  "description": "A category of NSString for Login and Regist!",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Category.git",
+  "license": "MIT",
+  "authors": {
+    "wkj": "931625530@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Category.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "NSString/NSString+Judgment/*.{h,m}",
+  "exclude_files": "Category/Exclude",
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}

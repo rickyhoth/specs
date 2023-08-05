@@ -1,0 +1,22 @@
+{
+  "name": "SGSZLTestLog",
+  "version": "0.1.0",
+  "summary": "SGSZLTestLog",
+  "description": "SGSZLTestLog description",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SGSZLTestLog",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lin-Z": "1312381829@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SGSZLTestLog.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SGSZLTestLog/Classes/**/*"
+}

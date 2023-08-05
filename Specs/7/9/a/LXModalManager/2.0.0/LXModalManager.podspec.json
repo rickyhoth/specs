@@ -1,0 +1,21 @@
+{
+  "name": "LXModalManager",
+  "version": "2.0.0",
+  "summary": "按钮弹窗、列表弹窗、可自定义弹窗",
+  "description": "LXModalManager is moda manager",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LXModalModule",
+  "license": "MIT",
+  "authors": {
+    "lixiang": "lixiang@gokuaidian.com"
+  },
+  "platforms": {
+    "ios": "9.2"
+  },
+  "swift_versions": "5.0",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LXModalModule.git",
+    "tag": "2.0.0"
+  },
+  "source_files": "LXModalManager/*.{swift}",
+  "swift_version": "5.0"
+}

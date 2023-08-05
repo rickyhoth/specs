@@ -1,0 +1,21 @@
+{
+  "name": "iOS-Utils",
+  "version": "1.3.0",
+  "summary": "A set of convenient iOS utilities",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/iOS-Utils",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE.md"
+  },
+  "authors": "ark-develop",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/iOS-Utils.git",
+    "tag": "1.3.0"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "swift_version": "5.0",
+  "source_files": "Source/**/*.swift",
+  "deprecated": true
+}

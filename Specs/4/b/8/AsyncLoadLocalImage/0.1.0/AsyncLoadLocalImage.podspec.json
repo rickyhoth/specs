@@ -1,0 +1,25 @@
+{
+  "name": "AsyncLoadLocalImage",
+  "version": "0.1.0",
+  "summary": "Asynchronous loading local Images.",
+  "description": "Asynchronous loading local Images.Author:Roc.Tian;eamil:389744841@qq.com",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AsyncLoadLocalImage",
+  "license": "MIT",
+  "authors": {
+    "pzhtpf": "389744841@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AsyncLoadLocalImage.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "AsyncLoadLocalImage": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}

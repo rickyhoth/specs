@@ -1,0 +1,25 @@
+{
+  "name": "LetsMove",
+  "version": "1.23",
+  "summary": "Moves a running Mac application to the /Applications directory.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LetsMove/",
+  "license": "Public Domain",
+  "authors": {
+    "Andy Kim": "andy@potionfactory.com"
+  },
+  "platforms": {
+    "osx": "10.6"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LetsMove.git",
+    "tag": "v1.23"
+  },
+  "source_files": "*.{h,m}",
+  "exclude_files": [
+    "main.m",
+    "LetsMoveAppDelegate.{h,m}"
+  ],
+  "public_header_files": "PFMoveApplication.h",
+  "resources": "*.lproj",
+  "requires_arc": false
+}

@@ -1,0 +1,21 @@
+{
+  "name": "BFImageResize",
+  "version": "0.1.1",
+  "summary": "Simply resize your UIImages by passing width and UIImage to BTImageResize category",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/BFImageResize",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Matthias Nagel": "matthias@bitfactory.io"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/BFImageResize.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "BFImageResize/Classes/**/*"
+}

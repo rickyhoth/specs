@@ -1,0 +1,23 @@
+{
+  "name": "EScrollPageView",
+  "version": "0.0.2",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "summary": "Scroll PageView",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/EScrollPageView",
+  "license": "MIT",
+  "authors": {
+    "EasySnail": "944200885@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/EScrollPageView.git",
+    "tag": "0.0.2"
+  },
+  "source_files": "EScrollPageView/EPageCore",
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ],
+  "requires_arc": true
+}

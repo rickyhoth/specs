@@ -1,0 +1,20 @@
+{
+  "name": "HHTheme",
+  "version": "1.0.0",
+  "summary": "HHTheme",
+  "description": "Automatically manage theme",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/wiki",
+  "license": "MIT",
+  "authors": {
+    "yufeng": "991810133@qq.com"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HHTheme.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "HHTheme/*.{h,m}",
+  "requires_arc": true
+}

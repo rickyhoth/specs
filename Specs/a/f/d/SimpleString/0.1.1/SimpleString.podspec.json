@@ -1,0 +1,22 @@
+{
+  "name": "SimpleString",
+  "version": "0.1.1",
+  "swift_version": "4.0",
+  "summary": "Simply styling strings",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SimpleString",
+  "license": {
+    "type": "MIT",
+    "file": "License"
+  },
+  "authors": {
+    "James Pang": "j.pang91@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SimpleString.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "11.2"
+  },
+  "source_files": "SimpleString/SimpleString.swift"
+}

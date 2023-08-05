@@ -1,0 +1,29 @@
+{
+  "name": "UzysSlideMenu",
+  "version": "1.1.0",
+  "summary": "Slide Dropdown Menu.",
+  "authors": {
+    "UzysJung": "uzysjung@gmail.com"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/UzysSlideMenu",
+  "license": {
+    "type": "MIT",
+    "file": "MIT-LICENSE.txt"
+  },
+  "platforms": {
+    "ios": null
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/UzysSlideMenu.git",
+    "tag": "1.1.0"
+  },
+  "requires_arc": false,
+  "source_files": "UzysSlideMenu/Library",
+  "resources": [
+    "UzysSlideMenu/Library/*.xib"
+  ],
+  "public_header_files": "UzysSlideMenu/Library/*.h",
+  "ios": {
+    "frameworks": "QuartzCore"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "IkigaJSON",
+  "version": "1.1.0",
+  "summary": "A High performance JSON Codable implementation.",
+  "swift_version": "4.1",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/IkigaJSON",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "joannis": "joannis@orlandos.nl"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/IkigaJSON.git",
+    "tag": "1.1.0"
+  },
+  "social_media_url": "https://twitter.com/joannisorlandos",
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "Sources/IkigaJSON/**/*",
+  "dependencies": {
+    "SwiftNIO": [
+      "~> 1.12"
+    ]
+  }
+}

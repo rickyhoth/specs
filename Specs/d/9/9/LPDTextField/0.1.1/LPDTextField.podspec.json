@@ -1,0 +1,30 @@
+{
+  "name": "LPDTextField",
+  "version": "0.1.1",
+  "summary": "A short description of LPDTextField.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LPDTextField",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ZhengYidong": "yidong.zheng@ele.me"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LPDTextField.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LPDTextField/Classes/**/*",
+  "dependencies": {
+    "Masonry": [
+
+    ],
+    "LPDAdditionsKit": [
+
+    ]
+  }
+}

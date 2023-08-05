@@ -1,0 +1,20 @@
+{
+  "name": "XCAppDevKit",
+  "version": "0.1.1",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "summary": "iOS App development tools. All in One !",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/XCAppDevKit",
+  "license": "MIT",
+  "authors": {
+    "follyxing": "i@xingcheng.me"
+  },
+  "social_media_url": "https://www.xingcheng.me",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/XCAppDevKit.git",
+    "tag": "0.1.1"
+  },
+  "source_files": "XCAppDevKit/**/*.{h,m}",
+  "requires_arc": true
+}

@@ -1,0 +1,46 @@
+{
+  "name": "LPDMvvmKit",
+  "version": "0.9.9",
+  "summary": "Elegant MVVM framework in Objective-C.",
+  "description": "LPDMvvmKit - Elegant MVVM framework in Objective-C.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LPDMvvmKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "foxsofter": "foxsofter@gmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LPDMvvmKit.git",
+    "tag": "0.9.9"
+  },
+  "requires_arc": true,
+  "source_files": "LPDMvvmKit/Classes/**/*",
+  "dependencies": {
+    "LPDAdditionsKit": [
+
+    ],
+    "LPDControlsKit": [
+
+    ],
+    "LPDNetworkingKit": [
+
+    ],
+    "LPDTableViewKit": [
+
+    ],
+    "LPDCollectionViewKit": [
+
+    ],
+    "ReactiveObjC": [
+
+    ],
+    "MJRefresh": [
+
+    ]
+  }
+}

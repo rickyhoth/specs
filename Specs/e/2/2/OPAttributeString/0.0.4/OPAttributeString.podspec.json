@@ -1,0 +1,24 @@
+{
+  "name": "OPAttributeString",
+  "version": "0.0.4",
+  "license": "MIT",
+  "summary": "A Sample AttributeString Lib",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/OPAttributeString",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/OPAttributeString.git",
+    "tag": "0.0.4"
+  },
+  "source_files": "OPAttributeString/Classes/*.{h,m}",
+  "requires_arc": true,
+  "platforms": {
+    "ios": "8.0"
+  },
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ],
+  "authors": {
+    "BY": "348043793@qq.com"
+  },
+  "social_media_url": "https://urm9ril.github.io/"
+}

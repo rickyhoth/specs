@@ -1,0 +1,27 @@
+{
+  "name": "UgurSubFramework",
+  "version": "1.0.0",
+  "summary": "A short description of UgurSubFramework.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/UgurFramework",
+  "license": {
+    "type": "MIT"
+  },
+  "authors": {
+    "Ugur Kilic": "ugurkilic@live.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/UgurFramework.git",
+    "tag": "snapshot-1.0.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "ios": {
+    "vendored_frameworks": "UgurSubFramework.framework"
+  },
+  "dependencies": {
+    "UgurFramework": [
+      "~> 1.0"
+    ]
+  }
+}

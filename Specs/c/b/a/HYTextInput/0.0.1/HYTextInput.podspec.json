@@ -1,0 +1,23 @@
+{
+  "name": "HYTextInput",
+  "version": "0.0.1",
+  "summary": "HYTextInput",
+  "description": "OC 中的文字输入",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HYTextInput",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "oceanfive": "849638313@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HYTextInput.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source_files": "HYTextInput/Classes/**/*",
+  "frameworks": "UIKit"
+}

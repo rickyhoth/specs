@@ -1,0 +1,19 @@
+{
+  "name": "TJTextView",
+  "platforms": {
+    "ios": null
+  },
+  "version": "1.0.0",
+  "summary": "TJTextView 支持动态高度、最大高度、最小高度、最大长度限制",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TJTextView",
+  "license": "MIT",
+  "authors": {
+    "TangJie": "tang910103@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TJTextView.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "TJTextView/TJTextView/TextView/*.{h,m}",
+  "requires_arc": true
+}

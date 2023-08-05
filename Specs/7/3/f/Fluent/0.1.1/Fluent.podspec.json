@@ -1,0 +1,23 @@
+{
+  "name": "Fluent",
+  "version": "0.1.1",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "summary": "Swift Animations made Easy",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Fluent",
+  "authors": {
+    "Matthew Cheok": "hello@matthewcheok.com"
+  },
+  "requires_arc": true,
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Fluent.git",
+    "branch": "master",
+    "tag": "0.1.1"
+  },
+  "source_files": "Fluent/*.swift"
+}

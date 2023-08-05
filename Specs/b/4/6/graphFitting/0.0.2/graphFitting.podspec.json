@@ -1,0 +1,19 @@
+{
+  "name": "graphFitting",
+  "version": "0.0.2",
+  "summary": "some code graphFitting with c/c++",
+  "description": "关于各种绘制的智能图形拟合代码",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/graphFitting.git",
+  "license": "MIT",
+  "authors": {
+    "huangcan": "hcoder.cn@gmail.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/graphFitting.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "*.{*}"
+}

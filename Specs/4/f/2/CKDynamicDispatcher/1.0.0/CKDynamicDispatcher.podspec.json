@@ -1,0 +1,22 @@
+{
+  "name": "CKDynamicDispatcher",
+  "version": "1.0.0",
+  "summary": "Dynamic dispatch any UIViewController with any property and method",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CKDynamicDispatcher",
+  "license": "MIT",
+  "authors": {
+    "kaychn126": "kaychn@126.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CKDynamicDispatcher.git",
+    "tag": "1.0.0"
+  },
+  "source_files": [
+    "CKDynamicDispatcher/",
+    "CKDynamicDispatcher/*.{h,m}"
+  ],
+  "requires_arc": true
+}

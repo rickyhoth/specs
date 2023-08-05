@@ -1,0 +1,22 @@
+{
+  "name": "FZNotifier",
+  "version": "0.0.2",
+  "summary": "A short description of FZNotifier.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/FZNotifier",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wufuzeng": "wufuzeng_lucky@sina.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/FZNotifier.git",
+    "tag": "0.0.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "vendored_frameworks": "FZNotifier/Classes/FZNotifier.framework"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "GHODictionary",
+  "version": "1.0.8",
+  "summary": "Ordered dictionary.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/GHODictionary",
+  "license": {
+    "type": "MIT"
+  },
+  "authors": {
+    "Gabriel Handford": "gabrielh@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/GHODictionary.git",
+    "tag": "1.0.8"
+  },
+  "requires_arc": true,
+  "source_files": "GHODictionary/**/*.{c,h,m}"
+}

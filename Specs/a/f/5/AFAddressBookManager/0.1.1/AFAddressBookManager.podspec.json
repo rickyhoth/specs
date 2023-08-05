@@ -1,0 +1,20 @@
+{
+  "name": "AFAddressBookManager",
+  "version": "0.1.1",
+  "summary": "Get contacts from AddressBook by their phone numbers.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AFAddressBookManager",
+  "license": "MIT",
+  "authors": {
+    "Anders Fogh Eriksen": "andfogh@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AFAddressBookManager.git",
+    "tag": "v0.1.1"
+  },
+  "platforms": {
+    "ios": "6.0"
+  },
+  "source_files": "AFAddressBookManager/*.{h,m}",
+  "frameworks": "AddressBook",
+  "requires_arc": true
+}

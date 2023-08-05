@@ -1,0 +1,21 @@
+{
+  "name": "Peek",
+  "version": "5.2.0",
+  "summary": "All new design. Inspect your iOS application at runtime.",
+  "homepage": "https://shaps.me/peek",
+  "screenshots": "https://bitbucket.devops.nonprod.empf.local/scm/react/shot.jpg",
+  "license": "MIT",
+  "authors": {
+    "Shaps Mohsenin": "shapsuk@me.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Peek.git",
+    "tag": "5.2.0"
+  },
+  "social_media_url": "https://twitter.com/shaps",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*.{swift,h,m}"
+}

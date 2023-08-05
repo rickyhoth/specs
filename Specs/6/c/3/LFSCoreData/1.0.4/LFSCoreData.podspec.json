@@ -1,0 +1,23 @@
+{
+  "name": "LFSCoreData",
+  "version": "1.0.4",
+  "summary": "Core Data Wrapper for building core data transparent to developer.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LFSCoreData",
+  "authors": {
+    "David Cortés": "david@lafosca.cat"
+  },
+  "license": {
+    "type": "All rights reserved"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LFSCoreData.git",
+    "tag": "1.0.4"
+  },
+  "platforms": {
+    "ios": "5.0",
+    "osx": "10.7"
+  },
+  "source_files": "LFSCoreData/*.{h,m}",
+  "requires_arc": true,
+  "frameworks": "CoreData"
+}

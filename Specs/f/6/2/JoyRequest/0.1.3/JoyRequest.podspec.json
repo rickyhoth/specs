@@ -1,0 +1,27 @@
+{
+  "name": "JoyRequest",
+  "version": "0.1.3",
+  "summary": "AFNetworking4.0.1接口适配",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JoyRequest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "joy-make": "315585646@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JoyRequest.git",
+    "tag": "0.1.3"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "JoyRequest/Classes/**/*",
+  "dependencies": {
+    "AFNetworking": [
+
+    ]
+  }
+}

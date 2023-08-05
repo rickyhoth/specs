@@ -1,0 +1,22 @@
+{
+  "name": "HHSegment",
+  "version": "0.0.1",
+  "summary": "IOS Segment animation font maske.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HHSegment",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "huanghe": "20211569@qq.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HHSegment.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "HHSegmentDemo/HHSegmentDemo/HHSegment/*.{h,m}",
+  "frameworks": "UIKit"
+}

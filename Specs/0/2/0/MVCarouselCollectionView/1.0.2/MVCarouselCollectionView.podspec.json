@@ -1,0 +1,22 @@
+{
+  "name": "MVCarouselCollectionView",
+  "version": "1.0.2",
+  "summary": "UICollectionView-based image carousel written in Swift",
+  "license": "MIT",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MVCarouselCollectionView",
+  "authors": {
+    "Andrea Bizzotto": "bizz84@gmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MVCarouselCollectionView.git",
+    "tag": "1.0.2"
+  },
+  "source_files": "MVCarouselCollectionView/*.{swift,xib}",
+  "screenshots": [
+    "https://bitbucket.devops.nonprod.empf.local/scm/react/MVCarouselCollectionView/raw/master/screenshot.png"
+  ],
+  "requires_arc": true
+}

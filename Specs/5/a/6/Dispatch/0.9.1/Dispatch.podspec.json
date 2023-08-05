@@ -1,0 +1,19 @@
+{
+  "name": "Dispatch",
+  "version": "0.9.1",
+  "summary": "Just a tiny library to make using GCD easier and intuitive",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Dispatch",
+  "license": "MIT",
+  "authors": {
+    "João Mourato": "joao.armourato@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Dispatch.git",
+    "tag": "0.9.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Sources/*.swift",
+  "module_name": "DispatchFramework"
+}

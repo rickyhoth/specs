@@ -1,0 +1,25 @@
+{
+  "name": "EmailValidatorFramework",
+  "platforms": {
+    "ios": "13.0"
+  },
+  "summary": "Test validator framework.",
+  "requires_arc": true,
+  "version": "1.3.0",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Nikos Aggelidis": "nikoagge@gmail.com"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/EmailValidatorFramework",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/EmailValidatorFramework.git",
+    "tag": "1.3.0"
+  },
+  "frameworks": "Foundation",
+  "source_files": "EmailValidatorFramework/**/*.{swift}",
+  "swift_versions": "5",
+  "swift_version": "5"
+}

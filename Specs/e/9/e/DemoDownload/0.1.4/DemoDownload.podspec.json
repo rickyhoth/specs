@@ -1,0 +1,23 @@
+{
+  "name": "DemoDownload",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "summary": "A short description of DemoDownload. It is a customized button for downloading .",
+  "requires_arc": true,
+  "version": "0.1.4",
+  "license": {
+    "type": "MIT",
+    "file": "DemoDownload/LICENSE"
+  },
+  "authors": {
+    "rojil": "rojil@qburst.com"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DemoDownload",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DemoDownload.git",
+    "tag": "0.1.4"
+  },
+  "source_files": "DemoDownload/Sources/**/*.{swift}",
+  "resources": "DemoDownload/Sources/Resources/**/*.{png}"
+}

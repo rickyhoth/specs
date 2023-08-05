@@ -1,0 +1,27 @@
+{
+  "name": "FloatingHearts",
+  "version": "0.1.1",
+  "summary": "Periscope-Like flowing hearts animation.",
+  "description": "Example showing how to recreate the floating hearts animation on Periscope.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/FloatingHearts",
+  "screenshots": "https://bitbucket.devops.nonprod.empf.local/scm/react/FloatingHearts/raw/master/hearts.gif",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "anysome": "anysome@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/FloatingHearts.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FloatingHearts/Classes/**/*",
+  "resources": [
+    "FloatingHearts/Assets.xcassets"
+  ],
+  "pushed_with_swift_version": "3.0"
+}

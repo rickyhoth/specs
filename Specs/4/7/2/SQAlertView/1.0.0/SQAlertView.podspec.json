@@ -1,0 +1,22 @@
+{
+  "name": "SQAlertView",
+  "version": "1.0.0",
+  "summary": "方便的自定义弹窗",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SSAlertView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "shuqy": "804663401@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SSAlertView.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "SSAlertView/*.{h,m}",
+  "requires_arc": true
+}

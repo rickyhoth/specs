@@ -1,0 +1,21 @@
+{
+  "name": "VMAdSDK",
+  "version": "3.6.0",
+  "summary": "Pod test",
+  "description": "Pod test for SDK",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/VMPodTest",
+  "license": "VMAX",
+  "authors": "akdsouza",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/VMPodTest.git",
+    "tag": "3.6.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": [
+    "VMaxAdSDK/lib/*",
+    "VMaxAdSDK/include/*",
+    "VMaxAdSDK/VMaxAdSDKResources.bundle"
+  ]
+}

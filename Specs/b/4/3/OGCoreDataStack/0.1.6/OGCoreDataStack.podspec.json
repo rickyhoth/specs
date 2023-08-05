@@ -1,0 +1,23 @@
+{
+  "name": "OGCoreDataStack",
+  "version": "0.1.6",
+  "summary": "Core Data stack",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/OGCoreDataStack",
+  "license": {
+    "type": "MIT"
+  },
+  "authors": {
+    "Jesper": "jesper@orangegroove.net"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/OGCoreDataStack.git",
+    "tag": "0.1.6"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source_files": "OGCoreDataStack/",
+  "private_header_files": "OGCoreDataStack/*Private.h",
+  "frameworks": "CoreData",
+  "requires_arc": true
+}

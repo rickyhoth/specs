@@ -1,0 +1,28 @@
+{
+  "name": "RVHttp",
+  "version": "1.0.11",
+  "summary": "Easy http request",
+  "license": "MIT",
+  "platforms": {
+    "ios": "7.0",
+    "osx": "10.9"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/RVHttp.git",
+    "tag": "1.0.11"
+  },
+  "dependencies": {
+    "Collection": [
+
+    ]
+  },
+  "description": "Making http request super easy",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/RVHttp",
+  "authors": {
+    "Jordi Puigdellívol": "jordo@gloobus.net"
+  },
+  "source_files": [
+    "RVHttp/lib/**/*"
+  ],
+  "requires_arc": true
+}

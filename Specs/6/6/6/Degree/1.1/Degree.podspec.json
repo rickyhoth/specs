@@ -1,0 +1,28 @@
+{
+  "name": "Degree",
+  "version": "1.1",
+  "summary": "Gradient made in Swift",
+  "description": "Provides developer with set of classes for making gradients.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Degree",
+  "screenshots": "https://bitbucket.devops.nonprod.empf.local/scm/react/logo_2048_800.png",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Igor Matyushkin": "igormatyushkin014@gmail.com"
+  },
+  "social_media_url": "https://twitter.com/imatyushkin1",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Degree.git",
+    "tag": "1.1"
+  },
+  "source_files": [
+    "Source",
+    "Source/**/*"
+  ],
+  "swift_version": "4.0"
+}

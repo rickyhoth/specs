@@ -1,0 +1,22 @@
+{
+  "name": "TKFloatTextField",
+  "version": "0.1.5",
+  "summary": "TKFloatTextField base on ACFLoattingTextfield",
+  "description": "Base on ACFloattingTextfield https://bitbucket.devops.nonprod.empf.local/scm/react/ACFloatingTextfield\nSupport auto fill email",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TKFloatTextField",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ducnnguyen": "duc.nguyen@tiki.vn"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TKFloatTextField.git",
+    "tag": "0.1.5"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Pod/Classes/**/*"
+}

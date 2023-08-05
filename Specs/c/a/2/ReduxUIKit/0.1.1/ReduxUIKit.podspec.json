@@ -1,0 +1,23 @@
+{
+  "name": "ReduxUIKit",
+  "version": "0.1.1",
+  "summary": "Swift extension of UIKit for Redux.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ReduxUIKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "VladimirKalinichenko": "qiper4life@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ReduxUIKit.git",
+    "tag": "0.1.1"
+  },
+  "swift_version": "4.2",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ReduxUIKit/Classes/**/*"
+}

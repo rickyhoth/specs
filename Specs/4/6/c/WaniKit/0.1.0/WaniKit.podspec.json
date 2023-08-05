@@ -1,0 +1,21 @@
+{
+  "name": "WaniKit",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WaniKit/tree/master",
+  "version": "0.1.0",
+  "summary": "Swift wrapper for WaniKani.com API",
+  "license": {
+    "type": "MIT"
+  },
+  "authors": {
+    "Andriy Kharchyshyn": "haawaplus@gmail.com"
+  },
+  "requires_arc": true,
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WaniKit.git",
+    "tag": "v0.1.0"
+  },
+  "source_files": "Pod/Classes/**/*"
+}

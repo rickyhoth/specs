@@ -1,0 +1,22 @@
+{
+  "name": "TSCubeEngineFoundationKit",
+  "version": "1.0.1",
+  "summary": "Foundation framework",
+  "description": "A foundation framework of CubeEngine",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CubeEngineFoundationKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Ashine": "758988371@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CubeEngineFoundationKit.git",
+    "tag": "1.0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CubeEngineFoundationKit/Classes/**/*"
+}

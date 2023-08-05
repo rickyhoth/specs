@@ -1,0 +1,22 @@
+{
+  "name": "SKSimpleSDK",
+  "version": "1.0",
+  "summary": "A short summary of SKSimpleSDK.",
+  "description": "A short description of SKSimpleSDK.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SKSampleSDK",
+  "license": {
+    "type": "MIT",
+    "file": "License"
+  },
+  "authors": {
+    "Satheesh Kannan": "satheeshkannan.ios@gmail.com"
+  },
+  "platforms": {
+    "ios": "14.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SKSampleSDK.git",
+    "tag": "1.0"
+  },
+  "source_files": "SKSampleSDK/**/*.{h,m,swift}"
+}

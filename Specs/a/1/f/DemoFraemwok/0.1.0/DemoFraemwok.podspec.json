@@ -1,0 +1,23 @@
+{
+  "name": "DemoFraemwok",
+  "version": "0.1.0",
+  "summary": "A Demo app for custom pod pract",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DemoFraemwok",
+  "license": {
+    "type": "Copyright",
+    "text": "      Copyright 2018\n      Permission is granted to...\n"
+  },
+  "authors": {
+    "CanopusiOSs": "nirmal.patel@canopusinfosystems.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DemoFraemwok.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "DemoFraemwok/Classes/**/*",
+  "swift_versions": "5.0.0",
+  "swift_version": "5.0.0"
+}

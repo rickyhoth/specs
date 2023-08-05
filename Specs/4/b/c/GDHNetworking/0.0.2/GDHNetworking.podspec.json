@@ -1,0 +1,32 @@
+{
+  "name": "GDHNetworking",
+  "version": "0.0.2",
+  "summary": "GDHNetworking is a high level request util based on AFNetworking.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/GDHNetworking",
+  "license": "MIT",
+  "authors": {
+    "_GaoFei": "gdhgaofei@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/GDHNetworking.git",
+    "tag": "0.0.2"
+  },
+  "source_files": [
+    "GDHNetworking",
+    "*.{h,m}"
+  ],
+  "requires_arc": true,
+  "resources": "GDHNetworking/images/*.png",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "frameworks": "CFNetwork",
+  "dependencies": {
+    "AFNetworking": [
+      "~> 3.1.0"
+    ],
+    "MBProgressHUD": [
+      "~> 1.0.0"
+    ]
+  }
+}

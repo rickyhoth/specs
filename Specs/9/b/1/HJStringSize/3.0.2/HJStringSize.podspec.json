@@ -1,0 +1,22 @@
+{
+  "name": "HJStringSize",
+  "version": "3.0.2",
+  "summary": "custom HJStringSize",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HJStringSize",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "haorui330124": "81303908@qq.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HJStringSize.git",
+    "tag": "3.0.2"
+  },
+  "source_files": "HJStringSize/*.{h,m}",
+  "requires_arc": true
+}

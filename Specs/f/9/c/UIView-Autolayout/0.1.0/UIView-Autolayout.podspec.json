@@ -1,0 +1,19 @@
+{
+  "name": "UIView-Autolayout",
+  "version": "0.1.0",
+  "license": "MIT",
+  "platforms": {
+    "ios": "6.0"
+  },
+  "summary": "Category on UIView to simplify the creation of common layout constraints.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/UIView-Autolayout",
+  "authors": {
+    "Richard Turton": "jrturton@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/UIView-Autolayout.git",
+    "tag": "0.1.0"
+  },
+  "source_files": "Source/*.{h,m}",
+  "requires_arc": true
+}

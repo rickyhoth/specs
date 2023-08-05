@@ -1,0 +1,22 @@
+{
+  "name": "HJToast",
+  "version": "0.1.0",
+  "summary": "A toast with accessory left and right views including title.",
+  "description": "TODO: A toast and a snack bar view which is highly customised to provide the accessory views (left and right). Generally used to show short messages over the view.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HJToast",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Himanshu Joshi": "himanshujoshi47@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HJToast.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HJToast/Classes/**/*"
+}

@@ -1,0 +1,30 @@
+{
+  "name": "BSNumPad",
+  "version": "1.0.0",
+  "summary": "Numeric keyboard in UIPopoverController for UITextFields.",
+  "description": "Numeric keyboard in UIPopoverController for textFields inspired by ZenKeyboard (https://bitbucket.devops.nonprod.empf.local/scm/react/ZenKeyboard).",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/BSNumPad",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Bogdan Stasjuk": "Bogdan.Stasjuk@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/BSNumPad.git",
+    "tag": "1.0.0"
+  },
+  "social_media_url": "https://twitter.com/Bogdan_Stasjuk",
+  "platforms": {
+    "ios": "6.0"
+  },
+  "requires_arc": true,
+  "source_files": "BSNumPad/*.{h,m}",
+  "public_header_files": "BSNumPad/*.h",
+  "ios": {
+    "resource_bundles": {
+      "Images": "BSNumPad/Images/*.png"
+    }
+  }
+}

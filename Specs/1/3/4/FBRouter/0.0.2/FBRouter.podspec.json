@@ -1,0 +1,29 @@
+{
+  "name": "FBRouter",
+  "version": "0.0.2",
+  "summary": "app",
+  "description": "app",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/FBRouter",
+  "license": "MIT",
+  "authors": {
+    "flywithbug": "flywithbug@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/FBRouter.git",
+    "tag": "0.0.2"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "pod_target_xcconfig": {
+    "SWIFT_VERSION": "5.0"
+  },
+  "subspecs": [
+    {
+      "name": "FBRouter",
+      "source_files": [
+        "FBRouter/Classes/**/*"
+      ]
+    }
+  ]
+}

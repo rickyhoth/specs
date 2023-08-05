@@ -1,0 +1,22 @@
+{
+  "name": "ZGAutoLayoutDemo",
+  "version": "0.1.0",
+  "summary": "A short description of ZGAutoLayoutDemo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZGCellAuto",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhangchuanzhi": "18310127735@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZGCellAuto.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZGAutoLayoutDemo/Classes/**/*"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "SugarLumpMapKit",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SugarLumpMapKit",
+  "version": "0.0.1",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "authors": "Mario Chinchilla",
+  "summary": "The MapKit module of SugarLump pod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE.md"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SugarLumpMapKit.git",
+    "tag": "0.0.1"
+  },
+  "swift_version": "4.0",
+  "source_files": "Sources/**/*.{swift}",
+  "frameworks": [
+    "Foundation",
+    "MapKit",
+    "CoreLocation"
+  ]
+}

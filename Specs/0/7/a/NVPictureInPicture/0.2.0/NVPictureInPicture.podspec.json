@@ -1,0 +1,22 @@
+{
+  "name": "NVPictureInPicture",
+  "version": "0.2.0",
+  "summary": "A short description of NVPictureInPicture.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/NVPictureInPicture",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "niteshvijay1995": "niteshvijay1995@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/NVPictureInPicture.git",
+    "tag": "0.2.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "NVPictureInPicture/Classes/**/*"
+}

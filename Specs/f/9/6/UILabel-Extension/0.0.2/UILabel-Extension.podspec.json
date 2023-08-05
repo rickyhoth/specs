@@ -1,0 +1,22 @@
+{
+  "name": "UILabel-Extension",
+  "version": "0.0.2",
+  "summary": "UILabel-Extension.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/UILabel-Extension",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "大强": "997121430@qq.com"
+  },
+  "platforms": {
+    "ios": "5.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/UILabel-Extension.git",
+    "tag": "0.0.2"
+  },
+  "source_files": "*.{h,m}",
+  "frameworks": "UIKit"
+}

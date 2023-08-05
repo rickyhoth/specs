@@ -1,0 +1,22 @@
+{
+  "name": "XYCounter",
+  "version": "0.1.0",
+  "summary": "A short description of XYCounter.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/XYCounter",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "谌彦霖": "chenyanlin@xinyu668.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/XYCounter.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "XYCounter/Classes/**/*"
+}

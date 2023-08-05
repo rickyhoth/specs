@@ -1,0 +1,22 @@
+{
+  "name": "SKWeakTimer",
+  "version": "0.0.1",
+  "summary": "SKWeakTimer forbid cycle reference",
+  "description": "Forbid NSTimer's cycle reference. Need not delloc.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SKWeakTimer",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhanghuabing": "zhanghuabing@douyu.tv"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SKWeakTimer.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SKWeakTimer/Classes/**/*"
+}

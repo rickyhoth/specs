@@ -1,0 +1,21 @@
+{
+  "name": "ASJNetworking",
+  "version": "0.1",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "license": {
+    "type": "MIT"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ASJNetworking",
+  "authors": {
+    "Sudeep Jaiswal": "sudeepjaiswal87@gmail.com"
+  },
+  "summary": "Basic networking using NSURLSession and no external dependencies",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ASJNetworking.git",
+    "tag": "0.1"
+  },
+  "source_files": "ASJNetworking/ASJNetworking.{h,m}",
+  "requires_arc": true
+}

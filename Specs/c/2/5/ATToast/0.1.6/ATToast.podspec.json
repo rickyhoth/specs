@@ -1,0 +1,31 @@
+{
+  "name": "ATToast",
+  "version": "0.1.6",
+  "summary": "Toast view",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ATToast",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ablett": "ablettchen@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ATToast.git",
+    "tag": "0.1.6"
+  },
+  "social_media_url": "https://twitter.com/ablettchen",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "ATToast/**/*.{h,m}",
+  "requires_arc": true,
+  "dependencies": {
+    "ATCategories": [
+
+    ],
+    "Masonry": [
+
+    ]
+  }
+}

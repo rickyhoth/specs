@@ -1,0 +1,17 @@
+{
+  "name": "Sequencer",
+  "version": "1.0.0",
+  "summary": "Sequencer is an iOS library for asynchronous flow control.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Sequencer",
+  "authors": "berzniz",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Sequencer.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": null
+  },
+  "source_files": "Sequencer/*",
+  "license": "MIT",
+  "requires_arc": false
+}

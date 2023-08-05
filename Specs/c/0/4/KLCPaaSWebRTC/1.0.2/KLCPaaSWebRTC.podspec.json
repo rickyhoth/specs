@@ -1,0 +1,28 @@
+{
+  "name": "KLCPaaSWebRTC",
+  "version": "1.0.2",
+  "summary": "CPaasWebRTC",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/",
+  "license": {
+    "type": "MIT",
+    "file": "mit-license.txt"
+  },
+  "authors": {
+    "Name": "tolgat@netrd.com.tr"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/KLWebRTC.git",
+    "tag": "1.0.2"
+  },
+  "ios": {
+    "vendored_frameworks": "WebRTC.framework"
+  },
+  "public_header_files": "WebRTC.framework/Headers/*.h",
+  "source_files": [
+    "WebRTC.framework/Headers/*.h",
+    "WebRTC.framework/Headers/*.h"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "MircodIOSFramework",
+  "version": "0.1.1-beta",
+  "summary": "A short description of MircodIOSFramework.",
+  "description": "Simple helper for the work with devices.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MircodIOSFramework",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Mircod": "mircod@mircod.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MircodIOSFramework.git",
+    "tag": "0.1.1-beta"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MircodIOSFramework/Classes/**/*"
+}

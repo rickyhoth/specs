@@ -1,0 +1,24 @@
+{
+  "name": "LBWebViewController",
+  "version": "0.0.1",
+  "summary": "带有加载进度条、网页来源的WKWebView。",
+  "description": "带有加载进度条、网页来源的WKWebView。",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LBWebViewController",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "刘彬": "1129434577@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LBWebViewController.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "LBWebViewController/**/*.{h,m}",
+  "resources": "LBWebViewController/**/*.png",
+  "requires_arc": true
+}

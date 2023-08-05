@@ -1,0 +1,25 @@
+{
+  "name": "RXAdTest",
+  "version": "1.0.1",
+  "summary": "搏牛工具",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/RXAdTest",
+  "license": "MIT",
+  "authors": {
+    "ZHAO": "790368411@qq.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/RXAdTest.git",
+    "tag": "1.0.1"
+  },
+  "frameworks": [
+    "UIKit",
+    "WebKit",
+    "Foundation"
+  ],
+  "vendored_frameworks": [
+    "Frameworks/RhinoXCore.framework"
+  ]
+}

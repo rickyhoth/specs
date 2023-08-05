@@ -1,0 +1,24 @@
+{
+  "name": "GamepadBridge",
+  "version": "0.1.0",
+  "license": "MIT",
+  "summary": "Brings Gamepad API support to iOS WebKit",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/GamepadBridge",
+  "authors": {
+    "Conrad Kramer": "conrad@kramerapps.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/GamepadBridge.git",
+    "tag": "0.1.0"
+  },
+  "source_files": "GamepadBridge",
+  "requires_arc": true,
+  "platforms": {
+    "ios": "7.0"
+  },
+  "frameworks": [
+    "UIKit",
+    "JavaScriptCore",
+    "GameController"
+  ]
+}

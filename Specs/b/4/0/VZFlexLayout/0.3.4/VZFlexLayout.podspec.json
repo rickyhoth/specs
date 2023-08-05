@@ -1,0 +1,33 @@
+{
+  "name": "VZFlexLayout",
+  "version": "0.3.4",
+  "summary": "A modern layout engine for iOS.",
+  "description": "A modern layout engine inspired by React.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/VZFlexLayout",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "vizlabxt": "jayson.xu@foxmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/VZFlexLayout.git",
+    "tag": "0.3.4"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "frameworks": [
+    "UIKit",
+    "MapKit",
+    "CoreLocation"
+  ],
+  "xcconfig": {
+    "CLANG_CXX_LANGUAGE_STANDARD": "c++11",
+    "CLANG_CXX_LIBRARY": "libc++"
+  },
+  "libraries": "c++",
+  "source_files": "VZFlexLayout/**/*"
+}

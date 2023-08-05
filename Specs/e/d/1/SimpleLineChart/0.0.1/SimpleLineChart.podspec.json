@@ -1,0 +1,23 @@
+{
+  "name": "SimpleLineChart",
+  "version": "0.0.1",
+  "summary": "Simple line charts for iOS 📈",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SimpleLineChart",
+  "license": {
+    "type": "GPL",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Aimar Ugarte": "ugarteaimar@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SimpleLineChart.git",
+    "tag": "v0.0.1"
+  },
+  "source_files": "Sources/SimpleLineChart/**/*",
+  "platforms": {
+    "ios": "13.0"
+  },
+  "swift_versions": "5.0",
+  "swift_version": "5.0"
+}

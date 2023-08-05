@@ -1,0 +1,22 @@
+{
+  "name": "XLSegmentControl",
+  "version": "0.1.2",
+  "summary": "自定义Segment",
+  "description": "自定义Segment",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/XLSegmentControl",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xuxiaolong": "xuxiaolongln@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/XLSegmentControl.git",
+    "tag": "0.1.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "XLSegmentControl/Classes/**/*"
+}

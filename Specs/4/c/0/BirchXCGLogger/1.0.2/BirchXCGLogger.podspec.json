@@ -1,0 +1,31 @@
+{
+  "name": "BirchXCGLogger",
+  "version": "1.0.2",
+  "summary": "XCGLogger wrapper for Birch.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/birch-xcglogger",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Ryan Fung": "ryan@ryanfung.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/birch-xcglogger.git",
+    "tag": "1.0.2"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "swift_versions": "4.0",
+  "source_files": "Sources/BirchXCGLogger/*",
+  "dependencies": {
+    "Birch": [
+
+    ],
+    "XCGLogger": [
+
+    ]
+  },
+  "swift_version": "4.0"
+}

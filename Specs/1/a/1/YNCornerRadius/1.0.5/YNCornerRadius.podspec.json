@@ -1,0 +1,22 @@
+{
+  "name": "YNCornerRadius",
+  "version": "1.0.5",
+  "summary": "set Radius with UIRectCorner",
+  "description": "set Arbitrary Rounded CornerRadio",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/YNCornerRadius",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "platforms": {
+    "ios": null
+  },
+  "authors": {
+    "liyangly": "foreverleely@hotmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YNCornerRadius.git",
+    "tag": "1.0.5"
+  },
+  "source_files": "YNCornerRadius/*.{h,m}"
+}

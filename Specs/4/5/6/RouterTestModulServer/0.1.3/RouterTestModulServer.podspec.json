@@ -1,0 +1,27 @@
+{
+  "name": "RouterTestModulServer",
+  "version": "0.1.3",
+  "summary": "RouterTestModulServer.",
+  "description": "test RouterTestModulServer",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/RouterTestModueServer.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "504672006@qq.com": "yangxin@tzpt.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/RouterTestModueServer.git",
+    "tag": "0.1.3"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "RouterTestModulServer/Classes/**/*",
+  "dependencies": {
+    "NicooSwiftRouter": [
+
+    ]
+  }
+}

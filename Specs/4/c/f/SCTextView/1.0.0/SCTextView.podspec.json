@@ -1,0 +1,23 @@
+{
+  "name": "SCTextView",
+  "version": "1.0.0",
+  "swift_version": "4.2",
+  "summary": "Bold and align textView for korea language",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SCTextView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "authors": {
+    "kim sunchul": "ksc89kim@naver.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SCTextView.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "SCTextView/SCTextView/SCTextView/*"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "fitpolo701SDKDemo",
+  "version": "0.0.1",
+  "summary": "fitpolo701 SDK",
+  "description": "fitpolo701 SDK",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/fitpolo701-iOSDemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lovexiaoxia": "aadyx2007@163.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ],
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/fitpolo701-iOSDemo.git",
+    "tag": "0.0.1"
+  },
+  "requires_arc": true,
+  "source_files": "fitpolo701SDK/**/*"
+}

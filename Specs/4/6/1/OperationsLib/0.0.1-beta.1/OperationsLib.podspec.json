@@ -1,0 +1,23 @@
+{
+  "name": "OperationsLib",
+  "version": "0.0.1-beta.1",
+  "summary": "A short description of OperationsLib.",
+  "description": "\"Operations Lib Library.\"",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/reactOperationsLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Ankush Bhatia": "ankushbhatia1347@gmail.com"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/reactOperationsLib",
+    "tag": "0.0.1-beta.1"
+  },
+  "source_files": "Sources/**/*.swift",
+  "exclude_files": "Demo"
+}

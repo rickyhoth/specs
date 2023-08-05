@@ -1,0 +1,25 @@
+{
+  "name": "PZSideMenuViewController",
+  "version": "1.1.1",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "summary": "Sliding panel with nice apparition/disapparition effects",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/PZSideMenuViewController",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "cyrilchandelier": "cyril.chandelier@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/PZSideMenuViewController.git",
+    "tag": "1.1.1"
+  },
+  "source_files": [
+    "Classes",
+    "Classes/*.{h,m}"
+  ],
+  "requires_arc": true
+}

@@ -1,0 +1,22 @@
+{
+  "name": "ADCCocoaPods",
+  "version": "1.0.3",
+  "summary": "Delightful, simple library for aspect oriented programming..",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ADCCocoaPods",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "张晓宇": "zhangxiaoyu@91jinrong.com"
+  },
+  "platforms": {
+    "ios": "5.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ADCCocoaPods.git",
+    "tag": "v1.0.3"
+  },
+  "source_files": "**/*.{h,m}",
+  "requires_arc": true
+}

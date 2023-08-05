@@ -1,0 +1,27 @@
+{
+  "name": "BetterNSLog",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/BetterNSLog",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "version": "1.1",
+  "summary": "A Better NSLog Implementation",
+  "authors": {
+    "Matteo Pacini": "ispeakprogramming@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/BetterNSLog.git",
+    "tag": "1.1"
+  },
+  "source_files": "BetterNSLog.h",
+  "requires_arc": true,
+  "frameworks": "Foundation",
+  "deprecated": true,
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}

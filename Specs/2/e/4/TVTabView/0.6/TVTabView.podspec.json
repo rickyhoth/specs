@@ -1,0 +1,19 @@
+{
+  "name": "TVTabView",
+  "version": "0.6",
+  "license": "MIT",
+  "summary": "Handy tab view.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TVTabView",
+  "authors": {
+    "DingHub": "love-nankai@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TVTabView.git",
+    "tag": "0.6"
+  },
+  "source_files": "Source/*.{h,m}",
+  "platforms": {
+    "ios": "6.0"
+  },
+  "requires_arc": true
+}

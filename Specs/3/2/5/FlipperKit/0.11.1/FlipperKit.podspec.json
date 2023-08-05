@@ -1,0 +1,20 @@
+{
+  "name": "FlipperKit",
+  "version": "0.11.1",
+  "license": {
+    "type": "MIT"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Sonar.git",
+    "tag": "v0.11.1"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/flipper",
+  "source_files": "README.md",
+  "summary": "FlipperKit iOS podspec",
+  "authors": "Facebook",
+  "static_framework": true,
+  "module_name": "FlipperKit",
+  "platforms": {
+    "ios": "8.4"
+  }
+}

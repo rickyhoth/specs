@@ -1,0 +1,23 @@
+{
+  "name": "CustomImageviewLib",
+  "version": "0.0.1",
+  "summary": "A short description of CustomImageviewLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CustomImageviewLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "sonamgourAther": "sonam.gour@atherenergy.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CustomImageviewLib.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "CustomImageviewLib/Classes/*.swift",
+  "frameworks": "UIKit"
+}

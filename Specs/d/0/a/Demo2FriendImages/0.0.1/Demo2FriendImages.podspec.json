@@ -1,0 +1,19 @@
+{
+  "name": "Demo2FriendImages",
+  "version": "0.0.1",
+  "summary": "Send Images With CloectionView",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Demo2FriendImages",
+  "license": "MIT",
+  "authors": {
+    "Hank-qin": "qinxiaogang@aliyun.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Demo2FriendImages.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "DemoHank/**/*.{h,m}",
+  "frameworks": "SystemConfiguration",
+  "platforms": {
+    "ios": null
+  }
+}

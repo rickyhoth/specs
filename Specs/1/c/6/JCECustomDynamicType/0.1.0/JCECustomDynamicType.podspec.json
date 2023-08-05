@@ -1,0 +1,19 @@
+{
+  "name": "JCECustomDynamicType",
+  "version": "0.1.0",
+  "summary": "Extends iOS dynamic type to provide font sizes and custom fonts.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JCECustomDynamicType",
+  "license": "MIT",
+  "authors": {
+    "J-P Teti": "me@jpteti.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JCECustomDynamicType.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Classes"
+}

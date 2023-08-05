@@ -1,0 +1,21 @@
+{
+  "name": "NFCSwift",
+  "version": "1.0.0",
+  "summary": "NFC Full Swift Library for iOS",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/NFCSwift",
+  "license": {
+    "type": "MIT"
+  },
+  "authors": {
+    "Ahmed ADOUANI": "adouaniahmed@gmail.com"
+  },
+  "requires_arc": true,
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/NFCSwift.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "NFCSwift/**/*.swift"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "PropertyWrapper",
+  "version": "0.0.1",
+  "platforms": {
+    "ios": "11.0"
+  },
+  "license": "MIT",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/PropertyWrapper",
+  "authors": {
+    "iwheelbuy": "iwheelbuy@protonmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/PropertyWrapper.git",
+    "tag": "0.0.1"
+  },
+  "summary": "Collection of useful Swift PropertyWrappers",
+  "cocoapods_version": ">= 1.8.4",
+  "source_files": "**/*.swift",
+  "swift_versions": [
+    "5.1"
+  ],
+  "swift_version": "5.1"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "KSCrypto",
+  "version": "1.0.2",
+  "summary": "Simple wrapper for sha1 hashing files/data.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/KSCrypto",
+  "authors": {
+    "Mike Abdullah": "me@mikeabdullah.net"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/KSCrypto.git",
+    "tag": "v1.0.2"
+  },
+  "license": "BSD",
+  "source_files": "KSSHA1Stream.{h,m}",
+  "frameworks": "Security",
+  "requires_arc": false
+}

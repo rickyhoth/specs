@@ -1,0 +1,23 @@
+{
+  "name": "Reqres",
+  "version": "3.0.0",
+  "summary": "Simple network activity logger",
+  "description": "Logs every request app makes, works great with Alamofire.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Reqres",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Ackee": "info@ackee.cz"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Reqres.git",
+    "tag": "3.0.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "swift_version": "4.2",
+  "source_files": "Reqres/*.swift"
+}

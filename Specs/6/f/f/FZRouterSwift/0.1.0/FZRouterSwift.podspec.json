@@ -1,0 +1,22 @@
+{
+  "name": "FZRouterSwift",
+  "version": "0.1.0",
+  "summary": "A short description of FZRouterSwift.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/FZRouterSwift",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "FranZhou": "fairytale_zf@outlook.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/FZRouterSwift.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FZRouterSwift/Classes/**/*"
+}

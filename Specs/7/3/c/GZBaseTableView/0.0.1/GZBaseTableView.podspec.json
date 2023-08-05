@@ -1,0 +1,21 @@
+{
+  "name": "GZBaseTableView",
+  "version": "0.0.1",
+  "summary": "一行代码创建TableView",
+  "description": "一行代码可以创建TabbleView",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/GZBaseTableView",
+  "license": "MIT",
+  "authors": {
+    "郭振涛": "gzhtios@gmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/GZBaseTableView.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "GZBaseTableView/GZBaseTableView/UIViewController+GZAdd.{h,m}",
+  "frameworks": "UIKit",
+  "requires_arc": true
+}

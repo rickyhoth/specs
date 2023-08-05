@@ -1,0 +1,17 @@
+{
+  "name": "NSString+Ruby",
+  "version": "1.0b",
+  "summary": "NSString category providing common Ruby String methods.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/NSString-Ruby",
+  "license": "MIT",
+  "authors": {
+    "zdavison": "zac.developer@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/NSString-Ruby.git",
+    "tag": "v1.0b"
+  },
+  "source_files": "NSString+Ruby/NSString+Ruby.{h,m}",
+  "public_header_files": "NSString+Ruby/NSString+Ruby.h",
+  "requires_arc": true
+}

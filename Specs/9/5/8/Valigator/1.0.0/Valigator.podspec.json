@@ -1,0 +1,23 @@
+{
+  "name": "Valigator",
+  "version": "1.0.0",
+  "summary": "Swift library to validate single fields or a whole form.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/valigator",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": "kapizoli77",
+  "platforms": {
+    "ios": "11.0"
+  },
+  "swift_versions": [
+    "5.1"
+  ],
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/valigator.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "Source/**/*.swift",
+  "swift_version": "5.1"
+}

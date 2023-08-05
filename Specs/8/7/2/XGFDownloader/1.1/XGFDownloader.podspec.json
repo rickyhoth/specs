@@ -1,0 +1,19 @@
+{
+  "name": "XGFDownloader",
+  "version": "1.1",
+  "summary": "XGFDownloader is used for resume from break point downloading build with swift.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/XGFDownloader",
+  "license": "MIT",
+  "authors": {
+    "CGPointZero": "newbox0512@yahoo.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/XGFDownloader.git",
+    "tag": "1.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Classes/*.swift",
+  "requires_arc": true
+}

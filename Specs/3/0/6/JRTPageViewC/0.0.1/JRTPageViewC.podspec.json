@@ -1,0 +1,19 @@
+{
+  "name": "JRTPageViewC",
+  "version": "0.0.1",
+  "summary": "JRTPageViewC contains a PageViewController and CollectionView fast and easy configuration having paginated content.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JRTPageViewC",
+  "license": "MIT",
+  "authors": {
+    "ifobos": "juancarlos.garcia.alfaro@gmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JRTPageViewC.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "JRTPageViewC/JRTPageViewC/PodFiles/*.{h,m}",
+  "requires_arc": true
+}

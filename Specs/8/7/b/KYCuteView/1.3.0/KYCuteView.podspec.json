@@ -1,0 +1,23 @@
+{
+  "name": "KYCuteView",
+  "version": "1.3.0",
+  "summary": "实现类似QQ消息拖拽消失的交互+GameCenter的浮动小球效果",
+  "description": "                   Gooey effects bubble with gamecenter effects\n",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/KYCuteView",
+  "license": "MIT",
+  "authors": {
+    "KittenYang": "kittenyang@icloud.com"
+  },
+  "platforms": {
+    "ios": null
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/KYCuteView.git",
+    "tag": "1.3.0"
+  },
+  "source_files": "KYCuteView/*",
+  "frameworks": [
+    "Foundation",
+    "UIKit"
+  ]
+}

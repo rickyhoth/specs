@@ -1,0 +1,23 @@
+{
+  "name": "JCS_BaseLib",
+  "version": "1.0.0",
+  "summary": "JCS_BaseLib.",
+  "description": "this is JCS_BaseLib",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JCS_BaseLib",
+  "license": {
+    "type": "MIT",
+    "file": "FILE_LICENSE"
+  },
+  "authors": {
+    "devjackcat": "devjackcat@163.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JCS_BaseLib.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "JCS_BaseLib/JCS_BaseLib/**/*.{h,m,swift}",
+  "requires_arc": true
+}

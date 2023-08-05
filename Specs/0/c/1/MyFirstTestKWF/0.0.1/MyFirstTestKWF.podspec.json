@@ -1,0 +1,23 @@
+{
+  "name": "MyFirstTestKWF",
+  "version": "0.0.1",
+  "summary": "MyFirstTestKWF的简短描述",
+  "description": "MyFirstTestKWF的详细描述，需要进行详细的介绍",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MyFirstTest",
+  "license": "MIT",
+  "authors": {
+    "sky": "kwffight@163.com"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MyFirstTest.git",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "Classes",
+    "Classes/**/*.{h,m}"
+  ],
+  "exclude_files": "Classes/Exclude"
+}

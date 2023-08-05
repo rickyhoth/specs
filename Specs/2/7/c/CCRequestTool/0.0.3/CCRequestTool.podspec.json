@@ -1,0 +1,26 @@
+{
+  "name": "CCRequestTool",
+  "version": "0.0.3",
+  "summary": "AFN的二次封装",
+  "description": "AFN的二次封装...",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CCRequsetTool",
+  "license": "MIT",
+  "authors": {
+    "cjg": "674149625@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CCRequsetTool.git",
+    "tag": "0.0.3"
+  },
+  "source_files": "request/CCRequestTool/*.{h,m}",
+  "frameworks": "Foundation",
+  "requires_arc": true,
+  "dependencies": {
+    "AFNetworking": [
+
+    ]
+  }
+}

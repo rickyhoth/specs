@@ -1,0 +1,20 @@
+{
+  "name": "RGLockbox",
+  "version": "0.1.5",
+  "license": "BSD",
+  "summary": "A simpler interface to iOS keychain access.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/RGLockbox",
+  "authors": {
+    "Ryan Dignard": "dignard@1debit.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/RGLockbox.git",
+    "tag": "0.1.5"
+  },
+  "platforms": {
+    "ios": null
+  },
+  "source_files": "RGLockbox",
+  "frameworks": "Security",
+  "requires_arc": true
+}

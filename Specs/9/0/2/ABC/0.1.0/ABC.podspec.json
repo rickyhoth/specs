@@ -1,0 +1,22 @@
+{
+  "name": "ABC",
+  "version": "0.1.0",
+  "summary": "ABC demo",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ABC",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wangjiajiajohn": "wangjiajiajohn@didichuxing.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ABC.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ABC/Classes/**/*"
+}

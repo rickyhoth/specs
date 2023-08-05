@@ -1,0 +1,25 @@
+{
+  "name": "Runes",
+  "version": "1.1.2",
+  "summary": "Functional operators for Swift",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/runes",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Gordon Fontenot": "gordon@thoughtbot.com",
+    "thoughtbot": null
+  },
+  "social_media_url": "http://twitter.com/thoughtbot",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/runes.git",
+    "tag": "v1.1.2"
+  },
+  "source_files": "Source/**/*.{h,swift}",
+  "requires_arc": true,
+  "platforms": {
+    "ios": "8.0",
+    "osx": "10.9"
+  }
+}

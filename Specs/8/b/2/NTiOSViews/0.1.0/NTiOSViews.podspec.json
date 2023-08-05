@@ -1,0 +1,24 @@
+{
+  "name": "NTiOSViews",
+  "version": "0.1.0",
+  "summary": "usable code for general projects",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/NTiOSViews",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "nouf92": "nouf_alturaief@hotmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/NTiOSViews.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "NTiOSViews/Classes/**/*",
+  "frameworks": "UIKit",
+  "pushed_with_swift_version": "3.0"
+}

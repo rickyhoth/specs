@@ -1,0 +1,22 @@
+{
+  "name": "WSBox",
+  "version": "0.4.7",
+  "summary": "A tool box for iOS developer.",
+  "description": "A very good tool box for iOS developer.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WSBox",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ws": "wanggyanmo@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WSBox.git",
+    "tag": "0.4.7"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "WSBox/Classes/**/*"
+}

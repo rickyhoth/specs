@@ -1,0 +1,28 @@
+{
+  "name": "XHKitTest",
+  "version": "0.0.1",
+  "summary": "框架测试",
+  "description": "init",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/XHKitTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xianghong": "1130485186@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/XHKitTest.git",
+    "tag": "0.0.1"
+  },
+  "requires_arc": true,
+  "subspecs": [
+    {
+      "name": "XHTextView",
+      "source_files": "XHTextView/*.{h,m}"
+    }
+  ]
+}

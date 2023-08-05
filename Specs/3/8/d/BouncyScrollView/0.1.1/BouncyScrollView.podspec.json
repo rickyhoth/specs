@@ -1,0 +1,23 @@
+{
+  "name": "BouncyScrollView",
+  "version": "0.1.1",
+  "summary": "A little Swift 3 pod for bouncy pull to refreshes.",
+  "description": "A little Swift 3 pod for bouncy pull to refreshes. You can customize bounce and loading indicator view.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/BouncyScrollView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Yagiz Gurgul": "yagiz@kukaapps.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/BouncyScrollView.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "BouncyScrollView/Classes/**/*",
+  "pushed_with_swift_version": "3.0"
+}

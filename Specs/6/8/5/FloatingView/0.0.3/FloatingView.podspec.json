@@ -1,0 +1,24 @@
+{
+  "name": "FloatingView",
+  "version": "0.0.3",
+  "summary": "Floating Dragable View",
+  "description": "Dragable,Floating,Movable,FloatingView,FloatingButton",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/FloatingView",
+  "screenshots": "https://raw.githubusercontent.com/PersianDevelopers/FloatingView/master/Screenshot/screen.gif",
+  "license": "MIT",
+  "authors": {
+    "Ali Pourhadi": "Ali.Pourhadi@gmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/FloatingView.git",
+    "tag": "0.0.3"
+  },
+  "source_files": [
+    "Classes",
+    "Classes/**/"
+  ],
+  "pushed_with_swift_version": "3.0"
+}

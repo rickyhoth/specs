@@ -1,0 +1,22 @@
+{
+  "name": "TFBaseView",
+  "version": "0.0.1",
+  "summary": "TFBaseView.",
+  "description": "一个包含基础view、基础cell、基础colletionCell的组件",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TFBaseView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "huangmoxianganquan": "694612436@qq.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TFBaseView.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "Classes/**/*.{h,m}"
+}

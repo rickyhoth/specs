@@ -1,0 +1,41 @@
+{
+  "name": "NotionSwift",
+  "version": "0.8.0",
+  "summary": "Unofficial Notion SDK for iOS & macOS.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/NotionSwift",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Wojciech Chojnacki": "me@chojnac.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/NotionSwift.git",
+    "tag": "0.8.0"
+  },
+  "swift_versions": "5.3",
+  "source_files": [
+    "Sources/NotionSwift/**/*"
+  ],
+  "platforms": {
+    "ios": "11.0",
+    "osx": "10.13"
+  },
+  "ios": {
+    "frameworks": "UIKit"
+  },
+  "osx": {
+    "frameworks": "AppKit"
+  },
+  "testspecs": [
+    {
+      "name": "Tests",
+      "test_type": "unit",
+      "source_files": [
+        "Tests/NotionSwiftTests/**/*"
+      ]
+    }
+  ],
+  "swift_version": "5.3"
+}

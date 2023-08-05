@@ -1,0 +1,22 @@
+{
+  "name": "XBGCDTimer",
+  "version": "0.1.0",
+  "summary": "A CCDTimer",
+  "description": "A CCDTimer for Object-C",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/XBGCDTimer",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Aniyang": "547238747@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/XBGCDTimer.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "XBGCDTimer/Classes/**/*"
+}

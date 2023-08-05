@@ -1,0 +1,17 @@
+{
+  "name": "MagazineLayout",
+  "version": "1.0.1",
+  "license": "Apache License, Version 2.0",
+  "summary": "A collection view layout that can display items in a grid and list arrangement.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MagazineLayout",
+  "authors": "Airbnb",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MagazineLayout.git",
+    "tag": "v1.0.1"
+  },
+  "swift_version": "4.0",
+  "source_files": "MagazineLayout/**/*.{swift,h}",
+  "platforms": {
+    "ios": "10.0"
+  }
+}

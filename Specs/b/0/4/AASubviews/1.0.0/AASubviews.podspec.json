@@ -1,0 +1,17 @@
+{
+  "name": "AASubviews",
+  "version": "1.0.0",
+  "summary": "AASubviews",
+  "description": "awesome! AASubviews",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AASubviews",
+  "license": "MIT",
+  "authors": "Leon",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AASubviews.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "AASubviews/*.{h,m}",
+  "platforms": {
+    "ios": "9.0"
+  }
+}

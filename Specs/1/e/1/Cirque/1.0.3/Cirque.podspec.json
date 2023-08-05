@@ -1,0 +1,22 @@
+{
+  "name": "Cirque",
+  "version": "1.0.3",
+  "summary": "A multi color gradient circle progress view",
+  "description": "Cirque is an iOS component that enables you to draw multi color circle strokes with gradient trasitions between colors.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Cirque",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "philipengberg": "philipengberg@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Cirque.git",
+    "tag": "1.0.3"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Cirque/Classes/**/*"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "ECKit",
+  "version": "0.5.1",
+  "summary": "Educreations’ collection of Cocoa categories and utilities.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ECKit",
+  "authors": {
+    "Chris Streeter": "chris@educreations.com"
+  },
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ECKit.git",
+    "tag": "0.5.1"
+  },
+  "source_files": "ECKit/**/*.{h,m}",
+  "requires_arc": true,
+  "platforms": {
+    "ios": "7.0"
+  }
+}

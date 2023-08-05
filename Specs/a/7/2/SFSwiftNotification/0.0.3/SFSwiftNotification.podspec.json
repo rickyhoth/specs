@@ -1,0 +1,23 @@
+{
+  "name": "SFSwiftNotification",
+  "version": "0.0.3",
+  "summary": "Simple custom user notifications (UIView subclass)",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SFSwiftNotification",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Simone Ferrini": "sferrini@hotmail.it"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SFSwiftNotification.git",
+    "tag": "0.0.3"
+  },
+  "social_media_url": "https://twitter.com/Simone_Ferrini",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Classes/*.swift"
+}

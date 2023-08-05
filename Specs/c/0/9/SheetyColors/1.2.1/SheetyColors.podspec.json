@@ -1,0 +1,30 @@
+{
+  "name": "SheetyColors",
+  "version": "1.2.1",
+  "summary": "An action sheet styled color picker for iOS.",
+  "description": "The SheetyColors color picker is based on UIKit's UIAlertController. Therefore, it nicely integrates with the look & feel of all other native system dialogs.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SheetyColors",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "chrs1885": "christoph.wendt@me.com"
+  },
+  "documentation_url": "https://bitbucket.devops.nonprod.empf.local/scm/react/SheetyColors/blob/master/Documentation/Reference/README.md",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SheetyColors.git",
+    "tag": "1.2.1"
+  },
+  "social_media_url": "https://twitter.com/chr_wendt",
+  "platforms": {
+    "ios": "11.0"
+  },
+  "dependencies": {
+    "Capable/Colors": [
+      "~> 1.1"
+    ]
+  },
+  "source_files": "SheetyColors/Classes/**/*.{swift}",
+  "resources": "SheetyColors/Classes/**/*.{xcassets,xib}"
+}

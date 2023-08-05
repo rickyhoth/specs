@@ -1,0 +1,25 @@
+{
+  "name": "ANLongTapButton",
+  "version": "1.2.0",
+  "summary": "Long tap button with animated progress bar.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ANLongTapButton",
+  "license": "MIT",
+  "authors": {
+    "Sergey Demchenko": "antrix1989@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ANLongTapButton.git",
+    "tag": "1.2.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "ANLongTapButton": [
+      "Pod/Assets/*.png"
+    ]
+  },
+  "frameworks": "UIKit"
+}

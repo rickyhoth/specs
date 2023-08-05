@@ -1,0 +1,22 @@
+{
+  "name": "YYPopView",
+  "version": "0.0.2",
+  "summary": "A Sample PopView on iOS.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/PopView",
+  "license": "MIT",
+  "authors": {
+    "Heisenbean": "heisenbean.me@gmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/PopView.git",
+    "tag": "0.0.2"
+  },
+  "source_files": "PopView/Resource/*.swift",
+  "pod_target_xcconfig": {
+    "SWIFT_VERSION": "4.0"
+  },
+  "requires_arc": true
+}

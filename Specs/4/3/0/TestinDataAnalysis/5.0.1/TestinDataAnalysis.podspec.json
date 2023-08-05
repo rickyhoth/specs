@@ -1,0 +1,37 @@
+{
+  "name": "TestinDataAnalysis",
+  "version": "5.0.1",
+  "license": {
+    "type": "MIT"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TestinDataAnalysis",
+  "authors": {
+    "Testin": "abtest@testin.cn"
+  },
+  "summary": "A delightful iOS framework.",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TestinDataAnalysis.git",
+    "tag": "5.0.1"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source_files": "TestinDataAnalysis/TestinDataAnalysis.framework/Headers/*.{h}",
+  "vendored_frameworks": "TestinDataAnalysis/TestinDataAnalysis.framework",
+  "public_header_files": "TestinDataAnalysis/TestinDataAnalysis.framework/Headers/*.h",
+  "libraries": [
+    "sqlite3",
+    "icucore",
+    "z"
+  ],
+  "frameworks": [
+    "UIKit",
+    "Foundation",
+    "SystemConfiguration",
+    "CoreTelephony",
+    "AudioToolbox",
+    "Security",
+    "CoreMotion",
+    "ImageIO"
+  ]
+}

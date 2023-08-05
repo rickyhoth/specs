@@ -1,0 +1,21 @@
+{
+  "name": "ThreeDCardView",
+  "version": "1.0.0",
+  "summary": "This is ThreeDCardView.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ThreeDCardView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "fomagran": "fomagran6@naver.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ThreeDCardView.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "9.3"
+  },
+  "source_files": "ThreeDCardView/Classes/**/*"
+}

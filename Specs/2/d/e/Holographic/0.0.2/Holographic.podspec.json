@@ -1,0 +1,22 @@
+{
+  "name": "Holographic",
+  "version": "0.0.2",
+  "summary": "Holographic Effect (inspired by Apple Pay)",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Holographic",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "efremidze": "efremidzel@hotmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Holographic.git",
+    "tag": "0.0.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Sources/*.swift",
+  "pushed_with_swift_version": "4.0"
+}

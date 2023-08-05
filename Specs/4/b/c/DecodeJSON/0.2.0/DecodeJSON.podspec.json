@@ -1,0 +1,22 @@
+{
+  "name": "DecodeJSON",
+  "version": "0.2.0",
+  "summary": "Simple way to decode a JSON",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DecodeJSON",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "jmhdevep": "jmherrero@jmhdeveloper.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DecodeJSON.git",
+    "tag": "0.2.0"
+  },
+  "platforms": {
+    "ios": "9.3"
+  },
+  "swift_versions": "4.2",
+  "source_files": "DecodeJSON/Classes/**/*"
+}

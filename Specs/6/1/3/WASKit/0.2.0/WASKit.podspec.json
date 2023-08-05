@@ -1,0 +1,22 @@
+{
+  "name": "WASKit",
+  "version": "0.2.0",
+  "summary": "WASKit Swift is a collection of useful classes, structs and extensions to develop Apps faster.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/waskit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Wagner Sales": "salesawagner@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WASKIT.git",
+    "tag": "0.2.0"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "swift_version": "4.0",
+  "source_files": "Sources/**/*.{swift}"
+}

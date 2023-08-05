@@ -1,0 +1,25 @@
+{
+  "name": "JKCalendar",
+  "version": "0.1.2",
+  "summary": "a calendar view",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JKCalendar",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Joe Ciou": "ex780306@gmail.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JKCalendar.git",
+    "tag": "0.1.2"
+  },
+  "source_files": "JKCalendar/**/*.{swift,h}",
+  "exclude_files": "JKCalendar/JKCalendar.xcodeproj",
+  "resources": "JKCalendar/**/*.{xcassets,xib}",
+  "requires_arc": true,
+  "pushed_with_swift_version": "4.0"
+}

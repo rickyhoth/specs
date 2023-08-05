@@ -1,0 +1,33 @@
+{
+  "name": "ABTransfers",
+  "version": "1.0.0",
+  "summary": "Business part",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ABTransfers",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Andrey Bobr": "a.bobr@itransition.com"
+  },
+  "source": {
+    "http": "https://bitbucket.devops.nonprod.empf.local/scm/react/ABTransfers.zip"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "ios": {
+    "vendored_frameworks": "ABTransfers/PSA.framework"
+  },
+  "pod_target_xcconfig": {
+    "EXCLUDED_ARCHS[sdk=iphonesimulator*]": "arm64"
+  },
+  "user_target_xcconfig": {
+    "EXCLUDED_ARCHS[sdk=iphonesimulator*]": "arm64"
+  },
+  "dependencies": {
+    "ABTransfersUI": [
+      "1.0.0"
+    ]
+  }
+}

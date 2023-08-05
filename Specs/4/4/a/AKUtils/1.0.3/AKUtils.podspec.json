@@ -1,0 +1,24 @@
+{
+  "name": "AKUtils",
+  "version": "1.0.3",
+  "summary": "Utils for different things",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/reactAKUtils",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Artem Kalmykov": "ar.kalmykov@yahoo.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/reactAKUtils.git",
+    "tag": "1.0.3"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "swift_version": "4.2",
+  "source_files": "AKUtils/AKUtils/**/*.{m,h,mm,hpp,cpp,c,swift}",
+  "public_header_files": "AKUtils/AKUtils/AKUtils.h",
+  "frameworks": "UIKit"
+}

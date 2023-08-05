@@ -1,0 +1,22 @@
+{
+  "name": "KYBannerView",
+  "version": "0.2.1",
+  "summary": "KYBannerView",
+  "description": "banner view for ios.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/KYBannerView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "massyxf": "messy007@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/KYBannerView.git",
+    "tag": "0.2.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "KYBannerView/Classes/**/*"
+}

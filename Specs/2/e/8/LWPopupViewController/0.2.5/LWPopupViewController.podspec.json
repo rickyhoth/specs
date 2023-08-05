@@ -1,0 +1,27 @@
+{
+  "name": "LWPopupViewController",
+  "version": "0.2.5",
+  "summary": "一个低耦合的PopupViewController",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LWPopupViewController",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhongzhiyuan": "zhongzhiyuan5@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LWPopupViewController.git",
+    "tag": "0.2.5"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LWPopupViewController/Classes/**/*",
+  "dependencies": {
+    "Masonry": [
+
+    ]
+  }
+}

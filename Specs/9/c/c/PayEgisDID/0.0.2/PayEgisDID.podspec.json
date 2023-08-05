@@ -1,0 +1,22 @@
+{
+  "name": "PayEgisDID",
+  "version": "0.0.2",
+  "summary": "PayEgisDID sdk",
+  "description": "通付盾设备指纹SDK",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/PayEgisDID#payegisdid",
+  "license": "MIT",
+  "authors": {
+    "superrepublic": "superrepublic@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/PayEgisDID.git",
+    "tag": "0.0.2"
+  },
+  "source_files": "Classes/**/*.{h,m}",
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}

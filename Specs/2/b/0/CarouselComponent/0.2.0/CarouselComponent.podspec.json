@@ -1,0 +1,22 @@
+{
+  "name": "CarouselComponent",
+  "version": "0.2.0",
+  "summary": "Carousel UI Component",
+  "description": "A clean UI carousel component written in Swift.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/carouselcomponent",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Mauricio Esteves": "mauricio.fc.esteves@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/carouselcomponent",
+    "tag": "0.2.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CarouselComponent/Classes/**/*"
+}

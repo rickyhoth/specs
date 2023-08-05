@@ -1,0 +1,21 @@
+{
+  "name": "JKSegment",
+  "version": "0.1.4",
+  "summary": "多页面滑动控件",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JKSegment",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "liuweiqiang": "liuweiqiang@jianke.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JKSegment.git",
+    "tag": "0.1.4"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "JKSegment/**/*"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "SQLiteDatabase",
+  "version": "0.1.0",
+  "summary": "An Objective-C wrapper for SQLite functions",
+  "description": "A Simple Objective-C wrapper for SQLite functions",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/reactSQLiteDatabase",
+  "license": "MIT",
+  "authors": {
+    "Eddie Lau": "eddie@touchutility.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/reactSQLiteDatabase.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": false,
+  "source_files": "SQLiteDatabase/Classes/**/*",
+  "resource_bundles": {
+    "SQLiteDatabase": [
+      "SQLiteDatabase/Assets/*.png"
+    ]
+  },
+  "libraries": "sqlite3"
+}

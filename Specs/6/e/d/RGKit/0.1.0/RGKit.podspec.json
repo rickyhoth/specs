@@ -1,0 +1,24 @@
+{
+  "name": "RGKit",
+  "version": "0.1.0",
+  "summary": "This is a test project",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/RGKit.git",
+  "social_media_url": "https://bitbucket.devops.nonprod.empf.local/scm/react/RGKit",
+  "authors": {
+    "XXXXXX": "XXXXXX"
+  },
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/RGKit.git",
+    "tag": "0.1.0"
+  },
+  "documentation_url": "https://bitbucket.devops.nonprod.empf.local/scm/react/RGKit",
+  "platforms": {
+    "ios": "10.3"
+  },
+  "source_files": "RGKit/*.swift",
+  "frameworks": "UIKit"
+}

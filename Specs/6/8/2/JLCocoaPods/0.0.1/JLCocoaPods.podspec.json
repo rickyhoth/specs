@@ -1,0 +1,19 @@
+{
+  "name": "JLCocoaPods",
+  "version": "0.0.1",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "summary": "A fast develop for Project",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JLCocoaPods",
+  "license": "MIT",
+  "authors": {
+    "Chris": "yinjialei2010@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JLCocoaPods.git",
+    "tag": "0.0.1"
+  },
+  "requires_arc": true,
+  "source_files": "JLCocoaPods/*.{h,m}"
+}

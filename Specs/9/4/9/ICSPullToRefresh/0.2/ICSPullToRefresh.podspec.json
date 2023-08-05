@@ -1,0 +1,22 @@
+{
+  "name": "ICSPullToRefresh",
+  "version": "0.2",
+  "summary": "Swift PullToRefresh && InfiniteScrolling",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ICSPullToRefresh-Swift",
+  "license": "MIT",
+  "authors": {
+    "iCodesign": "icodesign.me@gmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ICSPullToRefresh-Swift.git",
+    "tag": "0.2"
+  },
+  "source_files": [
+    "ICSPullToRefresh",
+    "ICSPullToRefresh/**/*.{swift}"
+  ],
+  "requires_arc": true
+}

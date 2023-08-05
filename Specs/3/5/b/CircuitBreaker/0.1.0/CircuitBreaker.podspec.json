@@ -1,0 +1,19 @@
+{
+  "name": "CircuitBreaker",
+  "version": "0.1.0",
+  "summary": "A circuit breaker implementation in Swift",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CircuitBreaker",
+  "license": "MIT",
+  "authors": {
+    "pseudomuto": "david.muto@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CircuitBreaker.git",
+    "tag": "0.1.0"
+  },
+  "source_files": "Pod/Classes/**/*",
+  "platforms": {
+    "ios": "8.3"
+  },
+  "requires_arc": true
+}

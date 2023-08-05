@@ -1,0 +1,19 @@
+{
+  "name": "PandaTools",
+  "version": "0.0.3",
+  "summary": "https://bitbucket.devops.nonprod.empf.local/scm/react/PandaTools.git",
+  "description": "config(launchOptions: [UIApplicationLaunchOptionsKey: Any]?,appkey:String,channel:String,window:UIWindow)",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/PandaTools",
+  "license": "MIT",
+  "authors": {
+    "Tayoji": "595521651@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/PandaTools.git",
+    "tag": "0.0.3"
+  },
+  "vendored_frameworks": "Products/PandaTools.framework"
+}

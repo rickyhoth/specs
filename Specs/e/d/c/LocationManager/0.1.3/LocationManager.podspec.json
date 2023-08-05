@@ -1,0 +1,30 @@
+{
+  "name": "LocationManager",
+  "version": "0.1.3",
+  "summary": "CoreLocation wrapper for handling locations with ease.",
+  "description": "CoreLocation wrapper for handling locations with ease. Get location and attach location observers.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LocationManager",
+  "license": "MIT",
+  "authors": {
+    "Jakub Knejzlik": "jakub.knejzlik@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LocationManager.git",
+    "tag": "0.1.3"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "LocationManager": [
+      "Pod/Assets/*.png"
+    ]
+  },
+  "dependencies": {
+    "PromiseKit": [
+      "~> 3.0"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Notifwift",
+  "version": "0.2.2",
+  "summary": "NSNotificationCenter wrapper for Swift",
+  "license": "MIT",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Notifwift",
+  "authors": {
+    "takasek": "takassekiyoshi@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Notifwift.git",
+    "tag": "0.2.2"
+  },
+  "source_files": "Notifwift/*.swift",
+  "requires_arc": true,
+  "platforms": {
+    "ios": "8.0"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "SZQRCodeCoverView",
+  "version": "0.0.6",
+  "summary": "qrcode cover view",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SZQRCodeCoverView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "陈圣治": "329012084@qq.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SZQRCodeCoverView.git",
+    "tag": "0.0.6"
+  },
+  "source_files": "SZQRCodeCoverView/*.{h,m}",
+  "requires_arc": true
+}

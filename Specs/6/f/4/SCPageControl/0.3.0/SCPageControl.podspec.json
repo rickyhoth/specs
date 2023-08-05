@@ -1,0 +1,22 @@
+{
+  "name": "SCPageControl",
+  "version": "0.3.0",
+  "summary": "SCPageControl is pagecontrol",
+  "description": "A short description of SCPageControl. It animation",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SCPageControl",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "myoung": "myoungsc.dev@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SCPageControl.git",
+    "tag": "0.3.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "SCPageControl/Classes/**/*"
+}

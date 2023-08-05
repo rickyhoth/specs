@@ -1,0 +1,22 @@
+{
+  "name": "WQMacro",
+  "summary": "macro for iOS.",
+  "version": "0.0.3",
+  "license": {
+    "type": "Copyright",
+    "text": "    © 2016-2016 Vicky. All rights reserved.\n"
+  },
+  "authors": {
+    "Vickeywei": "weiqi@hzdracom.com"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Macro",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WQMarco.git",
+    "tag": "0.0.3"
+  },
+  "requires_arc": true,
+  "source_files": "Macro/*.{h,m}"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "ASJDropDownMenu",
+  "version": "0.0.1",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "license": {
+    "type": "MIT"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ASJDropDownMenu",
+  "authors": {
+    "Sudeep Jaiswal": "sudeepjaiswal87@gmail.com"
+  },
+  "summary": "A drop down menu with embedded TableView to list options",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ASJDropDownMenu.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "ASJDropDownMenu/ASJDropDownMenu.{h,m}",
+  "requires_arc": true
+}

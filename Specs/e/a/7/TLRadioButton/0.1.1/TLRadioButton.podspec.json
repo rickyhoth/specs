@@ -1,0 +1,24 @@
+{
+  "name": "TLRadioButton",
+  "version": "0.1.1",
+  "summary": "Animated RadioButton for iOS.",
+  "description": "![Sample](https://bitbucket.devops.nonprod.empf.local/scm/react/TLRadioButton/blob/master/TLRadioButton.gif)\n\nRadio button for iOS. \n\n##Usage\n\n * _isChecked_ - button status. Default - false\n * _Animation duratoin_ - button animation speed in ms. Default - 500 ms",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TLRadioButton",
+  "screenshots": "https://bitbucket.devops.nonprod.empf.local/scm/react/TLRadioButton/raw/master/TLRadioButton.gif",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Aleksey Cherepanov": "ftp27host@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TLRadioButton.git",
+    "tag": "0.1.1"
+  },
+  "social_media_url": "https://twitter.com/ftp27host",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source_files": "TLRadioButton/Classes/**/*"
+}

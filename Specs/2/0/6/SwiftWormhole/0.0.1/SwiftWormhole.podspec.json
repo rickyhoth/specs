@@ -1,0 +1,22 @@
+{
+  "name": "SwiftWormhole",
+  "version": "0.0.1",
+  "summary": "Swift3 port of MMWormhole(Message passing between iOS apps and extensions)",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwiftWormhole",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lvconan@foxmail.com": "lvconan@foxmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwiftWormhole.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SwiftWormhole/Classes/**/*",
+  "pushed_with_swift_version": "3.0"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "WJInfiniteScrollView",
+  "version": "1.0.2",
+  "summary": "Infinite loop, automatic carousel.",
+  "description": "an awesome scroll ,automatic carousellib,very easy to use",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WJInfiniteScrollView",
+  "license": "MIT",
+  "authors": {
+    "wangwenjuan": "691534773@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WJInfiniteScrollView.git",
+    "tag": "1.0.2"
+  },
+  "source_files": [
+    "WJInfiniteScrollView",
+    "WJInfiniteScrollView/**/*.{h,m}"
+  ],
+  "requires_arc": true,
+  "dependencies": {
+    "SDWebImage": [
+      "~> 3.8.1"
+    ]
+  }
+}

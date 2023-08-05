@@ -1,0 +1,19 @@
+{
+  "name": "LTSlidingViewController",
+  "version": "1.0.0",
+  "summary": "sliding view controller allowing custom transition",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LTSlidingViewController",
+  "license": "MIT",
+  "authors": {
+    "ltebean": "yucong1118@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LTSlidingViewController.git",
+    "tag": "v1.0.0"
+  },
+  "source_files": "LTSlidingViewController/LTSlidingViewController.{h,m}",
+  "requires_arc": true,
+  "platforms": {
+    "ios": "7.0"
+  }
+}

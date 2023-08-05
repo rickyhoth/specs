@@ -1,0 +1,22 @@
+{
+  "name": "KWFontPicker",
+  "version": "0.1.7",
+  "summary": "Font picker UIPickerView and keyboard manager for iPhone",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/KWFontPicker",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Yusuke Kawasaki": "u-suke@kawa.net"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/KWFontPicker.git",
+    "tag": "0.1.7"
+  },
+  "platforms": {
+    "ios": "5.0"
+  },
+  "source_files": "src",
+  "requires_arc": true
+}

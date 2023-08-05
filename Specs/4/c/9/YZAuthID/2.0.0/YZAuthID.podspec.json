@@ -1,0 +1,19 @@
+{
+  "name": "YZAuthID",
+  "version": "2.0.0",
+  "summary": "TouchID/FaceID auth.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/YZAuthID",
+  "license": "MIT",
+  "authors": {
+    "Yanzheng": "micyo202@163.com"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YZAuthID.git",
+    "tag": "2.0.0"
+  },
+  "source_files": "YZAuthID/**/*.{h,m}",
+  "requires_arc": true
+}

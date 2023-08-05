@@ -1,0 +1,23 @@
+{
+  "name": "PSLog",
+  "version": "0.0.1",
+  "summary": "PSLog is a framework designed to log conveniently.",
+  "description": "PSLog is a framework designed to log conveniently and lightly.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/PSLog",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Your Company": "878393556@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/PSLog.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PSLog/Classes/**/*",
+  "public_header_files": "PSLog/Classes/**/*.h"
+}

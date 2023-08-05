@@ -1,0 +1,20 @@
+{
+  "name": "MHKitchenSink",
+  "version": "1.1.0",
+  "summary": "Lots of cool iOS classes globbed together in one (soon-to-be) mega repository. Currency field delegate updates.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MHKitchenSink",
+  "license": "MIT",
+  "authors": {
+    "Bobby Williams": "bjackw@mac.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MHKitchenSink.git",
+    "tag": "v1.1.0"
+  },
+  "platforms": {
+    "ios": "5.0"
+  },
+  "source_files": "MHKitchenSink/**/*.{h,m}",
+  "requires_arc": true,
+  "frameworks": "Foundation"
+}

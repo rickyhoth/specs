@@ -1,0 +1,26 @@
+{
+  "name": "SwiftWithSanity",
+  "version": "0.0.1",
+  "summary": "A few extensions to help Swift programmers stay sane",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwiftWithSanity",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Yichi Zhang": "zhang-yi-chi@hotmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwiftWithSanity.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "*",
+  "frameworks": [
+    "Foundation",
+    "UIKit"
+  ]
+}

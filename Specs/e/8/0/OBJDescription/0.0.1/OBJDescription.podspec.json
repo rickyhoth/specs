@@ -1,0 +1,24 @@
+{
+  "name": "OBJDescription",
+  "version": "0.0.1",
+  "summary": "about iOS object description. Make log information better",
+  "description": "about iOS object description. Make log information better",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/OBJDescription.git",
+  "license": {
+    "type": "MIT",
+    "text": "         Copyright PPAbner 2016-2017\n"
+  },
+  "authors": {
+    "Sharker": "aaksharker@gmail.com"
+  },
+  "social_media_url": "https://akashark.github.io/",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/OBJDescription.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "OBJDescription/**/*",
+  "requires_arc": true
+}

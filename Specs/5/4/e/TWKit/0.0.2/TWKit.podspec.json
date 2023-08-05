@@ -1,0 +1,22 @@
+{
+  "name": "TWKit",
+  "version": "0.0.2",
+  "summary": "TWKit",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TWKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "taewan": "taewan0530@daum.net"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TWKit.git",
+    "tag": "0.0.2"
+  },
+  "source_files": "Pod/**/*.{swift}",
+  "requires_arc": true,
+  "platforms": {
+    "ios": "8.0"
+  }
+}

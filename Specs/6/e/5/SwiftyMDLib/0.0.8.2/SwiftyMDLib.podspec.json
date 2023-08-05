@@ -1,0 +1,37 @@
+{
+  "name": "SwiftyMDLib",
+  "platforms": {
+    "ios": "11.0"
+  },
+  "summary": "SwiftyMDLib MagicDevs Common Lib.",
+  "requires_arc": true,
+  "version": "0.0.8.2",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Masgic Developers": "gevorgian.sargis@gmail.com"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwiftyMDLib",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwiftyMDLib.git",
+    "tag": "0.0.8.2"
+  },
+  "frameworks": "UIKit",
+  "dependencies": {
+    "Alamofire": [
+
+    ],
+    "SDWebImage": [
+
+    ],
+    "IQKeyboardManagerSwift": [
+
+    ]
+  },
+  "source_files": "SwiftyMDLib/Classes/**/*.swift",
+  "resources": "SwiftyMDLib/Resources/**/*",
+  "swift_versions": "4.2",
+  "swift_version": "4.2"
+}

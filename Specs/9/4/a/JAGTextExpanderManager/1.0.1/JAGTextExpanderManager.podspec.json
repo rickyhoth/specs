@@ -1,0 +1,24 @@
+{
+  "name": "JAGTextExpanderManager",
+  "version": "1.0.1",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "license": "MIT",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JAGTextExpanderManager",
+  "authors": {
+    "Ryu Iwasaki": "ryu.contact.jp@gmail.com"
+  },
+  "summary": "TextExpander Wrapper Class",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JAGTextExpanderManager.git",
+    "tag": "1.0.1"
+  },
+  "source_files": "JAGTextExpanderManager",
+  "requires_arc": true,
+  "dependencies": {
+    "TextExpander": [
+
+    ]
+  }
+}

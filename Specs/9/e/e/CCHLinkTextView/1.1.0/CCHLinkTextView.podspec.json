@@ -1,0 +1,21 @@
+{
+  "name": "CCHLinkTextView",
+  "version": "1.1.0",
+  "license": "MIT",
+  "summary": "UITextView subclass with tappable links.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CCHLinkTextView",
+  "screenshots": "https://raw.githubusercontent.com/choefele/CCHLinkTextView/master/CCHLinkTextView.gif",
+  "authors": {
+    "Claus Höfele": "claus@claushoefele.com"
+  },
+  "social_media_url": "https://twitter.com/claushoefele",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CCHLinkTextView.git",
+    "tag": "1.1.0"
+  },
+  "requires_arc": true,
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source_files": "CCHLinkTextView/*.{h,m}"
+}

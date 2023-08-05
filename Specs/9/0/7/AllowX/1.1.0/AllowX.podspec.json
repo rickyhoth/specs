@@ -1,0 +1,33 @@
+{
+  "name": "AllowX",
+  "version": "1.1.0",
+  "summary": "AllowX to ask for permissions on iOS ❓👀.",
+  "description": "AllowX is a zero setup and unified API to ask for permissions on iOS ❓👀.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AllowX",
+  "screenshots": "https://bitbucket.devops.nonprod.empf.local/scm/react/3.png?raw=true",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "KarimEbrahemAbdelaziz": "karimabdelazizmansour@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AllowX.git",
+    "tag": "1.1.0"
+  },
+  "social_media_url": "https://twitter.com/KarimEbrahem512",
+  "platforms": {
+    "ios": "10.0"
+  },
+  "swift_versions": "5.0",
+  "source_files": "AllowX/Classes/**/*",
+  "resources": "AllowX/Assets/*",
+  "frameworks": "UIKit",
+  "dependencies": {
+    "SwiftEntryKit": [
+      "1.2.3"
+    ]
+  },
+  "swift_version": "5.0"
+}

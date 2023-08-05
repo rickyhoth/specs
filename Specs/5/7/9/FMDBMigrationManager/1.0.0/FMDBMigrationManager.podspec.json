@@ -1,0 +1,26 @@
+{
+  "name": "FMDBMigrationManager",
+  "version": "1.0.0",
+  "license": "Apache2",
+  "summary": "A SQLite database schema migration system for FMDB",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/FMDBMigrationManager",
+  "authors": {
+    "Blake Watters": "blakewatters@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/FMDBMigrationManager.git",
+    "tag": "v1.0.0"
+  },
+  "source_files": "Code",
+  "requires_arc": true,
+  "libraries": "sqlite3",
+  "dependencies": {
+    "FMDB": [
+      "~> 2.2"
+    ]
+  },
+  "platforms": {
+    "ios": "7.0",
+    "osx": "10.9"
+  }
+}

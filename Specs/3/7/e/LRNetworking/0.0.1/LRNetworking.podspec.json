@@ -1,0 +1,21 @@
+{
+  "name": "LRNetworking",
+  "version": "0.0.1",
+  "summary": "A simple package for AFNetworking",
+  "description": "A simple package for AFNetworking used in most projects",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LRNetworking",
+  "license": "MIT",
+  "authors": {
+    "轉身、晴兲": "943175984@qq.com"
+  },
+  "platforms": {
+    "ios": null
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LRNetworking.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "LRNetworking/**/*.{h,m}",
+  "requires_arc": true,
+  "frameworks": "Foundation"
+}

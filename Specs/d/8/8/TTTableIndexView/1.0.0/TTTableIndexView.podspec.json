@@ -1,0 +1,21 @@
+{
+  "name": "TTTableIndexView",
+  "version": "1.0.0",
+  "summary": "TableIndexView",
+  "description": "customize the indexView of UITableView",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TTTableIndexView",
+  "license": "MIT",
+  "authors": {
+    "heqiang": "he15023306643@126.com"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TTTableIndexView.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "TTTableIndexViewDemo/TableViewSectionIndexView/*.{h,m}",
+  "exclude_files": "",
+  "requires_arc": true
+}

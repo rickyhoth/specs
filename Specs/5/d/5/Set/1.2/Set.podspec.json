@@ -1,0 +1,26 @@
+{
+  "name": "Set",
+  "version": "1.2",
+  "summary": "An implementation of a Dictionary-backed Set in Swift.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Set",
+  "authors": {
+    "Rob Rix": "rob.rix@github.com",
+    "Adam Sharp": "adsharp@me.com",
+    "Ingmar Stein": "IngmarStein@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Set.git",
+    "tag": "1.2"
+  },
+  "platforms": {
+    "ios": "7.0",
+    "osx": "10.9"
+  },
+  "source_files": "Set/*.swift",
+  "requires_arc": true,
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "description": "This is a Swift microframework which implements a Dictionary-backed Set.\n"
+}

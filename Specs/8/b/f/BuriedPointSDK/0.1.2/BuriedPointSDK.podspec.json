@@ -1,0 +1,22 @@
+{
+  "name": "BuriedPointSDK",
+  "version": "0.1.2",
+  "summary": "A short description of BuriedPointSDK.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/BuriedPointSDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "kaige1123": "948158677@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/BuriedPointSDK.git",
+    "tag": "0.1.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "BuriedPointSDK/Classes/**/*.{h,m}"
+}

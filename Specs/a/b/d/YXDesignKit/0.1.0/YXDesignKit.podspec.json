@@ -1,0 +1,24 @@
+{
+  "name": "YXDesignKit",
+  "version": "0.1.0",
+  "summary": "A common UI component",
+  "description": "YXDesignKit, A common UI component. Eg: UIColor、UIFont Extension, and uniform Spacing",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/YXDesignKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "fengyanxin": "ph18317192001@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YXDesignKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "swift_versions": "5.3",
+  "source_files": "YXDesignKit/Classes/**/*",
+  "swift_version": "5.3"
+}

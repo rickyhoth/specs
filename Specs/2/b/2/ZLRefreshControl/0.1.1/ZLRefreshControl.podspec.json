@@ -1,0 +1,22 @@
+{
+  "name": "ZLRefreshControl",
+  "version": "0.1.1",
+  "summary": "ZLRefreshControl 可自定义的RefreshControl",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZLRefreshControl",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "richiezhl": "lylaut@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZLRefreshControl.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "ZLRefreshControl/Classes/**/*"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "UpTextField",
+  "version": "1.0.1",
+  "summary": "A Library for iOS to use for RSA encryptor.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/UpTextField",
+  "license": "MIT",
+  "authors": {
+    "wangguimin": "870503894@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/UpTextField.git",
+    "tag": "1.0.1"
+  },
+  "source_files": "UpTextField/*.{h,m}",
+  "frameworks": "Foundation",
+  "platforms": {
+    "ios": "8.0"
+  }
+}

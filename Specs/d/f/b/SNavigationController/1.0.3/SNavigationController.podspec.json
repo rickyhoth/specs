@@ -1,0 +1,23 @@
+{
+  "name": "SNavigationController",
+  "version": "1.0.3",
+  "summary": "A simple library for replacement UINavigationController.",
+  "description": "A simple library for replacement UINavigationController, you can self-define navigationController.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SNavigationController",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Cyrex": "szwathub@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SNavigationController.git",
+    "tag": "1.0.3"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SNavigationController/*{h,m}",
+  "deprecated": true
+}

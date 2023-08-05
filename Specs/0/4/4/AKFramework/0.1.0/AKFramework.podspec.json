@@ -1,0 +1,23 @@
+{
+  "name": "AKFramework",
+  "version": "0.1.0",
+  "summary": "Test framework to test CocoaPods by Artem Kirichek.",
+  "description": "This description is used to generate tags and improve search results.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AKFramework",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "akirichek": "askirichek@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AKFramework.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "AKFramework/Classes/**/*",
+  "swift_version": "3.0"
+}

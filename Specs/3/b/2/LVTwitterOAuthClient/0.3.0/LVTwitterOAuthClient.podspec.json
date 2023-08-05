@@ -1,0 +1,28 @@
+{
+  "name": "LVTwitterOAuthClient",
+  "version": "0.3.0",
+  "summary": "Super simple oAuth Client for the Twitter API",
+  "authors": {
+    "Martin Fernandez": "martin@loovin.com"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LVTwitterOAuthClient",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LVTwitterOAuthClient.git",
+    "tag": "0.3.0"
+  },
+  "dependencies": {
+    "OAuthCore": [
+
+    ]
+  },
+  "platforms": {
+    "ios": "6.0"
+  },
+  "frameworks": "Social",
+  "source_files": "LVTwitterOAuthClient/*.{h,m}",
+  "requires_arc": true
+}

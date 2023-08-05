@@ -1,0 +1,24 @@
+{
+  "name": "HeroCoinSDK",
+  "version": "0.0.1",
+  "summary": "游戏SDK",
+  "description": "Hero游戏SDK",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HeroCoinSDKPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "huyunlong": "yunlong.hu@timeltd.cn"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HeroCoinSDKPod.git",
+    "tag": "0.0.1"
+  },
+  "resources": "Assets/HeroCoinResources.bundle",
+  "vendored_frameworks": "Classes/*.framework",
+  "requires_arc": true
+}

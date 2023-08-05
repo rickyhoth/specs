@@ -1,0 +1,23 @@
+{
+  "name": "CidaasFaceEmotion",
+  "version": "17.8.2",
+  "summary": "A short description of CidaasFaceEmotion.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/cidaas-face-emotion",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Cidaas": "ganesh.kumar@widas.in"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/cidaas-face-emotion.git",
+    "tag": "17.8.2"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "CidaasFaceEmotion/Classes/**/*",
+  "pushed_with_swift_version": "3.0"
+}

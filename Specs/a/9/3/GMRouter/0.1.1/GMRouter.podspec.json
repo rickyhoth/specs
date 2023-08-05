@@ -1,0 +1,21 @@
+{
+  "name": "GMRouter",
+  "version": "0.1.1",
+  "summary": "A not boring url parser",
+  "description": "Not boring about query in url",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/GMRouter",
+  "license": "MIT",
+  "authors": {
+    "Gemini Wen": "coffeesherk@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/GMRouter.git",
+    "tag": "0.1.1"
+  },
+  "social_media_url": "http://weibo.com/coffeesherk",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "GMRouter/*"
+}

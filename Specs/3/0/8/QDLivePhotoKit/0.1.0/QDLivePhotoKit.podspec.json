@@ -1,0 +1,22 @@
+{
+  "name": "QDLivePhotoKit",
+  "version": "0.1.0",
+  "summary": "Generate Live Photo from mp4 file.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/QDLivePhotoKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "qiudan": "qiudan-098@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/QDLivePhotoKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.1"
+  },
+  "requires_arc": true,
+  "source_files": "QDLivePhotoKit/*.{h,m}"
+}

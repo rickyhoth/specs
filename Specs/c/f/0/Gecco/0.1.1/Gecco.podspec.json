@@ -1,0 +1,18 @@
+{
+  "name": "Gecco",
+  "version": "0.1.1",
+  "license": "MIT",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/",
+  "summary": "Table view datasource and delegate library in Swift",
+  "authors": {
+    "yukiasai": "yukiasai@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Gecco.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Classes/*.swift"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "SKDebugSuite",
+  "version": "0.1.0",
+  "summary": "iOS调试套件",
+  "description": "iOS开发调试工具套件.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SKDebugSuite",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yangpansky": "yangpansky@sina.cn"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SKDebugSuite.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "SKDebugSuite/Classes/**/*",
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ]
+}

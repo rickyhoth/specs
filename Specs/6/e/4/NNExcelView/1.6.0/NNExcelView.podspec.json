@@ -1,0 +1,34 @@
+{
+  "name": "NNExcelView",
+  "version": "1.6.0",
+  "summary": "like Microsoft Excel(OC/Swift).",
+  "description": "like Microsoft Excel(OC/Swift).",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/NNExcelView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "shang1219178163": "shang1219178163@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/NNExcelView.git",
+    "tag": "1.6.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "swift_versions": "5.0",
+  "requires_arc": true,
+  "frameworks": [
+    "UIKit",
+    "CoreFoundation"
+  ],
+  "source_files": "NNExcelView/Classes/**/*",
+  "dependencies": {
+    "SnapKit": [
+
+    ]
+  },
+  "swift_version": "5.0"
+}

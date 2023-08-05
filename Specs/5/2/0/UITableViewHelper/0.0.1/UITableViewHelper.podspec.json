@@ -1,0 +1,32 @@
+{
+  "name": "UITableViewHelper",
+  "version": "0.0.1",
+  "summary": "Easier integration of UITableViews with custom cells built from nib files.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/UITableViewHelper",
+  "license": "MIT",
+  "authors": {
+    "Fernando Mazzon": "fer662@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/UITableViewHelper.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": null
+  },
+  "source_files": [
+    "Classes",
+    "Classes/**/*.{h,m}"
+  ],
+  "public_header_files": "Classes/**/*.h",
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ],
+  "requires_arc": true,
+  "dependencies": {
+    "RuntimeHelpers": [
+
+    ]
+  }
+}

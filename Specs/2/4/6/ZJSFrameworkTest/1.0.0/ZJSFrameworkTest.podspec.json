@@ -1,0 +1,20 @@
+{
+  "name": "ZJSFrameworkTest",
+  "version": "1.0.0",
+  "summary": "ZJSFrameworkTest is test.",
+  "license": "MIT",
+  "authors": {
+    "Nomo": "zhoujianshun@hotmail.com"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZJSFrameworkTest",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZJSFrameworkTest.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "frameworks": "Foundation",
+  "vendored_frameworks": "ZJSFrameworkTest.framework",
+  "requires_arc": true
+}

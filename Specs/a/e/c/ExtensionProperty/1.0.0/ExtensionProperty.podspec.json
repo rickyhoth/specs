@@ -1,0 +1,22 @@
+{
+  "name": "ExtensionProperty",
+  "version": "1.0.0",
+  "summary": "Attach property via Extension",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ExtensionProperty",
+  "license": "MIT",
+  "authors": {
+    "Hideki Matsuoka": "matsuoka.hide@gmail.com"
+  },
+  "platforms": {
+    "ios": "8.0",
+    "osx": "10.9",
+    "watchos": "2.0",
+    "tvos": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ExtensionProperty.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "Source/*.swift",
+  "requires_arc": true
+}

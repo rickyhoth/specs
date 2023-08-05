@@ -1,0 +1,25 @@
+{
+  "name": "DWSlideCaptchaView",
+  "version": "1.0.1",
+  "summary": "A view to help you to do the slide captcha.",
+  "description": "A view to help you to do the slide captcha.You can customsize it as you want.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DWSlideCaptchaView",
+  "social_media_url": "http://www.jianshu.com/u/a56ec10f6603",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "codeWicky": "codewicky@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DWSlideCaptchaView.git",
+    "tag": "1.0.1"
+  },
+  "source_files": "DWSlideCaptchaView/*.{h,m}",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "frameworks": "UIKit",
+  "requires_arc": true
+}

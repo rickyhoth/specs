@@ -1,0 +1,22 @@
+{
+  "name": "WyUITool",
+  "version": "0.0.2",
+  "summary": "A convenient tool about UI for Objective-C.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WyUITool",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wayne": "617189297@qq.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WyUITool.git",
+    "tag": "0.0.2"
+  },
+  "source_files": "WyUITool/Category/**/*",
+  "requires_arc": true
+}

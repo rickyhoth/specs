@@ -1,0 +1,25 @@
+{
+  "name": "CCSegmentView",
+  "version": "1.0.0",
+  "summary": "SegmentView to create menu quickly",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CCSegmentView",
+  "license": "MIT",
+  "authors": {
+    "JFF147": "keisme3.0@gmail.com"
+  },
+  "platforms": {
+    "ios": "12.0"
+  },
+  "swift_versions": "5.0",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CCSegmentView.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "Sources/*.{swift}",
+  "dependencies": {
+    "SnapKit": [
+
+    ]
+  },
+  "swift_version": "5.0"
+}

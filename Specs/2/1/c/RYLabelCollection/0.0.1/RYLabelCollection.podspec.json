@@ -1,0 +1,31 @@
+{
+  "name": "RYLabelCollection",
+  "summary": "LabelCollection for iOS by.RyukieSama",
+  "version": "0.0.1",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Ryukie": "ryukie.sama@gmail.com"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/RYLabelCollection.git",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/RYLabelCollection.git",
+    "tag": "0.0.1"
+  },
+  "requires_arc": true,
+  "source_files": "RYLabelCollection/**/*.{h,m}",
+  "libraries": [
+    "z",
+    "sqlite3"
+  ],
+  "dependencies": {
+    "Masonry": [
+
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "HLPodTest",
+  "version": "0.0.6",
+  "summary": "Display your app's FPS on screen",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HLPodTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "leohou": "18801024669@163.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "frameworks": [
+    "Foundation",
+    "UIKit"
+  ],
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HLPodTest.git",
+    "tag": "0.0.6"
+  },
+  "source_files": "HLPod/Util/**/*.{h,m}",
+  "requires_arc": true
+}

@@ -1,0 +1,32 @@
+{
+  "name": "SHAccountManager",
+  "version": "0.2.0",
+  "summary": "SHAccountManager is currently unmaintained and abanonded, please use 'pod SHOmniAuthTwitter' instead.",
+  "description": "  SHAccountManager is currently unmaintained and abanonded, please use 'pod SHOmniAuthTwitter' instead.\n  More information at https://bitbucket.devops.nonprod.empf.local/scm/react/SHomniauthtwitter\n  Get in touch if you need some help.\n\n\n",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SHAccountManager",
+  "license": "MIT",
+  "authors": {
+    "Seivan Heidari": "seivan.heidari@icloud.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SHAccountManager.git",
+    "tag": "0.2.0"
+  },
+  "platforms": {
+    "ios": "6.0"
+  },
+  "source_files": "SHAccountManager/**/*.{h,m}",
+  "frameworks": [
+    "Social",
+    "Accounts"
+  ],
+  "requires_arc": true,
+  "dependencies": {
+    "AFOAuth1Client": [
+      "~>0.1.1"
+    ],
+    "TWReverseAuth": [
+      "~>0.1.0"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "MARKCircularSlider",
+  "version": "0.1.0",
+  "summary": "An easy-to-use circular slider",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MARKCircularSlider",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE.md"
+  },
+  "authors": {
+    "Vadym Markov": "impressionwave@gmail.com"
+  },
+  "social_media_url": "https://twitter.com/markvaldy",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MARKCircularSlider.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "frameworks": "UIKit",
+  "source_files": "Source/**/*.{h,m}"
+}

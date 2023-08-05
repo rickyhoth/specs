@@ -1,0 +1,21 @@
+{
+  "name": "EasyTableView",
+  "version": "2.0.3",
+  "summary": "Horizontal and vertical scrolling table views for iOS.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/EasyTableView",
+  "license": {
+    "type": "MIT"
+  },
+  "authors": {
+    "Aleksey Novicov": "aleksey@yodelcode.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/EasyTableView.git",
+    "tag": "2.0.3"
+  },
+  "source_files": "Classes/EasyTableView.{h,m}",
+  "requires_arc": true
+}

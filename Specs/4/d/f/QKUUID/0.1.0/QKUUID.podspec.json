@@ -1,0 +1,22 @@
+{
+  "name": "QKUUID",
+  "version": "0.1.0",
+  "summary": "QKUUID.",
+  "description": "TODO: UUID&钥匙串.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/QKUUID",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "huahong": "2330669775@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/QKUUID.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "QKUUID/Classes/*.{h,m}"
+}

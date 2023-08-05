@@ -1,0 +1,17 @@
+{
+  "name": "DCIntrospect",
+  "version": "0.0.1",
+  "license": "MIT",
+  "summary": "Introspect is small set of tools for iOS that aid in debugging user interfaces built with UIKit.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DCIntrospect",
+  "authors": {
+    "Patrick Richards": "contact@domesticcat.com.au"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DCIntrospect.git",
+    "commit": "3ef2c10710f007b6d699c2a0b996ce1e3a79bde0"
+  },
+  "source_files": "DCIntrospect",
+  "frameworks": "QuartzCore",
+  "requires_arc": false
+}

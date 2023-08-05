@@ -1,0 +1,23 @@
+{
+  "name": "MVVMKit",
+  "version": "2.2.1",
+  "summary": "The MVVM pattern protocol oriented",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MVVMKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "drakon-ag": "alfogrillo@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MVVMKit.git",
+    "tag": "2.2.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "swift_versions": "5.0",
+  "source_files": "MVVMKit/**/*",
+  "swift_version": "5.0"
+}

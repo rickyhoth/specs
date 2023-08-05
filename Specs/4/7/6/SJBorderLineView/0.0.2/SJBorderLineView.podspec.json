@@ -1,0 +1,24 @@
+{
+  "name": "SJBorderLineView",
+  "version": "0.0.2",
+  "summary": "border line.",
+  "description": "https://bitbucket.devops.nonprod.empf.local/scm/react/SJBorderLineView/blob/master/README.md",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SJBorderLineView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE.md"
+  },
+  "authors": {
+    "SanJiang": "changsanjiang@gmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SJBorderLineView.git",
+    "tag": "v0.0.2"
+  },
+  "source_files": "SJBorderLineView/*.{h,m}",
+  "frameworks": "UIKit",
+  "requires_arc": true
+}

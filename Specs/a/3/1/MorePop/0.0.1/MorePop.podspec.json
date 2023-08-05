@@ -1,0 +1,19 @@
+{
+  "name": "MorePop",
+  "version": "0.0.1",
+  "summary": "More Pop and Dismiss.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MorePop",
+  "license": "MIT",
+  "authors": {
+    "wangwangok": "wwloading@163.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MorePop.git",
+    "tag": "v0.0.1"
+  },
+  "source_files": "MorePop/*.{h,m}",
+  "frameworks": "UIKit"
+}

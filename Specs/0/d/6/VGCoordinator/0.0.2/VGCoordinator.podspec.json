@@ -1,0 +1,22 @@
+{
+  "name": "VGCoordinator",
+  "authors": {
+    "Vinicius Galhardo Machado": "viniciusgm45@gmail.com"
+  },
+  "version": "0.0.2",
+  "summary": "A short description of VGCoordinator.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/VGCoordinator",
+  "license": "MIT",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/VGCoordinator.git",
+    "tag": "0.0.2"
+  },
+  "source_files": [
+    "VGCoordinator",
+    "VGCoordinator/**/*.{h,m,swift}"
+  ],
+  "frameworks": "UIKit",
+  "platforms": {
+    "ios": "12.0"
+  }
+}

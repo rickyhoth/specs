@@ -1,0 +1,16 @@
+{
+  "name": "TestCocoaPodFramework",
+  "version": "1.0.0",
+  "summary": "Passes the document validation",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TestCocoaPodFramework.git",
+  "license": "MIT",
+  "authors": "Krishna",
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TestCocoaPodFramework.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "TestCocoaPodFramework/**/*"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "KNStartMovie",
+  "version": "0.3.0",
+  "summary": "A short description of KNStartMovie.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/KNStartMovie",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "992275294@qq.com": "992275294@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/KNStartMovie.git",
+    "tag": "0.3.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "KNStartMovie/Classes/**/*",
+  "frameworks": [
+    "UIKit",
+    "AVKit",
+    "AVFoundation"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Loco",
+  "version": "1.0.0",
+  "summary": "adhahflflafalfhaflkhflflkdhflhdlfh",
+  "description": "fiufhhshkfhgghfhhfhghghhfhghdfkhhgh",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Loco.git",
+  "license": "MIT",
+  "authors": "Krishna Mohan",
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Loco.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "Loco"
+}

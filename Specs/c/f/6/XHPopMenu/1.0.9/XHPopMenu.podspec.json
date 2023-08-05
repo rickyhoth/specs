@@ -1,0 +1,25 @@
+{
+  "name": "XHPopMenu",
+  "version": "1.0.9",
+  "summary": "A menu like a pop view.",
+  "description": "It is a menu view used on iOS, which implement by Objective-C.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/XHPopMenu",
+  "screenshots": "https://bitbucket.devops.nonprod.empf.local/scm/react/watch-gif/raw/master/PopMenu.gif?raw=true",
+  "license": "MIT",
+  "authors": {
+    "chengxianghe": "chengxianghe@outlook.com"
+  },
+  "platforms": {
+    "ios": "6.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/XHPopMenu.git",
+    "tag": "1.0.9"
+  },
+  "source_files": "XHPopMenu/*",
+  "frameworks": [
+    "Foundation",
+    "UIKit"
+  ],
+  "requires_arc": true
+}

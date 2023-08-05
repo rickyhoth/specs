@@ -1,0 +1,22 @@
+{
+  "name": "YKUtils",
+  "version": "0.1.1",
+  "summary": "A short description of YKUtils.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/惊蛰/YKUtils",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "惊蛰": "907936564@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YKUtils.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "YKUtils/Classes/**/*"
+}

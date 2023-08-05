@@ -1,0 +1,19 @@
+{
+  "name": "DRKonamiCode",
+  "version": "1.0.0",
+  "platforms": {
+    "ios": null
+  },
+  "license": "MIT",
+  "summary": "The Konami Code gesture recognizer for iOS.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DRKonamiCode",
+  "authors": {
+    "Danny Ricciotti": "dan.ricciotti@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DRKonamiCode.git",
+    "tag": "v1.0.0"
+  },
+  "source_files": "Sources/DRKonamiGestureRecognizer.*",
+  "requires_arc": false
+}

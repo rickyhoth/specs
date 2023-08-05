@@ -1,0 +1,22 @@
+{
+  "name": "12171447",
+  "version": "0.1.3",
+  "summary": "A short description of 12171447.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/12171447",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wfkbyni": "shuyongchao@zhongruigroup.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/1217.git",
+    "tag": "0.1.3"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "12171447/Classes/**/*"
+}

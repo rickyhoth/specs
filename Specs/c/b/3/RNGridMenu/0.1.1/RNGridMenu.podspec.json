@@ -1,0 +1,23 @@
+{
+  "name": "RNGridMenu",
+  "version": "0.1.1",
+  "license": "MIT",
+  "platforms": {
+    "ios": "5.0"
+  },
+  "summary": "A grid menu with elastic layout, depth of field, and realistic animation.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/RNGridMenu",
+  "authors": {
+    "Ryan Nystrom": "rnystrom@whoisryannystrom.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/RNGridMenu.git",
+    "tag": "0.1.1"
+  },
+  "source_files": "RNGridMenu.{h,m}",
+  "requires_arc": true,
+  "frameworks": [
+    "QuartzCore",
+    "Accelerate"
+  ]
+}

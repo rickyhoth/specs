@@ -1,0 +1,22 @@
+{
+  "name": "ZRYWordPicker",
+  "version": "0.0.1",
+  "summary": "Horizontal word picker, ideal as keyboard input accessory view.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZRYWordPicker",
+  "license": {
+    "type": "MIT",
+    "file": "README.md"
+  },
+  "authors": {
+    "Mariano Abdala": "mariano@zerously.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZRYWordPicker.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source_files": "ZRYWordPicker/*",
+  "requires_arc": true
+}

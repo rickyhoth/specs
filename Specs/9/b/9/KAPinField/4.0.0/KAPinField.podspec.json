@@ -1,0 +1,21 @@
+{
+  "name": "KAPinField",
+  "version": "4.0.0",
+  "summary": "Lightweight Pin Code Field library for iOS, written in Swift",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/KAPinField",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Alexis Creuzot": "alexis.creuzot@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/KAPinField.git",
+    "tag": "4.0.0"
+  },
+  "platforms": {
+    "ios": "10.3"
+  },
+  "source_files": "**/KAPinField.swift"
+}

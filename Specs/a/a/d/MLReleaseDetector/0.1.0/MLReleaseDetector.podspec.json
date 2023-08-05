@@ -1,0 +1,23 @@
+{
+  "name": "MLReleaseDetector",
+  "version": "0.1.0",
+  "summary": "Detect memory leaks for your iOS projects automatically.",
+  "description": "MLReleaseDetector can automatically detect memory leaks including UIViewController, UIView, strongly referenced custom properties or instance variables.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MLReleaseDetector",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "mazhipeng": "mazhipeng108@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MLReleaseDetector.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "MLReleaseDetector/Classes/**/*",
+  "frameworks": "UIKit"
+}

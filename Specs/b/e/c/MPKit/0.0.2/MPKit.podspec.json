@@ -1,0 +1,28 @@
+{
+  "name": "MPKit",
+  "version": "0.0.2",
+  "summary": "Add Categories",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MPKitPodTest",
+  "license": "MIT",
+  "authors": {
+    "yyqxiaoyin": "357491060@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MPKitPodTest.git",
+    "tag": "0.0.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "frameworks": "Foundation",
+  "vendored_frameworks": "MPKit.framework",
+  "requires_arc": true,
+  "dependencies": {
+    "AFNetworking": [
+
+    ],
+    "FMDB": [
+
+    ]
+  }
+}

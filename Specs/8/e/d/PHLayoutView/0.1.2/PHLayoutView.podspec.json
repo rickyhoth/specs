@@ -1,0 +1,28 @@
+{
+  "name": "PHLayoutView",
+  "version": "0.1.2",
+  "summary": "A short description of PHLayoutView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/PHLayoutView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "NFDGIT": "m1aoling@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/PHLayoutView.git",
+    "tag": "0.1.2"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "PHLayoutView/Classes/**/*",
+  "public_header_files": "Pod/Classes/**/*.swift",
+  "dependencies": {
+    "SnapKit": [
+
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "WGCocoa",
+  "version": "1.4",
+  "summary": "wangweiguang",
+  "description": "This is a test for cocoapods",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WGCocoa",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "VictorerW": "623328266@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WGCocoa.git",
+    "tag": "1.4"
+  },
+  "source_files": "WGCocoa/*.{h,m}",
+  "exclude_files": "Classes/Exclude",
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}

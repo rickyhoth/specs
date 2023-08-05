@@ -1,0 +1,24 @@
+{
+  "name": "BODragScrollView",
+  "version": "0.0.2",
+  "summary": "Scroll Card Interaction",
+  "description": "Scroll Card Interaction",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/BODragScrollView",
+  "license": "MIT",
+  "authors": {
+    "bo": "chbo297@gmail.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/BODragScrollView.git",
+    "tag": "0.0.2"
+  },
+  "source_files": [
+    "BODragScrollView",
+    "BODragScrollView/*.{h}",
+    "BODragScrollView/*.{m}"
+  ],
+  "frameworks": "UIKit"
+}

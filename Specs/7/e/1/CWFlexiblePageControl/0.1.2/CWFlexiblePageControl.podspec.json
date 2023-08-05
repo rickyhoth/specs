@@ -1,0 +1,22 @@
+{
+  "name": "CWFlexiblePageControl",
+  "version": "0.1.2",
+  "summary": "A pageControl like IG.",
+  "description": "This pod is copy from the awesome framework: 'https://bitbucket.devops.nonprod.empf.local/scm/react/FlexiblePageControl'.\nI just convert it from swift to ObjC.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CWFlexiblePageControl",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Ja7423": "snake9725074@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CWFlexiblePageControl.git",
+    "tag": "0.1.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CWFlexiblePageControl/Classes/**/*"
+}

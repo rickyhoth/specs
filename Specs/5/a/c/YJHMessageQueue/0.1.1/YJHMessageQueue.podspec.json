@@ -1,0 +1,22 @@
+{
+  "name": "YJHMessageQueue",
+  "version": "0.1.1",
+  "summary": "Ordered queue",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/YJHMessageQueue",
+  "license": "MIT",
+  "authors": {
+    "yunjinghui123": "1432680302@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YJHMessageQueue.git",
+    "tag": "0.1.1"
+  },
+  "source_files": [
+    "YJHMessageQueue",
+    "YJHMessageQueue/**/*.{h,m}"
+  ],
+  "requires_arc": true
+}

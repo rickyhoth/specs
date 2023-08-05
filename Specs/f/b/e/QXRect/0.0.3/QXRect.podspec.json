@@ -1,0 +1,20 @@
+{
+  "name": "QXRect",
+  "version": "0.0.3",
+  "summary": "A super easy use frame tool for iOS views.",
+  "description": "Based on rects relations such as left right top bottom center offset etc. Enjoy!",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/QXRect",
+  "license": "MIT",
+  "authors": {
+    "labi3285": "766043285@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/QXRect.git",
+    "tag": "0.0.3"
+  },
+  "source_files": "QXRect/QXRect/*.swift",
+  "requires_arc": true
+}

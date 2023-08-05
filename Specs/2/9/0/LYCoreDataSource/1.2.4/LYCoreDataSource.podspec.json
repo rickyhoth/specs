@@ -1,0 +1,19 @@
+{
+  "name": "LYCoreDataSource",
+  "version": "1.2.4",
+  "summary": "CoreData Helper",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LYCoreDataSource",
+  "license": "MIT",
+  "authors": {
+    "zhangliyong": "zhangliyong1997@gmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LYCoreDataSource.git",
+    "tag": "1.2.4"
+  },
+  "source_files": "LYCoreDataSourceDemo/LYCoreDataSource/**/*.{h,m}",
+  "requires_arc": true
+}

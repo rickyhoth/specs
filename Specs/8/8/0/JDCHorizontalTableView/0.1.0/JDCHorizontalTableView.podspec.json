@@ -1,0 +1,24 @@
+{
+  "name": "JDCHorizontalTableView",
+  "version": "0.1.0",
+  "summary": "A horizontal tableview implementation.",
+  "description": "A simple UITableView horizontal version which provides UIKit like interfaces. Easy to use. :) Checkout the demo for details.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JDCHorizontalTableView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Jiong Chen": "jidongchen93@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JDCHorizontalTableView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "5.0"
+  },
+  "source_files": "JDCHorizontalTableView/Classes/**/*",
+  "public_header_files": "JDCHorizontalTableView/Classes/include/*.h",
+  "frameworks": "UIKit"
+}

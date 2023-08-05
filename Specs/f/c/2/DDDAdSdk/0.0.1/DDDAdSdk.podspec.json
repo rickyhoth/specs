@@ -1,0 +1,22 @@
+{
+  "name": "DDDAdSdk",
+  "version": "0.0.1",
+  "summary": "adSdk 广告sdk",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DDDAdSdk",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "summerthread": "summerthread@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DDDAdSdk.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "DDDAdSdk/Classes/**/*"
+}

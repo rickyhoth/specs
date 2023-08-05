@@ -1,0 +1,28 @@
+{
+  "name": "ZSTool",
+  "version": "0.1.2",
+  "summary": "A short description of ZYTool.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZYTool",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zysea": "zhan77789@sina.cn"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZYTool.git",
+    "tag": "0.1.2"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "ZYTool/Classes/**/*",
+  "frameworks": "UIKit",
+  "dependencies": {
+    "SnapKit": [
+
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Roatlas",
+  "version": "0.1.4",
+  "summary": "A short description of Roatlas.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Roatlas",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Daniel Gogozan": "gogozandaniel@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Roatlas.git",
+    "tag": "0.1.4"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "Roatlas/Classes/**/*",
+  "resource_bundles": {
+    "Roatlas": [
+      "Roatlas/Classes/**/*.csv"
+    ]
+  },
+  "dependencies": {
+    "SwiftCSV": [
+
+    ]
+  }
+}

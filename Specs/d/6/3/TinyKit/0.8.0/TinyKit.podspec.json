@@ -1,0 +1,23 @@
+{
+  "name": "TinyKit",
+  "version": "0.8.0",
+  "license": "MIT",
+  "summary": "TinyKit provides practical functionalities that will help us to build apps much more quickly.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/tiny-core",
+  "authors": {
+    "Roy Hsu": "roy.hsu@tinyworld.cc"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/tiny-kit.git",
+    "tag": "0.8.0"
+  },
+  "frameworks": "Foundation",
+  "source_files": "Sources/*.swift",
+  "ios": {
+    "source_files": "Sources/iOS/*.swift"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "swift_version": "4.0"
+}

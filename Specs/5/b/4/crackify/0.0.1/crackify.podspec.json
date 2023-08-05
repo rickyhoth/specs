@@ -1,0 +1,19 @@
+{
+  "name": "crackify",
+  "version": "0.0.1",
+  "summary": "Easy protection for iOS apps from cracking.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/crackify",
+  "license": "MIT",
+  "authors": {
+    "Ivan Trufanov": "ivan.trufanov@me.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/crackify.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": null
+  },
+  "source_files": "Crackify.{h,m}",
+  "requires_arc": false
+}

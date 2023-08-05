@@ -1,0 +1,20 @@
+{
+  "name": "AssetReverser",
+  "version": "0.0.1",
+  "license": "MIT",
+  "summary": "Video `Reverser` in Swift",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AssetReverser",
+  "authors": {
+    "Quentin Fasquel": ""
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AssetReverser.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "frameworks": "AVFoundation",
+  "source_files": "Source/*.swift",
+  "pushed_with_swift_version": "3.0"
+}

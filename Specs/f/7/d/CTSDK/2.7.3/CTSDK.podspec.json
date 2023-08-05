@@ -1,0 +1,22 @@
+{
+  "name": "CTSDK",
+  "version": "2.7.3",
+  "summary": "CTSDK",
+  "description": "CTSDK Support CocoaPods",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CloudmobiSSP",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "tianwenshi": "lancelot.tian@yeahmobi.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CTCocoaPods.git",
+    "tag": "2.7.3"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "vendored_frameworks": "CTCocoaPods/Frameworks/CTSDK.framework"
+}

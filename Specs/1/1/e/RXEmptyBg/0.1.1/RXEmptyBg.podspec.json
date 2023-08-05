@@ -1,0 +1,24 @@
+{
+  "name": "RXEmptyBg",
+  "version": "0.1.1",
+  "summary": "An notice view for empty scrollView and its's subClass",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/RXEmptyBg",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": "AlphaDog13",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/RXEmptyBg.git",
+    "tag": "0.1.1"
+  },
+  "source_files": "RXEmptyBg/*.swift",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "frameworks": [
+    "Foundation",
+    "UIKit"
+  ]
+}

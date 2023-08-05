@@ -1,0 +1,19 @@
+{
+  "name": "XXJLoopView",
+  "version": "0.0.2",
+  "summary": "一个高性能的图片轮播器",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/XXJLoopView",
+  "license": "MIT",
+  "authors": {
+    "zhuohongxiao": "zhuohong_xiao@163.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/XXJLoopView.git",
+    "tag": "0.0.2"
+  },
+  "source_files": "XXJLoopView/XXJLoopView/*.{h,m}",
+  "requires_arc": true
+}

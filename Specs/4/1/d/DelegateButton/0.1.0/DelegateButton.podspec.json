@@ -1,0 +1,24 @@
+{
+  "name": "DelegateButton",
+  "version": "0.1.0",
+  "summary": "Redesign UIButton as delegate pattern.",
+  "description": "This library make UIButton to be able to implement as Delegate pattern.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/reactDelegateButton",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Handii, Inc.": "github@handii.co.jp"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/reactDelegateButton.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DelegateButton/Classes/**/*",
+  "pushed_with_swift_version": "4.0",
+  "deprecated": true
+}

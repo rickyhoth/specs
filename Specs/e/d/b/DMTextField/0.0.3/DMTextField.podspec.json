@@ -1,0 +1,27 @@
+{
+  "name": "DMTextField",
+  "version": "0.0.3",
+  "summary": "A textfield for daima",
+  "description": "A textfield that contain cancle button and done button",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DMTextField",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "郑军": "junzheng3@creditease.cn"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DMTextField.git",
+    "tag": "0.0.3"
+  },
+  "source_files": "Classes/*.{h,m}",
+  "dependencies": {
+    "Masonry": [
+
+    ]
+  }
+}

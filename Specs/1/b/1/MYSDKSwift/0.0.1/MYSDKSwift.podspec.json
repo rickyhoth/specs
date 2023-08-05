@@ -1,0 +1,22 @@
+{
+  "name": "MYSDKSwift",
+  "version": "0.0.1",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MySDKSwift",
+  "authors": {
+    "iOS": "iOS33@gmail.com"
+  },
+  "summary": "A short description of MYSDKSwift.",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MySDKSwift.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "MySDKSwift/**/*.swift",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "requires_arc": true
+}

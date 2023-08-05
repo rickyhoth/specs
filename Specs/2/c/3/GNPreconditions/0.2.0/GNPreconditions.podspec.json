@@ -1,0 +1,30 @@
+{
+  "name": "GNPreconditions",
+  "version": "0.2.0",
+  "summary": "Defenensive-code tool for Objective-C",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/GNPreconditions",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Games Neox": "games.neox@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/GNPreconditions.git",
+    "tag": "0.2.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "dependencies": {
+    "GNExceptions": [
+
+    ],
+    "GNLog": [
+
+    ]
+  },
+  "source_files": "GNPreconditions/Classes/*",
+  "public_header_files": "GNPreconditions/Classes/*.h"
+}

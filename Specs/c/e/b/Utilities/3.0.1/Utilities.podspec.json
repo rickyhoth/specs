@@ -1,0 +1,23 @@
+{
+  "name": "Utilities",
+  "version": "3.0.1",
+  "summary": "Utilities for Swift.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Utilities",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "blcsntb": "blcsntb@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Utilities.git",
+    "tag": "3.0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Utilities/Classes/**/*",
+  "pushed_with_swift_version": "3.0"
+}

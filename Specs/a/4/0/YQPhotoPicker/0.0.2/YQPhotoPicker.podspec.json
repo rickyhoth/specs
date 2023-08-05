@@ -1,0 +1,24 @@
+{
+  "name": "YQPhotoPicker",
+  "version": "0.0.2",
+  "summary": "A photo picker",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/YQPhotoPicker",
+  "license": "MIT",
+  "authors": {
+    "YiQuan": "770322699@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YQPhotoPicker.git",
+    "tag": "0.0.2"
+  },
+  "source_files": "YQPhotoPicker/**/*.{h,m}",
+  "frameworks": [
+    "Foundation",
+    "UIKit",
+    "Photos"
+  ],
+  "requires_arc": true
+}

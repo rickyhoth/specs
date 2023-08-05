@@ -1,0 +1,23 @@
+{
+  "name": "HLApplePayTool",
+  "version": "1.0.0",
+  "summary": "简单的封装苹果支付工具",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HLApplePayTool",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "SeaDragon": "hailong_hl@163.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HLApplePayTool.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "HLTool/*.{h,m}",
+  "frameworks": "StoreKit",
+  "requires_arc": true
+}

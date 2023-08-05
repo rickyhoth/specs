@@ -1,0 +1,18 @@
+{
+  "name": "MKRingProgressView",
+  "version": "1.1",
+  "summary": "Ring progress view similar to Activity app on Apple Watch",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MKRingProgressView",
+  "license": "MIT",
+  "authors": "Max Konovalov",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MKRingProgressView.git",
+    "tag": "1.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "MKRingProgressView/*",
+  "frameworks": "UIKit"
+}

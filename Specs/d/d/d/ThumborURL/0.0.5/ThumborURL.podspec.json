@@ -1,0 +1,20 @@
+{
+  "name": "ThumborURL",
+  "version": "0.0.5",
+  "summary": "A library to generate encrypted URLs for Thumbor in your iOS app.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ThumborURL",
+  "license": "Apache License, Version 2.0",
+  "authors": "Square",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ThumborURL.git",
+    "tag": "v0.0.5"
+  },
+  "source_files": "thumborurl/*.{h,m}",
+  "frameworks": [
+    "Foundation",
+    "CoreGraphics"
+  ],
+  "platforms": {
+    "ios": "6.0"
+  }
+}

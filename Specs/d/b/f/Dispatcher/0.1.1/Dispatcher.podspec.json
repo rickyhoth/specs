@@ -1,0 +1,21 @@
+{
+  "name": "Dispatcher",
+  "version": "0.1.1",
+  "license": "MIT",
+  "summary": "Facebook Flux' Dispatcher rewritten in Swift",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Dispatcher",
+  "authors": {
+    "Mikkel Malmberg": "mikkel@brnbw.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Dispatcher.git",
+    "tag": "0.1.1"
+  },
+  "social_media_url": "https://twitter.com/mikker",
+  "platforms": {
+    "ios": "8.0",
+    "osx": "10.9"
+  },
+  "source_files": "Pod/Classes/**/*",
+  "requires_arc": true
+}

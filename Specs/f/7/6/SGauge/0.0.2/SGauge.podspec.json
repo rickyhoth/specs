@@ -1,0 +1,22 @@
+{
+  "name": "SGauge",
+  "version": "0.0.2",
+  "summary": "A simple and customizable gauge.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SGauge",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Luis Wu": "lunarseawu@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SGauge.git",
+    "tag": "0.0.2"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "SGauge/Classes/**/*"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "WZYSwiftBase",
+  "version": "1.0.0",
+  "summary": "WZYSwiftBase WZYSwiftBase.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WZYSwiftBase",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "WZYGemini": "1115326768@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WZYSwiftBase.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "WZYSwiftBase/Classes/**/*",
+  "pushed_with_swift_version": "3.0"
+}

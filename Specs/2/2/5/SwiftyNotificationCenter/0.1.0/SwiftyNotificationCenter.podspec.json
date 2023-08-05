@@ -1,0 +1,19 @@
+{
+  "name": "SwiftyNotificationCenter",
+  "version": "0.1.0",
+  "license": "MIT",
+  "summary": "A Swifty wrapper for NSNotificationCenter",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwiftyNotificationCenter",
+  "social_media_url": "https://twitter.com/jshier",
+  "authors": {
+    "Jon Shier": "jon@jonshier.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwiftyNotificationCenter.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "Source/*.swift"
+}

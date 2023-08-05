@@ -1,0 +1,27 @@
+{
+  "name": "MDGroupAvatarView",
+  "version": "2.0.0",
+  "summary": "Custom UIView show group of avatar",
+  "description": "This library provides a custom UIView with support for showing group of avatars. It’s use for group chat. The images list can be loaded from local or web url. The dependency CocoaPod is SDWebImage",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MDGroupAvatarView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ttmdung203": "ttmdung203@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MDGroupAvatarView.git",
+    "tag": "2.0.0"
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "source_files": "MDGroupAvatarView/Classes/**/*",
+  "dependencies": {
+    "SDWebImage": [
+      "~>5.0"
+    ]
+  }
+}

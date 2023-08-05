@@ -1,0 +1,32 @@
+{
+  "name": "LYQRCodeScan",
+  "version": "1.0.1",
+  "swift_version": "4.2",
+  "summary": "swift原生二维码扫描，based iOS10.0,",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LYQRCodeScan",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": "Gordon",
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LYQRCodeScan.git",
+    "tag": "1.0.1"
+  },
+  "frameworks": [
+    "UIKit",
+    "AVFoundation",
+    "Photos",
+    "AssetsLibrary"
+  ],
+  "subspecs": [
+    {
+      "name": "LYQRCodeScan",
+      "source_files": "LYQRCodeScan/*.swift",
+      "resources": "LYQRCodeScan/*.xcassets"
+    }
+  ]
+}

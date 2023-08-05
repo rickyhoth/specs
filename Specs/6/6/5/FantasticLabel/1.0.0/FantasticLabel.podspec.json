@@ -1,0 +1,24 @@
+{
+  "name": "FantasticLabel",
+  "version": "1.0.0",
+  "summary": "Colorfull label text",
+  "description": "Change label text color continue",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/FantasticLabel",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Darshit Patel": ""
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/FantasticLabel.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "Color-LBL/**/*.{swift}",
+  "platforms": {
+    "ios": "12.0"
+  },
+  "swift_versions": "5.0",
+  "swift_version": "5.0"
+}

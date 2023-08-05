@@ -1,0 +1,28 @@
+{
+  "name": "GDPWaterflowLayout",
+  "version": "0.0.1",
+  "summary": "A equal width waterflowLayout of UICollectionView.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/GDPWaterflowLayout",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "sunmumu": "335089101@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/GDPWaterflowLayout.git",
+    "tag": "0.0.1"
+  },
+  "requires_arc": true,
+  "source_files": "GDPWaterflowLayout/**/*.{h,m}",
+  "public_header_files": "GDPWaterflowLayout/**/*.{h}",
+  "libraries": "z",
+  "frameworks": [
+    "UIKit",
+    "CoreFoundation"
+  ]
+}

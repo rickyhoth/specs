@@ -1,0 +1,29 @@
+{
+  "name": "CZActionSheet",
+  "version": "0.1.0",
+  "summary": "A ActionSheet.",
+  "description": "Just an actionSheet",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CZActionSheet",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "czeludzki": "czeludzki@gmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CZActionSheet.git",
+    "tag": "0.1.0"
+  },
+  "source_files": "CZActionSheet/Classes/**/*",
+  "frameworks": "UIKit",
+  "requires_arc": true,
+  "dependencies": {
+    "Masonry": [
+
+    ]
+  }
+}

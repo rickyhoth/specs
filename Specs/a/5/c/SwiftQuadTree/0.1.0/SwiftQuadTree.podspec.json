@@ -1,0 +1,22 @@
+{
+  "name": "SwiftQuadTree",
+  "version": "0.1.0",
+  "summary": "A short description of SwiftQuadTree.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwiftQuadTree",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "anconaesselmann": "axel@anconaesselmann.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwiftQuadTree.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "SwiftQuadTree/Classes/**/*"
+}

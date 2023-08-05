@@ -1,0 +1,22 @@
+{
+  "name": "SpinKit",
+  "version": "1.0.1",
+  "authors": {
+    "Ramon Torres": "raymondjavaxx@gmail.com"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SpinKit-ObjC",
+  "summary": "UIActivityIndicatorView replacement with multiple styles and animations.",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SpinKit-ObjC.git",
+    "tag": "1.0.1"
+  },
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source_files": "SpinKit/RTSpinKitView.{m,h}",
+  "requires_arc": true
+}

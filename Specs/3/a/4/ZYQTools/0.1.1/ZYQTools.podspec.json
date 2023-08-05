@@ -1,0 +1,22 @@
+{
+  "name": "ZYQTools",
+  "version": "0.1.1",
+  "summary": "A short description of ZYQTools.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZYQTools",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "DaquanZhou": "zhouyunquan@dm-maker.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZYQTools.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZYQTools/Classes/**/*"
+}

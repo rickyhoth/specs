@@ -1,0 +1,22 @@
+{
+  "name": "TRPresentationController",
+  "version": "0.1.4",
+  "summary": "ViewController自定义转场－基础",
+  "description": "ViewController自定义转场－基础",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TRPresentationController.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "13036101641@163.com": "jackie.jiang@transn.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TRPresentationController.git",
+    "tag": "0.1.4"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TRPresentationController/Classes/**/*"
+}

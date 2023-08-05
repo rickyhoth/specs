@@ -1,0 +1,30 @@
+{
+  "name": "JavaShopBaseEngine",
+  "version": "0.0.1",
+  "summary": "JavaShop Basic dynamic dependency Library.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JavaShopBaseEngine/",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yumengshuai": "yumengshuai@gmail.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JavaShopBaseEngine.git",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "JavaShopBaseEngine",
+    "SourceFile/*.{swift}"
+  ],
+  "frameworks": [
+    "Foundation",
+    "UIKit"
+  ],
+  "requires_arc": true,
+  "pushed_with_swift_version": "3.0"
+}

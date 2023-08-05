@@ -1,0 +1,35 @@
+{
+  "name": "MJRxSwift",
+  "version": "1.0.2",
+  "summary": "MJRefresh RxSwift Extension.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MJRxSwift",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "JLM": "yuanl@ccwcar.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MJRxSwift.git",
+    "tag": "1.0.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "swift_versions": "5.0",
+  "source_files": "MJRxSwift/Classes/**/*",
+  "frameworks": "Foundation",
+  "dependencies": {
+    "RxCocoa": [
+
+    ],
+    "RxSwift": [
+
+    ],
+    "MJRefresh": [
+
+    ]
+  },
+  "swift_version": "5.0"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "FanbookTOCrop",
+  "version": "2.6.1",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "summary": "A view controller that enables cropping and rotation of UIImage objects.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TOCropViewController",
+  "authors": "Fanbook",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TOCropViewController.git",
+    "tag": "2.6.1"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source_files": "Objective-C/TOCropViewController/**/*.{h,m}",
+  "exclude_files": "Objective-C/TOCropViewController/include/**/*.h",
+  "resource_bundles": {
+    "TOCropViewControllerBundle": [
+      "Objective-C/TOCropViewController/**/*.lproj"
+    ]
+  },
+  "requires_arc": true
+}

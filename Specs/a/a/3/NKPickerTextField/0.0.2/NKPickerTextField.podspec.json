@@ -1,0 +1,21 @@
+{
+  "name": "NKPickerTextField",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "summary": "NKPickerTextField is just a better UITextField with UIPickerView logic in it.",
+  "requires_arc": true,
+  "version": "0.0.2",
+  "license": "MIT",
+  "authors": {
+    "Nikolai Kratz": "nikolai.kratz@gmail.com"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/NKPickerTextField",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/NKPickerTextField.git",
+    "tag": "0.0.2"
+  },
+  "frameworks": "UIKit",
+  "source_files": "NKPickerTextField/*.{swift}",
+  "pushed_with_swift_version": "3.1"
+}

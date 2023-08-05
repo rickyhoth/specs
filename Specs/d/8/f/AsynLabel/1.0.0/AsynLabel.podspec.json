@@ -1,0 +1,23 @@
+{
+  "name": "AsynLabel",
+  "version": "1.0.0",
+  "platforms": {
+    "ios": null
+  },
+  "summary": "demo test",
+  "description": "just a test",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AsynLabel",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ifelseboyxx": "jasonxineio@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AsynLabel.git",
+    "tag": "v1.0.0"
+  },
+  "source_files": "AsynLabel/*.{h,m}",
+  "requires_arc": true
+}

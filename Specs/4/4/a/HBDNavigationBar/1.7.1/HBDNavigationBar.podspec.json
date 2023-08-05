@@ -1,0 +1,24 @@
+{
+  "name": "HBDNavigationBar",
+  "version": "1.7.1",
+  "summary": "An aspiring UINavigationBar.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HBDNavigationBar",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "listen": "listenzz@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HBDNavigationBar.git",
+    "tag": "1.7.1"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "HBDNavigationBar/Classes/**/*",
+  "public_header_files": "HBDNavigationBar/Classes/**/*.h",
+  "frameworks": "UIKit"
+}

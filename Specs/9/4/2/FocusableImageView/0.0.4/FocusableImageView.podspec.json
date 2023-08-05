@@ -1,0 +1,24 @@
+{
+  "name": "FocusableImageView",
+  "version": "0.0.4",
+  "summary": "FocusableImageView is a library for creating focusable imageview.",
+  "description": "FocusableImageView is a library for creating focusable imageview.\nUsers can focus images by tapping views.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/FocusableImageView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Koji Murata": "malt.koji@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/FocusableImageView.git",
+    "tag": "0.0.4"
+  },
+  "source_files": "Sources/**/*.swift",
+  "swift_versions": "5.1",
+  "platforms": {
+    "ios": "11.0"
+  },
+  "swift_version": "5.1"
+}

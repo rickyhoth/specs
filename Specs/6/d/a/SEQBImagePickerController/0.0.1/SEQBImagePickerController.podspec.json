@@ -1,0 +1,19 @@
+{
+  "name": "SEQBImagePickerController",
+  "version": "0.0.1",
+  "authors": {
+    "Chris Wendel": "chriwend@umich.edu"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SECollectionViewFlowLayout",
+  "summary": "A clone of UIImagePickerController with multiple selection support that supports swipe-to-select",
+  "license": "MIT",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SECollectionViewFlowLayout.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "SECollectionViewFlowLayout/PodFiles/*.{h,m}",
+  "platforms": {
+    "ios": "6.0"
+  },
+  "requires_arc": true
+}

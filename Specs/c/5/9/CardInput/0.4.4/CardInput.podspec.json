@@ -1,0 +1,29 @@
+{
+  "name": "CardInput",
+  "version": "0.4.4",
+  "license": "MIT",
+  "summary": "Fancy Credit Card Input",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CardInput.git",
+  "authors": {
+    "Mahmut Pınarbaşı": "pinarbasimahmut@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CardInput.git",
+    "tag": "0.4.4"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "CardInput/**/*.swift",
+  "resource_bundles": {
+    "CardInput": [
+      "CardInput/**/*.{xib,xcassets,ttf}"
+    ]
+  },
+  "swift_version": "4.2",
+  "dependencies": {
+    "AKMaskField": [
+
+    ]
+  }
+}

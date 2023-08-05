@@ -1,0 +1,20 @@
+{
+  "name": "CheapRulerIOS",
+  "version": "0.4.0",
+  "summary": "Swift port of https://bitbucket.devops.nonprod.empf.local/scm/react/cheap-ruler",
+  "description": "Swift port of cheap-ruler by @mourner, @anandthakker, @tcql and mapbox (https://bitbucket.devops.nonprod.empf.local/scm/react/cheap-ruler). Check out their repo for details.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CheapRulerIOS",
+  "license": "MIT",
+  "authors": {
+    "Roman Temchenko": "temchenko.r@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CheapRulerIOS.git",
+    "tag": "0.4.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CheapRulerIOS/Classes/**/*",
+  "pushed_with_swift_version": "3.0"
+}

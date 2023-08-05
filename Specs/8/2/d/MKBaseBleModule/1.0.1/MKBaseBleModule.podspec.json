@@ -1,0 +1,22 @@
+{
+  "name": "MKBaseBleModule",
+  "version": "1.0.1",
+  "summary": "Bluetooth basic component library of MOKO.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MKBaseBleModule",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "aadyx2007@163.com": "aadyx2007@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MKBaseBleModule.git",
+    "tag": "1.0.1"
+  },
+  "platforms": {
+    "ios": "12.0"
+  },
+  "source_files": "MKBaseBleModule/Classes/**/*"
+}

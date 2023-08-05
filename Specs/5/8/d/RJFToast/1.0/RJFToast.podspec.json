@@ -1,0 +1,29 @@
+{
+  "name": "RJFToast",
+  "version": "1.0",
+  "summary": "RJFToast 一个类似通知弹出组件",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/RJFToast",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "a20251313": "ranjingfu@wanda.cn"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/RJFToast.git",
+    "tag": "1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Pod/Classes/**/*",
+  "resources": [
+    "Pod/Assets/*.png"
+  ],
+  "frameworks": [
+    "UIKit",
+    "MapKit"
+  ]
+}

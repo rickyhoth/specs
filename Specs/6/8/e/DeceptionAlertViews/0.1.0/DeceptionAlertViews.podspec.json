@@ -1,0 +1,25 @@
+{
+  "name": "DeceptionAlertViews",
+  "version": "0.1.0",
+  "summary": "gives an appropriate UIAlertView or UIAlertController depending on what version iOS is being used",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DeceptionAlertViews",
+  "license": "MIT",
+  "authors": {
+    "Anonymous": "2020deception@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DeceptionAlertViews.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "4.3"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes",
+  "resource_bundles": {
+    "DeceptionAlertViews": [
+      "Pod/Assets/*.png"
+    ]
+  },
+  "frameworks": "UIKit"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "ZYFframework",
+  "version": "0.0.12",
+  "summary": "testSDK",
+  "description": "#4399分析平台iOS版本SDK",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZYFframework",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhengyufeng@4399inc.com": "zhengyufeng@4399inc.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZYFframework.git",
+    "tag": "0.0.12"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "vendored_frameworks": "Framework/*.xcframework",
+  "libraries": "z",
+  "frameworks": [
+    "CoreFoundation",
+    "UIKit",
+    "AdSupport"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "REAutoComplete",
+  "version": "0.1.4",
+  "summary": "UITextField suggestions in UITableView",
+  "description": "Auto complete solution for UITextField.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/reactREAutoComplete",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Rinat Enikeev": "rinat-enikeev.github.io"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/reactREAutoComplete.git",
+    "tag": "0.1.4"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "REAutoComplete/Classes/**/*"
+}

@@ -1,0 +1,36 @@
+{
+  "name": "NTLog",
+  "version": "1.02",
+  "summary": "A simple, extensible iOS logging system.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/NTLog",
+  "license": {
+    "type": "MIT",
+    "file": "license.txt"
+  },
+  "authors": {
+    "Ethan Nagel": "eanagel@gmail.com"
+  },
+  "platforms": {
+    "ios": null
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/NTLog.git",
+    "tag": "1.02"
+  },
+  "requires_arc": true,
+  "subspecs": [
+    {
+      "name": "Core",
+      "source_files": "Core"
+    },
+    {
+      "name": "Crashlytics",
+      "source_files": "Listeners/Crashlytics",
+      "dependencies": {
+        "NTLog/Core": [
+
+        ]
+      }
+    }
+  ]
+}

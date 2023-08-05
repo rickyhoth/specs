@@ -1,0 +1,21 @@
+{
+  "name": "dragon",
+  "version": "0.1.1",
+  "summary": "Hello My Pod.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/dragon",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Eakkasit tunsakool": "julongdragon@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/dragon.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "9.3"
+  },
+  "source_files": "dragon/Classes/**/*"
+}

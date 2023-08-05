@@ -1,0 +1,23 @@
+{
+  "name": "JTRefresh",
+  "version": "0.0.8",
+  "summary": "A iOS Refresher of JTRefresh",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JTRefresh",
+  "license": {
+    "type": "MIT"
+  },
+  "authors": {
+    "jintao": "2802009591@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JTRefresh.git",
+    "tag": "0.0.8"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "JTRefresh/*.swift",
+  "resources": "JTRefresh/JTRefresh.bundle",
+  "frameworks": "UIKit",
+  "requires_arc": true
+}

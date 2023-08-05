@@ -1,0 +1,23 @@
+{
+  "name": "RFCircleCollectionViewFlowLayout",
+  "version": "0.0.1",
+  "summary": "Custom define collectionview flowlayout",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/RFCircleCollectionView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "refinemobi": "refinemobi@hotmail.com"
+  },
+  "platforms": {
+    "ios": 5.0
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/RFCircleCollectionView.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "Class/*.{h,m}",
+  "public_header_files": "Class/*.h",
+  "requires_arc": true
+}

@@ -1,0 +1,26 @@
+{
+  "name": "YCActionSheetDatePicker",
+  "version": "1.0.0",
+  "summary": "ActionSheet with DatePciker.",
+  "description": "ActionSheet with DatePciker. Instructions for installation\n  are in [the README](https://bitbucket.devops.nonprod.empf.local/scm/react/YCActionSheetDatePicker).",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/YCActionSheetDatePicker",
+  "license": {
+    "type": "MIT",
+    "file": "License.md"
+  },
+  "authors": {
+    "Y.Chudnick": "y.chudnovets@temabit.com"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YCActionSheetDatePicker.git",
+    "tag": "1.0.0"
+  },
+  "source_files": [
+    "YCActionSheetDatePicker",
+    "YCActionSheetDatePicker/*.swift"
+  ],
+  "swift_version": "4.2"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "YPNavigationBar",
+  "version": "0.1",
+  "summary": "Independent navigation",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/YPNavigationBar",
+  "license": "MIT",
+  "authors": {
+    "HYP": "406468133@qq.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YPNavigationBar.git",
+    "tag": "0.1"
+  },
+  "source_files": "YPNavigationBar/**/*.{h,m}",
+  "public_header_files": "YPNavigationBar/**/*.{h}",
+  "resources": "YPNavigationBar/YPNavigationBar.bundle"
+}

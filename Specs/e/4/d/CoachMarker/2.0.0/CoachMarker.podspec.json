@@ -1,0 +1,21 @@
+{
+  "name": "CoachMarker",
+  "version": "2.0.0",
+  "summary": "A simple onboard tutorial helper.",
+  "description": "You can mark components with circles or rectangles via coordinates",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CoachMarker",
+  "screenshots": "https://bitbucket.devops.nonprod.empf.local/scm/react/CoachMarker/blob/master/images/coachMarker-tutorial.gif",
+  "license": "MIT",
+  "authors": {
+    "thevicaren@gmail.com": "thevicaren@gmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CoachMarker.git",
+    "tag": "2.0.0"
+  },
+  "source_files": "CoachMarker/**/*",
+  "exclude_files": "CoachMarker/**/*.plist"
+}

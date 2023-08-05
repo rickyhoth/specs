@@ -1,0 +1,24 @@
+{
+  "name": "XFDialogBuilder",
+  "version": "1.2.9",
+  "license": "MIT",
+  "summary": "Configurable dialog for IOS.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/XFDialogBuilder",
+  "authors": {
+    "yizzuide": "fu837014586@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/XFDialogBuilder.git",
+    "tag": "1.2.9"
+  },
+  "requires_arc": true,
+  "platforms": {
+    "ios": "6.0"
+  },
+  "source_files": "XFDialogBuilder/**/*.{h,m}",
+  "dependencies": {
+    "pop": [
+
+    ]
+  }
+}

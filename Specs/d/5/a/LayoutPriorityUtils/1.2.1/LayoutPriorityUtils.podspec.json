@@ -1,0 +1,18 @@
+{
+  "name": "LayoutPriorityUtils",
+  "version": "1.2.1",
+  "summary": "A small collection of utils for UILayoutPriority that adds operator overloads and common constants.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LayoutPriorityUtils",
+  "license": "MIT",
+  "authors": "Brandon Erbschloe",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LayoutPriorityUtils.git",
+    "tag": "1.2.1"
+  },
+  "source_files": "LayoutPriorityUtils/**/*.{h,m,swift}",
+  "swift_versions": "5.0",
+  "swift_version": "5.0"
+}

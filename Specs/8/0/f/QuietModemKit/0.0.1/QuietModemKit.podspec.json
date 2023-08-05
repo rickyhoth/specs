@@ -1,0 +1,22 @@
+{
+  "name": "QuietModemKit",
+  "version": "0.0.1",
+  "summary": "Ill be your wingman anytime.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/",
+  "authors": {
+    "mdrew": "mitch.drew@moovel.com"
+  },
+  "license": {
+    "type": "Apache-2.0",
+    "file": "LICENSE"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "http": "https://bitbucket.devops.nonprod.empf.local/scm/react/quietmodemkit-host/blob/master/QuietModemKit.zip?raw=true"
+  },
+  "ios": {
+    "vendored_frameworks": "QuietModemKit.framework"
+  }
+}

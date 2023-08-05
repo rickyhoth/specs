@@ -1,0 +1,21 @@
+{
+  "name": "EasyLocalizedStrings",
+  "version": "0.0.2",
+  "summary": "Collection of subclasses that allow easy use of localized strings in storyboards and code.",
+  "description": "This pod contains a collection of subclasses that allow easy use of localized strings in storyboards and code.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/EasyLocalizedStrings",
+  "license": "MIT",
+  "authors": {
+    "Netsells": "info@netsells.co.uk"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/EasyLocalizedStrings.git",
+    "branch": "master",
+    "tag": "0.0.2"
+  },
+  "source_files": "EasyLocalizedStrings/Sources/**/*",
+  "exclude_files": "Classes/Exclude"
+}

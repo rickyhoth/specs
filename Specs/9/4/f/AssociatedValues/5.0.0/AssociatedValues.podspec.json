@@ -1,0 +1,28 @@
+{
+  "name": "AssociatedValues",
+  "version": "5.0.0",
+  "summary": "Associated Objects For Swift Values",
+  "description": "AssociatedValues is a simple Swift wrapper around Objective-C runtime associated objects.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AssociatedValues",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Brad Hilton": "brad@skyvive.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AssociatedValues.git",
+    "tag": "5.0.0"
+  },
+  "swift_versions": "5.0",
+  "platforms": {
+    "ios": "8.0",
+    "tvos": "9.0"
+  },
+  "source_files": [
+    "AssociatedValues",
+    "AssociatedValues/**/*.{swift,h,m}"
+  ],
+  "requires_arc": true
+}

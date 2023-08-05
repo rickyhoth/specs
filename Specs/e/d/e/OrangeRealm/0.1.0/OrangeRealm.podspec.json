@@ -1,0 +1,28 @@
+{
+  "name": "OrangeRealm",
+  "version": "0.1.0",
+  "summary": "OrangeRealm helps you safety multithreading and UI integration using Realm",
+  "description": "OrangeRealm helps you safety multithreading and UI integration using Realm",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/OrangeRealm",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Steve Kim": "hh963103@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/OrangeRealm.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "OrangeRealm/Classes/**/*",
+  "dependencies": {
+    "RealmSwift": [
+      "~> 2.6.1"
+    ]
+  },
+  "pushed_with_swift_version": "3.0"
+}

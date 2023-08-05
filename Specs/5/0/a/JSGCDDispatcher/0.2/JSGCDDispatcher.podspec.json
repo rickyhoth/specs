@@ -1,0 +1,19 @@
+{
+  "name": "JSGCDDispatcher",
+  "version": "0.2",
+  "summary": "A small Objective-C wrapper around GCD.",
+  "authors": {
+    "Justin DeWind": "dewind@atomicobject.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JSGCDDispatcher.git",
+    "tag": "0.2"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JSGCDDispatcher",
+  "source_files": "JSGCDDispatcher",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "requires_arc": false
+}

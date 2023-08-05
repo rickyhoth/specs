@@ -1,0 +1,22 @@
+{
+  "name": "SFKeyChainKit",
+  "version": "0.0.2",
+  "summary": "KeyChain to save UDID or password",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SFKeyChainKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "deng690990": "164100551@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SFKeyChainKit.git",
+    "tag": "0.0.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SFKeyChainKit/Classes/**/*"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "QYMShareSDK",
+  "version": "0.0.3",
+  "summary": "集成微信、QQ分享的SDK",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/QYMShareSDK",
+  "license": "MIT",
+  "authors": {
+    "zhen": ""
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/QYMShareSDK.git",
+    "tag": "v0.0.3"
+  },
+  "source_files": [
+    "QYMShareSDK/*",
+    "QYMShareSDK/**/*"
+  ],
+  "dependencies": {
+    "WechatOpenSDK": [
+      "~> 1.8.3"
+    ]
+  },
+  "deprecated": true
+}

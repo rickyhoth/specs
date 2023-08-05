@@ -1,0 +1,24 @@
+{
+  "name": "SpaceLogger",
+  "platforms": {
+    "ios": "10.0"
+  },
+  "summary": "Simple logger for swift project.",
+  "version": "0.1.1",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE.md"
+  },
+  "authors": {
+    "Dmitrii Chikovinskii": "git@dmitrii.space"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SpaceLogger",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SpaceLogger.git",
+    "tag": "0.1.1"
+  },
+  "source_files": "SpaceLogger/**/*.{swift}",
+  "exclude_files": "Classes/Exclude",
+  "swift_versions": "5.2",
+  "swift_version": "5.2"
+}

@@ -1,0 +1,30 @@
+{
+  "name": "QAMenuCatalog",
+  "version": "0.5.1",
+  "summary": "Collection of simple QAMenu items.",
+  "description": "Collection of simple QAMenu items for very common debug information like app version, info plist entries etc.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/QAMenu",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/QAMenu.git",
+    "tag": "0.5.1"
+  },
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Hans Seiffert": "tschob@posteo.de"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "swift_versions": "5.3",
+  "requires_arc": true,
+  "source_files": "Sources/QAMenuCatalog/**/*.{h,swift}",
+  "dependencies": {
+    "QAMenu": [
+
+    ]
+  },
+  "swift_version": "5.3"
+}

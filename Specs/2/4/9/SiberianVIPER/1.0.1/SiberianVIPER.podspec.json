@@ -1,0 +1,23 @@
+{
+  "name": "SiberianVIPER",
+  "version": "1.0.1",
+  "summary": "SiberianVIPER is a bunch of protocols that help in VIPER. See also VIPERTemplates",
+  "description": "SiberianVIPER is a bunch of protocols that help in VIPER. See also https://bitbucket.devops.nonprod.empf.local/scm/react/VIPERTemplates",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SiberianVIPER",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "sergey petrachkov": "petrachkovsergey@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SiberianVIPER.git",
+    "tag": "1.0.1"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "SiberianVIPER/SiberianVIPER/Classes/**/*",
+  "pushed_with_swift_version": "4.0"
+}

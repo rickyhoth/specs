@@ -1,0 +1,18 @@
+{
+  "name": "MyForo",
+  "version": "0.1.0",
+  "summary": "Lab test",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/iOSPODLab",
+  "authors": {
+    "patrickrobinsonx": "patrickrobinsonx@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/iOSPODLab",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "12.0"
+  },
+  "source_files": "MyForo/Network/*"
+}

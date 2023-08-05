@@ -1,0 +1,27 @@
+{
+  "name": "WKWebViewWithURLProtocol",
+  "version": "0.1.0",
+  "summary": "Make webView can hooked by URLProtocol.",
+  "description": "Make webView can hooked by URLProtocol.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WKWebViewWithURLProtocol",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Dylan": "dylan@china.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WKWebViewWithURLProtocol.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "WKWebViewWithURLProtocol/**/*",
+  "public_header_files": "WKWebViewWithURLProtocol/**/*.h",
+  "frameworks": [
+    "Foundation",
+    "WebKit"
+  ]
+}

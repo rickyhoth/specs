@@ -1,0 +1,21 @@
+{
+  "name": "KratosCategoryExtension",
+  "version": "0.0.7",
+  "summary": "https://bitbucket.devops.nonprod.empf.local/scm/react/KratosCategoryExtension.git",
+  "description": "https://bitbucket.devops.nonprod.empf.local/scm/react/KratosCategoryExtension.git  This is KratosCategoryExtension",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/KratosCategoryExtension.git",
+  "license": "MIT",
+  "authors": {
+    "Kratos": "461400226@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/KratosCategoryExtension.git",
+    "tag": "0.0.7"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "KratosCategoryExtension/**/*.{h,m}",
+  "resources": "KratosCategoryExtension/KratosCategoryExtension.bundle"
+}

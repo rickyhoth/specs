@@ -1,0 +1,26 @@
+{
+  "name": "FC_Cordova",
+  "version": "0.0.4",
+  "summary": "Cordova.",
+  "description": "Cordova for project\nFocoon!",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/FC_Cordova",
+  "license": "MIT",
+  "authors": {
+    "冬冬": "864764448@qq.com"
+  },
+  "platforms": {
+    "ios": "6.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/FC_Cordova.git",
+    "tag": "0.0.4"
+  },
+  "source_files": "FC_Cordova/Classes/*.*",
+  "frameworks": [
+    "AVFoundation",
+    "CoreLocation",
+    "MobileCoreServices",
+    "AssetsLibrary"
+  ],
+  "requires_arc": true
+}

@@ -1,0 +1,22 @@
+{
+  "name": "DCQRCode",
+  "version": "2.0",
+  "summary": "A tiny QRCode generate library",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DCQRCode",
+  "license": {
+    "type": "MIT",
+    "text": "The DCTaskReactor use the MIT license"
+  },
+  "authors": {
+    "Tangdixi": "Tangdixi@gmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DCQRCode.git",
+    "tag": "2.0"
+  },
+  "source_files": "Source/*.swift",
+  "requires_arc": true
+}

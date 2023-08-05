@@ -1,0 +1,19 @@
+{
+  "name": "AFMobilePayRequestHandler",
+  "version": "1.0",
+  "summary": "Send and request money via Danske Banks MobilePay app.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AFMobilePayRequestHandler",
+  "license": "MIT",
+  "authors": {
+    "Anders Fogh Eriksen": "andfogh@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AFMobilePayRequestHandler.git",
+    "tag": "v1.0"
+  },
+  "platforms": {
+    "ios": null
+  },
+  "source_files": "AFMobilePayRequestHandler/*.{h,m}",
+  "requires_arc": true
+}

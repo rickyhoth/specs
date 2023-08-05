@@ -1,0 +1,21 @@
+{
+  "name": "DRPaginatedScrollView",
+  "version": "0.1",
+  "summary": "Implement a paginated scroll view really easily using blocks.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DRPaginatedScrollView",
+  "screenshots": "https://raw.github.com/Dromaguirre/DRPaginatedScrollView/images/1.gif",
+  "license": "Public Domain",
+  "authors": {
+    "David Román": "dromaguirre@gmail.com"
+  },
+  "platforms": {
+    "ios": "6.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DRPaginatedScrollView.git",
+    "tag": "0.1"
+  },
+  "source_files": "DRPaginatedScrollView.{h,m}",
+  "frameworks": "UIKit",
+  "requires_arc": true
+}

@@ -1,0 +1,19 @@
+{
+  "name": "SimpleTimer",
+  "version": "0.1.0",
+  "summary": "Simplify work with NSTimer.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SimpleTimer",
+  "license": "MIT",
+  "authors": {
+    "Alexander Stepanov": "alerstov@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SimpleTimer.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "*.{h,m}"
+}

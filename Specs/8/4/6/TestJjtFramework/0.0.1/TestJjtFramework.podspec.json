@@ -1,0 +1,28 @@
+{
+  "name": "TestJjtFramework",
+  "version": "0.0.1",
+  "summary": "he Mixpanel library for iOS is an open source project, and we'd love to see your contributions! We'd also love for you to come and work with us! Check out https://mixpanel.com/jobs/#openings for details",
+  "description": "The Mixpanel library for iOS is an open source project, and we'd love to see your contributions! We'd also love for you to come and work with us! Check out https://mixpanel.com/jobs/#openings for details.\nIf you are using Swift, we recommend our **[Swift Library](https://bitbucket.devops.nonprod.empf.local/scm/react/mixpanel-swift)**.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TestJjtFramework",
+  "screenshots": [
+    "https://picsum.photos/200/300",
+    "https://picsum.photos/seed/picsum/200/300"
+  ],
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "julienKeyvalue": "julien@keyvalue.systems"
+  },
+  "social_media_url": "https://twitter.com/IamSanjuSamson",
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TestJjtFramework.git",
+    "tag": "0.0.1"
+  },
+  "vendored_frameworks": "TestJjtFramework.xcframework",
+  "readme": "https://bitbucket.devops.nonprod.empf.local/scm/react/standard-readme/blob/main/spec.md"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "CRJWebViewJavascriptBridge",
+  "version": "6.0.3",
+  "summary": "WebViewJavascriptBridge. 一些注释",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CRJWebViewJavascriptBridge",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhuyuhui434@gmail.com": "EX-ZHUYUHUI002@pingan.com.cn"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CRJWebViewJavascriptBridge.git",
+    "tag": "6.0.3"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "CRJWebViewJavascriptBridge/Classes/**/*",
+  "resource_bundles": {
+    "CRJWebViewJavascriptBridge": [
+      "CRJWebViewJavascriptBridge/Assets/*"
+    ]
+  }
+}

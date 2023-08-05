@@ -1,0 +1,17 @@
+{
+  "name": "GTXiLib",
+  "version": "2.0",
+  "summary": "iOS Accessibility testing library.",
+  "description": "iOS Accessibility testing library that works with XCTest based frameworks.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/GTXiLib",
+  "license": "Apache License 2.0",
+  "authors": "j-sid",
+  "platforms": {
+    "ios": null
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/GTXiLib.git",
+    "tag": "2.0.0"
+  },
+  "source_files": "Classes/**/*.{h,m,swift}"
+}

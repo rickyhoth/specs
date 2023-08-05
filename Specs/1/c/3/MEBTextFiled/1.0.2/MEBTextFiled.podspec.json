@@ -1,0 +1,19 @@
+{
+  "name": "MEBTextFiled",
+  "version": "1.0.2",
+  "summary": "A subclass of UITextField",
+  "description": "A subclass of UITextField. Inheriting from UITextField.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MEBTextField",
+  "license": "MIT (gaodeying)",
+  "authors": {
+    "gaodeying": "964665684@qq.com"
+  },
+  "platforms": {
+    "ios": null
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MEBTextField.git",
+    "tag": "1.0.2"
+  },
+  "source_files": "MEBTextField/**/*.{h,m}"
+}

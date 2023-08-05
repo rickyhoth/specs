@@ -1,0 +1,28 @@
+{
+  "name": "HHStringAttributes",
+  "version": "0.1.0",
+  "summary": "A simple Attributes Library.",
+  "description": "Makes it way easier to generate attribute dictionaries needed for NSAttributedString.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HHStringAttributes",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "何源": "jamehy@yeah.net"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HHStringAttributes.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HHStringAttributes/Classes/*.{h,m}",
+  "frameworks": "UIKit",
+  "dependencies": {
+    "Slash": [
+      "~> 0.1.4"
+    ]
+  }
+}

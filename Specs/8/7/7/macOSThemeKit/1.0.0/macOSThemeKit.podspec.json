@@ -1,0 +1,26 @@
+{
+  "name": "macOSThemeKit",
+  "version": "1.0.0",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "summary": "macOS Theming Framework",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ThemeKit",
+  "screenshots": "https://bitbucket.devops.nonprod.empf.local/scm/react/ThemeKit/raw/master/Imgs/ThemeKit.gif",
+  "authors": {
+    "Paw": "https://paw.cloud",
+    "Nuno Grilo": "http://nunogrilo.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ThemeKit.git",
+    "tag": "1.0.0"
+  },
+  "documentation_url": "http://themekit.nunogrilo.com",
+  "platforms": {
+    "osx": "10.10"
+  },
+  "requires_arc": true,
+  "source_files": "Sources/**/*.swift",
+  "pushed_with_swift_version": "3.0"
+}

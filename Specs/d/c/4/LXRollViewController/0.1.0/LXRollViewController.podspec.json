@@ -1,0 +1,29 @@
+{
+  "name": "LXRollViewController",
+  "version": "0.1.0",
+  "summary": "简单的无限轮播ViewController",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LXRollViewController",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "leon.xu": "goodnighthsu@msn.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LXRollViewController.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source_files": "LXRollViewController/Classes/**/*",
+  "dependencies": {
+    "Masonry": [
+
+    ],
+    "SDWebImage": [
+
+    ]
+  }
+}

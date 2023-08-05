@@ -1,0 +1,25 @@
+{
+  "name": "ScottAlertController",
+  "version": "0.0.3",
+  "summary": "一款可高度自定义的提示框",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ScottAlertController",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Scott_Mr": "a632845514@vip.qq.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ScottAlertController.git",
+    "tag": "0.0.3"
+  },
+  "source_files": [
+    "ScottAlertController",
+    "ScottAlertController/**/*.{h,m}"
+  ],
+  "requires_arc": true
+}

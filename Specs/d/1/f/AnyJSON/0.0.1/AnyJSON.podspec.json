@@ -1,0 +1,16 @@
+{
+  "name": "AnyJSON",
+  "version": "0.0.1",
+  "license": "MIT",
+  "summary": "Encode / Decode JSON by any means possible.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AnyJSON",
+  "authors": {
+    "Mattt Thompson": "m@mattt.me"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AnyJSON.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "AnyJSON.{h,m}",
+  "requires_arc": false
+}

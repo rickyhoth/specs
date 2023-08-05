@@ -1,0 +1,19 @@
+{
+  "name": "Overlay",
+  "version": "0.5",
+  "summary": "A very flexible UI framework designed for Swift.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Overlay",
+  "authors": {
+    "Justin Jia": "justin.jia@tintpoint.com"
+  },
+  "license": "MIT",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Overlay.git",
+    "tag": "0.5"
+  },
+  "source_files": "Sources/*.swift",
+  "frameworks": "UIKit"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "RocketSwift",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "summary": "3...2...1...Liftoff!",
+  "requires_arc": true,
+  "swift_version": "4.1",
+  "version": "1.0.1",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE.md"
+  },
+  "authors": {
+    "Philipp Matthes": "rocketswift@philippmatth.es"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/rocketswift",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/rocketswift.git",
+    "tag": "1.0.1"
+  },
+  "dependencies": {
+    "Material": [
+
+    ],
+    "Motion": [
+
+    ]
+  },
+  "source_files": "RocketSwift/**"
+}

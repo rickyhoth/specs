@@ -1,0 +1,19 @@
+{
+  "name": "LMCategory",
+  "version": "1.0.0",
+  "summary": "Common Category",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LMCategory",
+  "license": "MIT",
+  "authors": {
+    "Meng Li": "921854304@qq.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LMCategory.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "LMCategory",
+  "requires_arc": true
+}

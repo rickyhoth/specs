@@ -1,0 +1,24 @@
+{
+  "name": "AmazingBubbles",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "summary": "Nice Bubble pickers inspired by Apple",
+  "requires_arc": true,
+  "version": "0.0.1",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Gleb Radchenko": "hlib.radchenko@nure.ua"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AmazingBubbles",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AmazingBubbles.git",
+    "tag": "0.0.1"
+  },
+  "frameworks": "UIKit",
+  "source_files": "AmazingBubbles/**/*.{swift}",
+  "pushed_with_swift_version": "3.0"
+}

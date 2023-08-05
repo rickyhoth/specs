@@ -1,0 +1,25 @@
+{
+  "name": "JXImageBrowser",
+  "version": "1.1.5",
+  "summary": "Image browser.",
+  "description": "Image browser.Quick and easy.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JXImageBrowser",
+  "license": "MIT",
+  "authors": "CoderSun",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JXImageBrowser.git",
+    "tag": "1.1.5"
+  },
+  "source_files": "JXImageBrowser/**/*.{h,m}",
+  "exclude_files": "Classes/Exclude",
+  "frameworks": "UIKit",
+  "requires_arc": true,
+  "dependencies": {
+    "SDWebImage": [
+
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "VTAuto",
+  "version": "0.1.0",
+  "summary": "VTAuto framework",
+  "description": "TODO: VTAuto is a project for APP to login with VT",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/VTAuto",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "apple": "zhanwenbaoit@126.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/VTAuto.git",
+    "tag": "0.1.0"
+  },
+  "source_files": "**/*.h",
+  "requires_arc": true
+}

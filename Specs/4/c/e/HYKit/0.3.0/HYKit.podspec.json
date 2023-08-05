@@ -1,0 +1,25 @@
+{
+  "name": "HYKit",
+  "version": "0.3.0",
+  "summary": "HYKit is a collection of common used category of classes.",
+  "description": "HYKit is a collection of common used category of classes. NSString, NSDate, NSObject...",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HYKit",
+  "license": "MIT",
+  "authors": {
+    "yclzone": "yclzone@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HYKit.git",
+    "tag": "0.3.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "HYKit": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}

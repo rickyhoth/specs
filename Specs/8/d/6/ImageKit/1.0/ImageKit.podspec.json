@@ -1,0 +1,24 @@
+{
+  "name": "ImageKit",
+  "version": "1.0",
+  "description": "Extremely simplified constraint component, one line of code solves constraint layout",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "summary": "ImageKit",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ImageKit",
+  "authors": {
+    "saucym": "413132340@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ImageKit.git",
+    "tag": "0.2"
+  },
+  "requires_arc": true,
+  "platforms": {
+    "ios": "9.0"
+  },
+  "swift_version": "4.2",
+  "source_files": "ImageKit/**/*.{h,m,swift}"
+}

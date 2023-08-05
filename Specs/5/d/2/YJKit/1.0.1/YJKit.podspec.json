@@ -1,0 +1,20 @@
+{
+  "name": "YJKit",
+  "version": "1.0.1",
+  "license": "MIT",
+  "summary": "A useful extension for iOS library.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/YJKit",
+  "authors": {
+    "huang-kun": "jack-huang-developer@foxmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YJKit.git",
+    "tag": "1.0.1"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "YJKit/**/*",
+  "public_header_files": "YJKit/**/*.h"
+}

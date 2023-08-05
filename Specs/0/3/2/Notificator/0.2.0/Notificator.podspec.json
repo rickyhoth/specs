@@ -1,0 +1,22 @@
+{
+  "name": "Notificator",
+  "version": "0.2.0",
+  "summary": "Display notifications in your app using auto layout and Swift.",
+  "description": "Display notifications in your app using auto layout and Swift. Inspired by https://bitbucket.devops.nonprod.empf.local/scm/react/Whisper and https://bitbucket.devops.nonprod.empf.local/scm/react/SFSwiftNotification",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Notificator",
+  "license": "MIT",
+  "authors": {
+    "Bell App Lab": "apps@bellapplab.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Notificator.git",
+    "tag": "0.2.0"
+  },
+  "social_media_url": "https://twitter.com/BellAppLab",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "frameworks": "UIKit"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "WXActionSheet",
+  "version": "0.0.1",
+  "license": {
+    "type": "MIT"
+  },
+  "requires_arc": true,
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WXActionSheet.git",
+    "tag": "0.0.1"
+  },
+  "summary": "WXActionSheet",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WXActionSheet",
+  "authors": {
+    "xushuifeng": "shuifengxu@gmail.com"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "swift_version": "4.2",
+  "source_files": "**/*.{swift}"
+}

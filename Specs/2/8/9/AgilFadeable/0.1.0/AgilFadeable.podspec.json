@@ -1,0 +1,22 @@
+{
+  "name": "AgilFadeable",
+  "version": "0.1.0",
+  "summary": "AgilFadeable provides an easy-to-use way to extend UIViews with fade in / fade out capabilities.",
+  "description": "AgilFadeable provides a protocol + protocol extension to enhance UIViews with the ability to fade in and fade out.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Fadeable",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Albert Gil Escura": "agilescura@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Fadeable.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "AgilFadeable/Classes/**/*"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "DLPicker",
+  "version": "0.0.2",
+  "summary": "自定义各种Picker。",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DLPicker",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Dalang": "magicianDL@163.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DLPicker.git",
+    "tag": "0.0.2"
+  },
+  "source_files": "DLPicker/**/*.{h,m}",
+  "frameworks": "UIKit",
+  "requires_arc": true
+}

@@ -1,0 +1,22 @@
+{
+  "name": "BWMHomeModule",
+  "version": "0.2.0",
+  "summary": "A short description of BWMHomeModule.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/BWMHomeModule",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "bazinga": "1343709666@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/BWMHomeModule.git",
+    "tag": "0.2.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "BWMHomeModule/Classes/**/*"
+}

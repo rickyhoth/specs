@@ -1,0 +1,19 @@
+{
+  "name": "DomoSDK",
+  "version": "0.0.1",
+  "summary": "test DomoSDK.",
+  "description": "the test of DomoSDK",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DomoSDK",
+  "license": "MIT",
+  "authors": {
+    "daomoer": "643934580@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DomoSDK.git",
+    "tag": "0.0.1"
+  },
+  "vendored_frameworks": "YYSDK/YyjSDK.framework"
+}

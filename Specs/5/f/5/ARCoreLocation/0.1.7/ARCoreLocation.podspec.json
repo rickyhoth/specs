@@ -1,0 +1,29 @@
+{
+  "name": "ARCoreLocation",
+  "platforms": {
+    "ios": "11.0"
+  },
+  "version": "0.1.7",
+  "summary": "Place AR landmarks on real-world locations.",
+  "description": "ARCoreLocation is a lightweight iOS framework for displaying AR content\nat real-world coordinates.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/arcorelocation",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Skyler Smith": "skyler@freshworks.io"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/arcorelocation.git",
+    "tag": "0.1.7"
+  },
+  "source_files": "ARCoreLocation/**/*.{swift}",
+  "frameworks": [
+    "UIKit",
+    "ARKit",
+    "CoreLocation",
+    "GLKit"
+  ],
+  "swift_version": "4.2"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "ZYSgbBuryPoint",
+  "version": "0.0.6",
+  "summary": "ZYSgbBuryPoint",
+  "description": "runtime based bury point sdk for sub.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZYSgbBuryPoint",
+  "license": "MIT",
+  "authors": {
+    "zhangyushaunavayne": "shaunavayne@vip.qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZYSgbBuryPoint.git",
+    "tag": "0.0.6",
+    "submodules": true
+  },
+  "source_files": "ZYSgbBuryPoint*",
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "HGSegmentControl",
+  "version": "0.0.1",
+  "summary": "A slide navigation view",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HGSegmentControl",
+  "license": "MIT",
+  "authors": {
+    "xuhonggui": "593692553@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HGSegmentControl.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "*.{h,m}",
+  "requires_arc": true
+}

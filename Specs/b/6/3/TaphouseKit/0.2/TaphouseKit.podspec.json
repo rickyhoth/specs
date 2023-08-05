@@ -1,0 +1,26 @@
+{
+  "name": "TaphouseKit",
+  "version": "0.2",
+  "summary": "The common utilities used by Taphouse apps.",
+  "description": "Includes some Core Data helpers and custom views",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TaphouseKit",
+  "license": "MIT",
+  "authors": {
+    "Jared Sorge": "jared@jsorge.net"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TaphouseKit.git",
+    "tag": "0.2"
+  },
+  "social_media_url": "https://twitter.com/taphouseio",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "TaphouseKit": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}

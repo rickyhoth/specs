@@ -1,0 +1,22 @@
+{
+  "name": "WTAuthorizationTool",
+  "version": "0.1.0",
+  "summary": "Request camera/album/addressBook Authorization Tool.",
+  "description": "You can use WTAuthorizationTool to Request camera/album/addressBook Authorization.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WTAuthorizationTool",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wentianen": "1206860151@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WTAuthorizationTool.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source_files": "WTAuthorizationTool/Classes/**/*"
+}

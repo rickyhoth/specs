@@ -1,0 +1,19 @@
+{
+  "name": "SubProject",
+  "version": "0.0.3",
+  "summary": "我的一个组件化模块",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SubProject.git",
+  "license": "MIT",
+  "authors": {
+    "zyj": "zyj870430"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SubProject.git",
+    "tag": "0.0.3"
+  },
+  "source_files": "*.{h,m}",
+  "requires_arc": true
+}

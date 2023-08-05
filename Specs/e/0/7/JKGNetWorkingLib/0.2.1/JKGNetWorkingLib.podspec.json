@@ -1,0 +1,22 @@
+{
+  "name": "JKGNetWorkingLib",
+  "version": "0.2.1",
+  "summary": "新增了回调失败的方法",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JKGNetWorkingLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "菅凯歌": "18224596940@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JKGNetWorkingLib.git",
+    "tag": "0.2.1"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "JKGNetWorkingLib/Classes/**/*"
+}

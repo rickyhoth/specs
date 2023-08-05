@@ -1,0 +1,16 @@
+{
+  "name": "NSURL-IDN",
+  "version": "0.2",
+  "license": "MIT",
+  "summary": "Support for IDN (punycode) in NSURL",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/NSURL-IDN",
+  "authors": {
+    "Jorge Bernal": "jbernal@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/NSURL-IDN.git",
+    "tag": "0.2"
+  },
+  "requires_arc": true,
+  "source_files": "NSURL*.{h,m}"
+}

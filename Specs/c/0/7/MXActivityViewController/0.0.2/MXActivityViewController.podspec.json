@@ -1,0 +1,28 @@
+{
+  "name": "MXActivityViewController",
+  "version": "0.0.2",
+  "summary": "iOS third UIActivityViewController",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MXActivityViewController",
+  "license": "MIT",
+  "authors": {
+    "mexiqq": "ljw040426@gmail.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MXActivityViewController.git",
+    "tag": "0.0.2"
+  },
+  "source_files": [
+    "Classes",
+    "MXActivityViewController/*.{h,m}"
+  ],
+  "resources": "MXActivityViewController/images/*.png",
+  "requires_arc": "",
+  "dependencies": {
+    "PureLayout": [
+      "~> 2.0.5"
+    ]
+  }
+}

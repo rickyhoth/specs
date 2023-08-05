@@ -1,0 +1,24 @@
+{
+  "name": "WKTParser",
+  "version": "0.0.1",
+  "summary": "A library for parsing geometries from Well-Known-Text (WKT).",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WKTParser",
+  "license": "MIT",
+  "authors": {
+    "Joel Turnbull": "joelbywan@gmail.com",
+    "Peter Kananen": "peter@gaslight.co"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WKTParser.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "5.0"
+  },
+  "source_files": "WKTParser",
+  "frameworks": [
+    "MapKit",
+    "CoreLocation"
+  ],
+  "requires_arc": true
+}

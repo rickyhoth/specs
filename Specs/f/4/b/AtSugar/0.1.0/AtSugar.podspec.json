@@ -1,0 +1,19 @@
+{
+  "name": "AtSugar",
+  "version": "0.1.0",
+  "summary": "Sugar for your @",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AtSugar",
+  "license": "Apache",
+  "authors": {
+    "Dustin Bachrach": "dustin@mediahound.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AtSugar.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*"
+}

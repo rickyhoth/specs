@@ -1,0 +1,24 @@
+{
+  "name": "AFHTTPClientLogger",
+  "version": "0.7.0",
+  "license": "MIT",
+  "authors": {
+    "Jon Parise": "jon@indelible.org"
+  },
+  "summary": "AFNetworking Extension for request logging.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AFHTTPClientLogger",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AFHTTPClientLogger.git",
+    "tag": "0.7.0"
+  },
+  "requires_arc": true,
+  "dependencies": {
+    "AFNetworking": [
+      ">= 2.3"
+    ]
+  },
+  "source_files": "AFHTTPClientLogger.{h,m}",
+  "platforms": {
+    "ios": "6.0"
+  }
+}

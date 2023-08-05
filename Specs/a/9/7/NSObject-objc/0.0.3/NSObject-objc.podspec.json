@@ -1,0 +1,23 @@
+{
+  "name": "NSObject-objc",
+  "version": "0.0.3",
+  "license": "MIT",
+  "summary": "a wrraper for objc runtime",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/NSObject-objc",
+  "authors": "xuwenquan",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/NSObject-objc.git",
+    "tag": "0.0.3"
+  },
+  "requires_arc": false,
+  "description": "wrap up obj runtime code for easy use",
+  "source_files": "NSObject-objc/NSObject-objc/*.{h,m}",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "dependencies": {
+    "JRSwizzle": [
+
+    ]
+  }
+}

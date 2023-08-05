@@ -1,0 +1,27 @@
+{
+  "name": "TJKit",
+  "version": "0.0.2",
+  "summary": "A short description of TJKit.",
+  "description": "项目常用工具集",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TJKit",
+  "license": "MIT",
+  "authors": {
+    "tangjie": "tang910103@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TJKit.git",
+    "tag": "0.0.2"
+  },
+  "source_files": [
+    "Classes",
+    "Classes/**/*.{h,m}"
+  ],
+  "dependencies": {
+    "AFNetworking": [
+
+    ]
+  }
+}

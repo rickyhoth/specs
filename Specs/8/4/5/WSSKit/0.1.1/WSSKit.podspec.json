@@ -1,0 +1,23 @@
+{
+  "name": "WSSKit",
+  "version": "0.1.1",
+  "summary": "自用工具库",
+  "description": "自用工具库记录, 持续更新",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WSSKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wangshusheng": "wangshusheng@live.cn"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WSSKit.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "WSSKit/Classes/**/*",
+  "pushed_with_swift_version": "3.0"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "ImageTransition",
+  "version": "0.3.0",
+  "summary": "ImageTransition is a library for smooth animation of images during transitions.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ImageTransition",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": "shtnkgm",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "swift_version": "4.2",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ImageTransition.git",
+    "tag": "0.3.0"
+  },
+  "source_files": "ImageTransition/**/*.swift"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "KYTextFieldObserver",
+  "version": "0.2.0",
+  "summary": "UITextField Observer",
+  "description": "Easy monitoring for UITextField",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/KYTextFieldObserver",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Xko97": "feelbots@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/KYTextFieldObserver.git",
+    "tag": "0.2.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source_files": "KYTextFieldObserver/Classes/**/*"
+}

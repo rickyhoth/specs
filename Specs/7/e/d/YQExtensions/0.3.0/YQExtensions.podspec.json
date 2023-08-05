@@ -1,0 +1,24 @@
+{
+  "name": "YQExtensions",
+  "version": "0.3.0",
+  "platforms": {
+    "ios": "10.0"
+  },
+  "summary": "some extensions",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/YQTools",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "weixb": "183292352@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YQExtensions.git",
+    "tag": "0.3.0"
+  },
+  "requires_arc": true,
+  "source_files": "Extensions/*.swift",
+  "swift_versions": "5.0",
+  "swift_version": "5.0"
+}

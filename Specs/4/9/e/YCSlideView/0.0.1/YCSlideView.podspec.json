@@ -1,0 +1,22 @@
+{
+  "name": "YCSlideView",
+  "version": "0.0.1",
+  "summary": "A pure-swift side view for ios",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/YCSlideView.git",
+  "license": "MIT",
+  "authors": {
+    "codansYC": "yuan_chao000@sina.com"
+  },
+  "platforms": {
+    "ios": "8.1"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YCSlideView.git",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "Classes",
+    "YCSlideView/Classes/*.swift"
+  ],
+  "frameworks": "UIKit"
+}

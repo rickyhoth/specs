@@ -1,0 +1,32 @@
+{
+  "name": "YYBHUDView",
+  "version": "0.0.1",
+  "summary": "An UseFul HUDView Tool.",
+  "description": "An UseFul HUDView Tool need add Masonry.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/YYBView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "damonyyb": "961355618@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YYBView.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YYBHUDView/**/*.{h,m}",
+  "frameworks": [
+    "Foundation",
+    "UIKit"
+  ],
+  "dependencies": {
+    "Masonry": [
+
+    ]
+  },
+  "requires_arc": true
+}

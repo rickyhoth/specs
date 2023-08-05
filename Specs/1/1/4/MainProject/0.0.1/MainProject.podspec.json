@@ -1,0 +1,26 @@
+{
+  "name": "MainProject",
+  "version": "0.0.1",
+  "summary": "主工程的描述",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MainProject",
+  "license": {
+    "type": "MIT",
+    "file": "FILE_LICENSE"
+  },
+  "authors": {
+    "ModulizedProject": "email@address.com"
+  },
+  "platforms": {
+    "ios": null
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MainProject.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "MainProject/**/*.{h,m}",
+  "dependencies": {
+    "HandyFrame": [
+
+    ]
+  }
+}

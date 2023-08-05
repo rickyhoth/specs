@@ -1,0 +1,24 @@
+{
+  "name": "CompositionalLayoutViewController",
+  "version": "0.5.0",
+  "summary": "Lightweight UICollectionViewCompositionalLayout wrapper",
+  "swift_versions": "5.4",
+  "description": "Declaretive UICollectionViewCompositionalLayout interface to implement complex collection view layout.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CompositionalLayoutViewController",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Akira": "akira.matsuda@me.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CompositionalLayoutViewController.git",
+    "tag": "0.5.0"
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "source_files": "CompositionalLayoutViewController/Classes/**/*",
+  "swift_version": "5.4"
+}

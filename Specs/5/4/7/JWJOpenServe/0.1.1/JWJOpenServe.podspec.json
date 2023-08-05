@@ -1,0 +1,22 @@
+{
+  "name": "JWJOpenServe",
+  "version": "0.1.1",
+  "summary": "進无尽的Dome",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JWJOpenServe",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "fangmeigithub": "3095167957@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JWJOpenServe.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "JWJOpenServe/Classes/**/*"
+}

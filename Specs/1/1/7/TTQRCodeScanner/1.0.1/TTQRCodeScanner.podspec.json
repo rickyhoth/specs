@@ -1,0 +1,25 @@
+{
+  "name": "TTQRCodeScanner",
+  "version": "1.0.1",
+  "summary": "TTQRCodeScanner is a light component that makes scan QRCode or BarCode conveniently.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TTQRCodeScanner",
+  "license": "MIT",
+  "authors": {
+    "Administrator": "lwtiandev@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TTQRCodeScanner.git",
+    "tag": "1.0.1"
+  },
+  "social_media_url": "https://twitter.com/change2hao",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "TTQRCodeScanner": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}

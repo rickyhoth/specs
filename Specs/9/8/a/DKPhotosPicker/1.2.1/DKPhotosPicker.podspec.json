@@ -1,0 +1,23 @@
+{
+  "name": "DKPhotosPicker",
+  "version": "1.2.1",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "summary": "A picker of photos for iOS.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DKPhotosPicker",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "bingozb": "454113692@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DKPhotosPicker.git",
+    "tag": "v1.2.1"
+  },
+  "source_files": "DKPhotosPicker/**/*.{h,m}",
+  "resources": "DKPhotosPicker/DKPhotosPicker.bundle",
+  "requires_arc": true
+}

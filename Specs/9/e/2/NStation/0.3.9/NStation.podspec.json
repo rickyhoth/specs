@@ -1,0 +1,29 @@
+{
+  "name": "NStation",
+  "version": "0.3.9",
+  "summary": "NStation offerwall.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/iOS-NStationDownload",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "kkeman": "kkeman11@gmail.com"
+  },
+  "source": {
+    "http": "https://bitbucket.devops.nonprod.empf.local/scm/react/NStation0.3.9.framework.zip"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "vendored_frameworks": "NStation.framework",
+  "swift_versions": "5.5",
+  "pod_target_xcconfig": {
+    "EXCLUDED_ARCHS[sdk=iphonesimulator*]": "arm64"
+  },
+  "user_target_xcconfig": {
+    "EXCLUDED_ARCHS[sdk=iphonesimulator*]": "arm64"
+  },
+  "swift_version": "5.5"
+}

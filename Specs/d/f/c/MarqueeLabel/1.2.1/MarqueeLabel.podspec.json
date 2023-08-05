@@ -1,0 +1,23 @@
+{
+  "name": "MarqueeLabel",
+  "version": "1.2.1",
+  "summary": "A drop-in replacement for UILabel, which automatically adds a scrolling marquee effect when needed.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MarqueeLabel",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Charles Powell": "cbpowell@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MarqueeLabel.git",
+    "tag": "1.2.1"
+  },
+  "platforms": {
+    "ios": "5.0"
+  },
+  "source_files": "MarqueeLabel.{h,m}",
+  "frameworks": "QuartzCore",
+  "requires_arc": true
+}

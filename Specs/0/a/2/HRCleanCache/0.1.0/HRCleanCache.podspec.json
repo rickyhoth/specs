@@ -1,0 +1,22 @@
+{
+  "name": "HRCleanCache",
+  "version": "0.1.0",
+  "summary": "清除缓存",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HRCleanCache",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wowbby": "zhengzhx@haier.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HRCleanCache.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HRCleanCache/Classes/**/*"
+}

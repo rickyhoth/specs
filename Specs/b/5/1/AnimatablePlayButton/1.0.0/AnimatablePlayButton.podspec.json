@@ -1,0 +1,23 @@
+{
+  "name": "AnimatablePlayButton",
+  "version": "1.0.0",
+  "summary": "Animated Play and Pause Button written in Swift2.0, using CALayer, CAKeyframeAnimation.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AnimatablePlayButton",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "suzuki_keishi": "keishi.1983@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AnimatablePlayButton.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "AnimatablePlayButton/**/*.{h,swift}",
+  "requires_arc": true,
+  "frameworks": "UIKit"
+}

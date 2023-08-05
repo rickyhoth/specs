@@ -1,0 +1,28 @@
+{
+  "name": "OttoKeyboardView",
+  "version": "0.0.1",
+  "summary": "A custom keyboardView on iOS.",
+  "description": "A custom keyboardView on iOS.I hope this can help to you.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/OttoKeyboardView",
+  "license": {
+    "type": "MIT",
+    "file": "FILE_LICENSE"
+  },
+  "authors": {
+    "WuOtto": "287969623@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/OttoKeyboardView.git",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "OttoKeyboardViewDemo",
+    "OttoKeyboardViewDemo/OttoKeyboardView/**/*.{h,m}"
+  ],
+  "exclude_files": "Classes/Exclude",
+  "frameworks": "UIKit",
+  "requires_arc": true
+}

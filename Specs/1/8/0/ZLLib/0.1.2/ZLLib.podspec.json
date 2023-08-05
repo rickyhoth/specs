@@ -1,0 +1,22 @@
+{
+  "name": "ZLLib",
+  "version": "0.1.2",
+  "summary": "ahahhnnn",
+  "description": "yyyyylaiaiahskhdahdagdajhgdghhdsh",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZLLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wuchzero": "525300595@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZLLib.git",
+    "tag": "0.1.2"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "ZLLib/Classes/**/*"
+}

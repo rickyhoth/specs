@@ -1,0 +1,19 @@
+{
+  "name": "HNDCreatableViewController",
+  "version": "0.1.0",
+  "summary": "Creatable view controllers",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HNDCreatableViewController",
+  "license": "Apache",
+  "authors": {
+    "Dustin Bachrach": "dustin@mediahound.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HNDCreatableViewController.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Classes/**/*.{h,m}"
+}

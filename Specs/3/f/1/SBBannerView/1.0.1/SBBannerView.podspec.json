@@ -1,0 +1,25 @@
+{
+  "name": "SBBannerView",
+  "version": "1.0.1",
+  "summary": "A handy fully customised banner that could be used to as an internet connection indicator, notification alerts, success messages and so much more!",
+  "description": "Fully Customizable (Font, Width, Height, fontColor and many more!) one liner banner, just provide your values and let it do its work 🧙🏻‍♀️",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SBBannerView.git",
+  "screenshots": [
+    "https://bitbucket.devops.nonprod.empf.local/scm/react/SBBannerView/blob/main/Readme-Assets/duration/temp.gif",
+    "https://bitbucket.devops.nonprod.empf.local/scm/react/SBBannerView/blob/main/Readme-Assets/positions/bottom.gif"
+  ],
+  "license": {
+    "type": "MIT"
+  },
+  "authors": {
+    "Sanad.b": "sanadbarj@gmail.com"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SBBannerView.git",
+    "tag": "v1.0.1"
+  },
+  "vendored_frameworks": "SBBannerView.xcframework"
+}

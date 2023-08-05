@@ -1,0 +1,24 @@
+{
+  "name": "ICLocationFramework",
+  "version": "5.0",
+  "summary": "Description of ICLocationFramework for cocoapods.",
+  "description": "This component helps you to get location via calling only a single function and get it in callback.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ICLocationFrameworkRepo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Mradul Mathur": "mradul.mathur@ranosys.com"
+  },
+  "source": {
+    "http": "https://bitbucket.devops.nonprod.empf.local/scm/react/ICLocationFramework.zip"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "ios": {
+    "vendored_frameworks": "ICLocationFramework.framework"
+  },
+  "swift_version": "4.0"
+}

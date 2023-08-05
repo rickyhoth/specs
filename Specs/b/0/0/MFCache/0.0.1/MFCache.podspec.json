@@ -1,0 +1,19 @@
+{
+  "name": "MFCache",
+  "version": "0.0.1",
+  "license": "MIT",
+  "summary": "A lightweight iOS cache class.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MFCache",
+  "authors": {
+    "Ken Matsui": "ken@mkftr.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MFCache.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "MFCache",
+  "requires_arc": true,
+  "platforms": {
+    "ios": "5.0"
+  }
+}

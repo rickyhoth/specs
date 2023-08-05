@@ -1,0 +1,20 @@
+{
+  "name": "FFHelloKit",
+  "version": "0.0.4",
+  "summary": "A extension of FFHelloKit.",
+  "description": "A FFHelloKit extension.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/FFHelloKit",
+  "license": "MIT",
+  "authors": {
+    "fanyufan": "734051844@qq.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/FFHelloKit.git",
+    "tag": "0.0.4"
+  },
+  "source_files": "FFHelloKit/FFHelloKit/FFHelloKit/*.{h,m}",
+  "requires_arc": true
+}

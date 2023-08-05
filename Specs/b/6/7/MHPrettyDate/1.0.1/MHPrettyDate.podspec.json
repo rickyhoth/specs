@@ -1,0 +1,20 @@
+{
+  "name": "MHPrettyDate",
+  "version": "1.0.1",
+  "summary": "An iOS framework that provides a simple mechanism to get  \"Pretty Dates\" (\"Yesterday\", \"Today\", etc.) from NSDate objects.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MHPrettyDate",
+  "license": "MIT",
+  "authors": {
+    "Bobby Williams": "bjackw@mac.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MHPrettyDate.git",
+    "tag": "v1.0.1"
+  },
+  "platforms": {
+    "ios": "5.0"
+  },
+  "source_files": "MHPrettyDate/**/*.{h,m}",
+  "requires_arc": true,
+  "frameworks": "Foundation"
+}

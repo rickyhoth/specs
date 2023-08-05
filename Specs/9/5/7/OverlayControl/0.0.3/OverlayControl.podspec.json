@@ -1,0 +1,23 @@
+{
+  "name": "OverlayControl",
+  "version": "0.0.3",
+  "summary": "Simple Overlay Control. Written in Swift",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/OverlayControl-Swift",
+  "license": {
+    "type": "MIT",
+    "file": "LICENCE"
+  },
+  "authors": {
+    "snail-z": "40460770@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/OverlayControl-Swift.git",
+    "tag": "0.0.3"
+  },
+  "source_files": "OverlayControl/*.{swift}",
+  "requires_arc": true,
+  "pushed_with_swift_version": "3.0"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "QSView",
+  "version": "0.0.2",
+  "summary": "Provide view / xib utilities",
+  "description": "QSView provide view / xib utilities\n@see README.md to have more details",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/QSView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "QualiaSystemes": "technique@qualia.fr"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/QSView.git",
+    "tag": "0.0.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "QSView/Classes/**/*",
+  "frameworks": "UIKit",
+  "module_name": "QSView",
+  "pushed_with_swift_version": "3.0"
+}

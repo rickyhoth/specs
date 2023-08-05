@@ -1,0 +1,25 @@
+{
+  "name": "HJCategory",
+  "version": "0.0.1",
+  "license": "MIT",
+  "summary": "Create UIView object dot syntax Invoke.Set UIView property.(chain-type structure).",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HJCategory",
+  "authors": {
+    "Harry": "harry@lingfeiwang.com"
+  },
+  "social_media_url": "http://www.lingfeiwang.com/iOS/",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HJCategory.git",
+    "tag": "v0.0.1"
+  },
+  "description": "Decrease the amount of your code.\nCreate UIView object dot syntax Invoke.Set UIView property.(chain-type structure).",
+  "source_files": "HJCategory/*.{h,m}",
+  "frameworks": [
+    "Foundation",
+    "UIKit"
+  ],
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true
+}

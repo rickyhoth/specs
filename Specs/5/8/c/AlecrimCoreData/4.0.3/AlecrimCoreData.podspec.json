@@ -1,0 +1,21 @@
+{
+  "name": "AlecrimCoreData",
+  "version": "4.0.3",
+  "summary": "A powerful and simple Core Data wrapper framework written in Swift.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AlecrimCoreData",
+  "license": "MIT",
+  "authors": {
+    "Vanderlei Martinelli": "vanderlei.martinelli@gmail.com"
+  },
+  "social_media_url": "https://twitter.com/vmartinelli",
+  "platforms": {
+    "ios": "8.0",
+    "osx": "10.10",
+    "watchos": "2.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AlecrimCoreData.git",
+    "tag": "4.0.3"
+  },
+  "source_files": "Source/**/*.swift"
+}

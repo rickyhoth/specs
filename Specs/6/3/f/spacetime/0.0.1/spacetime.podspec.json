@@ -1,0 +1,21 @@
+{
+  "name": "spacetime",
+  "version": "0.0.1",
+  "license": {
+    "type": "BSD"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/spacetime",
+  "authors": {
+    "Grant Paul": "shimmer@grantpaul.com"
+  },
+  "summary": "Experimental library for transforming parts of layers.",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/spacetime.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "spacetime/STCMesh{View,Layer}.{h,m}",
+  "requires_arc": true,
+  "platforms": {
+    "ios": "6.0"
+  }
+}

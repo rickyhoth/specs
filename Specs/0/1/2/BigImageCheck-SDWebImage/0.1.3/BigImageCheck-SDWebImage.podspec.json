@@ -1,0 +1,28 @@
+{
+  "name": "BigImageCheck-SDWebImage",
+  "version": "0.1.3",
+  "summary": "A short description of BigImageCheck-SDWebImage.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SDBigImageCheck.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "houjigege": "tough913@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SDBigImageCheck.git",
+    "tag": "0.1.3"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "BigImageCheck-SDWebImage/Classes/**/*",
+  "public_header_files": "Pod/Classes/*.h",
+  "dependencies": {
+    "SDWebImage": [
+
+    ]
+  }
+}

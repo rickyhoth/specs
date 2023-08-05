@@ -1,0 +1,19 @@
+{
+  "name": "CustomIntroPage",
+  "version": "0.1.0",
+  "summary": "Demo POD.",
+  "description": "Its is a demo POD",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CustomIntroPage",
+  "license": "MIT",
+  "authors": {
+    "debashishdey": "debashishddey92@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CustomIntroPage.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CustomIntroPage/Classes/**/*"
+}

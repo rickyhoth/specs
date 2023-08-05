@@ -1,0 +1,15 @@
+{
+  "name": "Functional.m",
+  "version": "1.0.0",
+  "summary": "Categories for functional programming in Objective-C.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Functional.m",
+  "license": "BSD",
+  "authors": "Hannes Walz",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Functional.m.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "*.{h,m}",
+  "public_header_files": "*.h",
+  "requires_arc": false
+}

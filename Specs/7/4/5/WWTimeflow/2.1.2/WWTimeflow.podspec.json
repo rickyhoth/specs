@@ -1,0 +1,21 @@
+{
+  "name": "WWTimeflow",
+  "version": "2.1.2",
+  "summary": "NSDate easy manipulator for comparison and changing dates.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WWTimeflow",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Weilson Wonder": "weilson@live.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WWTimeflow.git",
+    "tag": "2.1.2"
+  },
+  "source_files": "Sources/*.swift"
+}

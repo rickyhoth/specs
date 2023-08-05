@@ -1,0 +1,20 @@
+{
+  "name": "UINavigation-HKFixSpace",
+  "version": "1.0.1",
+  "summary": "Solve the problem of spacing between navigation bars",
+  "description": "Solve the problem of spacing between navigation bars  Example:https://bitbucket.devops.nonprod.empf.local/scm/react/UINavigation-HKFixSpace",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/UINavigation-HKFixSpace.git",
+  "license": "MIT",
+  "authors": {
+    "songhongkang": "139994824@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/UINavigation-HKFixSpace.git",
+    "tag": "1.0.1"
+  },
+  "source_files": "UINavigation-HKFixSpace/*",
+  "exclude_files": "Classes/Exclude"
+}

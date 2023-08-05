@@ -1,0 +1,19 @@
+{
+  "name": "CalculatoriOS",
+  "version": "1.2.6",
+  "summary": "CalculatoriOS",
+  "homepage": "hhttps://bitbucket.devops.nonprod.empf.local/scm/react/CalculatoriOS",
+  "license": "MIT",
+  "authors": "Luis Cruz",
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CalculatoriOS.git",
+    "tag": "1.2.6"
+  },
+  "source_files": [
+    "CalculatoriOS",
+    "CalculatoriOS/**/*.{h,m,swift}"
+  ]
+}

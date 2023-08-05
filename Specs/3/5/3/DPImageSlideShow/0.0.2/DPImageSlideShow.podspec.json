@@ -1,0 +1,22 @@
+{
+  "name": "DPImageSlideShow",
+  "version": "0.0.2",
+  "summary": "A framework which implements a slide image view in iOS.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DPImageSlideShow",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Daniel": "danielpluvia@outlook.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DPImageSlideShow.git",
+    "tag": "0.0.2"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "swift_version": "4.0",
+  "source_files": "DPImageSlideShow/Classes/**/*"
+}

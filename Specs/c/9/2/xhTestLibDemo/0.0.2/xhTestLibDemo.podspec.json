@@ -1,0 +1,23 @@
+{
+  "name": "xhTestLibDemo",
+  "version": "0.0.2",
+  "summary": "我是描述。。。",
+  "description": "TODO: 修改成0.0.2",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/xhTestLibDemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xuhan": "365144163@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/xhTestLibDemo.git",
+    "tag": "0.0.2"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "SourceFiles",
+  "exclude_files": "Classes/Exclude"
+}

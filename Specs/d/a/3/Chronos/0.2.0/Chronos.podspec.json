@@ -1,0 +1,26 @@
+{
+  "name": "Chronos",
+  "version": "0.2.0",
+  "summary": "Grand Central Dispatch Utilities",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Chronos",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Comyar Zaheri": ""
+  },
+  "platforms": {
+    "ios": "7.0",
+    "osx": "10.9"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Chronos.git",
+    "tag": "0.2.0"
+  },
+  "source_files": [
+    "Chronos/*.{h,m}",
+    "Chronos/**/*.{h,m}"
+  ],
+  "module_name": "Chronos"
+}

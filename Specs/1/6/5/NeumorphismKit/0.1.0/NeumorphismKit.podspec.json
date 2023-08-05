@@ -1,0 +1,26 @@
+{
+  "name": "NeumorphismKit",
+  "version": "0.1.0",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "summary": "Neumorphism framework for UIKit.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/NeumorphismKit",
+  "authors": {
+    "YukiOkudera": "appledev.yuoku@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/NeumorphismKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "12.0"
+  },
+  "swift_versions": [
+    "5.1",
+    "5.2"
+  ],
+  "source_files": "Sources/**/*.{h,m,swift}",
+  "swift_version": "5.2"
+}

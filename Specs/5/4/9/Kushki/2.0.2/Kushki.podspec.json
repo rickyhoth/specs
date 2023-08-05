@@ -1,0 +1,23 @@
+{
+  "name": "Kushki",
+  "version": "2.0.2",
+  "summary": "Kushki iOS library.",
+  "description": "iOS library to integrate with Kushki.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/kushki-ios",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Kushki": "soporte@kushkipagos.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/kushki-ios.git",
+    "tag": "v2.0.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Kushki/Classes/**/*",
+  "pushed_with_swift_version": "3.0"
+}

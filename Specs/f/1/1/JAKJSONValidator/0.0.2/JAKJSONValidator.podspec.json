@@ -1,0 +1,23 @@
+{
+  "name": "JAKJSONValidator",
+  "version": "0.0.2",
+  "summary": "NSDictionary Extension, include JSONValidate",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JAKJSONValidator",
+  "license": "MIT",
+  "authors": {
+    "王贺锋": "jameswhf@qq.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JAKJSONValidator.git",
+    "tag": "0.0.2"
+  },
+  "source_files": "JAKJSONValidator/*.{h,m}",
+  "dependencies": {
+    "RPJSONValidator": [
+      "0.2.0"
+    ]
+  }
+}

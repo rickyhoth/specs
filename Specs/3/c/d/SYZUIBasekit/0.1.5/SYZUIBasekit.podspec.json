@@ -1,0 +1,22 @@
+{
+  "name": "SYZUIBasekit",
+  "version": "0.1.5",
+  "summary": "常用对象的分类",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SYZUIBasekit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "sundasheng1985": "641569408@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SYZUIBasekit.git",
+    "tag": "0.1.5"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SYZUIBasekit/Classes/**/*"
+}

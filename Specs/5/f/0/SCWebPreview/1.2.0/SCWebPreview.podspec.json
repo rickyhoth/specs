@@ -1,0 +1,23 @@
+{
+  "name": "SCWebPreview",
+  "version": "1.2.0",
+  "summary": "Preview content in Website:)",
+  "description": "Preview content in Website",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SCWebPreview",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "myoungsc": "myoungsc.dev@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SCWebPreview.git",
+    "tag": "1.2.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "SCWebPreview/Classes/**/*",
+  "swift_version": "5.0"
+}

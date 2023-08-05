@@ -1,0 +1,22 @@
+{
+  "name": "LzTraceSDK",
+  "version": "0.1.0",
+  "summary": "A short description of LzTraceSDK.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LzTraceSDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "diyuruok": "diyuruok@126.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LzTraceSDK.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "LzTraceSDK/Classes/**/*"
+}

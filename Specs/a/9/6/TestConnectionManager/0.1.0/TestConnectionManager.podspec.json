@@ -1,0 +1,23 @@
+{
+  "name": "TestConnectionManager",
+  "version": "0.1.0",
+  "summary": "Simple HTTP client for Swift.",
+  "description": "TestConnectionManager is a simple HTTP client for Swift 3.0",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TestConnectionManager",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "DalterioRaffaele": "raffaele.dalterio@live.it"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TestConnectionManager.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.3"
+  },
+  "source_files": "TestConnectionManager/Classes/**/*",
+  "pushed_with_swift_version": "3.0"
+}

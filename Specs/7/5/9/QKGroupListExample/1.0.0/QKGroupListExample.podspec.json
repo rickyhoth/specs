@@ -1,0 +1,19 @@
+{
+  "name": "QKGroupListExample",
+  "version": "1.0.0",
+  "summary": "A list of imitation QQ group",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/QKGroupListExample",
+  "license": "MIT",
+  "authors": {
+    "dqk": "dqksoftware@163.com"
+  },
+  "platforms": {
+    "ios": "6.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/QKGroupListExample.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "Classes/*.{h,m}",
+  "requires_arc": true
+}

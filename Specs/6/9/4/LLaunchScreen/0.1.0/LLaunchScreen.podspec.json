@@ -1,0 +1,23 @@
+{
+  "name": "LLaunchScreen",
+  "version": "0.1.0",
+  "summary": "Dynamically modify the iOS Launch Image",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LLaunchScreen",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "internetwei": "internetwei@foxmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LLaunchScreen",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "LLaunchScreen/*.swift",
+  "swift_versions": "5.0",
+  "swift_version": "5.0"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "YPWebImage",
+  "version": "0.0.2",
+  "summary": "Web image load.",
+  "description": "Web image load framework.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/YPWebImage",
+  "license": "MIT",
+  "authors": {
+    "liuyaping": "https://github.com/LYPDoit"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YPWebImage.git",
+    "tag": "0.0.2"
+  },
+  "source_files": "YPWebImage/YPWebImage/**/*.{h,m}",
+  "public_header_files": "YPWebImage/YPWebImage/**/*.h",
+  "frameworks": [
+    "Foundation",
+    "MobileCoreServices",
+    "UIKit",
+    "CoreGraphics"
+  ]
+}

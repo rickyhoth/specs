@@ -1,0 +1,27 @@
+{
+  "name": "AppConsole",
+  "version": "0.1",
+  "summary": "Console for Swifter.jl",
+  "description": "iOS REPL with Swifter.jl + Console",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AppConsole",
+  "license": "MIT",
+  "authors": {
+    "wookyoung noh": "wookay.noh@gmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AppConsole.git",
+    "tag": "v0.1"
+  },
+  "source_files": "Console/**/*.swift",
+  "dependencies": {
+    "NetUtils": [
+
+    ],
+    "Swifter": [
+
+    ]
+  }
+}

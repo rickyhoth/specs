@@ -1,0 +1,26 @@
+{
+  "name": "WYCPagController",
+  "version": "0.0.3",
+  "summary": "sk",
+  "description": "只是一个pod demo",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/poddemo.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "王云晨": "wangyunchen886@gmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/poddemo.git",
+    "tag": "0.0.3"
+  },
+  "source_files": [
+    "WYCPagController",
+    "WYCPagController/**/*.{h,m}"
+  ],
+  "exclude_files": "WYCPagController/Exclude"
+}

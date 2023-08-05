@@ -1,0 +1,26 @@
+{
+  "name": "ModelExtension",
+  "version": "0.1.1",
+  "authors": {
+    "Tobias Kräntzer": "info@tobias-kranetzer.de"
+  },
+  "social_media_url": "https://twitter.com/anagrom_ataf",
+  "license": {
+    "type": "BSD",
+    "file": "LICENSE.md"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ModelExtension",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ModelExtension.git",
+    "tag": "0.1.1"
+  },
+  "summary": "Submodels for CoreData.",
+  "documentation_url": "https://bitbucket.devops.nonprod.empf.local/scm/react/ModelExtension",
+  "platforms": {
+    "ios": "6.0",
+    "osx": "10.8"
+  },
+  "source_files": "ModelExtension/ModelExtension/*.{h,m}",
+  "frameworks": "CoreData",
+  "requires_arc": true
+}

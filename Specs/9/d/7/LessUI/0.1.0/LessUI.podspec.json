@@ -1,0 +1,24 @@
+{
+  "name": "LessUI",
+  "version": "0.1.0",
+  "summary": "Write super-simple UI code with LessUI",
+  "description": "Super-simple shortcut UI extension codes for swift.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LessUI",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ghks1353": "ghks1353@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LessUI.git",
+    "tag": "0.1.0"
+  },
+  "swift_versions": "5.0",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "src/**/*",
+  "frameworks": "UIKit"
+}

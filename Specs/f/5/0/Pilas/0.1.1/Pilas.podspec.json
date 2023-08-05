@@ -1,0 +1,23 @@
+{
+  "name": "Pilas",
+  "version": "0.1.1",
+  "summary": "A scrollable StackView for quick UI creation.",
+  "description": "Pilas is a custom ScrollView that contains a stackview to insert views vertically or horizontally.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Pilas",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "jgsamudio": "jonathan2457@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Pilas.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "Pilas/Classes/**/*",
+  "pushed_with_swift_version": "3.0"
+}

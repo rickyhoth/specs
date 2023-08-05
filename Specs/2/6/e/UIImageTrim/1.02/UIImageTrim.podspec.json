@@ -1,0 +1,23 @@
+{
+  "name": "UIImageTrim",
+  "authors": {
+    "Sachin Patel": "me@gizmosachin.com"
+  },
+  "license": "LICENSE",
+  "summary": "Category for trimming transparent pixels of an UIImage object.",
+  "version": "1.02",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/UIImageTrim",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/UIImageTrim.git",
+    "tag": "1.02"
+  },
+  "frameworks": [
+    "Foundation",
+    "UIKit"
+  ],
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Source"
+}

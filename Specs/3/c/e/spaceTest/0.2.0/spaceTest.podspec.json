@@ -1,0 +1,22 @@
+{
+  "name": "spaceTest",
+  "version": "0.2.0",
+  "summary": "space test Spec",
+  "description": "space test Spec description",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/firstBlood",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lishaojie": "360956831@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/firstBlood.git",
+    "tag": "0.2.0"
+  },
+  "source_files": "**"
+}

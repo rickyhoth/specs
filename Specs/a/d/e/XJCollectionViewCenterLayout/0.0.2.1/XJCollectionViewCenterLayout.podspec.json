@@ -1,0 +1,24 @@
+{
+  "name": "XJCollectionViewCenterLayout",
+  "version": "0.0.2.1",
+  "summary": "The center (i.e., Apple Music-like) layout for UICollectionView.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/XJCollectionViewCenterLayout",
+  "license": {
+    "type": "MIT"
+  },
+  "authors": {
+    "XJIMI": "fn5128@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/XJCollectionViewCenterLayout.git",
+    "tag": "0.0.2.1"
+  },
+  "source_files": [
+    "XJCollectionViewCenterLayout",
+    "XJCollectionViewCenterLayout/*.{h,m}"
+  ],
+  "frameworks": "UIKit",
+  "platforms": {
+    "ios": "9.0"
+  }
+}

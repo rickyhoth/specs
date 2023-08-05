@@ -1,0 +1,19 @@
+{
+  "name": "UIViewFrame",
+  "version": "1.0.1",
+  "license": "MIT",
+  "summary": "An example of a good film performance.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/UIViewFrame",
+  "authors": {
+    "wanggh": "850335574@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/UIViewFrame.git",
+    "tag": "1.0.1"
+  },
+  "requires_arc": true,
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "UIViewFrame/*.{h,m}"
+}

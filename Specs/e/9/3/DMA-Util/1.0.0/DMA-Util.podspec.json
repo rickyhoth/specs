@@ -1,0 +1,30 @@
+{
+  "name": "DMA-Util",
+  "version": "1.0.0",
+  "summary": "DMA-Util Framework",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DMASDK-Chain/tree/util",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "tangjianqiang": "494326253@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DMASDK-Chain.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "swift_versions": "5.0",
+  "dependencies": {
+    "Alamofire": [
+
+    ],
+    "HandyJSON": [
+
+    ]
+  },
+  "swift_version": "5.0"
+}

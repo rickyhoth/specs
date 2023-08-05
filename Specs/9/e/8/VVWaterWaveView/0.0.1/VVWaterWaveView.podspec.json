@@ -1,0 +1,19 @@
+{
+  "name": "VVWaterWaveView",
+  "version": "0.0.1",
+  "summary": "VVPopMenuView is a water wave view",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WaterWaveView",
+  "license": "MIT",
+  "authors": {
+    "Jasonvvei": "https://github.com/Jasonvvei"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WaterWaveView.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "VVWaterWaveView/*.{h,m}",
+  "requires_arc": true
+}

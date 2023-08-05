@@ -1,0 +1,23 @@
+{
+  "name": "WCLayoutObjC",
+  "version": "0.0.3",
+  "summary": "A easy way to set frame!",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WCLayoutObjC",
+  "license": "MIT",
+  "authors": {
+    "WangCe": "634692517@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WCLayoutObjC.git",
+    "tag": "0.0.3"
+  },
+  "source_files": [
+    "WCLayoutObjC",
+    "WCLayoutObjC/*.{h,m}"
+  ],
+  "frameworks": "UIKit",
+  "requires_arc": true,
+  "platforms": {
+    "ios": "7.0"
+  }
+}

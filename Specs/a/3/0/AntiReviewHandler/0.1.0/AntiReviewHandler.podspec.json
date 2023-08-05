@@ -1,0 +1,22 @@
+{
+  "name": "AntiReviewHandler",
+  "version": "0.1.0",
+  "summary": "AntiReviewHandler",
+  "description": "AntiReviewHandler.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AntiReviewHandler",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "linus": "linusling@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AntiReviewHandler.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "AntiReviewHandler/Classes/*.{h,m}"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "MIAWebViewController",
+  "version": "0.0.5",
+  "summary": "use for webview controller",
+  "description": "*its use for webview\n              *return progress",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MIAWebViewController",
+  "license": "MIT",
+  "authors": {
+    "tianjackyang": "919548782@qq.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MIAWebViewController.git",
+    "tag": "0.0.5"
+  },
+  "source_files": [
+    "Pod",
+    "Pod/Classes/*.{h,m}"
+  ],
+  "resources": "Pod/Assets/*.png",
+  "requires_arc": true,
+  "dependencies": {
+    "NJKWebViewProgress": [
+      "~> 0.2.3"
+    ]
+  }
+}

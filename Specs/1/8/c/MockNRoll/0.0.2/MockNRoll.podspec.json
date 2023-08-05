@@ -1,0 +1,22 @@
+{
+  "name": "MockNRoll",
+  "version": "0.0.2",
+  "summary": "MockNRoll is a Swift mocking library.",
+  "description": "MockNRoll contains mock utils for Swift.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MockNRoll",
+  "license": {
+    "type": "NONE",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Daniel Saidi": "daniel.saidi@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MockNRoll.git",
+    "tag": "0.0.2"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "MockNRoll/**/*.swift"
+}

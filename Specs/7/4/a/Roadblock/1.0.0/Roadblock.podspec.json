@@ -1,0 +1,27 @@
+{
+  "name": "Roadblock",
+  "version": "1.0.0",
+  "summary": "Roadblock is a simple way to check forms verifications",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/roadblock",
+  "authors": "Digipolitan",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/roadblock.git",
+    "tag": "v1.0.0"
+  },
+  "license": {
+    "type": "BSD",
+    "file": "LICENSE"
+  },
+  "source_files": "Sources/**/*.{swift,h}",
+  "platforms": {
+    "ios": "8.0",
+    "tvos": "9.0"
+  },
+  "requires_arc": true,
+  "dependencies": {
+    "LocalizationToolkit": [
+      "~> 1.0"
+    ]
+  },
+  "pushed_with_swift_version": "3.0"
+}

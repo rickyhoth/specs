@@ -1,0 +1,22 @@
+{
+  "name": "StickyScrollView",
+  "version": "0.1.2",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "summary": "A scroll view with sticky header",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/StickyScrollView",
+  "authors": {
+    "Enzo Liu": "item.search@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/StickyScrollView.git",
+    "tag": "0.1.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "src/*.{swift,m,h}",
+  "requires_arc": true
+}

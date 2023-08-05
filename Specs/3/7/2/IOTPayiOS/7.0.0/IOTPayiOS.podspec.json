@@ -1,0 +1,33 @@
+{
+  "name": "IOTPayiOS",
+  "version": "7.0.0",
+  "summary": "Online Credit Card Payment Framework for iOS.",
+  "description": "IOT Pay - Online Credit Card Payment Framework for iOS/Android/php\nPlease visite https://bitbucket.devops.nonprod.empf.local/scm/react/iotpay.ca for register",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/IOTPay-iOS",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "swift_versions": "5.0",
+  "authors": {
+    "DanY-Yin": "dan@iotpay.ca"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/IOTPay-iOS.git",
+    "tag": "7.0.0"
+  },
+  "source_files": [
+    "IOTPayiOS/*.swift",
+    "IOTPayiOS/**/*.{swift,h,m}",
+    "IOTPayiOS/**/**/*.{swift,h,m}"
+  ],
+  "ios": {
+    "resource_bundles": {
+      "IOTPayiOS": "IOTPayiOS/Resources/*.{lproj,json,png,xcassets}"
+    }
+  },
+  "swift_version": "5.0"
+}

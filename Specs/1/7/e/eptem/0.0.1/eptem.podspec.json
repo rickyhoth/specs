@@ -1,0 +1,23 @@
+{
+  "name": "eptem",
+  "version": "0.0.1",
+  "summary": "eptem",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/eptem",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "YOURNAME": "eptem"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/eptem.git",
+    "tag": "0.0.1"
+  },
+  "frameworks": "UIKit",
+  "source_files": "eptem*",
+  "requires_arc": true
+}

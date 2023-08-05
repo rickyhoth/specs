@@ -1,0 +1,22 @@
+{
+  "name": "SCXPathUtils",
+  "version": "0.1.0",
+  "summary": "simple Xpath support for iOS/macOS",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SCXPathUtils",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "sma11case": "qokelate@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SCXPathUtils.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SCXPathUtils/Classes/**/*"
+}

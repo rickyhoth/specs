@@ -1,0 +1,24 @@
+{
+  "name": "UZMultipleLayeredPopoverController",
+  "version": "1.0.0",
+  "summary": "Custom layered popover controller for iOS7.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/UZMultipleLayeredPopoverController",
+  "license": {
+    "type": "BSD",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Yuichi Yoshida": "yoshida.yuichi@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/UZMultipleLayeredPopoverController.git",
+    "tag": "v1.0.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source_files": "UZMultipleLayeredPopoverController/*",
+  "public_header_files": "UZMultipleLayeredPopoverController/UZMultipleLayeredPopoverController.h",
+  "frameworks": "QuartzCore",
+  "requires_arc": true
+}

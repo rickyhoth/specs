@@ -1,0 +1,25 @@
+{
+  "name": "DefaultCodable",
+  "version": "1.2.2",
+  "summary": "A short description of DefaultCodable.",
+  "description": "Default Codable Value",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DefaultCodable",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "OrchidBloom": "temagsoft@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DefaultCodable.git",
+    "tag": "1.2.2"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": [
+    "Sources",
+    "Sources/DefaultCodable/*.swift"
+  ]
+}

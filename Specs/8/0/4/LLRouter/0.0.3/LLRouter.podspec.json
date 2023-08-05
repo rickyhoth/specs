@@ -1,0 +1,23 @@
+{
+  "name": "LLRouter",
+  "version": "0.0.3",
+  "summary": "LLRouter.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LLRouter",
+  "license": "MIT",
+  "authors": {
+    "Tony": "845384699@qq.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LLRouter.git",
+    "tag": "0.0.3"
+  },
+  "source_files": "LLRouter/**/*.{h,m}",
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ],
+  "requires_arc": true
+}

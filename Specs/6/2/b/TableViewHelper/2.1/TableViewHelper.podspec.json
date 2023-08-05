@@ -1,0 +1,23 @@
+{
+  "name": "TableViewHelper",
+  "version": "2.1",
+  "summary": "Easily hide and show UITableView Rows",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TableViewHelper",
+  "license": "MIT",
+  "authors": {
+    "Aaron Bratcher": "aaronbratcher1@gmail.com"
+  },
+  "social_media_url": "http://twitter.com/AaronLBratcher",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TableViewHelper.git",
+    "tag": "2.1"
+  },
+  "source_files": [
+    "TableViewHelper",
+    "TableViewHelper/TableViewHelper/**/*.{h,m,swift}"
+  ],
+  "pushed_with_swift_version": "3.0"
+}

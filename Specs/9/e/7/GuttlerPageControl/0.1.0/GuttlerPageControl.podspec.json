@@ -1,0 +1,26 @@
+{
+  "name": "GuttlerPageControl",
+  "version": "0.1.0",
+  "summary": "A cute page control in Swift",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/GuttlerPageControl",
+  "authors": {
+    "oOatuo": "aaatuooo@gmail.com"
+  },
+  "social_media_url": "https://twitter.com/OoAtuo",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/GuttlerPageControl.git",
+    "tag": "0.1.0"
+  },
+  "source_files": [
+    "GuttlerPageControl/*.swift",
+    "GuttlerPageControl/RandomColor/*.swift"
+  ],
+  "requires_arc": true
+}

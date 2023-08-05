@@ -1,0 +1,30 @@
+{
+  "name": "TvLightSegments",
+  "version": "0.1.0",
+  "summary": "Clean, simple and beautiful segment bar for your AppleTv app",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TvLightSegments",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Bruno Macabeus": "bruno.macabeus@gmail.com"
+  },
+  "platforms": {
+    "tvos": "10.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TvLightSegments.git",
+    "tag": "0.1.0"
+  },
+  "source_files": [
+    "TvLightSegments/TvLightSegments/*.swift",
+    "TvLightSegments/TvLightSegments/*.xib"
+  ],
+  "dependencies": {
+    "Cartography": [
+      "~> 1.1"
+    ]
+  },
+  "pushed_with_swift_version": "3.0"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "NewValidator",
+  "version": "1.0.0",
+  "summary": "A short description of FieldValidator.",
+  "description": "Validator",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/FieldValidator",
+  "license": "MIT",
+  "authors": {
+    "Vinayan M": "itsvinayan@gmail.com"
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/FieldValidator.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "FieldValidator/**/*.{swift}",
+  "swift_versions": "5.0",
+  "swift_version": "5.0"
+}

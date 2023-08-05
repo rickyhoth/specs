@@ -1,0 +1,27 @@
+{
+  "name": "EasyLib",
+  "version": "0.2.8",
+  "summary": "A short description of EasyLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/EasyLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "smalldu": "363958265@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/EasyLib.git",
+    "tag": "0.2.8"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "EasyLib/Classes/**/*.{swift,h,m}",
+  "resource_bundles": {
+    "EasyLib": [
+      "EasyLib/Assets/*"
+    ]
+  }
+}

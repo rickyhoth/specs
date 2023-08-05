@@ -1,0 +1,26 @@
+{
+  "name": "TSTripleSec",
+  "version": "0.1.5",
+  "summary": "Objective-C library for TripleSec",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TSTripleSec",
+  "license": {
+    "type": "MIT"
+  },
+  "authors": {
+    "Gabriel Handford": "gabrielh@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TSTripleSec.git",
+    "tag": "0.1.5"
+  },
+  "dependencies": {
+    "NAChloride": [
+
+    ],
+    "MPMessagePack": [
+
+    ]
+  },
+  "source_files": "TSTripleSec/**/*.{c,h,m}",
+  "requires_arc": true
+}

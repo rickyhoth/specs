@@ -1,0 +1,22 @@
+{
+  "name": "CircularProgressBar-Danilo",
+  "version": "1.0.0",
+  "summary": "A CircularProgressBar",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CircularProgressBar",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "danilo2500": "danilo.2500@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CircularProgressBar.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CircularProgressBar/Classes/**/*"
+}

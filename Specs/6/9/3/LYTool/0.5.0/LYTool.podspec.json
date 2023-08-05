@@ -1,0 +1,22 @@
+{
+  "name": "LYTool",
+  "version": "0.5.0",
+  "summary": "测试pod导入.",
+  "description": "朕看看到底可以导入不、、、、",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LYTools",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "XueWuQianKun": "1603196678@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LYTools.git",
+    "tag": "0.5.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LYTool/*.{h,m}"
+}

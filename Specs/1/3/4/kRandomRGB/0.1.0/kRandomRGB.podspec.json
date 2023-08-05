@@ -1,0 +1,22 @@
+{
+  "name": "kRandomRGB",
+  "version": "0.1.0",
+  "summary": "kRandomRGB is a framework for random RGB color",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/kRandomRGB.git",
+  "authors": {
+    "KOiSPRK": "koi@smartsoftasia.com"
+  },
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "source": {
+    "http": "https://bitbucket.devops.nonprod.empf.local/scm/react/kRandomRGB/raw/master/kRandomRGB.zip"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "ios": {
+    "vendored_frameworks": "kRandomRGB.framework"
+  }
+}

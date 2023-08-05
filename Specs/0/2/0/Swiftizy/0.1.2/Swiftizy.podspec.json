@@ -1,0 +1,24 @@
+{
+  "name": "Swiftizy",
+  "version": "0.1.2",
+  "summary": "Framework with differents tools to help you in application creation in Swift",
+  "description": "This framework provide a lot of tool to help you in your development: CoreData, Rest request, JSON,...",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Swiftizy",
+  "license": "MIT",
+  "authors": {
+    "Julien Henrard": "j.henrard@nexmind.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Swiftizy.git",
+    "tag": "0.1.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Swiftizy/Classes/**/*",
+  "resource_bundles": {
+    "Swiftizy": [
+      "Swiftizy/Assets/*.png"
+    ]
+  }
+}

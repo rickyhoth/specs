@@ -1,0 +1,26 @@
+{
+  "name": "WaveProgressView",
+  "version": "1.0.0",
+  "summary": "Water wave progress bar",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WaveProgressView",
+  "screenshots": "https://i.imgur.com/UyhjS4P.png",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "sukov": "gorjan5@hotmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WaveProgressView.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "Source/**/*.{h,swift}",
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ]
+}

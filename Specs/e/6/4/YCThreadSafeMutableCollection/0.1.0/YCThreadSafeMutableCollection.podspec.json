@@ -1,0 +1,21 @@
+{
+  "name": "YCThreadSafeMutableCollection",
+  "version": "0.1.0",
+  "summary": "Thread-safe mutable array, dictionary and set.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/YCThreadSafeMutableCollection",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Yuchen Peng": "yuchenpeng826@hotmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YCThreadSafeMutableCollection.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YCThreadSafeMutableCollection/Classes/**/*"
+}

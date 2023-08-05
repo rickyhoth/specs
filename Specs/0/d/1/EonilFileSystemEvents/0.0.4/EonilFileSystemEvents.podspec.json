@@ -1,0 +1,25 @@
+{
+  "name": "EonilFileSystemEvents",
+  "version": "0.0.4",
+  "summary": "Dead-simple access to FSEvents framework for Swift.",
+  "description": "Provides dead-simple access to FSEvents framework for Swift by Hoon H.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/FileSystemEvents",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": "Hoon H",
+  "frameworks": "CoreServices",
+  "requires_arc": true,
+  "platforms": {
+    "osx": "10.10"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/FileSystemEvents.git",
+    "tag": "0.0.4"
+  },
+  "source_files": [
+    "EonilFileSystemEvents/*.{h,m}",
+    "EonilFileSystemEvents/*.swift"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "SynologyKit",
+  "version": "0.2.6",
+  "license": "MIT",
+  "requires_arc": true,
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SynologyKit.git",
+    "tag": "0.2.6"
+  },
+  "summary": "Synology File Station SDK for Swift",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SynologyKit",
+  "authors": {
+    "xushuifeng": "https://github.com/alexiscn"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source_files": "Source/*.swift",
+  "dependencies": {
+    "Alamofire": [
+
+    ]
+  }
+}

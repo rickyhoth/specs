@@ -1,0 +1,21 @@
+{
+  "name": "AKTabBarController",
+  "version": "0.1.0",
+  "license": "MIT",
+  "summary": "AKTabBarController is an adaptive and customizable tab bar for iOS.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AKTabBarController",
+  "authors": {
+    "Ali Karagoz": "mail@alikaragoz.net"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AKTabBarController.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": null
+  },
+  "source_files": "AKTabBarController",
+  "resources": "AKTabBarController/AKTabBarController.bundle",
+  "requires_arc": true,
+  "frameworks": "QuartzCore"
+}

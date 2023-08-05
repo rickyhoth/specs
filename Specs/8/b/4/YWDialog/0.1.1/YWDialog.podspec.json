@@ -1,0 +1,21 @@
+{
+  "name": "YWDialog",
+  "version": "0.1.1",
+  "summary": "YuWaniOS - Alert",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/YWDialog",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "601584870@qq.com": "601584870@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YWDialog.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YWDialog/Classes/**/*"
+}

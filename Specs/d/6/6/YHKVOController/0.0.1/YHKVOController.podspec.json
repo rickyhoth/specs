@@ -1,0 +1,22 @@
+{
+  "name": "YHKVOController",
+  "version": "0.0.1",
+  "summary": "create by yh",
+  "description": "一句话使用KVO，使用完无需自己移除KVO",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/YHKVOController",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "恋渊": "331385243@qq.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YHKVOController.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "YHKVOController/YHKVOController/*.{h,m}"
+}

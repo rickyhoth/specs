@@ -1,0 +1,25 @@
+{
+  "name": "ODObjCRuntime",
+  "version": "1.2.1",
+  "summary": "ObjC wrapper for working with ObjC Runtime functions.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ODObjCRuntime",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE.txt"
+  },
+  "authors": {
+    "Alexey Nazaroff": "alexx.nazaroff@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ODObjCRuntime.git",
+    "tag": "1.2.1"
+  },
+  "platforms": {
+    "ios": "5.0",
+    "osx": "10.6",
+    "watchos": "1.0"
+  },
+  "source_files": "src/**/*",
+  "requires_arc": true,
+  "deprecated_in_favor_of": "ODRuntime"
+}

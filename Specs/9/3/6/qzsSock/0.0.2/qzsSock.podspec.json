@@ -1,0 +1,28 @@
+{
+  "name": "qzsSock",
+  "version": "0.0.2",
+  "summary": "qzsSock",
+  "description": "A short description of qzsSock",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/qzsPodTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "qiuzishuo": "625008541@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/qzsPodTest.git",
+    "tag": "0.0.2"
+  },
+  "source_files": [
+    "Classes",
+    "Classes/**/*.{h,m}"
+  ],
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "SwpTools",
+  "version": "2.0.1",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "summary": "一些常用的工具方法",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwpTools",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "swp-song": "396587868@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwpTools.git",
+    "tag": "2.0.1"
+  },
+  "source_files": "SwpTools/Header",
+  "vendored_libraries": "SwpTools/Library/*.a",
+  "requires_arc": true,
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ]
+}

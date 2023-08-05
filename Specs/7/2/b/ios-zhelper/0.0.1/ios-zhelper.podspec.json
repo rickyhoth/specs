@@ -1,0 +1,19 @@
+{
+  "name": "ios-zhelper",
+  "version": "0.0.1",
+  "summary": "zhelper simple lib for me.",
+  "description": "this is my lib for helpe me",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ios-zhelper",
+  "authors": {
+    "zabih1420": "zabih1420@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ios-zhelper.git",
+    "tag": "0.0.1"
+  },
+  "license": "MIT",
+  "source_files": "ios-zhelper/**/*",
+  "platforms": {
+    "ios": "9.0"
+  }
+}

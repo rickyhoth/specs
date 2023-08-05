@@ -1,0 +1,22 @@
+{
+  "name": "LWeakTimer",
+  "version": "0.1.0",
+  "summary": "weakTimer",
+  "description": "解决NSTimer引用控制器，导致控制器无法释放的问题",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LWeakTimer",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "leehonn": "461975622@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LWeakTimer.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LWeakTimer/Classes/**/*"
+}

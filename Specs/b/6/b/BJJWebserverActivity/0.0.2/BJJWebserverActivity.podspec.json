@@ -1,0 +1,27 @@
+{
+  "name": "BJJWebserverActivity",
+  "version": "0.0.2",
+  "summary": "UIActivity subclass to share via a webserver.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/BJJWebserverActivity",
+  "license": {
+    "type": "MIT",
+    "file": "README.md"
+  },
+  "authors": {
+    "Barrett Jacobsen": "admin@barrettj.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/BJJWebserverActivity.git",
+    "tag": "0.0.2"
+  },
+  "platforms": {
+    "ios": "5.0"
+  },
+  "source_files": "BJJWebserverActivity/*",
+  "dependencies": {
+    "CocoaHTTPServer": [
+
+    ]
+  },
+  "requires_arc": true
+}

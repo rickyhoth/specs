@@ -1,0 +1,22 @@
+{
+  "name": "PGViewAnimationable",
+  "version": "0.3.0",
+  "summary": "View Animation Protocol.",
+  "description": "You can make easier Custom Animation View with ViewAnimationable Protocol",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/PGViewAnimationable",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ipagong": "ipagong.dev@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/PGViewAnimationable.git",
+    "tag": "0.3.0"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source_files": "PGViewAnimationable/Classes/**/*"
+}

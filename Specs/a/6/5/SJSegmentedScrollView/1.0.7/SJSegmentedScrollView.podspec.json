@@ -1,0 +1,21 @@
+{
+  "name": "SJSegmentedScrollView",
+  "version": "1.0.7",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SJSegmentedViewController",
+  "authors": {
+    "Subins Jose": "subinsjose@gmail.com"
+  },
+  "summary": "Custom segmented header scrollview controller.",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SJSegmentedViewController.git",
+    "tag": "v1.0.7"
+  },
+  "source_files": "SJSegmentedScrollView/Classes/**/*.swift",
+  "platforms": {
+    "ios": "8.0"
+  }
+}

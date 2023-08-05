@@ -1,0 +1,22 @@
+{
+  "name": "TLTrackSDK",
+  "version": "1.3.3",
+  "summary": "全埋点SDK",
+  "description": "\"全埋点私有库，内部使用\"",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TLTrackSDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "panshouheng": "shouheng.pan@tineco.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TLTrackSDK.git",
+    "tag": "1.3.3"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source_files": "TLTrackSDK/Classes/**/*"
+}

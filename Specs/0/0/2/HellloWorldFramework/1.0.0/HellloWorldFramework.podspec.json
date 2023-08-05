@@ -1,0 +1,19 @@
+{
+  "name": "HellloWorldFramework",
+  "version": "1.0.0",
+  "summary": "print 'hello world'.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HellloWorldFramework",
+  "license": "MIT",
+  "authors": {
+    "fangzhenxing": "17512081435@163.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HellloWorldFramework.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "HellloWorldFramework/HellloWorldFramework/*.{h,m}",
+  "requires_arc": true
+}

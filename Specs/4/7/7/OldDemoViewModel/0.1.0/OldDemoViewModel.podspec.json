@@ -1,0 +1,22 @@
+{
+  "name": "OldDemoViewModel",
+  "version": "0.1.0",
+  "summary": "A short description of OldDemoViewModel.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/reactOldDemoViewModel",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "only-einsteined": "oieinstein@yeah.net"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/reactOldDemoViewModel.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "OldDemoViewModel/Classes/*{h,m}"
+}

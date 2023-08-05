@@ -1,0 +1,22 @@
+{
+  "name": "FormValidation",
+  "version": "0.1.1",
+  "summary": "An easier way to validate your form.",
+  "description": "With this CocoaPod, your form validation will become way more easier!!",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/FormValidation",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Rajesh": "rajesh.l@blazedream.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/FormValidation.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FormValidation/Classes/*.{h,m}"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "YYIBaseCategories",
+  "version": "0.1.0",
+  "summary": "iOS基础类别库",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/YYIBaseCategories",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "DingYusong": "dys90@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YYIBaseCategories.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YYIBaseCategories/**/*.{h,m}"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "NBInfiniteBannerView",
+  "version": "0.1.0",
+  "summary": "A Infinite Scroll Banner View.",
+  "description": "A Infinite Scroll Banner View, automated timer support.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/NBInfiniteBannerView",
+  "license": "MIT",
+  "authors": {
+    "梵天": "nova8ossa@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/NBInfiniteBannerView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "NBInfiniteBannerView": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}

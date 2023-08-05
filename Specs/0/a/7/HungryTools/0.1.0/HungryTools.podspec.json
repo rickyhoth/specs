@@ -1,0 +1,23 @@
+{
+  "name": "HungryTools",
+  "version": "0.1.0",
+  "summary": "Some tools often used.",
+  "description": "Some tools often used, personal.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HungryTools",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Zhanghaichuan": "924320752@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HungryTools.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HungryTools/Classes/**/*",
+  "deprecated": true
+}

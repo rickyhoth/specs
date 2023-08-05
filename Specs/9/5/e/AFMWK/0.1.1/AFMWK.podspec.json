@@ -1,0 +1,20 @@
+{
+  "name": "AFMWK",
+  "version": "0.1.1",
+  "summary": "this is a sample",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AFMWK",
+  "license": "MIT",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "authors": {
+    "Eric": "znkd_1982@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AFMWK.git",
+    "tag": "0.1.1"
+  },
+  "source_files": "AFMWK/*.{h,m}",
+  "requires_arc": true,
+  "frameworks": "UIKit"
+}

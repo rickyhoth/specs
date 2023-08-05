@@ -1,0 +1,22 @@
+{
+  "name": "GKUInteraction",
+  "version": "0.1.0",
+  "summary": "Helper classes to decouple interaction between instances for Objective-C",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/GKUInteraction",
+  "license": "MIT",
+  "authors": {
+    "Kamil Grzegorzewicz": "grzegorzewicz.k@gmail.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/GKUInteraction.git",
+    "tag": "0.1.0"
+  },
+  "source_files": [
+    "Classes",
+    "Classes/**/*.{h,m}"
+  ],
+  "requires_arc": true
+}

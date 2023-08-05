@@ -1,0 +1,22 @@
+{
+  "name": "MGButton",
+  "version": "0.2.0",
+  "summary": "A simple UIButton extension.",
+  "description": "MGButton is a simple UIButton extension, it helps developers to set some porperty in the storyboard directly.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MGButton",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lm2343635": "lm2343635@126.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MGButton.git",
+    "tag": "0.2.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "MGButton/Classes/**/*"
+}

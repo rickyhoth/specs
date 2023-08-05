@@ -1,0 +1,20 @@
+{
+  "name": "MCColoredPageControl",
+  "version": "1.0.1",
+  "license": "BSD 3-Clause",
+  "summary": "Fully customizable alternative to UIPageControl.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MCColoredPageControl",
+  "authors": {
+    "Mirego": "info@mirego.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MCColoredPageControl.git",
+    "tag": "1.0.1"
+  },
+  "source_files": "MCColoredPageControl/*.{h,m}",
+  "requires_arc": true,
+  "frameworks": "QuartzCore",
+  "platforms": {
+    "ios": "5.0"
+  }
+}

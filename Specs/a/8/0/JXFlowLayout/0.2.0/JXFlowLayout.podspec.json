@@ -1,0 +1,25 @@
+{
+  "name": "JXFlowLayout",
+  "version": "0.2.0",
+  "summary": "The flow layout your looking for.",
+  "description": "The flow layout you are looking for.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JXFlowLayout",
+  "license": "MIT",
+  "authors": {
+    "luqyluqe": "luqy.luqe@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JXFlowLayout.git",
+    "tag": "0.2.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "JXFlowLayout": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}

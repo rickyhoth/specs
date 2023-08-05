@@ -1,0 +1,24 @@
+{
+  "name": "CometChatUI",
+  "version": "0.0.1",
+  "summary": "CocoaPods Library for CometChatUI",
+  "description": "CocoaPods Library for CometChatUI",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CometChatUI",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "swift_versions": "4.2",
+  "authors": {
+    "HenSafeUP": "henl@safeup.co"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CometChatUI.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "CometChatUI/**/*.{h,m}",
+  "swift_version": "4.2"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "CXLCategory",
+  "version": "0.0.1",
+  "summary": "CXLCategory.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CXLCategory",
+  "license": "MIT",
+  "platforms": {
+    "ios": null
+  },
+  "authors": {
+    "caoXueLiang": "2357747972@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CXLCategory.git",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "CXLCommonCategory",
+    "CXLCommonCategory/**/*.{h,m}"
+  ]
+}

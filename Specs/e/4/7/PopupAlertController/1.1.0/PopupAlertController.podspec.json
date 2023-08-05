@@ -1,0 +1,28 @@
+{
+  "name": "PopupAlertController",
+  "version": "1.1.0",
+  "summary": "A popup alert view controller for iOS.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/PopupAlertController",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE.md"
+  },
+  "authors": {
+    "Bushtit Lab": "admin@meniny.cn"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/PopupAlertController.git",
+    "tag": "1.1.0"
+  },
+  "social_media_url": "https://bitbucket.devops.nonprod.empf.local/scm/react/PopupAlertController",
+  "swift_versions": "5",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "PopupAlertController/Classes/**/*",
+  "dependencies": {
+    "EABlurView": [
+
+    ]
+  }
+}

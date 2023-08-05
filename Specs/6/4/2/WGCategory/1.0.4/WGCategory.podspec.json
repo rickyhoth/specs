@@ -1,0 +1,19 @@
+{
+  "name": "WGCategory",
+  "version": "1.0.4",
+  "summary": "Collect categories.",
+  "description": "Collect categories and work for me.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WGCategory",
+  "license": "MIT",
+  "authors": {
+    "7owen": "lgw52@hotmail.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WGCategory.git",
+    "tag": "1.0.4"
+  },
+  "source_files": "**/*.{h,m}"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "DKURLCache",
+  "version": "1.1",
+  "summary": "Library for caching NSURLRequests",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DKURLCache",
+  "license": "MIT",
+  "authors": "Dmitry Konygin",
+  "platforms": {
+    "ios": "6.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DKURLCache.git",
+    "tag": "v1.1"
+  },
+  "source_files": "Library/*",
+  "requires_arc": true
+}

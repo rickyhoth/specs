@@ -1,0 +1,22 @@
+{
+  "name": "IMBeeHive",
+  "version": "0.1.2",
+  "summary": "A short description of IMBeeHive.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/IMBeeHive",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "alvin": "674268015@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/IMBeeHive.git",
+    "tag": "0.1.2"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "IMBeeHive/Classes/**/*"
+}

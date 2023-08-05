@@ -1,0 +1,25 @@
+{
+  "name": "WolfWith",
+  "version": "1.0.2",
+  "summary": "A Swift implementation of the With-Operator.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WolfWith",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Wolf McNally": "wolf@wolfmcnally.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WolfWith.git",
+    "tag": "1.0.2"
+  },
+  "source_files": "WolfWith/Classes/**/*",
+  "swift_version": "4.2",
+  "platforms": {
+    "ios": "9.3",
+    "osx": "10.13",
+    "tvos": "11.0"
+  },
+  "module_name": "WolfWith"
+}

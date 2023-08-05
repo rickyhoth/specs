@@ -1,0 +1,22 @@
+{
+  "name": "KPProtocolManager",
+  "version": "0.0.1",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "summary": "this is a demo",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/KPProtocolManager.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "bicassos": "bicassos@outlook.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/KPProtocolManager.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "KPProtocolManager/*.{h,m}",
+  "requires_arc": true
+}

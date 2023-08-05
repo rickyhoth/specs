@@ -1,0 +1,19 @@
+{
+  "name": "Makepods",
+  "version": "0.1.1",
+  "summary": "make podss",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/makepods",
+  "license": "MIT",
+  "authors": {
+    "felix": "2319979647@qq.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/makepods.git",
+    "tag": "0.1.1"
+  },
+  "source_files": "Classes/**/*",
+  "requires_arc": true
+}

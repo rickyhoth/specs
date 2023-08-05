@@ -1,0 +1,26 @@
+{
+  "name": "GYDataCenter",
+  "version": "0.1.1",
+  "summary": "An alternative to Core Data for people who like using SQLite directly.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/GYDataCenter",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Zeposhe": "zeposhe@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/GYDataCenter.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source_files": "GYDataCenter/**/*",
+  "dependencies": {
+    "FMDB": [
+
+    ]
+  }
+}

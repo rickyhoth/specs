@@ -1,0 +1,22 @@
+{
+  "name": "ASBatteryMonitor",
+  "version": "0.1.0",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ASBatteryMonitor",
+  "authors": {
+    "Rudd Fawcett": "rudd.fawcett@gmail.com"
+  },
+  "summary": "Seamlessly update your app based on the user's battery state.",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ASBatteryMonitor.git",
+    "tag": "0.1.0"
+  },
+  "source_files": "Classes/",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true
+}

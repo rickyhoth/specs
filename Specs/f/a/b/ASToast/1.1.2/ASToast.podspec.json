@@ -1,0 +1,22 @@
+{
+  "name": "ASToast",
+  "version": "1.1.2",
+  "summary": "A Swift extension for using Android style Toast notifications",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ASToast",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Abdullah Selek": "abdullahselek@yahoo.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ASToast.git",
+    "tag": "1.1.2"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "ASToast/Source/*.swift",
+  "requires_arc": true
+}

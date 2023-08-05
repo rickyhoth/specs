@@ -1,0 +1,31 @@
+{
+  "name": "HZLocationConverter",
+  "version": "1.0.0",
+  "summary": "HZLocationConverter .",
+  "description": "HZLocationConverter : a util for converter",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HZLocationConverter",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "MyHZ": "752818915@qq.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HZLocationConverter.git",
+    "tag": "1.0.0"
+  },
+  "source_files": [
+    "HZLocationConverter",
+    "Location/HZLocationConverter/*.{h,m}"
+  ],
+  "frameworks": [
+    "UIKit",
+    "CoreLocation",
+    "Foundation"
+  ],
+  "requires_arc": true
+}

@@ -1,0 +1,22 @@
+{
+  "name": "TestLabelPod",
+  "version": "0.1.0",
+  "summary": "Test Pod.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TestLabelPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "SudaniNancy": "nancy@logisticinfotech.co.in"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TestLabelPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "swift_versions": "4.0",
+  "source_files": "TestLabelPod/Classes/**/*"
+}

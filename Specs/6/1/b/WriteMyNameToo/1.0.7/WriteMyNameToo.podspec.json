@@ -1,0 +1,21 @@
+{
+  "name": "WriteMyNameToo",
+  "version": "1.0.7",
+  "summary": "This is the best framework.",
+  "description": "This is the WriteMyNameToo framework.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WriteMyNameToo",
+  "license": "MIT",
+  "authors": {
+    "Pinkesh Gajjar": "pinkesh.gajjar@goswirl.live"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ios-live-stream.git",
+    "tag": "1.0.7"
+  },
+  "source_files": "WriteMyNameToo/**/*.{swift}",
+  "swift_versions": "5.0",
+  "swift_version": "5.0"
+}

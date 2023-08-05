@@ -1,0 +1,21 @@
+{
+  "name": "ZGRSAEncryptor",
+  "version": "1.0.0",
+  "summary": "A Library for iOS to use for RSA encryptor.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZGRSAEncryptor",
+  "license": "MIT",
+  "authors": {
+    "scottzg": "scottzg@126.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZGRSAEncryptor.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "ZGRSAEncryptor/*.{h,m}",
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}

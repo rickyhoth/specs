@@ -1,0 +1,23 @@
+{
+  "name": "BadgeSegments",
+  "version": "0.1.0",
+  "summary": "A customizable Segment View with Badges",
+  "description": "A customizable Segment View with Badges writen in swift 5 and easy to use",
+  "swift_version": "5.0",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/BadgeSegments",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    " ": "Morteza.ghrdi@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/BadgeSegments.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "BadgeSegments/Classes/**/*"
+}

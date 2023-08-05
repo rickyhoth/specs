@@ -1,0 +1,22 @@
+{
+  "name": "UCRouterObjc",
+  "version": "0.1.0",
+  "summary": "一个Objc router",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/UCRouterObjc",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Link913": "fanyang_32012@outlook.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/UCRouterObjc.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "UCRouterObjc/Classes/**/*"
+}

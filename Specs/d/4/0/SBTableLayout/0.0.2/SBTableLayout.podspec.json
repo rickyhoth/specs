@@ -1,0 +1,23 @@
+{
+  "name": "SBTableLayout",
+  "version": "0.0.2",
+  "summary": "A customizable UICollectionViewLayout to use instead of a grouped styled UITableView",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SBTableLayout",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Simon Blommegård": "simon@blommegard.se"
+  },
+  "platforms": {
+    "ios": "6.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SBTableLayout.git",
+    "tag": "0.0.2"
+  },
+  "source_files": "SBTableLayout",
+  "frameworks": "UIKit",
+  "requires_arc": true
+}

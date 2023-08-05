@@ -1,0 +1,25 @@
+{
+  "name": "MustacheMultitypeRender",
+  "version": "0.1.0",
+  "summary": "Render Mustache templates to any type.",
+  "description": "Render Mustache templates to any type. String and NSAttributedString rendering comes out of the box.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MustacheMultitypeRender",
+  "license": "MIT",
+  "authors": {
+    "Kenji Tayama": "kenji.tayama@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MustacheMultitypeRender.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "MustacheMultitypeRender": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}

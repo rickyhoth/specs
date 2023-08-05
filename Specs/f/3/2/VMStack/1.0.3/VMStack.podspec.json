@@ -1,0 +1,22 @@
+{
+  "name": "VMStack",
+  "version": "1.0.3",
+  "summary": "VMStack is a linked list stack implementation in Swift.",
+  "description": "VMStack is a lightweight linked list of Any type of elements. VMSortableStack is a stack of numeric elements. Sorting is implemented through a recursive insertion",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/VMStack.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": "Varvara Myronova",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/VMStack.git",
+    "tag": "v1.0.3"
+  },
+  "source_files": "Sources/*.swift",
+  "swift_versions": "5.2",
+  "swift_version": "5.2"
+}

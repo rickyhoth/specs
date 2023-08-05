@@ -1,0 +1,31 @@
+{
+  "name": "YFCommonTools",
+  "version": "0.0.5",
+  "summary": "Tools for OC",
+  "description": "Tools for OC private.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/YFCommonTools.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "BigShow1949": "1029883589@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YFCommonTools.git",
+    "tag": "0.0.5"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YFCommonTools/**/*.{h,m}",
+  "public_header_files": "YFCommonTools/**/*.{h}",
+  "frameworks": [
+    "CoreGraphics",
+    "QuartzCore",
+    "UIKit",
+    "CoreLocation",
+    "Foundation"
+  ],
+  "requires_arc": true
+}

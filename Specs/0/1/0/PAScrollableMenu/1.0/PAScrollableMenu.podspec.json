@@ -1,0 +1,26 @@
+{
+  "name": "PAScrollableMenu",
+  "version": "1.0",
+  "summary": "My implementation of the menu on the chinese news app.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/PAScrollableMenu",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Guillermo Saenz": "gsaenz@proatomicdev.com"
+  },
+  "platforms": {
+    "ios": "6.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/PAScrollableMenu.git",
+    "tag": "v1.0"
+  },
+  "source_files": [
+    "Source",
+    "Source/**/*.{h,m}"
+  ],
+  "frameworks": "QuartzCore",
+  "requires_arc": true
+}

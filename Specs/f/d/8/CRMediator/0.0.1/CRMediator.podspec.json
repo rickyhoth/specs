@@ -1,0 +1,22 @@
+{
+  "name": "CRMediator",
+  "summary": "组件化中间件",
+  "version": "0.0.1",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CRMediator",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "cocoaroger": "coacoaroger@gmail.com"
+  },
+  "requires_arc": true,
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CRMediator.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "CRMediator/*.{h,m}"
+}

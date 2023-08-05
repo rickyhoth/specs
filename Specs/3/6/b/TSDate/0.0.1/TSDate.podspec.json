@@ -1,0 +1,22 @@
+{
+  "name": "TSDate",
+  "version": "0.0.1",
+  "summary": "NSDate的方法封装",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TSDate",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "shanshuo8": "1447107681@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TSDate.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "TSDate/Classes/**/*"
+}

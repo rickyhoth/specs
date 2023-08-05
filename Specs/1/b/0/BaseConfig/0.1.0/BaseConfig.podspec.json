@@ -1,0 +1,22 @@
+{
+  "name": "BaseConfig",
+  "version": "0.1.0",
+  "summary": "config",
+  "description": "TODO: 先搞个config.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/BaseConfig",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "paradisery": "ruanyang@wutos.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/BaseConfig.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "BaseConfig/Classes/**/*"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "GunosyAdsSDK",
+  "version": "2.1.0",
+  "summary": "SDK for Gunosy Ad Network",
+  "description": "a SDK for Gunosy Ad Network",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/GunosyAdNetworkSDK-iOS",
+  "license": {
+    "type": "Copyright",
+    "text": "Copyright (c) Gunosy inc."
+  },
+  "authors": "Gunosy inc.",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/GunosyAdNetworkSDK-iOS.git",
+    "tag": "2.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "frameworks": [
+    "AdSupport",
+    "StoreKit",
+    "Security"
+  ],
+  "vendored_frameworks": "GunosyAdsSDK.framework"
+}

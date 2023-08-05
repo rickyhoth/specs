@@ -1,0 +1,22 @@
+{
+  "name": "ZTMenuPopView",
+  "version": "0.1.0",
+  "summary": "A short description of ZTMenuPopView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZTMenuPopView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "fyzhangtong": "243816365@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZTMenuPopView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "ZTMenuPopView/Classes/**/*"
+}

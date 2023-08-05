@@ -1,0 +1,19 @@
+{
+  "name": "BDShortMediaCache",
+  "version": "1.0.0",
+  "summary": "A cache for short video while playing.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ShortMediaCache",
+  "license": "MIT",
+  "authors": {
+    "SCOTTBAN": "scottban@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ShortMediaCache.git",
+    "tag": "1.0.0"
+  },
+  "requires_arc": true,
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "ShortMediaCache/*.{h,m}"
+}

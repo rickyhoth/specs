@@ -1,0 +1,22 @@
+{
+  "name": "ZyIdemiaUIFacial",
+  "version": "0.1.2",
+  "summary": "A short description of ZyIdemiaUIFacial.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZyIdemiaUIFacial",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ZYTRUST SA": "ztmobile@zytrust.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZyIdemiaUIFacial.git",
+    "tag": "0.1.2"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "resources": "ZyIdemiaUIFacial/Assets/**/*.{lproj,storyboard,xcassets,png}"
+}

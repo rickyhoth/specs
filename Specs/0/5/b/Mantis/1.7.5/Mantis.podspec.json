@@ -1,0 +1,33 @@
+{
+  "name": "Mantis",
+  "version": "1.7.5",
+  "summary": "A swift photo cropping tool which mimics Photo.app",
+  "description": "Mantis is a swift photo cropping tool which mimics Photo.app",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Mantis",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Yingtao Guo": "guoyingtao@outlook.com"
+  },
+  "social_media_url": "http://twitter.com/guoyingtao",
+  "platforms": {
+    "ios": "11.0"
+  },
+  "swift_versions": "5.0",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Mantis.git",
+    "tag": "1.7.5"
+  },
+  "source_files": "Sources/**/*.{h,swift}",
+  "resource_bundles": {
+    "MantisResources": [
+      "Sources/**/*.lproj/*.strings"
+    ]
+  },
+  "pod_target_xcconfig": {
+    "PRODUCT_BUNDLE_IDENTIFIER": "com.echo.framework.Mantis"
+  },
+  "swift_version": "5.0"
+}

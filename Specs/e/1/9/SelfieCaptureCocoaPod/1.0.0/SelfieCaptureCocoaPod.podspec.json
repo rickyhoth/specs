@@ -1,0 +1,19 @@
+{
+  "name": "SelfieCaptureCocoaPod",
+  "version": "1.0.0",
+  "summary": "Testing sdk with the cocoapods abcdefghijklmnop",
+  "description": "validation of selfie for the given  abcdefghijk",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SelfieCaptureCocoaPod.git",
+  "license": "MIT",
+  "authors": "Krishna",
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SelfieCaptureCocoaPod.git",
+    "tag": "1.0.0"
+  },
+  "ios": {
+    "vendored_frameworks": "SDK/SelfieCaptureCocoaPods.framework"
+  }
+}

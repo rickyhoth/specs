@@ -1,0 +1,22 @@
+{
+  "name": "LBCountry",
+  "version": "0.0.9",
+  "summary": "All countries in the world",
+  "description": "All countries in the world, use for phone register.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LBCountry",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "s2eker": "s2eker"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LBCountry.git",
+    "tag": "0.0.9"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LBCountry/Classes/**/*"
+}

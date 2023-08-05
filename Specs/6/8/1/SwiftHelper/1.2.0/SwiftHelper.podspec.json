@@ -1,0 +1,20 @@
+{
+  "name": "SwiftHelper",
+  "version": "1.2.0",
+  "summary": "Extensions",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwiftHelper",
+  "license": "MIT",
+  "authors": "LiuChang",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwiftHelper.git",
+    "tag": "1.2.0"
+  },
+  "source_files": "SwiftHelper/**/*.{swift}",
+  "frameworks": "UIKit",
+  "requires_arc": true,
+  "swift_versions": "5.0",
+  "swift_version": "5.0"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Gryphon",
+  "version": "0.1.0",
+  "summary": "Type safe and useful API kit for Alamofire",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Gryphon",
+  "license": {
+    "type": "Apache License 2.0",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Ryo Ishikawa": "rinov@rinov.jp"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Gryphon.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Gryphon/**/*",
+  "dependencies": {
+    "Alamofire": [
+      "~> 3.0"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "JKDeafultView",
+  "version": "1.1.2",
+  "summary": "网络缺省页",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JKDeafultViewKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "daquan": "xudaquan@ybm100.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JKDeafultViewKit.git",
+    "tag": "1.1.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "JKDeafultView/Classes/**/*",
+  "dependencies": {
+    "Masonry": [
+      "~> 1.0.1"
+    ]
+  }
+}

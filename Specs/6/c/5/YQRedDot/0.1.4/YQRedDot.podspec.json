@@ -1,0 +1,24 @@
+{
+  "name": "YQRedDot",
+  "version": "0.1.4",
+  "summary": "YQRedDot.",
+  "description": "Swift版小红点-YQRedDot",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/YQRedDot",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wyqpadding@gmail.com": "wyqpadding@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YQRedDot.git",
+    "tag": "0.1.4"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "YQRedDot/Classes/**/*",
+  "swift_versions": "4.2",
+  "swift_version": "4.2"
+}

@@ -1,0 +1,30 @@
+{
+  "name": "MiheAuth",
+  "version": "1.0.2",
+  "summary": "米合授权调用",
+  "platforms": {
+    "ios": "10.0"
+  },
+  "description": "no commit",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MiheAuthorize.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "liu": "308991136@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MiheAuthorize.git",
+    "tag": "1.0.2"
+  },
+  "source_files": "MiheAuth/**/*.{h,m}",
+  "public_header_files": "MiheAuth/MiheAuth/**/*.h",
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ],
+  "ios": {
+    "vendored_frameworks": "MiheAuth/Products/MiheAuth/MiheAuth.framework"
+  }
+}

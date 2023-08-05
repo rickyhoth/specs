@@ -1,0 +1,39 @@
+{
+  "name": "HBCalendar",
+  "version": "1.0.3",
+  "summary": "HBCalendar",
+  "description": "HBCalendar description",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HBCalendar",
+  "license": "MIT",
+  "authors": {
+    "hepburn": "hepburn2019@163.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HBCalendar.git",
+    "tag": "1.0.3"
+  },
+  "source_files": "HBCalendar/*.{h,m}",
+  "public_header_files": "HBCalendar/*.h",
+  "requires_arc": true,
+  "static_framework": true,
+  "dependencies": {
+    "Masonry": [
+
+    ],
+    "MJRefresh": [
+
+    ],
+    "IQKeyboardManager": [
+
+    ],
+    "MBProgressHUD": [
+
+    ],
+    "HBBasicLib": [
+
+    ]
+  }
+}

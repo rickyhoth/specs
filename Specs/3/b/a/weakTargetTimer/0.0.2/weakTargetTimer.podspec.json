@@ -1,0 +1,22 @@
+{
+  "name": "weakTargetTimer",
+  "version": "0.0.2",
+  "summary": "Weak target timer for iOS.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WTTimer",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "KudoCC": "cangmuma@gmail.com"
+  },
+  "platforms": {
+    "ios": "6.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WTTimer.git",
+    "tag": "0.0.2"
+  },
+  "source_files": "weakTargetTimer/*.{h,m}",
+  "requires_arc": true
+}

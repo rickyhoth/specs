@@ -1,0 +1,27 @@
+{
+  "name": "CalculateWaypoint",
+  "version": "0.1.0",
+  "summary": "计算航点",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CalculateWaypoint",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Mr.Li": "zhangs1992@126.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CalculateWaypoint.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source_files": "CalculateWaypoint/Classes/**/*",
+  "dependencies": {
+    "ArcGIS-Runtime-SDK-iOS": [
+
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Sideburn",
+  "version": "0.1",
+  "license": "MIT",
+  "summary": "Mustache templates for Swift 2 (Linux ready)",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Sideburn",
+  "authors": {
+    "Paulo Faria": "paulo.faria.rl@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Sideburn.git",
+    "tag": "v0.1"
+  },
+  "platforms": {
+    "ios": "8.0",
+    "osx": "10.9"
+  },
+  "source_files": "Sideburn/**/*.swift",
+  "requires_arc": true
+}

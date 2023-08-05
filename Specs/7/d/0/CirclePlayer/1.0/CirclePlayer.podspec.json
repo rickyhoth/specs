@@ -1,0 +1,28 @@
+{
+  "name": "CirclePlayer",
+  "version": "1.0",
+  "summary": "Simplifies UIImageView animations",
+  "description": "Simplifies UIImageView animations via set of classes and extensions.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Circle",
+  "screenshots": "https://bitbucket.devops.nonprod.empf.local/scm/react/logo_2048_2048.png",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Igor Matyushkin": "igormatyushkin014@gmail.com"
+  },
+  "social_media_url": "https://twitter.com/imatyushkin1",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Circle.git",
+    "tag": "1.0"
+  },
+  "source_files": [
+    "Source",
+    "Source/**/*"
+  ],
+  "swift_version": "4.0"
+}

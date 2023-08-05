@@ -1,0 +1,23 @@
+{
+  "name": "ATFoundation",
+  "version": "0.0.6",
+  "summary": "a foundation extension",
+  "description": "a foundation extension\n balabala",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ATFoundation",
+  "license": "MIT",
+  "authors": {
+    "Aesir": "ayan.bifrost@gmail.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ATFoundation.git",
+    "tag": "0.0.6"
+  },
+  "source_files": "ATFoundation/**/*.{h,m}",
+  "frameworks": [
+    "Foundation",
+    "UIKit"
+  ]
+}

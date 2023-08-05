@@ -1,0 +1,19 @@
+{
+  "name": "JHUD",
+  "version": "0.3.0",
+  "summary": "A full screen of the Hud when loading the data (Objective-C).",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JHUD",
+  "license": "MIT (LICENSE)",
+  "authors": {
+    "“jinxiansen”": "hi@jinxiansen.com"
+  },
+  "platforms": {
+    "ios": "6.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JHUD.git",
+    "tag": "0.3.0"
+  },
+  "source_files": "JHudViewDemo/JHUD/*.{h,m}",
+  "requires_arc": true
+}

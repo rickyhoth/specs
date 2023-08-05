@@ -1,0 +1,17 @@
+{
+  "name": "CopyPaper",
+  "version": "0.1.0",
+  "license": "MIT",
+  "summary": "Let gestures pass through views, so that you can overlay view controllers",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CopyPaper.git",
+  "authors": "Andrea Cremaschi",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CopyPaper.git",
+    "tag": "0.1.0"
+  },
+  "source_files": "CopyPaper/*",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true
+}

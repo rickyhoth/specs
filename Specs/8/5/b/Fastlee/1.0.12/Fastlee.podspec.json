@@ -1,0 +1,29 @@
+{
+  "name": "Fastlee",
+  "version": "1.0.12",
+  "summary": "Fastlee",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Fastlee",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Łukasz Szarkowicz": "szarkowicz@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Fastlee.git",
+    "tag": "1.0.12"
+  },
+  "swift_versions": "5.1",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "Sources/**/*",
+  "ios": {
+    "frameworks": [
+      "UIKit",
+      "Foundation"
+    ]
+  },
+  "swift_version": "5.1"
+}

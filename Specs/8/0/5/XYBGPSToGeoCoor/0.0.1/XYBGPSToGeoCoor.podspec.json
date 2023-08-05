@@ -1,0 +1,19 @@
+{
+  "name": "XYBGPSToGeoCoor",
+  "version": "0.0.1",
+  "summary": "坐标转换",
+  "description": "地理位置坐标转换",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/XYBGPSToGeoCoor",
+  "license": "MIT",
+  "authors": {
+    "xieyabo": "1047794348@qq.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/XYBGPSToGeoCoor.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "*"
+}

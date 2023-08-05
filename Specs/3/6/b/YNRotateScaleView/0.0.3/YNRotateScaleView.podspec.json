@@ -1,0 +1,31 @@
+{
+  "name": "YNRotateScaleView",
+  "version": "0.0.3",
+  "summary": "YNRotateScaleView",
+  "description": "A View that can be rotated and scaled.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/YNRotateScaleView",
+  "license": {
+    "type": "MIT",
+    "file": "FILE_LICENSE"
+  },
+  "authors": {
+    "liyangly": "foreverleely@hotmail.com"
+  },
+  "platforms": {
+    "ios": "5.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YNRotateScaleView.git",
+    "tag": "0.0.3"
+  },
+  "source_files": [
+    "YNRotateScaleView",
+    "YNRotateScaleView/*.{h,m}"
+  ],
+  "resources": "YNRotateScaleView/RSimage.bundle",
+  "dependencies": {
+    "Masonry": [
+
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "OYIndex",
+  "version": "2.0.0",
+  "summary": "just OYIndex.",
+  "description": "just OYIndex test",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/OYIndex",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "oyxc": "346215934@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/OYIndex.git",
+    "tag": "2.0.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "OYIndex/Classes/**/*",
+  "dependencies": {
+    "ZJNet": [
+
+    ]
+  }
+}

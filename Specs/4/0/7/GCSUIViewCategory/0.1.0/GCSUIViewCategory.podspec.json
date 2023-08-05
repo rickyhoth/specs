@@ -1,0 +1,22 @@
+{
+  "name": "GCSUIViewCategory",
+  "version": "0.1.0",
+  "summary": "GCSUIViewCategory.",
+  "description": "TODO: Add long description of the pod here.GCSUIViewCategory",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/GCSUIViewCategory",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "guochaoshun": "657257897@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/GCSUIViewCategory.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "GCSUIViewCategory/Classes/**/*"
+}

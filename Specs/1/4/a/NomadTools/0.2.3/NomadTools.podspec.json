@@ -1,0 +1,35 @@
+{
+  "name": "NomadTools",
+  "version": "0.2.3",
+  "summary": "Various Development tools for XCode & iOS Swift",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/NomadTools",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "justinackermann": "justinackermann@yahoo.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/NomadTools.git",
+    "branch": "master",
+    "tag": "0.2.3"
+  },
+  "platforms": {
+    "ios": "12.0"
+  },
+  "source_files": "NomadTools/Classes/**/*",
+  "frameworks": [
+    "UIKit",
+    "MapKit",
+    "CoreLocation"
+  ],
+  "dependencies": {
+    "CodableFirebase": [
+
+    ],
+    "PromiseKit": [
+
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "ETBlockFormatter",
+  "version": "1.0",
+  "summary": "Easy-to-use block formatter.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ETBlockFormatter",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Evgeniy": "evgeniytka4enko@gmail.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ETBlockFormatter.git",
+    "tag": "1.0"
+  },
+  "source_files": "Classes/*.{h,m}",
+  "requires_arc": true
+}

@@ -1,0 +1,19 @@
+{
+  "name": "SwiftOverlays",
+  "version": "2.0.1",
+  "license": "MIT",
+  "summary": "GUI library for displaying various popups and notifications",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwiftOverlays",
+  "authors": {
+    "Peter Prokop": "prokop.petr@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwiftOverlays.git",
+    "tag": "2.0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": "true",
+  "source_files": "SwiftOverlays/*.swift"
+}

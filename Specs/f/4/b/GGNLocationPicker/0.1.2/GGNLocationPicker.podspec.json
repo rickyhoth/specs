@@ -1,0 +1,21 @@
+{
+  "name": "GGNLocationPicker",
+  "version": "0.1.2",
+  "summary": "Easily present a view controller for picking a location.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/GGNLocationPicker",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Garric Nahapetian": "garricn@icloud.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/GGNLocationPicker.git",
+    "tag": "0.1.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "GGNLocationPicker/Classes/**/*"
+}

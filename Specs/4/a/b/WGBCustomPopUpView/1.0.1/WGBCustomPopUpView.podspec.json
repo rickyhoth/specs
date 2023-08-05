@@ -1,0 +1,22 @@
+{
+  "name": "WGBCustomPopUpView",
+  "version": "1.0.1",
+  "summary": "一个简单通用的弹窗组件,可定制化自定义/各种弹窗样式",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WGBCustomPopUpView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Wangguibin": "864562082@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WGBCustomPopUpView.git",
+    "tag": "1.0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "WGBCustomPopUpView/Classes/**/*"
+}

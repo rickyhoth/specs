@@ -1,0 +1,24 @@
+{
+  "name": "GTCore",
+  "version": "0.0.1",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "summary": "Things you'll miss once you stop using them!",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/GTCore",
+  "authors": {
+    "Mario Galijot": "galijot11@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/GTCore.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "ios": {
+    "vendored_frameworks": "GTCore.framework"
+  }
+}

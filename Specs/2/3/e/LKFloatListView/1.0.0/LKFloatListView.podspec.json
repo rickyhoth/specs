@@ -1,0 +1,29 @@
+{
+  "name": "LKFloatListView",
+  "version": "1.0.0",
+  "summary": "a test for LKFloatListView",
+  "description": "LKFloatListView for iOS",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LKFloatingListView",
+  "license": "MIT",
+  "authors": {
+    "kevin00223": "likai.new@gmail.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LKFloatingListView.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "FloatListView",
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ],
+  "requires_arc": true,
+  "dependencies": {
+    "Masonry": [
+
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "RKFoundationExtensions",
+  "version": "0.1.0",
+  "summary": "Foundation Extensions",
+  "description": "Foundation Extensions\n\n0.1.0\n  Init",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/RKFoundationExtensions",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "DaskiOFF": "waydeveloper@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/RKFoundationExtensions.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "Sources/**/*",
+  "frameworks": "Foundation"
+}

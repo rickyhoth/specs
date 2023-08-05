@@ -1,0 +1,23 @@
+{
+  "name": "IQCircularProgressView",
+  "version": "1.0.0",
+  "summary": "Circular progress view with progress and indeterminant states.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/IQCircularProgressView",
+  "screenshots": "https://raw.githubusercontent.com/hackiftekhar/IQCircularProgressView/master/Screenshot/Screenshot.jpg",
+  "license": "MIT",
+  "authors": {
+    "Iftekhar Qurashi": "hack.iftekhar@gmail.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/IQCircularProgressView.git",
+    "tag": "v1.0.0"
+  },
+  "source_files": [
+    "Classes",
+    "IQCircularProgressView/*.{h,m}"
+  ],
+  "requires_arc": true
+}

@@ -1,0 +1,19 @@
+{
+  "name": "RNThemeManager",
+  "version": "0.0.1",
+  "summary": "Manage multiple themes in plists and change your themes at runtime.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/RNThemeManager",
+  "license": "MIT (RNThemeManager)",
+  "authors": {
+    "Ryan Nystrom": "rnystrom@whoisryannystrom.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/RNThemeManager.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": null
+  },
+  "source_files": "Source",
+  "requires_arc": true
+}

@@ -1,0 +1,22 @@
+{
+  "name": "UBICoreData",
+  "version": "0.0.5",
+  "summary": "CoreData wrapper for iOS",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/UBICoreData",
+  "license": {
+    "type": "MIT"
+  },
+  "authors": {
+    "Yuki Yasoshima": "yasoshima@ubiregi.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/UBICoreData.git",
+    "tag": "0.0.5"
+  },
+  "source_files": "UBICoreData/*",
+  "frameworks": "CoreData"
+}

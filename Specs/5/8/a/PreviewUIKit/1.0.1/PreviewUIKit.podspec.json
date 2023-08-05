@@ -1,0 +1,21 @@
+{
+  "name": "PreviewUIKit",
+  "version": "1.0.1",
+  "license": {
+    "type": "MIT"
+  },
+  "description": "Code-based UI with Preview",
+  "summary": "Canvas Preview for UIKit",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/UIPreview",
+  "authors": {
+    "Ilya Shkolnik": "dev@darknessproduction.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/UIPreview.git",
+    "tag": "1.0.1"
+  },
+  "source_files": "PreviewUIKit/**/*.{swift,m,h}"
+}

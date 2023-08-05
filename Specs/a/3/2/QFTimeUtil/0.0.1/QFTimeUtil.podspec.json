@@ -1,0 +1,19 @@
+{
+  "name": "QFTimeUtil",
+  "version": "0.0.1",
+  "license": "MIT",
+  "summary": "时间工具",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/0.0.1",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/QFTimeUtil.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "TimeUtil/*.{h,m}",
+  "requires_arc": true,
+  "platforms": {
+    "ios": "7.0"
+  },
+  "authors": {
+    "sFeiYu": "1208126673@qq.com"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "MYPXXOOPodXXOO",
+  "version": "0.2.0",
+  "summary": "Pod Test.",
+  "description": "Test for Pod since my pod has bug.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MYPXXOOPodXXOO",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wakary": "redoume@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MYPXXOOPodXXOO.git",
+    "tag": "0.2.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "MYPXXOOPodXXOO/Classes/**/*.swift",
+  "swift_version": "4.0",
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ]
+}

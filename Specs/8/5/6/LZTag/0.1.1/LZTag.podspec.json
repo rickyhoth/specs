@@ -1,0 +1,22 @@
+{
+  "name": "LZTag",
+  "version": "0.1.1",
+  "summary": "ios swift 标签选择器 tag Label selector",
+  "description": "ios swift 标签选择器 tag Label selector",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LZTag",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lizhi0123": "1056522750@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LZTag.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "LZTag/Classes/**/*"
+}

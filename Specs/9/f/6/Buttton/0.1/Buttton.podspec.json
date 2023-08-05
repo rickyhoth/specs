@@ -1,0 +1,21 @@
+{
+  "name": "Buttton",
+  "version": "0.1",
+  "license": {
+    "type": "MIT"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Buttton",
+  "authors": {
+    "Damien": "damien@delba.io"
+  },
+  "summary": "A supercharged UIButton",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Buttton.git",
+    "tag": "v0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Source/*.swift",
+  "requires_arc": true
+}

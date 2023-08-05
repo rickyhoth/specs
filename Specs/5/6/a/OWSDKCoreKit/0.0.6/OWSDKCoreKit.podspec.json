@@ -1,0 +1,31 @@
+{
+  "name": "OWSDKCoreKit",
+  "version": "0.0.6",
+  "summary": "OfferWowSDK OWSDKCoreKit for iOS",
+  "description": "OfferWowSDK OWSDKCoreKit for iOS",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/OfferWowSDK.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "frank_xing": "frank_xing@ignite-vision.com"
+  },
+  "source": {
+    "http": "https://bitbucket.devops.nonprod.empf.local/scm/react/OWSDKCoreKitObjectC.framework.zip"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "ios": {
+    "vendored_frameworks": "OWSDKCoreKitObjectC.framework"
+  },
+  "dependencies": {
+    "AFNetworking": [
+
+    ],
+    "OWSDKModelKit": [
+
+    ]
+  }
+}

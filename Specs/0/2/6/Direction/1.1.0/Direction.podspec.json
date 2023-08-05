@@ -1,0 +1,23 @@
+{
+  "name": "Direction",
+  "version": "1.1.0",
+  "summary": "Easy route search",
+  "description": "Direction for Google Map for iOS SDK",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Direction",
+  "license": "MIT",
+  "authors": {
+    "keisuke": "jam330157@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Direction.git",
+    "tag": "1.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": [
+    "Source",
+    "Source/*.swift"
+  ],
+  "pushed_with_swift_version": "3.2"
+}

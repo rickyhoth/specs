@@ -1,0 +1,23 @@
+{
+  "name": "ShotBlocker",
+  "version": "0.0.3",
+  "summary": "Detecting iOS screenshots ala Snapchat and Facebook Poke.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/shotblocker",
+  "authors": {
+    "Clay Allsopp": "clay.allsopp@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ShotBlocker.git",
+    "tag": "0.0.3"
+  },
+  "platforms": {
+    "ios": "5.0"
+  },
+  "source_files": "ShotBlocker/*.{h,m}",
+  "frameworks": "AssetsLibrary",
+  "requires_arc": true,
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  }
+}

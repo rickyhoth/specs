@@ -1,0 +1,20 @@
+{
+  "name": "GSSideMenu",
+  "version": "0.1",
+  "license": "MIT",
+  "summary": "A small & simple side menu using UIDynamics",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/GSSideMenu",
+  "authors": {
+    "0x5e": "0x5e@sina.cn"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/GSSideMenu.git",
+    "tag": "0.1"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "GSSideMenu/*",
+  "frameworks": "UIKit"
+}

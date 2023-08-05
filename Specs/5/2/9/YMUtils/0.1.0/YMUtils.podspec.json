@@ -1,0 +1,22 @@
+{
+  "name": "YMUtils",
+  "version": "0.1.0",
+  "summary": "YMUtils",
+  "description": "App底层工具类模块",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/YMUtils",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Yongming": "sadusaga@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YMUtils.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YMUtils/Classes/**/*"
+}

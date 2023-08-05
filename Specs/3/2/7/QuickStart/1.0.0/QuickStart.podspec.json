@@ -1,0 +1,26 @@
+{
+  "name": "QuickStart",
+  "version": "1.0.0",
+  "summary": "A framework for you to quickly start a iOS project.",
+  "description": "\"A framework for you to quickly start a iOS project.\"",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/QuickStart",
+  "license": {
+    "type": "GPL-3.0",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhuxiangpeng": "zxpwork@gmail.com"
+  },
+  "platforms": {
+    "ios": null
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/QuickStart.git",
+    "tag": "1.0.0"
+  },
+  "source_files": [
+    "QuickStart",
+    "QuickStart/**/*.{h,m}"
+  ],
+  "exclude_files": "Classes/Exclude"
+}

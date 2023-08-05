@@ -1,0 +1,24 @@
+{
+  "name": "MZMLModels",
+  "version": "0.1.1",
+  "summary": "FUN MZMLModels.",
+  "description": "This is a ML model for an application. It is very meaningful.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MZMLModelsLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "derek-x-wang": "derekxinzhewang@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MZMLModelsLib.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "ios": {
+    "vendored_frameworks": "MZMLModels.framework"
+  }
+}

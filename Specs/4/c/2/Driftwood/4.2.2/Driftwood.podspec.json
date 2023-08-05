@@ -1,0 +1,23 @@
+{
+  "name": "Driftwood",
+  "version": "4.2.2",
+  "summary": "A lightweight, pure-Swift library for AutoLayout.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Driftwood",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wlgemini": "wangluguang@live.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Driftwood.git",
+    "tag": "4.2.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Driftwood/Classes/**/*",
+  "swift_version": "4.2",
+  "frameworks": "UIKit"
+}

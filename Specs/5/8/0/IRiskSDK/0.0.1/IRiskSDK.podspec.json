@@ -1,0 +1,27 @@
+{
+  "name": "IRiskSDK",
+  "version": "0.0.1",
+  "summary": "wang",
+  "description": "wang-sdk",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/IRiskSDK",
+  "license": {
+    "type": "MIT"
+  },
+  "authors": {
+    "王猛": ""
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/IRiskSDK.git",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "IRiskSDK.Framework",
+    "IRiskSDK.Framework/**/*.{h,m}"
+  ],
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}

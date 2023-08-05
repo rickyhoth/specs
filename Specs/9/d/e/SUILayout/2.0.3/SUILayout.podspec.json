@@ -1,0 +1,26 @@
+{
+  "name": "SUILayout",
+  "version": "2.0.3",
+  "summary": "Modern SwiftUI layout DSL",
+  "description": "Modern SwiftUI layout DSL, inspired by SnapKit.\nKeywords: SwiftUI, Layout, Sizing, Sizes, Autoresizing, SnapKit, Swift, Alignment",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SUILayout",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "mx-Cat": "id.maximkrouk@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SUILayout.git",
+    "tag": "2.0.3"
+  },
+  "social_media_url": "https://twitter.com/maximkrouk",
+  "platforms": {
+    "ios": "13.0"
+  },
+  "source_files": "SUILayout/Classes/**/*",
+  "frameworks": "SwiftUI",
+  "swift_versions": "5.1",
+  "swift_version": "5.1"
+}

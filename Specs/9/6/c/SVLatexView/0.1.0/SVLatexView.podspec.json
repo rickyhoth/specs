@@ -1,0 +1,22 @@
+{
+  "name": "SVLatexView",
+  "version": "0.1.0",
+  "summary": "Math equation rendering on iOS",
+  "description": "Math equation rendering on iOS using MathJax and WebKit",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SVLatexView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Mazorati": "alex@svntech.ru"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SVLatexView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SVLatexView/Classes/**/*"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "NudeIn",
+  "version": "1.2.1-beta",
+  "summary": "A attributed text component like masonry.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Nudeln",
+  "license": "MIT",
+  "authors": {
+    "HJ-Cai": "lj_chj@126.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Nudeln.git",
+    "tag": "1.2.1-beta"
+  },
+  "source_files": [
+    "NudeIn",
+    "NudeIn/**/*.{h,m}"
+  ],
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ]
+}

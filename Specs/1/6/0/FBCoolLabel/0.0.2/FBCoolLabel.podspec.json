@@ -1,0 +1,22 @@
+{
+  "name": "FBCoolLabel",
+  "version": "0.0.2",
+  "summary": "A short description of FBCoolLabel.",
+  "description": "flybrother is cool",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/FBCoolLabel",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Xiang Li": "lixiang@baixing.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/FBCoolLabel.git",
+    "tag": "0.0.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FBCoolLabel/Classes/**/*"
+}

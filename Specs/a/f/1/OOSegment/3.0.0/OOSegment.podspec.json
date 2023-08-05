@@ -1,0 +1,22 @@
+{
+  "name": "OOSegment",
+  "version": "3.0.0",
+  "summary": "oosegment pageviewcontroller navigatioin",
+  "description": "navigation segment bar pageViewController cursor",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/OOSegmentViewController",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lijianwei": "lijianwei.jj@gmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/OOSegmentViewController.git",
+    "tag": "3.0.0"
+  },
+  "source_files": "OOSegmentViewController/OO*.swift"
+}

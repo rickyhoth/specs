@@ -1,0 +1,17 @@
+{
+  "name": "Paralayout",
+  "version": "0.8",
+  "license": "Apache License, Version 2.0",
+  "summary": "Paralayout is a simple set of assistive UI layout utilities. Size and position your UI with pixel-perfect precision. Design will love you!",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Paralayout",
+  "authors": "Square",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Paralayout.git",
+    "tag": "0.8"
+  },
+  "source_files": "Paralayout/*.{swift}",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "pushed_with_swift_version": "3.0"
+}

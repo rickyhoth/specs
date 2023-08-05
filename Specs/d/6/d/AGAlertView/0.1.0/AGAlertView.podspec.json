@@ -1,0 +1,24 @@
+{
+  "name": "AGAlertView",
+  "version": "0.1.0",
+  "summary": "Custom Good Looking Alert View",
+  "description": "Custom UIAlertView",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AGAlertView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "azattgoktas@gmail.com": "azattgoktas@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AGAlertView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "AGAlertView/Classes/**/*",
+  "resources": "AGAlertView/Assets/*.xcassets",
+  "frameworks": "UIKit"
+}

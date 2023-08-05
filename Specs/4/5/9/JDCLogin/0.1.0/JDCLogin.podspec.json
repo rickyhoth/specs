@@ -1,0 +1,22 @@
+{
+  "name": "JDCLogin",
+  "version": "0.1.0",
+  "summary": "A short description of JDCLogin.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JDCLogin",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "jdc1215": "jiangdc@xym-group.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JDCLogin.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "JDCLogin/Classes/**/*"
+}

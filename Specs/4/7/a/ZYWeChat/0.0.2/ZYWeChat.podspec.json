@@ -1,0 +1,28 @@
+{
+  "name": "ZYWeChat",
+  "version": "0.0.2",
+  "summary": "A short description of ZYWeChat",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/reactZYWeChat",
+  "license": "MIT",
+  "authors": {
+    "yong": "zhyo0911@163.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/reactZYWeChat.git",
+    "tag": "0.0.2"
+  },
+  "source_files": "WechatSDK/*.{h,m}",
+  "frameworks": [
+    "SystemConfiguration",
+    "Security",
+    "CoreTelephony",
+    "CFNetwork"
+  ],
+  "requires_arc": true,
+  "xcconfig": {
+    "HEADER_SEARCH_PATHS": "$(SDKROOT)/usr/include/libxml2"
+  }
+}

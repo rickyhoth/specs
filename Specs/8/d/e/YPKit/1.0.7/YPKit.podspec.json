@@ -1,0 +1,19 @@
+{
+  "name": "YPKit",
+  "version": "1.0.7",
+  "summary": "常用代码封装.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/YPKit",
+  "license": "MIT",
+  "authors": {
+    "Ping Yu": "290180695@qq.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YPKit.git",
+    "tag": "1.0.7"
+  },
+  "source_files": "YPKit/YPKit/**/*",
+  "requires_arc": true
+}

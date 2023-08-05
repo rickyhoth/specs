@@ -1,0 +1,21 @@
+{
+  "name": "LoaderButton",
+  "version": "1.0.1",
+  "summary": "LoaderButton is a very interesting animation loading button",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LoaderButton",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Jovins": "jovinscoder@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LoaderButton.git",
+    "tag": "1.0.1"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "LoaderButton/**/*"
+}

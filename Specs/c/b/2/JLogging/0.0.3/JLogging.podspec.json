@@ -1,0 +1,29 @@
+{
+  "name": "JLogging",
+  "version": "0.0.3",
+  "summary": "Integrates Teww",
+  "description": "Integrates qwefwe Teww tegrates qwefwe Teww tegrates qwefwe Teww Integrates qwefwe Teww tegrates qwefwe",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JLogging",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Jhanvi": "jhanvi.it@gmail.com"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JLogging.git",
+    "tag": "0.0.3"
+  },
+  "ios": {
+    "vendored_frameworks": "JLogging.framework"
+  },
+  "dependencies": {
+    "Alamofire": [
+
+    ]
+  }
+}

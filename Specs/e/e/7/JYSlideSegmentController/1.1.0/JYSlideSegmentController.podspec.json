@@ -1,0 +1,19 @@
+{
+  "name": "JYSlideSegmentController",
+  "version": "1.1.0",
+  "license": "MIT",
+  "summary": "JYSlideSegmentController is a view controllers container, just like the UITabBarController, with smooth gesture.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JYSlideSegmentController",
+  "authors": {
+    "Alvin": "goldfish.jinyu@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JYSlideSegmentController.git",
+    "tag": "1.1.0"
+  },
+  "requires_arc": true,
+  "source_files": "JYSlideSegmentController/Source/**/*.{h,m}",
+  "platforms": {
+    "ios": "6.0"
+  }
+}

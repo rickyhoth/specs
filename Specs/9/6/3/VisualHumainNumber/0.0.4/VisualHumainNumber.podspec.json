@@ -1,0 +1,23 @@
+{
+  "name": "VisualHumainNumber",
+  "version": "0.0.4",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "summary": "Display big number with abbreviation",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/VisualHumainNumber",
+  "authors": {
+    "Billa Norbert": "norbert.billa@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/VisualHumainNumber.git",
+    "tag": "V0.0.4"
+  },
+  "source_files": "SRC/*.{swift}",
+  "requires_arc": true,
+  "frameworks": "Foundation"
+}

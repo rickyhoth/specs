@@ -1,0 +1,23 @@
+{
+  "name": "SwiftProgressBar",
+  "version": "0.1.2",
+  "summary": "Progress Bar",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwiftProgressBar",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "aman": "arahann.dev@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwiftProgressBar.git",
+    "tag": "0.1.2"
+  },
+  "platforms": {
+    "ios": "12.0"
+  },
+  "source_files": "SwiftProgressBar/classes/**/*.swift",
+  "swift_version": "4.0"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "QKPhotoBrowser",
+  "version": "0.1.0",
+  "summary": "QKPhotoBrowser.",
+  "description": "TODO: 图片浏览.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/QKPhotoBrowser",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "huahong": "2330669775@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/QKPhotoBrowser.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "QKPhotoBrowser/Classes/*.{h,m,swift}",
+  "dependencies": {
+    "SDWebImage": [
+      "~> 4.2.3"
+    ]
+  }
+}

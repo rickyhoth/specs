@@ -1,0 +1,22 @@
+{
+  "name": "LiLCycleScrollViewDemo",
+  "version": "0.2.0",
+  "summary": "这是一个强大的轮播库",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LiLCycleScrollViewDemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "llhlj": "1608968113@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LiLCycleScrollViewDemo.git",
+    "tag": "0.2.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LiLCycleScrollViewDemo/Classes/*.{h,m}"
+}

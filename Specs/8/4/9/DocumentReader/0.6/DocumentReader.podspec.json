@@ -1,0 +1,27 @@
+{
+  "name": "DocumentReader",
+  "version": "0.6",
+  "summary": "DocumentReader framework",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DocumentReader",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "RegulaForensics": "dzmitry.smaliakou@regula.by"
+  },
+  "source": {
+    "http": "https://bitbucket.devops.nonprod.empf.local/scm/react/DocumentReader/raw/master/DocumentReader.zip"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "ios": {
+    "vendored_frameworks": "DocumentReader.framework"
+  },
+  "dependencies": {
+    "DocumentReaderCore": [
+
+    ]
+  }
+}

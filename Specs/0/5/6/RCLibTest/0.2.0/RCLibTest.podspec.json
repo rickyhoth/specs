@@ -1,0 +1,27 @@
+{
+  "name": "RCLibTest",
+  "version": "0.2.0",
+  "summary": "this is just a demo for RCLibTest.this is just a demo for RCLibTest.",
+  "description": "RCLibTest is a demo.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/RCLibTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "justBigger": "dazo@10host.top"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/RCLibTest.git",
+    "tag": "0.2.0"
+  },
+  "requires_arc": true,
+  "platforms": {
+    "ios": "8.0"
+  },
+  "ios": {
+    "preserve_paths": "RCTestLib.framework",
+    "vendored_frameworks": "RCTestLib.framework"
+  },
+  "frameworks": "Foundation"
+}

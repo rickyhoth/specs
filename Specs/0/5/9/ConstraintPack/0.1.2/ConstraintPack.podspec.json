@@ -1,0 +1,22 @@
+{
+  "name": "ConstraintPack",
+  "version": "0.1.2",
+  "summary": "auto layout constraint Pack.",
+  "description": "TODO: In order to use ConstraintPack conveniently. Suport iOS and macOS.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ConstraintPack.git",
+  "license": {
+    "type": "BSD",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "tangzhentao": "tangzhentaoxl@sina.cn"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ConstraintPack.git",
+    "tag": "0.1.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ConstraintPack/Classes/**/*"
+}

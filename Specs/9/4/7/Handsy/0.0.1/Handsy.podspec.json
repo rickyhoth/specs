@@ -1,0 +1,19 @@
+{
+  "name": "Handsy",
+  "version": "0.0.1",
+  "license": "MIT",
+  "platforms": {
+    "ios": "6.0"
+  },
+  "summary": "A bunch of iOS classes and extensions used for simulating gestures.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Handsy",
+  "authors": {
+    "Ryan Davies": "ryan@ryandavies.net"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Handsy.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "Handsy/*.{h,m}",
+  "requires_arc": true
+}

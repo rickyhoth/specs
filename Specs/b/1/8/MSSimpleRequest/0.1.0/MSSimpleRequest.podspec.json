@@ -1,0 +1,22 @@
+{
+  "name": "MSSimpleRequest",
+  "version": "0.1.0",
+  "summary": "A short description of MSSimpleRequest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MSSimpleRequest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "MaherKSantina": "maher.santina90@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MSSimpleRequest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MSSimpleRequest/Classes/**/*"
+}

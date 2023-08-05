@@ -1,0 +1,32 @@
+{
+  "name": "BeeTranslateSDK",
+  "version": "0.1.0",
+  "summary": "translate sdk",
+  "description": "0.0.x:基础功能",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "5hito": "beemans@foxmail.com"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/BeeTranslateSDK",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/BeeTranslateSDK.git",
+    "tag": "0.1.0"
+  },
+  "source_files": "lib/Header/*.h",
+  "resources": "lib/Resources/*.bundle",
+  "requires_arc": true,
+  "platforms": {
+    "ios": "8.0"
+  },
+  "ios": {
+    "vendored_libraries": "lib/libBeeTranslateSDK.a"
+  },
+  "dependencies": {
+    "AFNetworking": [
+
+    ]
+  }
+}

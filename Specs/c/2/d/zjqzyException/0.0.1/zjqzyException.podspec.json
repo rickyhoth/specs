@@ -1,0 +1,23 @@
+{
+  "name": "zjqzyException",
+  "version": "0.0.1",
+  "license": "MIT",
+  "summary": "简介",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/zjqzyException",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/zjqzyException.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "zjqzyException/*.{h,m}",
+  "requires_arc": true,
+  "platforms": {
+    "ios": "9.0"
+  },
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ],
+  "authors": {
+    "BY": "zjqzy03080312@163.com"
+  }
+}

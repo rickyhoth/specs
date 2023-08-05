@@ -1,0 +1,27 @@
+{
+  "name": "PrahaladSwift",
+  "version": "0.1.1",
+  "summary": "A short description of PrahaladSwift.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/PrahaladSwift",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "prahaladdemo": "ravi.sharma@fullestop.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/PrahaladSwift.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source_files": "PrahaladSwift/Classes/**/*",
+  "dependencies": {
+    "Alamofire": [
+      "~> 5.2"
+    ]
+  }
+}

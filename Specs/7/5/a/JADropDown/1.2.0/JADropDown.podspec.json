@@ -1,0 +1,24 @@
+{
+  "name": "JADropDown",
+  "version": "1.2.0",
+  "summary": "This is simple drop down.",
+  "description": "This is JA DropDwon with singleSelection And Multiplection",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JADropDown.git",
+  "license": "MIT",
+  "authors": {
+    "jitendra": "agarwal.jitendra9@gmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JADropDown.git",
+    "tag": "1.2.0"
+  },
+  "source_files": [
+    "JADropDown",
+    "JADropDown/**/*.{h,m}"
+  ],
+  "resources": "JADropDown/resource/*.{xib}",
+  "requires_arc": true
+}

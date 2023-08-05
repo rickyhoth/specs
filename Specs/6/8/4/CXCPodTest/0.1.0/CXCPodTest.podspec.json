@@ -1,0 +1,26 @@
+{
+  "name": "CXCPodTest",
+  "version": "0.1.0",
+  "summary": "CXCPodTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CXCPodTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "chenxican": "chenxican@meituan.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CXCPodTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CXCPodTest/Classes/**/*",
+  "frameworks": [
+    "UIKit",
+    "MapKit"
+  ]
+}

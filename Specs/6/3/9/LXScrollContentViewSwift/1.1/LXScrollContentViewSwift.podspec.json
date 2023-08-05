@@ -1,0 +1,20 @@
+{
+  "name": "LXScrollContentViewSwift",
+  "version": "1.1",
+  "summary": "LXScrollContentViewSwift",
+  "description": "LXScrollContentViewSwift desc",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LXScollContentViewSwift",
+  "license": "MIT",
+  "authors": {
+    "liuxing": "liuxinghenau@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LXScollContentViewSwift",
+    "tag": "1.1"
+  },
+  "source_files": "LXScrollContentView/LXScrollContentViewLib/**/*.swift",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "pushed_with_swift_version": "3.0"
+}

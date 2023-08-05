@@ -1,0 +1,23 @@
+{
+  "name": "MozzatTextF",
+  "version": "0.0.2",
+  "summary": "sss",
+  "description": "测试cocoapods项目",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MozzatTextF",
+  "license": "MIT",
+  "authors": {
+    "Mozzat": "taogroups@163.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MozzatTextF.git",
+    "tag": "0.0.2"
+  },
+  "source_files": [
+    "MozzatTextF.h",
+    "MozzatTextF.m"
+  ],
+  "exclude_files": "Classes/Exclude"
+}

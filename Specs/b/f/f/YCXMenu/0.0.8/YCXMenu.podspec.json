@@ -1,0 +1,24 @@
+{
+  "name": "YCXMenu",
+  "version": "0.0.8",
+  "summary": "TCXMenu is an easy-to-use menu.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/YCXMenuDemo_ObjC",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": "aster0id",
+  "social_media_url": "http://weibo.com/aster0id",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YCXMenuDemo_ObjC.git",
+    "tag": "0.0.8"
+  },
+  "source_files": "YCXMenuDemo_ObjC/YCXMenu/*.{h,m}",
+  "frameworks": [
+    "UIKit",
+    "QuartzCore"
+  ]
+}

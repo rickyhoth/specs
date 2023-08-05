@@ -1,0 +1,20 @@
+{
+  "name": "CHZTools",
+  "version": "1.0.0",
+  "summary": "个人实用工具",
+  "description": "暂无详细介绍",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CHZTools.git",
+  "license": "MIT",
+  "authors": {
+    "chizheng": "1119399069@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CHZTools.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "Tools/*.{h,m}",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "frameworks": "UIKit"
+}

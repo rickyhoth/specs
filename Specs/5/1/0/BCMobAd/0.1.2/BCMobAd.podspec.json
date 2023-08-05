@@ -1,0 +1,24 @@
+{
+  "name": "BCMobAd",
+  "version": "0.1.2",
+  "summary": "A short description of BCMobAd.",
+  "description": "SDK介绍",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/BCMobAd",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "coder-zy": "zhangyang@baice100.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/BCMobAd.git",
+    "tag": "0.1.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "BCMobAd/Classes/**/*",
+  "frameworks": "CoreTelephony",
+  "vendored_libraries": "BCMobAd/Classes/*.{a}"
+}

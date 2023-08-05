@@ -1,0 +1,28 @@
+{
+  "name": "EJCalendar",
+  "version": "0.0.1",
+  "summary": "a calendar for choosing time interval",
+  "description": "A calendar which you can use to choose a time interval。",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/EJCalendar",
+  "license": "MIT",
+  "authors": {
+    "xiacheng": "15757172115@163.com"
+  },
+  "platforms": {
+    "ios": null
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/EJCalendar.git",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "CalendarViewController",
+    "CalendarViewController/*.{h，m}"
+  ],
+  "public_header_files": [
+    "CalendarViewController/CalendarViewController.h",
+    "CalendarViewController/CalendarView.h",
+    "CalendarViewController/CalendarDelegate.h"
+  ],
+  "requires_arc": true
+}

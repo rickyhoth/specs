@@ -1,0 +1,24 @@
+{
+  "name": "KVTimer",
+  "version": "0.5.0",
+  "summary": "The circular timer for iOS - KVTimer",
+  "description": "The circular timer for iOS With the countdown and the ability to change the design",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/KVTimer",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Vlad Kochergin": "kargod@ya.ru"
+  },
+  "platforms": {
+    "ios": null
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/KVTimer.git",
+    "tag": "0.5.0"
+  },
+  "source_files": "Classes/*.{h,m}",
+  "public_header_files": "Classes/*.h",
+  "requires_arc": true
+}

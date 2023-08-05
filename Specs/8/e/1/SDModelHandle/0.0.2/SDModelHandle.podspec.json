@@ -1,0 +1,29 @@
+{
+  "name": "SDModelHandle",
+  "version": "0.0.2",
+  "summary": "A Model handle framework",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SDModelHandle",
+  "license": "MIT",
+  "authors": {
+    "jisudong": "sudong@zaizhibo.tv"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SDModelHandle.git",
+    "tag": "0.0.2"
+  },
+  "frameworks": [
+    "Foundation",
+    "UIKit"
+  ],
+  "source_files": "SDModelHandle",
+  "requires_arc": true,
+  "subspecs": [
+    {
+      "name": "Animal",
+      "source_files": "SDModelHandle/SD*.{h,m}"
+    }
+  ]
+}

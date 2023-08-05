@@ -1,0 +1,18 @@
+{
+  "name": "CLAFluxDispatcher",
+  "version": "0.0.1",
+  "summary": "A port of Facebook's Flux Dispatcher to Objective-C",
+  "description": "                   A port of Facebook's Flux Dispatcher to Objective-C; see [https://bitbucket.devops.nonprod.empf.local/scm/react/flux](https://bitbucket.devops.nonprod.empf.local/scm/react/flux)\n",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CLAFluxDispatcher",
+  "license": "MIT",
+  "authors": {
+    "Clay Allsopp": "clay.allsopp@gmail.com"
+  },
+  "social_media_url": "http://twitter.com/clayallsopp",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CLAFluxDispatcher.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "CLAFluxDispatcher/CLAFluxDispatcher/Classes/**/*.{h,m}",
+  "requires_arc": true
+}

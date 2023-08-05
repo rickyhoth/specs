@@ -1,0 +1,20 @@
+{
+  "name": "PathKit",
+  "version": "0.1.0",
+  "summary": "Effortless path operations in Swift.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/PathKit",
+  "license": {
+    "type": "BSD",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Kyle Fuller": "inbox@kylefuller.co.uk"
+  },
+  "social_media_url": "http://twitter.com/kylefuller",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/PathKit.git",
+    "tag": "0.1.0"
+  },
+  "source_files": "PathKit.swift",
+  "requires_arc": true
+}

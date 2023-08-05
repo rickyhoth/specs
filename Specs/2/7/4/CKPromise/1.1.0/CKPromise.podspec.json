@@ -1,0 +1,23 @@
+{
+  "name": "CKPromise",
+  "version": "1.1.0",
+  "summary": "An implementation of Promises/A+ specification for ObjectiveC",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CKPromise",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CKPromise.git",
+    "tag": "1.1.0"
+  },
+  "license": {
+    "type": "MIT",
+    "file": "License.txt"
+  },
+  "authors": {
+    "Cristian Kocza": "cristik@cristik.com"
+  },
+  "platforms": {
+    "ios": "5.0",
+    "osx": "10.7"
+  },
+  "source_files": "CKPromise/**/*.{h,m}",
+  "requires_arc": true
+}

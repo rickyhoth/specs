@@ -1,0 +1,29 @@
+{
+  "name": "HCBPhotoBrowser",
+  "version": "1.0.0",
+  "summary": "An easy PhotoBrowser",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HCBPhotoBrowser",
+  "license": "MIT",
+  "authors": {
+    "spWang": "wsp810@163.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HCBPhotoBrowser.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "HCBPhotoBrowserDemo/HCBPhotoBrowserDemo/HCBPhotoBrowser/*.{h,m}",
+  "requires_arc": true,
+  "frameworks": [
+    "UIKit",
+    "ImageIO",
+    "Accelerate"
+  ],
+  "dependencies": {
+    "SDWebImage": [
+      "3.8.2"
+    ]
+  }
+}

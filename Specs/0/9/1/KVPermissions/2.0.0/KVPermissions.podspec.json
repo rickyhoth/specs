@@ -1,0 +1,22 @@
+{
+  "name": "KVPermissions",
+  "version": "2.0.0",
+  "summary": "Control your app permissions.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/KVPermissions.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Vu Van Khac": "khacvv0451@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/KVPermissions.git",
+    "tag": "2.0.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "KVPermissions/Classes/**/*"
+}

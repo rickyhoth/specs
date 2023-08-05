@@ -1,0 +1,20 @@
+{
+  "name": "LQCCategory",
+  "version": "1.0.5",
+  "summary": "MySelfUse~.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LQCCategory",
+  "license": "MIT",
+  "authors": {
+    "liangqicai-gitHub": "2468751795@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LQCCategory.git",
+    "tag": "1.0.5"
+  },
+  "source_files": "LQCCategory/**/*.{h,m}",
+  "frameworks": "UIKit",
+  "requires_arc": true
+}

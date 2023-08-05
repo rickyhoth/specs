@@ -1,0 +1,23 @@
+{
+  "name": "SampleLibrary66099",
+  "version": "1.0.0",
+  "summary": "Some sample package",
+  "license": {
+    "type": "MIT",
+    "file": "ios/LICENSE"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/rn-sample-module#readme",
+  "authors": {
+    "Pavel Lapin": "pavel@stryber.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/rn-sample-module.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "ios/SampleLibrary/Classes/**/*",
+  "requires_arc": true,
+  "deprecated": true
+}

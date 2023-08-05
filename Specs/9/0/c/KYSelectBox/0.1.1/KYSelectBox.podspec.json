@@ -1,0 +1,24 @@
+{
+  "name": "KYSelectBox",
+  "version": "0.1.1",
+  "summary": "Simple SelectBox Library",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/KYSelectBox",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Gangyeol Kim": "kkyy3402@naver.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/KYSelectBox.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "12.0"
+  },
+  "source_files": "KYSelectBox/Classes/**/*",
+  "swift_versions": "5.0",
+  "swift_version": "5.0"
+}

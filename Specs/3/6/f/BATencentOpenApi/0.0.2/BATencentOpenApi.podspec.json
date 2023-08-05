@@ -1,0 +1,23 @@
+{
+  "name": "BATencentOpenApi",
+  "version": "0.0.2",
+  "summary": "qq分享SDK",
+  "description": "fork qq分享SDK",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/BATencentOpenAPI",
+  "license": "LICENSE",
+  "authors": {
+    "fangmiaorui": "fangmiaorui@bitstarlight.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/BATencentOpenAPI.git",
+    "tag": "0.0.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "vendored_frameworks": "BATencentOpenApi/TencentOpenAPI/**/*.framework",
+  "frameworks": [
+    "SystemConfiguration",
+    "WebKit"
+  ]
+}

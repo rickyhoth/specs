@@ -1,0 +1,27 @@
+{
+  "name": "ViewModelBindable",
+  "version": "1.0.0",
+  "summary": "Super easy way to bind ViewModel",
+  "description": "ViewModelBindable supports easy ViewModel binding for MVVM architecture. ViewModelBindable will inject required method for binding into your ViewController & View life-cycle. Just enjoy it!",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ViewModelBindable",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "makesource": "makesource@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ViewModelBindable.git",
+    "tag": "v1.0.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ViewModelBindable/Classes/**/*",
+  "dependencies": {
+    "RxSwift": [
+      ">= 4.0.0"
+    ]
+  }
+}

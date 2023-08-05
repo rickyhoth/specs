@@ -1,0 +1,24 @@
+{
+  "name": "JCDB",
+  "version": "0.0.2",
+  "license": "MIT",
+  "summary": "A useful iOS database framework based on FMDB.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JCDB",
+  "authors": {
+    "ChenJianjun": "ioschen@foxmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JCDB.git",
+    "tag": "0.0.2"
+  },
+  "source_files": "JCDB/*.{h,m}",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "dependencies": {
+    "FMDB": [
+
+    ]
+  }
+}

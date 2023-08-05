@@ -1,0 +1,19 @@
+{
+  "name": "KYCircularProgress",
+  "version": "0.5.1",
+  "summary": "Flexible progress bar written in Swift.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/KYCircularProgress",
+  "license": "MIT",
+  "authors": {
+    "Kengo Yokoyama": "appknop@gmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/KYCircularProgress.git",
+    "tag": "0.5.1"
+  },
+  "source_files": "Source/*.swift",
+  "requires_arc": true
+}

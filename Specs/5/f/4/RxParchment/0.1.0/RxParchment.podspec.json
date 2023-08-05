@@ -1,0 +1,31 @@
+{
+  "name": "RxParchment",
+  "version": "0.1.0",
+  "summary": "A reactive wrapper built around Parchment",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/RxParchmentDataSources",
+  "license": {
+    "type": "MIT"
+  },
+  "authors": {
+    "Pubbus": "lephihungch@gmail.com"
+  },
+  "platforms": {
+    "ios": "8.2"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/RxParchmentDataSources.git",
+    "tag": "0.1.0"
+  },
+  "source_files": "RxParchment/Sources/**/*.swift",
+  "dependencies": {
+    "RxSwift": [
+
+    ],
+    "RxCocoa": [
+
+    ],
+    "Parchment": [
+
+    ]
+  }
+}

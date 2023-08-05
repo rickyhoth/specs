@@ -1,0 +1,22 @@
+{
+  "name": "WDAutoTrackSolutionKit",
+  "version": "0.1.0",
+  "summary": "A short description of WDAutoTrackSolutionKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WDAutoTrackSolutionKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "weidongjiang": "275201991@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WDAutoTrackSolutionKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "WDAutoTrackSolutionKit/Classes/**/*"
+}

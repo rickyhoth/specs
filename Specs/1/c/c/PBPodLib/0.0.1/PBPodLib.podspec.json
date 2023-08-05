@@ -1,0 +1,25 @@
+{
+  "name": "PBPodLib",
+  "version": "0.0.1",
+  "summary": "PBPodLib.",
+  "description": "PBPodLib.++++++++",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/PBPodLib",
+  "license": "MIT",
+  "authors": {
+    "PBManager": "liupengboios@126.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/PBPodLib.git",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "Classes",
+    "Classes/**/*.{h,m}"
+  ],
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}

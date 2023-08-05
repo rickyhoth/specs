@@ -1,0 +1,22 @@
+{
+  "name": "HRMacros",
+  "version": "0.3.0",
+  "summary": "A short description of HRMacros.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HRMacros",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wowbby": "zhengzx@haierubic.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HRMacros.git",
+    "tag": "0.3.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HRMacros/Classes/**/*"
+}

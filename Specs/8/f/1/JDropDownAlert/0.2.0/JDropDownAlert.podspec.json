@@ -1,0 +1,23 @@
+{
+  "name": "JDropDownAlert",
+  "version": "0.2.0",
+  "summary": "DropDown Alert View",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JDropDownAlert",
+  "license": "MIT",
+  "authors": {
+    "trillione": "trillione1024@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JDropDownAlert.git",
+    "tag": "0.2.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "JDropDownAlert/Classes/**/*",
+  "resource_bundles": {
+    "JDropDownAlert": [
+      "JDropDownAlert/Assets/*.png"
+    ]
+  }
+}

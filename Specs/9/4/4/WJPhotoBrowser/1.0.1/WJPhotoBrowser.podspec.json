@@ -1,0 +1,29 @@
+{
+  "name": "WJPhotoBrowser",
+  "version": "1.0.1",
+  "summary": "A simple and easy to use image browser.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WJPhotoBrowser",
+  "license": "MIT",
+  "authors": {
+    "zwj": "niuszeng@sina.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WJPhotoBrowser.git",
+    "tag": "1.0.1"
+  },
+  "source_files": [
+    "WJPhotoBrowser",
+    "WJPhotoBrowser/*.{h,m}"
+  ],
+  "resources": "WJPhotoBrowser/images/*.png",
+  "frameworks": "UIKit",
+  "requires_arc": true,
+  "dependencies": {
+    "SDWebImage": [
+      "~> 3.7.2"
+    ]
+  }
+}

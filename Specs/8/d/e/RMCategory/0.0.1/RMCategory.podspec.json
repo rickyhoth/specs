@@ -1,0 +1,24 @@
+{
+  "name": "RMCategory",
+  "version": "0.0.1",
+  "summary": "RM Category",
+  "description": "通过obj添加category方法",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/RMCategory",
+  "license": "MIT",
+  "authors": {
+    "bruceSun": ""
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/RMCategory.git",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "RMCategory/RMCategory",
+    "RMCategory/*.{h,m}"
+  ],
+  "exclude_files": "RMCategory/Exclude",
+  "requires_arc": true
+}

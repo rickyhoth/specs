@@ -1,0 +1,22 @@
+{
+  "name": "Giraffe",
+  "version": "0.6.0",
+  "summary": "Lightweight & Elegant Networking Library in Swift",
+  "description": "Giraffe is a lightweight and elegant networking library in swift. The idea and most of codes comes from SwiftTalk.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Giraffe",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "derekcoder@gmail.com": "derekcoder@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Giraffe.git",
+    "tag": "0.6.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "Giraffe/Classes/**/*"
+}

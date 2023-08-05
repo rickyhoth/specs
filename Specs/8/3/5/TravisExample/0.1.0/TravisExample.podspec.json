@@ -1,0 +1,23 @@
+{
+  "name": "TravisExample",
+  "version": "0.1.0",
+  "summary": "A short description of TravisExample.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TravisExample",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Pavel Kondrashkov": "pkondrashkov@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TravisExample.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TravisExample/Classes/**/*",
+  "pushed_with_swift_version": "3.0"
+}

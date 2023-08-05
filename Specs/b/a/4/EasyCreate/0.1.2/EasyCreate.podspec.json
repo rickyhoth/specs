@@ -1,0 +1,22 @@
+{
+  "name": "EasyCreate",
+  "version": "0.1.2",
+  "summary": "Create UIView subclasses from .xib files easily.",
+  "description": "Create UIView subclasses from .xib files easily. Also create UIViewController subclasses from Storyboards easily.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/EasyCreate",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "kkendall33": "kkendall33@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/EasyCreate.git",
+    "tag": "0.1.2"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "EasyCreate/Classes/**/*"
+}

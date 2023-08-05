@@ -1,0 +1,22 @@
+{
+  "name": "SocarMasonFramework",
+  "version": "1.0.0",
+  "summary": "Test summary",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/frameworkSample",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "socar-mason": "mason@socar.kr"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/frameworkSample.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "13.4"
+  },
+  "source_files": "MasonFramework/*.swift"
+}

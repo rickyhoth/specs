@@ -1,0 +1,26 @@
+{
+  "name": "ConsoliAds-Mediation",
+  "version": "14.1.0",
+  "summary": "ConsoliAds-Mediation is used to mediate any adntework you want to integrate in your app in order to get Ad  servings.",
+  "description": "'ConsoliAds-Mediation is used to mediate any adntework you want to integrate in your app in order to get Ad servings.'",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ConsoliAds-Mediation",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "IntegrationConsoliAds": "integration@consoliads.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ConsoliAds-Mediation.git",
+    "tag": "14.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "vendored_frameworks": "ConsoliAds-Mediation/ConsoliAdsMediaition.xcframework",
+  "xcconfig": {
+    "OTHER_LDFLAGS": "-ObjC"
+  },
+  "static_framework": true
+}

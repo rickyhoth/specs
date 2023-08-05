@@ -1,0 +1,23 @@
+{
+  "name": "DeclarativeTableView",
+  "version": "0.0.1",
+  "summary": "Create list easily and declaratively.",
+  "license": "MIT",
+  "authors": {
+    "vkandel": "kandelvijaya@gmail.com"
+  },
+  "social_media_url": "https://twitter.com/kandelvijaya",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DeclarativeTableView",
+  "platforms": {
+    "ios": null
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DeclarativeTableView.git",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "DeclarativeTableView",
+    "DeclarativeTableView/**/*.{h,m}"
+  ],
+  "exclude_files": "Classes/Exclude"
+}

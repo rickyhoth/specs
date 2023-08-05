@@ -1,0 +1,22 @@
+{
+  "name": "GCXSteppedSlider",
+  "version": "0.1.0",
+  "summary": "A custom UISlider implementation with tappable intermediate steps.",
+  "description": "A custom, fully configurable UISlider implementation with tappable intermediate steps.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/GCXSteppedSlider",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Timo Josten": "timo.josten@grandcentrix.net"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/GCXSteppedSlider.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "GCXSteppedSlider/Classes/**/*"
+}

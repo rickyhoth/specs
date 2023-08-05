@@ -1,0 +1,16 @@
+{
+  "name": "JanusWebGate",
+  "version": "0.1.0",
+  "authors": {
+    "Igor Kh": "igor.kh.mail@gmail.com"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JanusAudioStreamPlayer",
+  "summary": "Janus streaming API implementation in swift",
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source": {
+    "http": "https://bitbucket.devops.nonprod.empf.local/scm/react/JanusWebGate.framework.zip"
+  },
+  "vendored_frameworks": "JanusWebGate.framework"
+}

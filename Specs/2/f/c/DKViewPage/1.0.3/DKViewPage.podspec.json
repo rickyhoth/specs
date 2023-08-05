@@ -1,0 +1,22 @@
+{
+  "name": "DKViewPage",
+  "version": "1.0.3",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "summary": "A dankal viewPage to imitate android for iOS.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DKViewPage",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "bingozb": "454113692@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DKViewPage.git",
+    "tag": "v1.0.3"
+  },
+  "source_files": "DKViewPage/*.{h,m}",
+  "requires_arc": true
+}

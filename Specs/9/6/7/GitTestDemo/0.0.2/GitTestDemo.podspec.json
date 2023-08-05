@@ -1,0 +1,22 @@
+{
+  "name": "GitTestDemo",
+  "version": "0.0.2",
+  "summary": "AFN use test",
+  "description": "this is a test demo for pod",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/iOS",
+  "license": {
+    "type": "MIT",
+    "file": "FILE_LICENSE"
+  },
+  "authors": {
+    "竹香": "2603443950@qq.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/iOS.git",
+    "tag": "0.0.2"
+  },
+  "source_files": "GitTestDemo/**/*.{h,m}"
+}

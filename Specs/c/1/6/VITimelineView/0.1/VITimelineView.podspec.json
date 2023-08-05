@@ -1,0 +1,24 @@
+{
+  "name": "VITimelineView",
+  "version": "0.1",
+  "summary": "VITimelineView can represent any time base things. Made with fully customizable & extendable.",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/VITimelineView",
+  "authors": {
+    "Vito": "vvitozhang@gmail.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/VITimelineView.git",
+    "tag": "0.1"
+  },
+  "source_files": [
+    "VITimelineViewDemo/Source/**/*.{h,m}"
+  ],
+  "requires_arc": true
+}

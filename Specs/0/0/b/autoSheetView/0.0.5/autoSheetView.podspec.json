@@ -1,0 +1,27 @@
+{
+  "name": "autoSheetView",
+  "version": "0.0.5",
+  "module_name": "autoSheetView",
+  "summary": "Swift commonly",
+  "description": "Swift commonly 0.0.5",
+  "authors": {
+    "rui": "782924665@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/autoSheetView.git",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/autoSheetView.git",
+    "tag": "0.0.5"
+  },
+  "requires_arc": true,
+  "frameworks": "UIKit",
+  "swift_versions": "5.0",
+  "source_files": "source/*.swift",
+  "swift_version": "5.0"
+}

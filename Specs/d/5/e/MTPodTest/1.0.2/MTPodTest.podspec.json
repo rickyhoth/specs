@@ -1,0 +1,22 @@
+{
+  "name": "MTPodTest",
+  "version": "1.0.2",
+  "summary": "THIS IS A TEST FOR POD",
+  "description": "MAY BE IS WILL SUCESS FOR POD I WISH  SUCESS",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MTPodTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yotao": "yotao@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MTPodTest.git",
+    "tag": "1.0.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MTPodTest/Classes/**/*"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "DemoPodTesting",
+  "version": "1.1.0",
+  "summary": "A short description of DemoPodTesting.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DemoPodTesting",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Pratul Dawande": "pratul.dawande@unthinkable.co"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DemoPodTesting.git",
+    "tag": "1.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "DemoPodTesting/Classes/**/*"
+}

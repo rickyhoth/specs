@@ -1,0 +1,19 @@
+{
+  "name": "NXActionSheet",
+  "version": "0.1.0",
+  "summary": "A custom ActionSheet used in iOS.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/NXActionSheet",
+  "license": "MIT",
+  "authors": {
+    "nightx": "qufeng33@hotmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/NXActionSheet.git",
+    "tag": "0.1.0"
+  },
+  "source_files": "NXActionSheet/*.{h,m}",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true
+}

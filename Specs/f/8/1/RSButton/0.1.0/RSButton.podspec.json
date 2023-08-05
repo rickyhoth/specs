@@ -1,0 +1,22 @@
+{
+  "name": "RSButton",
+  "version": "0.1.0",
+  "summary": "summary——summary——summary——summary——summary——",
+  "description": "description——description——description——description——description——description——description——description——description——description——description——description——description——description——description——description——description——",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/RSButton",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "rsers": "rsers@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/RSButton.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "RSButton/Classes/**/*"
+}

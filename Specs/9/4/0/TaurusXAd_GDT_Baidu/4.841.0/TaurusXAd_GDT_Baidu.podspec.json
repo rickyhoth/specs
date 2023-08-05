@@ -1,0 +1,18 @@
+{
+  "name": "TaurusXAd_GDT_Baidu",
+  "version": "4.841.0",
+  "summary": "YLH-Baidu Adapters for mediating through TaurusX Ads.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TaurusXAds_iOS_Pub",
+  "license": {
+    "type": "MIT",
+    "file": "TaurusXAd_GDT_Baidu_4.841.0/LICENSE"
+  },
+  "authors": "TaurusXAds",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "http": "https://bitbucket.devops.nonprod.empf.local/scm/react/TaurusXAd_GDT_Baidu_4.841.0.zip"
+  },
+  "vendored_frameworks": "TaurusXAd_GDT_Baidu_4.841.0/GDTMobBaiduAdapter.xcframework"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "JCNetWorkingManager",
+  "version": "0.0.3",
+  "summary": "A NetWorking Manager.",
+  "description": "A NetWorking Manager.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JCNetWorkingManager",
+  "license": "MIT",
+  "authors": {
+    "jindashi": "584338229@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JCNetWorkingManager.git",
+    "tag": "0.0.3"
+  },
+  "source_files": "JCNetWokingManager/JCNetWorkingManager/**/*.{h,m}",
+  "frameworks": [
+    "Foundation",
+    "UIKit"
+  ],
+  "dependencies": {
+    "AFNetworking": [
+
+    ],
+    "MJExtension": [
+
+    ],
+    "YYCache": [
+
+    ]
+  }
+}

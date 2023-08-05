@@ -1,0 +1,35 @@
+{
+  "name": "SafeKit",
+  "version": "1.1.0",
+  "summary": "iOS safe kit.Never crash",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SafeKit",
+  "license": "Apache License, Version 2.0",
+  "authors": {
+    "JJMM": "iosdes@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SafeKit.git",
+    "tag": "1.1.0"
+  },
+  "frameworks": "Foundation",
+  "platforms": {
+    "ios": null
+  },
+  "source_files": "SafeKit/*",
+  "requires_arc": true,
+  "subspecs": [
+    {
+      "name": "Foundation",
+      "dependencies": {
+        "SafeKit/SafeCore": [
+
+        ]
+      },
+      "source_files": "SafeKit/Foundation/*"
+    },
+    {
+      "name": "SafeCore",
+      "source_files": "SafeKit/SafeCore/*"
+    }
+  ]
+}

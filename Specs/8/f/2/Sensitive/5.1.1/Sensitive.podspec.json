@@ -1,0 +1,27 @@
+{
+  "name": "Sensitive",
+  "version": "5.1.1",
+  "summary": "Fresh look at work with gestures in Swift.",
+  "description": "This library changes the way how you work with gestures in Swift.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Sensitive",
+  "screenshots": "https://bitbucket.devops.nonprod.empf.local/scm/react/Sensitive/raw/master/Logo/logo-1024-300.png",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Igor Matyushkin": "igormatyushkin014@gmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Sensitive.git",
+    "tag": "5.1.1"
+  },
+  "source_files": [
+    "Sensitive",
+    "Sensitive/**/*"
+  ],
+  "pushed_with_swift_version": "3.0"
+}

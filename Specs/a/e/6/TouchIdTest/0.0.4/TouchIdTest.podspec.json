@@ -1,0 +1,23 @@
+{
+  "name": "TouchIdTest",
+  "version": "0.0.4",
+  "summary": "Use to Check Touch ID",
+  "description": "Touch Test ID can use to check Touch ID",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TouchIdTest",
+  "license": "MIT",
+  "authors": {
+    "Duong Nguyen": "duong.nh@sutruxsolution.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TouchIdTest.git",
+    "tag": "0.0.4"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": [
+    "TouchIdTest",
+    "TouchIdTest/**/*.{h,m}"
+  ],
+  "exclude_files": "Classes/Exclude"
+}

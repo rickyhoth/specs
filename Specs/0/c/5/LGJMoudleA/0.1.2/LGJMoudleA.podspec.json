@@ -1,0 +1,23 @@
+{
+  "name": "LGJMoudleA",
+  "version": "0.1.2",
+  "summary": "基础数据类型的分类",
+  "description": "基础数据类型分类，方便使用",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LGJMoudleA.git",
+  "license": "MIT",
+  "authors": {
+    "381216970@qq.com": "381216970@qq.com"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LGJMoudleA.git",
+    "tag": "0.1.2"
+  },
+  "source_files": [
+    "LGJMoudleA",
+    "LGJMoudleA/**/*.{swift,xib}"
+  ],
+  "exclude_files": "Classes/Exclude"
+}

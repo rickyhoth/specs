@@ -1,0 +1,25 @@
+{
+  "name": "XColor",
+  "version": "0.2",
+  "summary": "XColor is a color handling extension for UIColor written in Swift.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/XColor",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/XColor.git",
+    "tag": "0.2"
+  },
+  "authors": {
+    "Jaume Vinas Navas": "jaumevn@icloud.com"
+  },
+  "platforms": {
+    "ios": "8.0",
+    "watchos": "2.0",
+    "tvos": "9.0"
+  },
+  "swift_versions": "5.0",
+  "source_files": "Sources/*.swift",
+  "swift_version": "5.0"
+}

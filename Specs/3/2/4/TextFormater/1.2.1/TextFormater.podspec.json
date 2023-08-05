@@ -1,0 +1,28 @@
+{
+  "name": "TextFormater",
+  "version": "1.2.1",
+  "summary": "Convert String to NSAttributedString",
+  "description": "Convert a short string with formatting commands to attributed string. For used to format label or button.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TextFormater",
+  "screenshots": [
+    "https://bitbucket.devops.nonprod.empf.local/scm/react/TextFormater/blob/master/screen/example.png?raw=true",
+    "https://bitbucket.devops.nonprod.empf.local/scm/react/TextFormater/blob/master/screen/exampleOSX.png?raw=true"
+  ],
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Alfred Gao": "alfredg@alfredg.cn"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TextFormater.git",
+    "tag": "1.2.1"
+  },
+  "platforms": {
+    "ios": "9.0",
+    "osx": "10.12"
+  },
+  "source_files": "Sources/*",
+  "pushed_with_swift_version": "3.0"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "ETCollectionViewWaterFallLayout",
+  "version": "0.0.2",
+  "summary": "A waterFallLayout for UICollectionView",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ETCollectionViewWaterFallLayout",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "VolleyZ": "552408690@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ETCollectionViewWaterFallLayout.git",
+    "tag": "0.0.2"
+  },
+  "source_files": [
+    "Class",
+    "Class/*.{h,m}"
+  ],
+  "platforms": {
+    "ios": "9.0"
+  },
+  "swift_versions": "5",
+  "swift_version": "5"
+}

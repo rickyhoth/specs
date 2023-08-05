@@ -1,0 +1,22 @@
+{
+  "name": "Kronos",
+  "version": "0.1.1",
+  "license": {
+    "type": "Apache License, Version 2.0",
+    "file": "LICENSE"
+  },
+  "summary": "Elegant NTP client in Swift",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Kronos",
+  "authors": {
+    "Martin Conte Mac Donell": "Reflejo@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Kronos.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "8.0",
+    "osx": "10.9"
+  },
+  "source_files": "Sources/*.swift"
+}

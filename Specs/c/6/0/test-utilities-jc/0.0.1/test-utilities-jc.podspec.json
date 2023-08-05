@@ -1,0 +1,24 @@
+{
+  "name": "test-utilities-jc",
+  "version": "0.0.1",
+  "swift_versions": "5.4",
+  "summary": "A description for new pod test-utilities-jc.",
+  "description": "description of new pod A short description of test-utilities-jc.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/pod-deploy",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "jc-navarro": "juan.navarro@ua.la"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/pod-deploy.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "test-utilities-jc/Classes/**/*",
+  "swift_version": "5.4"
+}

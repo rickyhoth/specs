@@ -1,0 +1,19 @@
+{
+  "name": "ChainableSwift",
+  "version": "0.5.2",
+  "summary": "Chainable standart library 🔗",
+  "description": "Easy to write and read chains of methods for UIView, UILabel, UIControl, UIButton, NSAttributedString, CALayer, etc. Work in progress.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ChainableSwift",
+  "license": "MIT",
+  "authors": {
+    "Denis Sushko": "respandv@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ChainableSwift.git",
+    "tag": "0.5.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ChainableSwift/Classes/**/*"
+}

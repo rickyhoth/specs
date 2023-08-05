@@ -1,0 +1,22 @@
+{
+  "name": "PaywallSDKSample",
+  "version": "0.1.8",
+  "summary": "A short description of PaywallSDKSample.",
+  "description": "\"A short description of PaywallSDKSample. Test Test Test Test Test\"",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/paywallsdkios.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "intranettechnology": "enes@intranettechnology.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/paywallsdkios.git",
+    "tag": "0.1.8"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source_files": "Classes/**/*.swift"
+}

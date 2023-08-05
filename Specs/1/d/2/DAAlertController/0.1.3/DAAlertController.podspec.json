@@ -1,0 +1,24 @@
+{
+  "name": "DAAlertController",
+  "version": "0.1.3",
+  "summary": "DAAlertController is pretty much a UIAlertController for both iOS 8 and 7.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DAAlertController",
+  "license": "MIT",
+  "authors": {
+    "Daria Kopaliani": "daria.kopaliani@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DAAlertController.git",
+    "tag": "0.1.3"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "DAAlertController": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}

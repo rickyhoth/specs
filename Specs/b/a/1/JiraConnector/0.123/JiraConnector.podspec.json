@@ -1,0 +1,27 @@
+{
+  "name": "JiraConnector",
+  "version": "0.123",
+  "license": "MIT",
+  "summary": "JiraConnector for iOS",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JiraConnector",
+  "authors": "Andrey Durbalo",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JiraConnector.git",
+    "tag": "0.123",
+    "submodules": true
+  },
+  "requires_arc": true,
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source_files": "JiraConnector/JiraConnectorSource/**/*.{h,m}",
+  "resources": "JiraConnector/JiraConnectorSource/**/*.{xib}",
+  "dependencies": {
+    "AFNetworking": [
+
+    ],
+    "Mantle": [
+
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Cluster",
+  "version": "2.1.0",
+  "summary": "Map Clustering Library",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Cluster",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "efremidze": "efremidzel@hotmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Cluster.git",
+    "tag": "2.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Sources/*.swift",
+  "pushed_with_swift_version": "4.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "HFToolHandle",
+  "version": "0.1.9",
+  "summary": "use to do something",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HFToolHandle",
+  "license": "MIT",
+  "authors": {
+    "qhf012607": "963983088@qq.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HFToolHandle.git",
+    "tag": "0.1.9"
+  },
+  "source_files": [
+    "HFToolHandle/**/*.{h,m}",
+    "HFToolHandle/HFTableTool/imp/*",
+    "HFToolHandle/HFTableTool/View/**/*"
+  ],
+  "frameworks": "UIKit"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "First-Cocoapods",
+  "version": "0.1.1",
+  "summary": "A Demonstration on how to create a Cocoapods.",
+  "description": "A sample project to explain that how can we create a cocoapods.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Cocoapods",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "FazalEllahi": "fazzalellahi@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Cocoapods.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "First-Cocoapods/Classes/**/*"
+}

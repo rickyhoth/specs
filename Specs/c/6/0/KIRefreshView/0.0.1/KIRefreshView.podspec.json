@@ -1,0 +1,22 @@
+{
+  "name": "KIRefreshView",
+  "version": "0.0.1",
+  "summary": "KIRefreshView",
+  "description": "KIRefreshView.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/KIRefreshView",
+  "license": "MIT",
+  "authors": {
+    "SmartWalle": "smartwalle@gmail.com"
+  },
+  "platforms": {
+    "ios": "6.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/KIRefreshView.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "KIRefreshView/KIRefreshView/*.{h,m}",
+  "exclude_files": "Classes/Exclude",
+  "resources": "KIRefreshView/KIRefreshView/*.png",
+  "requires_arc": true
+}

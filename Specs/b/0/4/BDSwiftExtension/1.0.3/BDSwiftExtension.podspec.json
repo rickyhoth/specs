@@ -1,0 +1,23 @@
+{
+  "name": "BDSwiftExtension",
+  "version": "1.0.3",
+  "summary": "A basic framwork for swift extension",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/BDSwiftExtension",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "BDogs": "1215852067@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/BDSwiftExtension.git",
+    "tag": "1.0.3"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "swift_version": "5.0",
+  "source_files": "Classes/**/*"
+}

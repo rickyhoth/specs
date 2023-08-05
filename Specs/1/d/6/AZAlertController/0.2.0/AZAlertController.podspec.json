@@ -1,0 +1,22 @@
+{
+  "name": "AZAlertController",
+  "version": "0.2.0",
+  "summary": "A short description of AZAlertController.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AZAlertController",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "minkook": "manguks@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AZAlertController.git",
+    "tag": "0.2.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "AZAlertController/Classes/**/*"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "LinearLoadingBar",
+  "version": "0.1.0",
+  "summary": "A short description of LinearLoadingBar.Allows you to set the title and lead angle. Clone from https://bitbucket.devops.nonprod.empf.local/scm/react/LinearProgressView",
+  "description": "TODO: Add long description of the pod here.",
+  "swift_version": "4.2",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LinearLoadingBar",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "der1598c": "der1598c@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LinearLoadingBar.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LinearLoadingBar/Classes/**/*"
+}

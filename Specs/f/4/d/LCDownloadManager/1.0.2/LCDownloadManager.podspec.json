@@ -1,0 +1,29 @@
+{
+  "name": "LCDownloadManager",
+  "version": "1.0.2",
+  "summary": "A simple download helper, you can resume broken transfer. Support: http://LeoDev.me",
+  "description": "A simple download helper, you can resume broken transfer.\nIt dependent on AFN(https://bitbucket.devops.nonprod.empf.local/scm/react/AFNetworking) 2.x.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LCDownloadManager",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Leo": "devtip@163.com"
+  },
+  "social_media_url": "http://LeoDev.me",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LCDownloadManager.git",
+    "tag": "1.0.2"
+  },
+  "source_files": "LCDownloadManager/*",
+  "requires_arc": true,
+  "dependencies": {
+    "AFNetworking": [
+      "~> 2.0"
+    ]
+  }
+}

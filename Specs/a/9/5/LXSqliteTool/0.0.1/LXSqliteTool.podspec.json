@@ -1,0 +1,22 @@
+{
+  "name": "LXSqliteTool",
+  "version": "0.0.1",
+  "summary": "ModelData to Sqlite of LXSqliteTool!",
+  "description": "ModelData to Sqlite of LXSqliteTool!!!",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LXSqliteTool",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "GreenDayLX": "284995375@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LXSqliteTool.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LXSqliteTool/Classes/**/*"
+}

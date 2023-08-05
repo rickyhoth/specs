@@ -1,0 +1,17 @@
+{
+  "name": "KSTCollectionViewPageHorizontalLayout",
+  "version": "1.0.0",
+  "summary": "KSTCollectionViewPageHorizontalLayout",
+  "description": "KSTCollectionViewPageHorizontalLayout awesome",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/KSTCollectionViewPageHorizontalLayout",
+  "license": "MIT",
+  "authors": "Leon",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/KSTCollectionViewPageHorizontalLayout.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "**/KSTCollectionViewPageHorizontalLayout/KSTCollectionViewPageHorizontalLayout.{h,m}",
+  "platforms": {
+    "ios": "9.0"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "ZText",
+  "version": "0.2.0",
+  "summary": "A cooler way to use NSAttributedString.",
+  "description": "Tired of using NSAttributedString the old way? ZText provides you with a simple way to apply NSAttributedString to your app",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZText",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Thuong Nguyen": "thuongnh.uit@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZText.git",
+    "tag": "0.2.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "ZText/Classes/**/*",
+  "pushed_with_swift_version": "3.0"
+}

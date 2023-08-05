@@ -1,0 +1,22 @@
+{
+  "name": "LFramework",
+  "version": "1.0.0",
+  "summary": "ahihi",
+  "description": "okokokok",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LocoFramework",
+  "license": "MIT",
+  "authors": {
+    "Nguyen Lam": "lam1997.ln@gmail.com"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LocoFramework.git",
+    "tag": "1.0.0"
+  },
+  "source_files": [
+    "LocoFramework",
+    "LocoFramework/**/*.{h,m,swift}"
+  ]
+}

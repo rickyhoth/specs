@@ -1,0 +1,22 @@
+{
+  "name": "SHelpButton",
+  "version": "0.1.6",
+  "summary": "SHelpButton替代按钮点击事件Block工程Demo",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SHelpButton",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "宋直兵": "569204317@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SHelpButton.git",
+    "tag": "0.1.6"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source_files": "SHelpButton/Classes/**/*"
+}

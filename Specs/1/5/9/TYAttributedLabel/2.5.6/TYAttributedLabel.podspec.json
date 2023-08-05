@@ -1,0 +1,22 @@
+{
+  "name": "TYAttributedLabel",
+  "version": "2.5.6",
+  "summary": "Easy, powerful attributedLabel，support mixed with image and text, link text,image, and UIView.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TYAttributedLabel",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "tany": "122074809@qq.com"
+  },
+  "platforms": {
+    "ios": "6.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TYAttributedLabel.git",
+    "tag": "2.5.6"
+  },
+  "source_files": "TYAttributedLabelDemo/TYAttributedLabel/**/*.{h,m}",
+  "requires_arc": true
+}

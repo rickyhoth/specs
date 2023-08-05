@@ -1,0 +1,22 @@
+{
+  "name": "TCDownloader",
+  "version": "0.0.2",
+  "summary": "音频下载器",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TCDownloader",
+  "license": "MIT",
+  "authors": {
+    "TardisCXX": "email@address.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TCDownloader.git",
+    "tag": "0.0.2"
+  },
+  "source_files": [
+    "TCDownloader",
+    "TCDownloaderProject/TCDownloader/*.{h,m}"
+  ],
+  "requires_arc": true
+}

@@ -1,0 +1,19 @@
+{
+  "name": "AXEasyKeychain",
+  "version": "0.1.1",
+  "summary": "Very easy and open source wrapper class for Keychain",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AXEasyKeychain",
+  "license": "MIT",
+  "authors": {
+    "Alexander Mertvetsov": "amertvetsov@yandex.ru"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AXEasyKeychain.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "6.0"
+  },
+  "requires_arc": true,
+  "source_files": "Classes/**/*.{h,m}"
+}

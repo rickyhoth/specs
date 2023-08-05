@@ -1,0 +1,22 @@
+{
+  "name": "GenericWidget",
+  "version": "0.1.0",
+  "summary": "A library to implement simple Widgets in your app",
+  "description": "A library to implement simple Widgets in your app so you dont have to deal with all the widget configuration",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/GenericWidget",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "contreras2004": "contreras2004@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/GenericWidget.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "GenericWidget/Classes/**/*"
+}

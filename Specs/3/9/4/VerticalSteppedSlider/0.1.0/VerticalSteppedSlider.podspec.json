@@ -1,0 +1,30 @@
+{
+  "name": "VerticalSteppedSlider",
+  "version": "0.1.0",
+  "summary": "A completely configurable slider with options for steps, vertical orientation, and custom colors.",
+  "description": "A completely configurable slider with options for steps, vertical orientation, and custom colors. Configurable in storyboard.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/VerticalSteppedSlider",
+  "screenshots": [
+    "https://bitbucket.devops.nonprod.empf.local/scm/react/VerticalSteppedSlider/raw/master/readme_img/demo.gif",
+    "https://bitbucket.devops.nonprod.empf.local/scm/react/VerticalSteppedSlider/raw/master/readme_img/value-limits@2x.png",
+    "https://bitbucket.devops.nonprod.empf.local/scm/react/VerticalSteppedSlider/raw/master/readme_img/colors@2x.png",
+    "https://bitbucket.devops.nonprod.empf.local/scm/react/VerticalSteppedSlider/raw/master/readme_img/images@2x.png"
+  ],
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Mel Ludowise": "mludowise@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/VerticalSteppedSlider.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "VerticalSteppedSlider/Classes/**/*",
+  "frameworks": "UIKit",
+  "pushed_with_swift_version": "4.0"
+}

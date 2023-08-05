@@ -1,0 +1,23 @@
+{
+  "name": "KLinker",
+  "version": "0.0.4",
+  "summary": "A simpler router for web urls and native controllers.",
+  "description": "A simple router for web urls and native controllers, sothat through a url can reach sepcified annotation in app.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/KLinker/wiki",
+  "license": "MIT",
+  "authors": {
+    "Very": "liang.yellow@gmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/KLinker.git",
+    "tag": "0.0.4"
+  },
+  "source_files": [
+    "KLinker",
+    "KLinker/**/*.{h,m}"
+  ],
+  "requires_arc": true
+}

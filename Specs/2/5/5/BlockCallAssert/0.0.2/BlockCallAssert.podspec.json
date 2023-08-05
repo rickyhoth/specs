@@ -1,0 +1,23 @@
+{
+  "name": "BlockCallAssert",
+  "version": "0.0.2",
+  "summary": "When callback block is NEVER called, throw an exception.",
+  "description": "When callback block is NEVER called, throw an exception.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/BlockCallAssert",
+  "license": "BSD",
+  "authors": {
+    "Daniel": "djs66256@163.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/BlockCallAssert.git",
+    "tag": "0.0.2"
+  },
+  "source_files": [
+    "Sources",
+    "Sources/**/*.{h,m,s}"
+  ],
+  "exclude_files": "Classes/Exclude"
+}

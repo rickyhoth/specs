@@ -1,0 +1,23 @@
+{
+  "name": "StickySlideView",
+  "version": "1.1",
+  "swift_version": "4.1",
+  "summary": "SlideView synchronized with ScrollView",
+  "description": "SlideView synchronized with ScrollView",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/StickySlideView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "tokijh": "tokijh@naver.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/StickySlideView.git",
+    "tag": "1.1"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "StickySlideView/*swift"
+}

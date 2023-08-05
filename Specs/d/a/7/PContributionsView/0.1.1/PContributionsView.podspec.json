@@ -1,0 +1,23 @@
+{
+  "name": "PContributionsView",
+  "version": "0.1.1",
+  "swift_versions": "4.2",
+  "summary": "This library was originally created for github grass.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/PerfectContributionsView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "jjunhaa0211": "goodjunha@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/PerfectContributionsView.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "PContributionsView/Classes/**/*",
+  "swift_version": "4.2"
+}

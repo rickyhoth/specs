@@ -1,0 +1,22 @@
+{
+  "name": "NSViewAnim",
+  "version": "1.0.1",
+  "summary": "ViewController Animation",
+  "description": "Circular Animation on ViewController Transition",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/NSViewAnim",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "namsoo5": "are34@naver.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/NSViewAnim.git",
+    "tag": "1.0.1"
+  },
+  "platforms": {
+    "ios": "12.0"
+  },
+  "source_files": "Sources/*"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "YPScrollPageView",
+  "version": "1.0.1",
+  "summary": "YPScrollPageView.",
+  "description": "测试上传",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/YPScrollPageView",
+  "license": {
+    "type": "MIT",
+    "file": "FILE_LICENSE"
+  },
+  "authors": "wangyanping",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YPScrollPageView.git",
+    "tag": "1.0.1"
+  },
+  "source_files": "YPScrollPageView/YPScrollPageView/**/*.{h,m,swift}",
+  "requires_arc": true
+}

@@ -1,0 +1,29 @@
+{
+  "name": "MultipleModules",
+  "version": "0.1.1",
+  "summary": "MultipleModules",
+  "description": "MultipleModules framework",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/multiplePods.git",
+  "license": "MultipleModules",
+  "authors": {
+    "George": ""
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/multiplePods.git",
+    "branch": "master",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "swift_version": "4",
+  "source_files": "MultipleModules/MultipleModules/Source/*.{swift, h}",
+  "dependencies": {
+    "Module1": [
+
+    ],
+    "Module2_george": [
+
+    ]
+  }
+}

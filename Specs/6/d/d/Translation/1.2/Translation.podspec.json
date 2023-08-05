@@ -1,0 +1,38 @@
+{
+  "name": "Translation",
+  "version": "1.2",
+  "summary": "UIKit & UIFoundation",
+  "description": "UIKit & UIFoundation Category",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/translation",
+  "screenshots": "https://bitbucket.devops.nonprod.empf.local/scm/react/translation.jpeg",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Harry Tran": "ngocbinh02@gmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/translation.git",
+    "tag": "1.2"
+  },
+  "weak_frameworks": [
+    "UIKit",
+    "Foundation"
+  ],
+  "vendored_frameworks": "Translation.framework",
+  "requires_arc": true,
+  "dependencies": {
+    "AFNetworking": [
+
+    ],
+    "PINCache": [
+
+    ]
+  },
+  "source_files": "Translation.framework/Versions/A/Headers/*.h",
+  "public_header_files": "Translation.framework/Versions/A/Headers/*.h"
+}

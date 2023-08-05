@@ -1,0 +1,24 @@
+{
+  "name": "ZJGAlert",
+  "version": "3.2.0",
+  "summary": "A short description of ZJGAlert.",
+  "description": "common alert",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZJGAlert",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zjg": "zhang1314520648@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZJGAlert.git",
+    "tag": "3.2.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "ZJGAlert/Classes/**/*",
+  "public_header_files": "ZJGAlert/Classes/ZJGAlertHeader.h",
+  "requires_arc": true
+}

@@ -1,0 +1,21 @@
+{
+  "name": "NSDictionary+SafeGetters",
+  "version": "1.0.6",
+  "summary": "Safe, informative and typed dictionary getters",
+  "description": "Safe, informative and typed dictionary getters.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/NSDictionary-SafeGetters",
+  "license": "MIT",
+  "authors": {
+    "OlehKulykov": "info@resident.name"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/NSDictionary-SafeGetters.git",
+    "tag": "1.0.6"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "*.{h,m,mm}",
+  "public_header_files": "*.h"
+}

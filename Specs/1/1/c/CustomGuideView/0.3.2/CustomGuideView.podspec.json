@@ -1,0 +1,22 @@
+{
+  "name": "CustomGuideView",
+  "version": "0.3.2",
+  "summary": "自定义视图CustomGuideView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CustomGuideView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "cuizhiwei": "947666846@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CustomGuideView.git",
+    "tag": "0.3.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CustomGuideView/Classes/**/*"
+}

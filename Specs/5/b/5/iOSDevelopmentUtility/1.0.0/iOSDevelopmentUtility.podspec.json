@@ -1,0 +1,24 @@
+{
+  "name": "iOSDevelopmentUtility",
+  "version": "1.0.0",
+  "summary": "Set of utility for iOS app developemt.",
+  "description": "iOSDevelopmentUtility is a set of utility that helps you develop effeciently.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/iOSDevelopmentUtility",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "takecian": "takecian@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/iOSDevelopmentUtility.git",
+    "tag": "1.0.0"
+  },
+  "social_media_url": "https://twitter.com/takecian",
+  "swift_version": "4.2",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "iOSDevelopmentUtility/**/*.{swift}"
+}

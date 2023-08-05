@@ -1,0 +1,18 @@
+{
+  "name": "MCDownloader",
+  "version": "1.0.0",
+  "summary": "A simple and powerful iOS downloader.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MCDownloader",
+  "license": "MIT",
+  "authors": {
+    "MC": "714080794@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MCDownloader.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "Source/*.{h,m}"
+}

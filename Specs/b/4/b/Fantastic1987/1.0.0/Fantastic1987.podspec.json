@@ -1,0 +1,20 @@
+{
+  "name": "Fantastic1987",
+  "version": "1.0.0",
+  "summary": "By rajnish.",
+  "description": "Sample cocopods by rajnish kumar",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/PodSample",
+  "license": "MIT",
+  "authors": {
+    "Rajnish kumar": "sendtorajnishkumar@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/PodSample.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "FantasticView/FantasticView/FantasticView.swift",
+  "swift_version": "4.2"
+}

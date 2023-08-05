@@ -1,0 +1,21 @@
+{
+  "name": "RatingControl",
+  "version": "4.0",
+  "summary": "Whole, half or floating point ratings control written in Swift.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/RatingControl",
+  "license": "MIT",
+  "authors": {
+    "Sorix": "email@in-readme.com",
+    "Glen Yi": "glenyi81@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/RatingControl.git",
+    "tag": "4.0"
+  },
+  "source_files": "Source/**/*.swift",
+  "platforms": {
+    "ios": "10.0"
+  },
+  "requires_arc": true,
+  "swift_version": "4.2"
+}

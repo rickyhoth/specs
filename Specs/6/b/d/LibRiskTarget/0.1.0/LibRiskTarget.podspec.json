@@ -1,0 +1,23 @@
+{
+  "name": "LibRiskTarget",
+  "version": "0.1.0",
+  "summary": "LibRiskTarget.niubi",
+  "description": "\"LibRiskTarget.niubi\"",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LibRisk",
+  "license": "MIT",
+  "authors": {
+    "joke_wang": "wangzhangzhong1102@163.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LibRisk.git",
+    "tag": "0.1.0"
+  },
+  "source_files": [
+    "Classes",
+    "LibRiskTarget/Classes/**/*.{h,m}"
+  ],
+  "requires_arc": true
+}

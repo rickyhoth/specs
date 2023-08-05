@@ -1,0 +1,22 @@
+{
+  "name": "MorePodRun",
+  "version": "0.1.2",
+  "summary": "My first MorePodRun testing on it at my house.",
+  "description": "Description is all about its name that this is my firsst pod with more power.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MorePodRun",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "daljeet16": "daljeetsingh16@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MorePOdRun.git",
+    "tag": "0.1.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MorePodRun/Classes/**/*"
+}

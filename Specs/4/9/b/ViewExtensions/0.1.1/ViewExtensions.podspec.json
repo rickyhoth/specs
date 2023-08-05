@@ -1,0 +1,28 @@
+{
+  "name": "ViewExtensions",
+  "version": "0.1.1",
+  "summary": "UIView Extensions",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ViewExtensions",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Serhiy Vysotskiy": "vysotskiyserhiy@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ViewExtensions.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ViewExtensions/Classes/**/*",
+  "frameworks": "UIKit",
+  "dependencies": {
+    "Atom": [
+
+    ]
+  },
+  "deprecated": true
+}

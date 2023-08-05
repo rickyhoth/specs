@@ -1,0 +1,22 @@
+{
+  "name": "CacheCustom",
+  "version": "0.0.1",
+  "summary": "A short description of CacheCustom.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CacheCustom",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "HorrorProgramer": "xwpangjunjie@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CacheCustom.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CacheCustom/Classes/**/*"
+}

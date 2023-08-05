@@ -1,0 +1,25 @@
+{
+  "name": "GTEmptyView",
+  "version": "1.0.0",
+  "summary": "so esay integrate empty content view",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/GTEmptyView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "liuxc123": "lxc_work@126.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/GTEmptyView.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "GTEmptyView/Classes/**/*",
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ]
+}

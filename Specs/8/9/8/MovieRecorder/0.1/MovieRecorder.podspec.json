@@ -1,0 +1,21 @@
+{
+  "name": "MovieRecorder",
+  "version": "0.1",
+  "license": "MIT",
+  "summary": "A flexible, versatile movie recorder using Metal for iOS.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MovieRecorder",
+  "authors": {
+    "Evan Xie": "evanxie.mr@foxmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MovieRecorder.git",
+    "tag": "0.1"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "swift_versions": "5.0",
+  "source_files": "Source/*.swift",
+  "deprecated": true,
+  "swift_version": "5.0"
+}

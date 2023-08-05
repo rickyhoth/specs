@@ -1,0 +1,23 @@
+{
+  "name": "WJHelpSelf",
+  "version": "0.0.1",
+  "summary": "a repository demo",
+  "description": "666666",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WJHelpSelf",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wj123567": "wangjunnige@163.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WJHelpSelf.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "WJHelpSelf/*",
+  "requires_arc": true
+}

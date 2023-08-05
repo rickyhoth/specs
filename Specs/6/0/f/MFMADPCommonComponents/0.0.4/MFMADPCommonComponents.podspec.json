@@ -1,0 +1,23 @@
+{
+  "name": "MFMADPCommonComponents",
+  "version": "0.0.4",
+  "summary": "CommonComponents of MF-MADP",
+  "description": "CommonComponents of MADP!",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MADPCommonComponents",
+  "license": "MIT",
+  "authors": {
+    "pactera-mf-madp": "haichuan.liu1@pactera.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MADPCommonComponents.git",
+    "tag": "0.0.4"
+  },
+  "vendored_frameworks": "MADPCommonComponents.framework",
+  "frameworks": "CoreLocation",
+  "xcconfig": {
+    "FRAMEWORK_SEARCH_PATHS": "\"$(PODS_ROOT)/MFMADPCommonComponents/**\""
+  }
+}

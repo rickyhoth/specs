@@ -1,0 +1,22 @@
+{
+  "name": "LLUNetworking",
+  "version": "0.1.0",
+  "summary": "LLUNetworking for demo",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LLUNetworking",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhangbiao": "1549217659@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LLUNetworking.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "LLUNetworking/Classes/**/*"
+}

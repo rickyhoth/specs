@@ -1,0 +1,22 @@
+{
+  "name": "UITableViewCellAnimation",
+  "version": "1.0.3",
+  "summary": "A short description of UITableViewCellAnimation.",
+  "description": "UITableViewCellAnimation is collections of animation that helps to best way represent tableview in application.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/UITableViewCellAnimation",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "pratik-123": "pratik.lad@outlook.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/UITableViewCellAnimation.git",
+    "tag": "1.0.3"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "UITableViewCellAnimation/Classes/**/*"
+}

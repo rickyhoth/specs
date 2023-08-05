@@ -1,0 +1,27 @@
+{
+  "name": "YHDeciveSDKPath",
+  "version": "1.0.1",
+  "summary": "上报设备信息",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/YHDeciveSDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xujianfeng": "453989264@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YHDeciveSDK.git",
+    "tag": "1.0.1"
+  },
+  "source_files": [
+    "YHDeciveSDK.a",
+    "include/YHDeviceSDK/*.{h,m}",
+    "usr/local/include/*.{h,m}"
+  ],
+  "frameworks": "AdSupport",
+  "requires_arc": true
+}

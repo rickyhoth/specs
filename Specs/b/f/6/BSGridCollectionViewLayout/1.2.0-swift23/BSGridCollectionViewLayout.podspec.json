@@ -1,0 +1,20 @@
+{
+  "name": "BSGridCollectionViewLayout",
+  "version": "1.2.0-swift23",
+  "summary": "Simple grid collection view layout.",
+  "description": "A simple grid collection view layout. Displays multiple sections as one continuous grid without any section breaks.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/BSGridCollectionViewLayout",
+  "license": "MIT",
+  "authors": {
+    "Joakim Gyllstrom": "joakim@backslashed.se"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/BSGridCollectionViewLayout.git",
+    "tag": "1.2.0-swift23"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*"
+}

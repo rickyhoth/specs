@@ -1,0 +1,26 @@
+{
+  "name": "MGRouter",
+  "version": "0.0.2",
+  "summary": "路由跳转库，可跳转到其他APP的指定模块，打开网页，处理其他APP打开自己。",
+  "description": "路由跳转库，可跳转到其他APP的指定模块，打开网页，处理其他APP打开自己。",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MGRouter",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Mingle": "cndevmingle@gmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MGRouter.git",
+    "tag": "0.0.2"
+  },
+  "source_files": "MGRouter/MGRouter/Classes/**/*.{h,m}",
+  "frameworks": [
+    "Foundation",
+    "UIKit"
+  ]
+}

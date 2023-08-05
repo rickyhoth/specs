@@ -1,0 +1,21 @@
+{
+  "name": "LTCallSDK",
+  "version": "5.2.1",
+  "summary": "Stream Chat & Call official iOS SDK",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LTCallSDK-iOS",
+  "license": {
+    "type": "LGPL",
+    "file": "LICENSE.md"
+  },
+  "authors": {
+    "shanezhang": "shanezhang@loftechs.com"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LTCallSDK-iOS.git",
+    "tag": "5.2.1"
+  },
+  "vendored_frameworks": "LTCallSDK.framework"
+}

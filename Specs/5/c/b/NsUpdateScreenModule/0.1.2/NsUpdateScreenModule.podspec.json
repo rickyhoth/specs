@@ -1,0 +1,23 @@
+{
+  "name": "NsUpdateScreenModule",
+  "version": "0.1.2",
+  "summary": "Pantalla para actualizar la app",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/NsUpdateScreenModuleiOS",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": "Wuilmer Medrano",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/NsUpdateScreenModuleiOS.git",
+    "tag": "0.1.2"
+  },
+  "frameworks": "UIKit",
+  "requires_arc": true,
+  "source_files": "Sources/NsUpdateScreenModule/*.swift",
+  "platforms": {
+    "ios": "11.0"
+  },
+  "swift_versions": "5.0",
+  "swift_version": "5.0"
+}

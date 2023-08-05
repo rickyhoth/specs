@@ -1,0 +1,21 @@
+{
+  "name": "SwiftQRCode",
+  "version": "3.0.2",
+  "summary": "Simple QRCode detector and generator in Swift",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/QRCode",
+  "license": "MIT",
+  "authors": {
+    "Fan Liu": "liufan321@gmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwiftQRCode.git",
+    "tag": "3.0.2"
+  },
+  "source_files": "QRCode/Source/*.swift",
+  "frameworks": "AVFoundation",
+  "requires_arc": true,
+  "pushed_with_swift_version": "3.0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "ZCTextView",
+  "version": "0.0.1",
+  "summary": "ZCTextView的placeholder.",
+  "description": "UITextView's placeholder",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZCTextView",
+  "license": "MIT",
+  "authors": {
+    "“鲁志超”": "“zhichao.lu@trustway.cn”"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZCTextView.git",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "ZCTextView/ZCTextView",
+    "Classes/**/*.{h,m}"
+  ],
+  "exclude_files": "Classes/Exclude"
+}

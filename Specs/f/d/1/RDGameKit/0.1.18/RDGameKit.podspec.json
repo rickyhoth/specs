@@ -1,0 +1,28 @@
+{
+  "name": "RDGameKit",
+  "version": "0.1.18",
+  "summary": "RDGameKit provide some common games.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/RDGameKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Max Ma": "xiao.ma@roadhouse.com.au"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/RDGameKit.git",
+    "tag": "0.1.18"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "swift_version": "4.0",
+  "source_files": "RDGameKit/Classes/**/*",
+  "resource_bundles": {
+    "RDGameKit": [
+      "RDGameKit/Classes/**/*.ttf"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "swiftSDK",
+  "version": "0.1.0",
+  "summary": "NAS swiftSDK.",
+  "description": "swiftSDK",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/swiftSDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ZJJeffery": "zhengjj1hao@aliyun.com"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/swiftSDK.git",
+    "tag": "0.1.0"
+  },
+  "source_files": [
+    "swiftSDK",
+    "demo/swiftSDK/*.swift"
+  ],
+  "exclude_files": "Classes/Exclude"
+}

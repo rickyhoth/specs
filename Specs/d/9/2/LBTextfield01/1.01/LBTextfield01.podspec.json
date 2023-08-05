@@ -1,0 +1,20 @@
+{
+  "name": "LBTextfield01",
+  "version": "1.01",
+  "summary": "This is a textfield with an image view in the right side",
+  "description": "Sometimes textfield a small image to describe what users are going to type in the box. This textfield has a built-in image view",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LBTextfield01",
+  "license": "MIT",
+  "authors": {
+    "Justin Ji": "jjeui0308@gmail.com"
+  },
+  "social_media_url": "http://twitter.com/jijustin003",
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LBTextfield01.git",
+    "tag": "1.01"
+  },
+  "source_files": "LBTextfield01/**/*"
+}

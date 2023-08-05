@@ -1,0 +1,22 @@
+{
+  "name": "BHDanWuHen",
+  "version": "0.1.1",
+  "summary": "A short description of BHDanWuHen.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/BHDanWuHen",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "bhdanwuhen": "564160893@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/BHDanWuHen.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "BHDanWuHen/Classes/**/*"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "DOButton",
+  "version": "1.1.0",
+  "summary": "Cute Animated Button written in Swift. It could be just right for favorite buttons!",
+  "description": "Cute Animated Button written in Swift. It could be just right for favorite buttons! Maintained clone of https://bitbucket.devops.nonprod.empf.local/scm/react/DOFavoriteButton",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DOButton",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Tom Baranes": "tom.baranes@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DOButton.git",
+    "tag": "1.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "Source/*.swift"
+}

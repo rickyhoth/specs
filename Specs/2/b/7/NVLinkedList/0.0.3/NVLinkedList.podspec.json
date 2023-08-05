@@ -1,0 +1,18 @@
+{
+  "name": "NVLinkedList",
+  "version": "0.0.3",
+  "license": "MIT",
+  "summary": "Linked List data structure",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/NVLinkedList",
+  "authors": {
+    "Nikita Vasilev": "nv3212@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/NVLinkedList.git",
+    "tag": "0.0.3"
+  },
+  "platforms": {
+    "osx": "10.10"
+  },
+  "source_files": "Source/**/*.{h,m,swift}"
+}

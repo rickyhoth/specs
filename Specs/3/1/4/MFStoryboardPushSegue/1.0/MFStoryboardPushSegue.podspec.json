@@ -1,0 +1,23 @@
+{
+  "name": "MFStoryboardPushSegue",
+  "version": "1.0",
+  "license": "BSD",
+  "summary": "UIStoryboardPushSegue for use outside a navigation controller",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MFStoryboardPushSegue",
+  "authors": {
+    "Kyle Fuller": "inbox@kylefuller.co.uk"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MFStoryboardPushSegue.git",
+    "tag": "1.0"
+  },
+  "requires_arc": true,
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source_files": "*.{h,m}",
+  "frameworks": [
+    "UIKit",
+    "QuartzCore"
+  ]
+}

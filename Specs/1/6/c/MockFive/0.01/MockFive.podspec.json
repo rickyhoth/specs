@@ -1,0 +1,20 @@
+{
+  "name": "MockFive",
+  "version": "0.01",
+  "license": "MIT",
+  "summary": "A mock functions framework for Swift",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MockFive",
+  "social_media_url": "http://www.pairtree.io",
+  "authors": {
+    "Daniel Burbank": "delicious.raspberry.pi@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MockFive.git",
+    "tag": "0.01"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MockFive/*",
+  "requires_arc": true
+}

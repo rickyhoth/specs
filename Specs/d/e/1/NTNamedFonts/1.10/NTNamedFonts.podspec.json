@@ -1,0 +1,22 @@
+{
+  "name": "NTNamedFonts",
+  "version": "1.10",
+  "summary": "Extends UIFont with named font constructors so you don't end up hard-coding the font names in your app",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/NTNamedFonts",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Ethan Nagel": "eanagel@gmail.com"
+  },
+  "platforms": {
+    "ios": "6.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/NTNamedFonts.git",
+    "tag": "1.10"
+  },
+  "requires_arc": true,
+  "source_files": "*.{h,m}"
+}

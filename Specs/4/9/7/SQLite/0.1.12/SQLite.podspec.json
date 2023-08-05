@@ -1,0 +1,22 @@
+{
+  "name": "SQLite",
+  "version": "0.1.12",
+  "summary": "A wrapper to facilitate developers to use SQLite database in swift easily",
+  "description": "'A wrapper to facilitate developers to use SQLite database in swift with ready to use class'",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SQLite",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Vivek Kumar": "ervivek40@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SQLite.git",
+    "tag": "0.1.12"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SQLite/Classes/**/*"
+}

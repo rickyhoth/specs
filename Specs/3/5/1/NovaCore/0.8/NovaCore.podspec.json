@@ -1,0 +1,25 @@
+{
+  "name": "NovaCore",
+  "version": "0.8",
+  "summary": "Common Extensions and Utilities for Nova Packages",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/NovaCore",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Netizen01": "n01@invco.de"
+  },
+  "platforms": {
+    "ios": "9.3",
+    "tvos": "11.2"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/NovaCore.git",
+    "tag": "0.8"
+  },
+  "source_files": "Source/**/*.swift",
+  "swift_versions": [
+    "5.0"
+  ]
+}

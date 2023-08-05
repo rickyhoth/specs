@@ -1,0 +1,19 @@
+{
+  "name": "repoTest",
+  "version": "0.0.1",
+  "summary": "test of repo.",
+  "description": "just test of repo",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/repoTest",
+  "license": "MIT",
+  "authors": {
+    "wxy": "Wangxy@betaty.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/repoTest.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "Source/**/*"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "LTTestOneXXX",
+  "version": "0.1.0",
+  "summary": "描述",
+  "description": "\"长描述\"",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LTTestOneXXX",
+  "license": "Apache License, Version 2.0",
+  "authors": {
+    "冰凌天": "963527512@qq.com"
+  },
+  "platforms": {
+    "ios": "5.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LTTestOneXXX.git",
+    "tag": "0.1.0"
+  },
+  "source_files": [
+    "Classes",
+    "Classes/**/*.{h,m}"
+  ],
+  "requires_arc": true
+}

@@ -1,0 +1,25 @@
+{
+  "name": "AIKit",
+  "version": "0.0.3",
+  "summary": "Assistance Kit",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AIKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "GRADUATION": "izh.sever@gmail.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AIKit.git",
+    "tag": "0.0.3"
+  },
+  "source_files": [
+    "Classes",
+    "AIKit/Categories/*.{h,m}"
+  ],
+  "requires_arc": true
+}

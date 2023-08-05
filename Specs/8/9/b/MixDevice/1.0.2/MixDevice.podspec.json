@@ -1,0 +1,19 @@
+{
+  "name": "MixDevice",
+  "version": "1.0.2",
+  "summary": "Mix Device",
+  "authors": {
+    "Eric Long": "longminxiang@163.com"
+  },
+  "license": "MIT",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MixDevice",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MixDevice.git",
+    "tag": "v1.0.2"
+  },
+  "swift_version": "4.2",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Classes/**/*.swift"
+}

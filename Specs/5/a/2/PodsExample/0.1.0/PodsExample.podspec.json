@@ -1,0 +1,21 @@
+{
+  "name": "PodsExample",
+  "version": "0.1.0",
+  "summary": "This is my first cocoapods.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/PodsExample",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Developer-Leby": "kyi910705@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/PodsExample.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PodsExample/Classes/**/*"
+}

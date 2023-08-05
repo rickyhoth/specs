@@ -1,0 +1,17 @@
+{
+  "name": "LCKeyboardListener",
+  "version": "1.1.0",
+  "summary": "Prevent keyboard from covering UITextField/UITextView",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/KeyboardListener",
+  "license": "MIT",
+  "authors": "LiuChang",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/KeyboardListener.git",
+    "tag": "1.1.0"
+  },
+  "source_files": "LCKeyboardListener/**/*.{h,m}",
+  "requires_arc": true
+}

@@ -1,0 +1,19 @@
+{
+  "name": "LMGraphView",
+  "version": "1.0.0",
+  "summary": "LMGraphView is a simple and customizable graph view for iOS.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LMGraphView",
+  "license": "MIT",
+  "authors": {
+    "LMinh": "lminhtm@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LMGraphView.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "LMGraphView/**/*.{h,m}"
+}

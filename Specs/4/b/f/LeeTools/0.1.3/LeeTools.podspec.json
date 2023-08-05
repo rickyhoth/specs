@@ -1,0 +1,24 @@
+{
+  "name": "LeeTools",
+  "version": "0.1.3",
+  "summary": "LeeTools",
+  "swift_versions": "4.0",
+  "description": "DESCLEESINDEMO",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LeeTools",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "350541732": "350541732@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LeeTools.git",
+    "tag": "0.1.3"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LeeTools/Classes/**/*",
+  "swift_version": "4.0"
+}

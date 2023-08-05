@@ -1,0 +1,23 @@
+{
+  "name": "SNDataBinding",
+  "version": "0.1.1",
+  "summary": "Swift data binding using storyboard",
+  "swift_version": "4.0",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SNDataBinding",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ahmedAlmasri": "a.masri@genie-soft.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SNDataBinding.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SNDataBinding/Classes/**/*"
+}

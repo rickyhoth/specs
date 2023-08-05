@@ -1,0 +1,23 @@
+{
+  "name": "YJNavigationBar",
+  "version": "0.0.1",
+  "summary": "YJNavigationBar Author's email:houmanager@Hotmail.com",
+  "description": "YJNavigationBar Author's email:houmanager@Hotmail.com Form Beijing",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/YJNavigationBar",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "houmanager": "houmanager@Hotmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YJNavigationBar.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "YJNavigationBar/**/*.{h,m}",
+  "requires_arc": true
+}

@@ -1,0 +1,23 @@
+{
+  "name": "RGenerator",
+  "version": "0.1.0",
+  "summary": "Got a convenient way to manage router in swift project",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/RGenerator",
+  "license": "MIT",
+  "authors": {
+    "Langxxx": "wxl19950606@163.com"
+  },
+  "source": {
+    "http": "https://bitbucket.devops.nonprod.empf.local/scm/react/RGenerator.zip"
+  },
+  "preserve_paths": [
+    "generate",
+    "tmpl/*"
+  ],
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}

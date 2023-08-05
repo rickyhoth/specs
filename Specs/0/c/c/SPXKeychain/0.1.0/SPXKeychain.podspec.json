@@ -1,0 +1,20 @@
+{
+  "name": "SPXKeychain",
+  "version": "0.1.0",
+  "summary": "My iOS Keychain wrapper",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SPXKeychain",
+  "license": "MIT",
+  "authors": {
+    "Shaps Mohsenin": "shapsuk@me.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SPXKeychain.git",
+    "tag": "0.1.0"
+  },
+  "social_media_url": "https://twitter.com/shaps",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*.{h,m}"
+}

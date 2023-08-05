@@ -1,0 +1,28 @@
+{
+  "name": "ImpartTools",
+  "version": "0.1.1",
+  "summary": "A collection of handy extensions we use",
+  "description": "A collection of handy extensions we use.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ImpartTools",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Impart IT": "info@impart.nl"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ImpartTools.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "9.3"
+  },
+  "swift_versions": [
+    "4.2",
+    "5",
+    "5"
+  ],
+  "source_files": "ImpartTools/Classes/**/*",
+  "swift_version": "5"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "STZPopupView",
+  "version": "1.0.2",
+  "summary": "Customizable simple popup view in iOS.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/STZPopupView",
+  "license": "MIT",
+  "authors": {
+    "Kenji Abe": "kenji@star-zero.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/STZPopupView.git",
+    "tag": "1.0.2"
+  },
+  "social_media_url": "https://twitter.com/STAR_ZERO",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "Source/*.swift"
+}

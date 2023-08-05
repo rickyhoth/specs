@@ -1,0 +1,24 @@
+{
+  "name": "MSBasicThingsInSwift",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "summary": "MSBasicThingsInSwift contains basic swift classes",
+  "requires_arc": true,
+  "version": "0.1.1",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "David Szurma": "szurmadavid@gmail.com",
+    "Daniel Metzing": "test@gmail.com"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MSBasicThingsInSwift",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MSBasicThingsInSwift.git",
+    "tag": "0.1.1"
+  },
+  "frameworks": "UIKit",
+  "source_files": "MSBasicThingsInSwift/*.swift"
+}

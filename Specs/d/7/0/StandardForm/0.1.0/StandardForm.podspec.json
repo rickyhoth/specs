@@ -1,0 +1,23 @@
+{
+  "name": "StandardForm",
+  "version": "0.1.0",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/StandardForm",
+  "authors": {
+    "Jason Nam": "contact@jasonnam.com"
+  },
+  "summary": "Form builder.",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/StandardForm.git",
+    "tag": "0.1.0"
+  },
+  "swift_versions": "5.0",
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source_files": "Sources/StandardForm/**/*.swift",
+  "swift_version": "5.0"
+}

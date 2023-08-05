@@ -1,0 +1,24 @@
+{
+  "name": "Reorder",
+  "version": "0.1.0",
+  "summary": "Change cell order in table view or collection view",
+  "description": "You can change the order of the cells in the table and collection views. You can check to see if it is changing by creating a snapshot view.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Reorder",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "pikachu987": "pikachu77769@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Reorder.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "swift_versions": "5.0",
+  "source_files": "Reorder/Classes/**/*",
+  "swift_version": "5.0"
+}

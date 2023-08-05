@@ -1,0 +1,22 @@
+{
+  "name": "OwenLibrary",
+  "version": "0.1.0",
+  "summary": "A short description of OwenLibrary.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Owenlabrary",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "owen-pravite-fields": "namejxp@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Owenlabrary.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "OwenLibrary/Classes/**/*"
+}

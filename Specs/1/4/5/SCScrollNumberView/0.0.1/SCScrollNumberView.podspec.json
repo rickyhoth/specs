@@ -1,0 +1,18 @@
+{
+  "name": "SCScrollNumberView",
+  "version": "0.0.1",
+  "summary": "photo browser for ios.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SCScrollNumberView",
+  "license": "MIT",
+  "authors": {
+    "Aevit": "Aevit@qq.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/SCScrollNumberView.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "SCScrollNumberView/*"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "XXWebAppKit",
+  "version": "1.1",
+  "summary": "An web app kit",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/XXWebAppKit",
+  "license": "MIT",
+  "authors": {
+    "Wang Xiaoxuan": "596384514@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/XXWebAppKit.git",
+    "tag": "1.1"
+  },
+  "source_files": "XXWebAppKit/**/*.{h,m}",
+  "resources": "XXWebAppKit/**/*.xib",
+  "requires_arc": true,
+  "dependencies": {
+    "MJRefresh": [
+
+    ]
+  }
+}

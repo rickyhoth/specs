@@ -1,0 +1,22 @@
+{
+  "name": "Magnetic",
+  "version": "2.1.0",
+  "summary": "SpriteKit Floating Bubble Picker (inspired by Apple Music)",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Magnetic",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "efremidze": "efremidzel@hotmail.com"
+  },
+  "documentation_url": "https://efremidze.github.io/Magnetic/",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Magnetic.git",
+    "tag": "2.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "Sources/*.swift"
+}

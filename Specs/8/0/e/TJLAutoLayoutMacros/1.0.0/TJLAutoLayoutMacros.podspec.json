@@ -1,0 +1,20 @@
+{
+  "name": "TJLAutoLayoutMacros",
+  "version": "1.0.0",
+  "license": "MIT",
+  "summary": "A collection of macros for use with auto layout.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TJLAutoLayoutMacros",
+  "authors": {
+    "Terry Lewis II": "terry@ploverproductions.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TJLAutoLayoutMacros.git",
+    "tag": "v1.0.0"
+  },
+  "source_files": "TJLAutoLayoutMacros/Source/*.{h,m}",
+  "requires_arc": true,
+  "platforms": {
+    "ios": "6.0"
+  },
+  "social_media_url": "https://twitter.com/tlewisii"
+}

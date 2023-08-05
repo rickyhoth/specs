@@ -1,0 +1,22 @@
+{
+  "name": "EVRoute",
+  "version": "1.0.2",
+  "summary": "EVRoute is an smart iOS URL Router.",
+  "description": "EVRoute is an smart iOS URL Router.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/EVRoute",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "821385843@qq.com": "821385843@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/EVRoute.git",
+    "tag": "1.0.2"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "EVRoute/Classes/**/*"
+}

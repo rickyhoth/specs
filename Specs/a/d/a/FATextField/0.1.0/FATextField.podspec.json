@@ -1,0 +1,26 @@
+{
+  "name": "FATextField",
+  "version": "0.1.0",
+  "summary": "init FATextField.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/FATextField",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "fadizant": "fadizant@hotmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/FATextField.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FATextField/Classes/**/*",
+  "resource_bundles": {
+    "FATextField": [
+      "FATextField/Assets/*.xcassets"
+    ]
+  }
+}

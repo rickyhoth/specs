@@ -1,0 +1,22 @@
+{
+  "name": "kotlinUP",
+  "version": "0.0.01",
+  "summary": "Ill be your wingman anytime.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/",
+  "authors": {
+    "mdrew": "mitch.drew@moovel.com"
+  },
+  "license": {
+    "type": "Apache-2.0",
+    "file": "LICENSE"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "http": "https://bitbucket.devops.nonprod.empf.local/scm/react/kotlinUP-host/blob/0.0.01/kotlinUP.zip?raw=true"
+  },
+  "ios": {
+    "vendored_frameworks": "kotlinUP.framework"
+  }
+}

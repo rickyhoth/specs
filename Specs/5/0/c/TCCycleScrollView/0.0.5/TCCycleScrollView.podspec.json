@@ -1,0 +1,30 @@
+{
+  "name": "TCCycleScrollView",
+  "version": "0.0.5",
+  "summary": "轮播组件",
+  "description": "仿照SDCycleScrollView进行更改的轮播图，可自定义PageControl",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/TCCycleScrollView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "panshouheng": "shouheng.pan@tineco.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/TCCycleScrollView.git",
+    "tag": "0.0.5"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source_files": "TCCycleScrollView/Classes/**/*",
+  "dependencies": {
+    "Masonry": [
+
+    ],
+    "SDWebImage": [
+
+    ]
+  }
+}

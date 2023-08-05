@@ -1,0 +1,19 @@
+{
+  "name": "LHView",
+  "version": "1.1",
+  "summary": "An easy way to use frame",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LHView",
+  "license": "MIT",
+  "authors": {
+    "liuhaoios": "770731691@qq.com"
+  },
+  "platforms": {
+    "ios": "6.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LHView.git",
+    "tag": "1.1"
+  },
+  "source_files": "LHView/*",
+  "requires_arc": true
+}

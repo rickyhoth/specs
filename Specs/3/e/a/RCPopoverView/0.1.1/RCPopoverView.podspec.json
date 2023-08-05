@@ -1,0 +1,21 @@
+{
+  "name": "RCPopoverView",
+  "version": "0.1.1",
+  "summary": "Custom popover menu",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/RCPopoverView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "whyefa": "whyefa@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/RCPopoverView.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "RCPopoverView/Classes/**/*"
+}

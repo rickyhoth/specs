@@ -1,0 +1,22 @@
+{
+  "name": "BMToastView",
+  "version": "0.1",
+  "summary": "The framework supports pod testing",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/BMToastView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "boboMa": "996815278@qq.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "swift_version": "4.0",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/BMToastView.git",
+    "tag": "0.1"
+  },
+  "source_files": "BMToastView/*.{h,m}"
+}

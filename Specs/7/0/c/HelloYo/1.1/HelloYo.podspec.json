@@ -1,0 +1,26 @@
+{
+  "name": "HelloYo",
+  "version": "1.1",
+  "summary": "HelloYo",
+  "description": "HelloYo description",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HelloYo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "tinlemo": "335983830@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HelloYo.git",
+    "tag": "1.1"
+  },
+  "source_files": "HelloYo/**/*.{h,m}",
+  "requires_arc": true,
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}

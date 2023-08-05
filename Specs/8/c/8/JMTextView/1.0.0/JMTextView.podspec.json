@@ -1,0 +1,22 @@
+{
+  "name": "JMTextView",
+  "version": "1.0.0",
+  "summary": "A replacement for UITextView that gives you a placeholder",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JMTextView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "jmeggesto": "jackie.meggesto@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JMTextView.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "JMTextView/Classes/**/*",
+  "pushed_with_swift_version": "3.0"
+}

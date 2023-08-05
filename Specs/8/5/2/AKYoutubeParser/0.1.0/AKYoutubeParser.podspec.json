@@ -1,0 +1,26 @@
+{
+  "name": "AKYoutubeParser",
+  "version": "0.1.0",
+  "summary": "Retrieve youtube h264 video stream urls in a swift way.",
+  "description": "Based on the popular https://bitbucket.devops.nonprod.empf.local/scm/react/HCYoutubeParser\nBut in swift",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AKYoutubeParser",
+  "license": "MIT",
+  "authors": {
+    "Florian Morello": "arsonik@me.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AKYoutubeParser.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0",
+    "tvos": "9.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "dependencies": {
+    "Alamofire": [
+
+    ]
+  }
+}

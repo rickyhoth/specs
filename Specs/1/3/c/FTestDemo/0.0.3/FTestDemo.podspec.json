@@ -1,0 +1,22 @@
+{
+  "name": "FTestDemo",
+  "version": "0.0.3",
+  "summary": "sdk上传前测试",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WillUpLoadSDkDemo",
+  "license": {
+    "type": "MIT",
+    "file": "FILE_LICENSE"
+  },
+  "authors": {
+    "fengshaohui": "343407675@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WillUpLoadSDkDemo.git",
+    "tag": "0.0.3"
+  },
+  "requires_arc": true,
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "FTestDemo/Class/*.{h,m}"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "CMYLog",
+  "version": "5.0.0",
+  "summary": "a test of using CMYLog",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CMYLog",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhouyf": "892184501@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CMYLog.git",
+    "tag": "5.0.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CMYLog/**/*.{h,m}"
+}

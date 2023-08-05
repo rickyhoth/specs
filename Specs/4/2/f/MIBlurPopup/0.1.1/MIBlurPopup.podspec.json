@@ -1,0 +1,22 @@
+{
+  "name": "MIBlurPopup",
+  "version": "0.1.1",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MIBlurPopup",
+  "authors": {
+    "Mario Iannotta": "info@marioiannotta.com"
+  },
+  "summary": "A simple fully customizable alert controller",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MIBlurPopup.git",
+    "tag": "0.1.1"
+  },
+  "source_files": "MIBlurPopup/*",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "pushed_with_swift_version": "3.0"
+}

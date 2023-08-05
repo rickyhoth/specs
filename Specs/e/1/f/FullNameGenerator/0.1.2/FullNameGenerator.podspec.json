@@ -1,0 +1,22 @@
+{
+  "name": "FullNameGenerator",
+  "version": "0.1.2",
+  "summary": "A short description of testPod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/testPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "DeepikaRamesh1510": "deepika.ram@anywhere.co"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/testPod.git",
+    "tag": "0.1.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "testPod/Classes/**/*"
+}

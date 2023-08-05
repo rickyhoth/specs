@@ -1,0 +1,19 @@
+{
+  "name": "Morton",
+  "version": "2.0.4",
+  "summary": "MortonSwift",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MortonSwift",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "license": "BSD",
+  "authors": {
+    "Gil Polak": "gilp@gett.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MortonSwift.git",
+    "tag": "2.0.4"
+  },
+  "source_files": "Morton/*",
+  "pushed_with_swift_version": "3.0"
+}

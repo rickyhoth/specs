@@ -1,0 +1,27 @@
+{
+  "name": "MHUpLoadManager",
+  "version": "0.0.4",
+  "summary": "MHUpLoadManager.",
+  "description": "musichome upload media to qiniu server tools",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MHUpLoadManager",
+  "license": "MIT",
+  "authors": {
+    "hengyangKing": "hengyangKing.yeah.net"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MHUpLoadManager.git",
+    "tag": "0.0.4"
+  },
+  "source_files": [
+    "Classes",
+    "Classes/**/*.{h,m}"
+  ],
+  "dependencies": {
+    "MHQiNiuHttpsSDK": [
+
+    ]
+  }
+}

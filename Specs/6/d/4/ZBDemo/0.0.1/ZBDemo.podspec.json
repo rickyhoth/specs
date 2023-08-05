@@ -1,0 +1,22 @@
+{
+  "name": "ZBDemo",
+  "version": "0.0.1",
+  "summary": "ZBDemo",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZBDemo",
+  "license": "MIT",
+  "authors": {
+    "Cstzhang": "email@address.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZBDemo.git",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "ZBDemo",
+    "MyFirsetPod/我的框架/*.{h,m}"
+  ],
+  "requires_arc": true
+}

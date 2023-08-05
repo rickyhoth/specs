@@ -1,0 +1,22 @@
+{
+  "name": "VideoThumbnailViewKit",
+  "version": "0.0.3",
+  "summary": "Video Thumbnail ScrollView",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/VideoThumbnailViewKit",
+  "license": "MIT",
+  "authors": {
+    "Movielala": "git@movielala.com"
+  },
+  "social_media_url": "https://twitter.com/movielala",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/VideoThumbnailViewKit.git",
+    "tag": "0.0.3"
+  },
+  "platforms": {
+    "ios": "8.0",
+    "tvos": "9.0"
+  },
+  "requires_arc": true,
+  "source_files": "VideoThumbnailViewKit/VideoThumbnailView/*.swift",
+  "frameworks": "UIKit"
+}

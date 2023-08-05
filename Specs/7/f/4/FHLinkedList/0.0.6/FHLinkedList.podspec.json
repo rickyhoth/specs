@@ -1,0 +1,22 @@
+{
+  "name": "FHLinkedList",
+  "version": "0.0.6",
+  "summary": "linkedlist",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LinkedList",
+  "license": "MIT",
+  "authors": {
+    "GodL": "547188371@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LinkedList.git",
+    "tag": "0.0.6"
+  },
+  "source_files": "LinkedListDemo/LinkedList/*.{h,c}",
+  "requires_arc": true,
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}

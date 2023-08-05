@@ -1,0 +1,22 @@
+{
+  "name": "Mateen",
+  "version": "1.1.1",
+  "summary": "DAMNMSAMDAMSDMSADMSADMASDMASMDASMDASMD",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DamnAAAAAAA.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "455528514@qq.com": "13162378587@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DamnAAAAAAA.git",
+    "tag": "1.1.1"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "Mateen/Classes/**/*.{h}"
+}

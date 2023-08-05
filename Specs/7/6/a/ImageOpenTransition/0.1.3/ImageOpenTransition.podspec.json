@@ -1,0 +1,27 @@
+{
+  "name": "ImageOpenTransition",
+  "version": "0.1.3",
+  "summary": "ImageOpenTransition",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ImageOpenTransition",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "YOURNAME": "Matan"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ImageOpenTransition.git"
+  },
+  "frameworks": "UIKit",
+  "source_files": [
+    "ImageOpenTransition*",
+    "Vendor/*",
+    "Resource/*",
+    "ImageOpenTransition/*"
+  ],
+  "requires_arc": true
+}

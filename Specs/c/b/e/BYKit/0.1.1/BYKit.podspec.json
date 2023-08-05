@@ -1,0 +1,22 @@
+{
+  "name": "BYKit",
+  "version": "0.1.1",
+  "summary": "A collection of iOS components.",
+  "description": "A collection of iOS components.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/BYKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Baoyin-Sun": "997344374@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/BYKit.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "BYKit/Classes/**/*"
+}

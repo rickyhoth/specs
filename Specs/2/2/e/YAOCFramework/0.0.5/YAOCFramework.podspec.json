@@ -1,0 +1,19 @@
+{
+  "name": "YAOCFramework",
+  "version": "0.0.5",
+  "summary": "A short description of YAOCFramework.",
+  "description": "A short description of YAOCFramework. A short description of YAOCFramework. A short description of YAOCFramework.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/YAOCFramework.git",
+  "license": "MIT",
+  "authors": {
+    "yupeiliang": "yupeiliang@fotoable.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/YAOCFramework.git",
+    "tag": "0.0.5"
+  },
+  "source_files": "YAOCFramework"
+}

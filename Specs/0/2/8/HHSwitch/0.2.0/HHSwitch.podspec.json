@@ -1,0 +1,22 @@
+{
+  "name": "HHSwitch",
+  "version": "0.2.0",
+  "summary": "自定义Switch控件",
+  "description": "自定义Switch控件",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HHSwitch",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "hutaol": "1325049637@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HHSwitch.git",
+    "tag": "0.2.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "HHSwitch/Classes/**/*"
+}

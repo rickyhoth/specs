@@ -1,0 +1,23 @@
+{
+  "name": "MaskingLayer",
+  "version": "0.6.2",
+  "summary": "The traced part is masked.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MaskingLayer",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "daisukenagata": "dbank0208@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MaskingLayer.git",
+    "tag": "0.6.2"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "swift_version": "4.2",
+  "source_files": "MaskingLayer/Classes/**/*"
+}

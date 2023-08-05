@@ -1,0 +1,19 @@
+{
+  "name": "LXMUtils",
+  "version": "0.0.1",
+  "summary": "LXMUtils",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LXMUtils",
+  "license": "MIT",
+  "authors": {
+    "LXXManMan": "jiushu0228@163.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LXMUtils.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "LXMUtils/**/*.{h,m}",
+  "requires_arc": true
+}

@@ -1,0 +1,26 @@
+{
+  "name": "QDAssetsPickerController",
+  "version": "0.0.1",
+  "summary": "QDAssetsPickerController",
+  "description": "托管QDAssetsPickerController",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/QDAssetsPickerController",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yuanxiangyang": "yuanxiangyang@qding.me"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/QDAssetsPickerController.git",
+    "tag": "0.0.1"
+  },
+  "requires_arc": true,
+  "source_files": [
+    "Classes",
+    "Classes/**/*.{h,m}"
+  ],
+  "platforms": {
+    "ios": "8.0"
+  }
+}

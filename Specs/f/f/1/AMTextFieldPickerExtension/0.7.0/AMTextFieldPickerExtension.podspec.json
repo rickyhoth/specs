@@ -1,0 +1,25 @@
+{
+  "name": "AMTextFieldPickerExtension",
+  "version": "0.7.0",
+  "license": "MIT",
+  "summary": "A `UITextField` extension written in Swift that makes it easy to use a `UIPickerView` for selection.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/AMTextFieldPickerExtension",
+  "social_media_url": "http://twitter.com/AnthonyMDev",
+  "authors": {
+    "Anthony Miller": "AnthonyMDev@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/AMTextFieldPickerExtension.git",
+    "tag": "0.7.0"
+  },
+  "frameworks": [
+    "Foundation",
+    "UIKit"
+  ],
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "AMTextFieldPickerExtension/*.{swift}",
+  "requires_arc": true,
+  "pushed_with_swift_version": "4.0"
+}

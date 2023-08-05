@@ -1,0 +1,25 @@
+{
+  "name": "ZCHScrollChannelView",
+  "version": "0.0.5",
+  "summary": "You can Use ZCHScrollChannelView to build channelView",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZCHScrollChannelView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "张晨晖": "shdows007@gmail.com"
+  },
+  "platforms": {
+    "ios": null
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZCHScrollChannelView.git",
+    "tag": "0.0.5"
+  },
+  "source_files": "ZCHScrollChannelView/*.{h,m}",
+  "frameworks": [
+    "Foundation",
+    "UIKit"
+  ]
+}

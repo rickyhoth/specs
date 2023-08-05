@@ -1,0 +1,24 @@
+{
+  "name": "ZLTestPods",
+  "version": "0.1.3",
+  "summary": "test dependency",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZLTestPods",
+  "license": "MIT",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "authors": {
+    "longitachi": "longitachi@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ZLTestPods.git",
+    "tag": "0.1.3"
+  },
+  "source_files": "TestFolder/*.{h,m}",
+  "dependencies": {
+    "SDWebImage": [
+
+    ]
+  },
+  "requires_arc": true
+}

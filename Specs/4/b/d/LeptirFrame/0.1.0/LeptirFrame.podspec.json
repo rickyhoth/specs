@@ -1,0 +1,23 @@
+{
+  "name": "LeptirFrame",
+  "version": "0.1.0",
+  "summary": "UIView extension",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LeptirFrame",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Kimin Kim": "jakoriaty@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LeptirFrame.git",
+    "tag": "0.1.0"
+  },
+  "source_files": "LeptirFrame/*.swift",
+  "frameworks": "UIKit",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "pushed_with_swift_version": "3.0"
+}

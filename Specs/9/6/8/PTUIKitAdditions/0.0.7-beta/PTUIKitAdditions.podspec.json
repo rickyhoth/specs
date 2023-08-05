@@ -1,0 +1,27 @@
+{
+  "name": "PTUIKitAdditions",
+  "version": "0.0.7-beta",
+  "summary": "Collection of UIKit categories",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/PTUIKitAdditions",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Ryne Cheow": "rynecheow@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/PTUIKitAdditions.git",
+    "tag": "0.0.7-beta"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Classes/*.{h,m}",
+  "frameworks": [
+    "UIKit",
+    "CoreGraphics",
+    "QuartzCore"
+  ]
+}

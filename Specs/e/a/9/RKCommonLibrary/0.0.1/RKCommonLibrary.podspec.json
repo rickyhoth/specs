@@ -1,0 +1,27 @@
+{
+  "name": "RKCommonLibrary",
+  "version": "0.0.1",
+  "summary": "Common Library for iOS Project.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/RKCommonLibrary",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Roman Kotov": "waydeveloper@gmail.com"
+  },
+  "platforms": {
+    "ios": "7.1"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/RKCommonLibrary.git",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "Classes",
+    "Classes/*.{h,m}"
+  ],
+  "public_header_files": "Classes/*.h",
+  "frameworks": "Foundation",
+  "requires_arc": true
+}

@@ -1,0 +1,23 @@
+{
+  "name": "WHDebugTool",
+  "version": "1.6",
+  "summary": "Debug tool",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WHDebugTool",
+  "license": "MIT",
+  "authors": {
+    "wuhao": "503007958@qq.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WHDebugTool.git",
+    "tag": "1.6"
+  },
+  "source_files": [
+    "WHDebugTool",
+    "WHDebugTool/*.{h,m}"
+  ],
+  "frameworks": "UIKit",
+  "requires_arc": true
+}

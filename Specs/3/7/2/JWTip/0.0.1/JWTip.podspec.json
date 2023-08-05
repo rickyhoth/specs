@@ -1,0 +1,20 @@
+{
+  "name": "JWTip",
+  "version": "0.0.1",
+  "license": "MIT",
+  "summary": "UI Tip",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/JWTip",
+  "authors": {
+    "JasonWong": "648838758@qq.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/JWTip.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": null
+  },
+  "source_files": "JWTip/**/*",
+  "frameworks": "UIKit",
+  "requires_arc": true
+}

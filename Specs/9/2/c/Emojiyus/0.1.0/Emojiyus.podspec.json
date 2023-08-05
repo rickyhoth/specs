@@ -1,0 +1,21 @@
+{
+  "name": "Emojiyus",
+  "version": "0.1.0",
+  "summary": "Helper class for replacing text smileys to Emoji.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/Emojiyus",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Mikhail Kurenkov": "kurenkovmichael@gmil.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/Emojiyus.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Emojiyus/Classes/**/*"
+}

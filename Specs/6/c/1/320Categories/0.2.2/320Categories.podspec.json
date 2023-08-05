@@ -1,0 +1,19 @@
+{
+  "name": "320Categories",
+  "version": "0.2.2",
+  "license": "MIT",
+  "summary": "Maintenance it based facebook three20.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/320Categories",
+  "authors": {
+    "jimneylee": "jimneylee@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/320Categories.git",
+    "tag": "0.2.2"
+  },
+  "platforms": {
+    "ios": "5.0"
+  },
+  "source_files": "320Categories",
+  "requires_arc": true
+}

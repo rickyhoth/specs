@@ -1,0 +1,20 @@
+{
+  "name": "MRGTaylor",
+  "version": "1.6.0",
+  "summary": "A short description of Taylor.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/taylor-ios",
+  "license": "MIT",
+  "authors": {
+    "Mirego": "it@irego.com"
+  },
+  "platforms": {
+    "ios": "8.0",
+    "tvos": "9.0"
+  },
+  "swift_version": "5.0",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/taylor-ios.git",
+    "tag": "1.6.0"
+  },
+  "source_files": "Taylor/**/*.swift"
+}

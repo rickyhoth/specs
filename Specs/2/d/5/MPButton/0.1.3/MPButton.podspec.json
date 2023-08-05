@@ -1,0 +1,24 @@
+{
+  "name": "MPButton",
+  "version": "0.1.3",
+  "summary": "A generic UIControl decorator that provides an easy way to deal with complex layout inside buttons.",
+  "description": "MPButton wraps any view that you provide adding UIControlEvents (ie. touchUpInside)\nand custom hit box.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MPButton",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "btadine": "marcos.escac@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MPButton.git",
+    "tag": "0.1.3"
+  },
+  "requires_arc": true,
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "MPButton/Classes/MPButton.swift",
+  "pushed_with_swift_version": "3.0"
+}

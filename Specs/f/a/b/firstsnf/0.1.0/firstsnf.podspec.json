@@ -1,0 +1,26 @@
+{
+  "name": "firstsnf",
+  "version": "0.1.0",
+  "summary": "snf widget cocoapods for ios",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/firstsnf",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "d149a039b216809013df4daaa50c8c26c506c2bd": "ramprasath.afc@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/firstsnf.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "firstsnf/Classes/**/*",
+  "frameworks": [
+    "UIKit",
+    "MapKit"
+  ]
+}

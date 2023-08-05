@@ -1,0 +1,24 @@
+{
+  "name": "BikeProject",
+  "version": "0.0.1",
+  "summary": "BikeProject Project",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "description": "BikeProject Project BikeProject Project",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/BikeProject",
+  "license": "MIT",
+  "authors": {
+    "QF": "xupeipei@hellobike.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/BikeProject.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "BikeProject/Module",
+  "exclude_files": "Classes/Exclude",
+  "frameworks": [
+    "Foundation",
+    "UIKit"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "PlayWave",
+  "version": "0.0.1",
+  "license": {
+    "type": "BSD"
+  },
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/WavePlayer",
+  "authors": {
+    "Mohammed Sayed": "mohamadsayed7070@gmail.com"
+  },
+  "summary": "Custom video player using avplayer",
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/WavePlayer.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "PlayWave/",
+  "frameworks": "SystemConfiguration",
+  "ios": {
+    "frameworks": "UIKit"
+  },
+  "platforms": {
+    "ios": null
+  }
+}

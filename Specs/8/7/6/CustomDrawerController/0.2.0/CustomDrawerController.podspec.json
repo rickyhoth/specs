@@ -1,0 +1,24 @@
+{
+  "name": "CustomDrawerController",
+  "version": "0.2.0",
+  "summary": "A CustomDrawerController",
+  "description": "A custom drawer that can be used with any controller",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CustomDrawerController",
+  "license": "MIT",
+  "authors": {
+    "Aman Gangurde": "aman.gangurde@klouddata.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CustomDrawerController.git",
+    "tag": "0.2.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CustomDrawerController/Classes/**/*",
+  "resource_bundles": {
+    "CustomDrawerController": [
+      "CustomDrawerController/Assets/*.png"
+    ]
+  }
+}

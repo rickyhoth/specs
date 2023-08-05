@@ -1,0 +1,44 @@
+{
+  "name": "HMCdttechMainflux",
+  "version": "1.0.0",
+  "summary": "A short description of HMCdttechMainflux.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/HMCdttechMainflux",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "dohoangminh006@gmail.com": "dohoangminh006@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/HMCdttechMainflux.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "HMCdttechMainflux/Classes/**/*",
+  "static_framework": true,
+  "frameworks": "UIKit",
+  "dependencies": {
+    "Alamofire": [
+
+    ],
+    "PromiseKit": [
+
+    ],
+    "SwiftSocket": [
+
+    ],
+    "MQTTClient": [
+
+    ],
+    "CocoaAsyncSocket": [
+
+    ],
+    "MBProgressHUD": [
+
+    ]
+  }
+}

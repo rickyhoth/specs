@@ -1,0 +1,23 @@
+{
+  "name": "KSDeferred",
+  "version": "0.2.0",
+  "summary": "Async library inspired by CommonJS Promises/A spec.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/deferred",
+  "license": "MIT",
+  "authors": {
+    "Kurtis Seebaldt": "kseebaldt@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/deferred.git",
+    "tag": "0.2.0"
+  },
+  "platforms": {
+    "ios": "5.1",
+    "osx": "10.7"
+  },
+  "source_files": [
+    "Deferred",
+    "Deferred/**/*.{h,m}"
+  ],
+  "requires_arc": true
+}

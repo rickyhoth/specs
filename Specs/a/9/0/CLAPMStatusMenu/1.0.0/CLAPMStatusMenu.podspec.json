@@ -1,0 +1,26 @@
+{
+  "name": "CLAPMStatusMenu",
+  "version": "1.0.0",
+  "summary": "A simple menu showing usage of CPU, Memory, FPS.",
+  "description": "CLAPMStatusMenu is a iOS component to display usage of CPU, Memory, FPS.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/APMStatusMenu",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "cleexiang": "cleexiang@126.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/APMStatusMenu.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "CLAPMStatusMenu/Classes/**/*",
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ]
+}

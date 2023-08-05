@@ -1,0 +1,22 @@
+{
+  "name": "LSCollection",
+  "version": "0.0.1",
+  "summary": "对CollectionView的管理类",
+  "description": "对collectionView进行二次封装。方便使用collectionView",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/LSCollection",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "LSArlen": "LSArlen@163.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/LSCollection.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LSCollection/Classes/**/*"
+}

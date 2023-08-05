@@ -1,0 +1,25 @@
+{
+  "name": "CFWebView",
+  "version": "0.1.0",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "summary": "CFWebView is a Swift module for adding extension to uiview.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CFWebView",
+  "authors": {
+    "chengfei.heng": "hengchengfei@sina.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CFWebView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": [
+    "CFWebView/Classes/*.swift",
+    "CFWebView/Classes/**/*.swift"
+  ],
+  "pushed_with_swift_version": "3.0"
+}

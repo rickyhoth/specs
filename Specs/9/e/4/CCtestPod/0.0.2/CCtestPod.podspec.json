@@ -1,0 +1,22 @@
+{
+  "name": "CCtestPod",
+  "version": "0.0.2",
+  "summary": "Simple pod config",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/CCtestPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "tuannv": "tuannv@ants.vn"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/CCtestPod.git",
+    "tag": "0.0.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CCtestPod/Classes/**/*"
+}

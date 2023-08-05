@@ -1,0 +1,22 @@
+{
+  "name": "IFGCircularSlider",
+  "version": "0.1.2",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Emmanuel Merali": "emmanuel@merali.me"
+  },
+  "summary": "An extensible circular slider for iOS applications",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/IFGCircularSlider",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/IFGCircularSlider.git",
+    "tag": "0.1.2"
+  },
+  "source_files": "IFGCircularSlider/*.{h,m}",
+  "requires_arc": true
+}

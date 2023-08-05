@@ -1,0 +1,22 @@
+{
+  "name": "ranger-cache",
+  "version": "0.1.0",
+  "summary": "This is a short description of ranger-cache.",
+  "description": "I will add a long description of the pod here. Very very long!",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ranger-cache",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ranger": "wuguanliang@kuaishou.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ranger-cache.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ranger-cache/Classes/**/*"
+}

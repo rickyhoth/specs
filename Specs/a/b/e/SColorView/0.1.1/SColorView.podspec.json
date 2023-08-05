@@ -1,0 +1,21 @@
+{
+  "name": "SColorView",
+  "version": "0.1.1",
+  "summary": "Shamshad Color Changing Pod",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/ColorView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "shamshad007": "md.akhtar1993@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/ColorView.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "source_files": "ShamshadPOD/**/*.swift"
+}

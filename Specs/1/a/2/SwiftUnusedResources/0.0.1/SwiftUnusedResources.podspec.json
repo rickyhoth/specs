@@ -1,0 +1,20 @@
+{
+  "name": "SwiftUnusedResources",
+  "summary": "SwiftUnusedResources",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwiftUnusedResources",
+  "version": "0.0.1",
+  "license": "MIT",
+  "authors": {
+    "mugabe": "kk@wachanga.com"
+  },
+  "preserve_paths": "sur",
+  "source": {
+    "http": "https://bitbucket.devops.nonprod.empf.local/scm/react/SwiftUnusedResources/releases/download/0.0.1/sur-0.0.1.zip"
+  },
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "FRDateFormatterCache",
+  "version": "0.1.1",
+  "summary": "A simple category on NSDateFormatter for caching date formatters",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/FRDateFormatterCache",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Jonathan Dalrymple": "jonathan@float-right.co.uk"
+  },
+  "platforms": {
+    "ios": "5.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/FRDateFormatterCache.git",
+    "tag": "0.1.1"
+  },
+  "source_files": [
+    "Classes",
+    "**/*.{h,m}"
+  ],
+  "requires_arc": true
+}

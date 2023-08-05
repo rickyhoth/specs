@@ -1,0 +1,23 @@
+{
+  "name": "MMCoreNetwork",
+  "version": "0.0.4",
+  "summary": "CoreNetwork module with the basic functionality of requests to the network..",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/MMCoreNetwork.git",
+  "license": {
+    "type": "MIT"
+  },
+  "authors": {
+    "guseyn": "guseynrim@gmail.com"
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/MMCoreNetwork.git",
+    "tag": "0.0.4"
+  },
+  "source_files": "Sources/CoreNetwork/**/*",
+  "exclude_files": "Tests",
+  "swift_versions": "4.2",
+  "swift_version": "4.2"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "DXPageView",
+  "version": "1.0.2",
+  "summary": "A simple tool to use DXPageView",
+  "description": "'A Mediator router for DXPageView'",
+  "homepage": "https://bitbucket.devops.nonprod.empf.local/scm/react/DXPageView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Jackdx": "871077947@qq.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://bitbucket.devops.nonprod.empf.local/scm/react/DXPageView.git",
+    "tag": "1.0.2"
+  },
+  "source_files": "DXPageView/*.{h,m}",
+  "dependencies": {
+    "SDWebImage": [
+
+    ]
+  },
+  "requires_arc": true
+}
